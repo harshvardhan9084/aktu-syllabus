@@ -1,0 +1,31 @@
+{
+  "data": {
+    "institute_code": "171",
+    "institute_name": "SRI.R.L.T. INSTITUTE OF PHARMECUTICAL SCIENCE & TECHNOLOGY,ETAWAH",
+    "institute_address": "NH-2,EKDIL ,Etawah (U.P.) 206126",
+    "institute_mobile": "7415815609",
+    "institute_email": "principalsrlt171@gmail.com",
+    "course_count_declared": 4,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmceutical Chemistry",
+          "Pharmacogonosy"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

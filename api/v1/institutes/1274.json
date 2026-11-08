@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1274",
+    "institute_name": "INDRAPRASTHA INSTITUTE OF MANAGEMENT AND TECHNOLOGY SAHARANPUR",
+    "institute_address": "VILLAGE UMAHI KOTA, SAHARANPUR MUZAFFARNAGAR STATE",
+    "institute_mobile": "9927749900",
+    "institute_email": "jagpalsingh23@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

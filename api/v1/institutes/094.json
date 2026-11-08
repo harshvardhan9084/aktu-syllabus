@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "094",
+    "institute_name": "GALGOTIAS INSTITUTE OF MANAGEMENT & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+    "institute_address": "Plot No. 1, Knowledge Park-II, Greater Noida - 201310",
+    "institute_mobile": "8527793702",
+    "institute_email": "directorgimt@galgotiacollege.edu",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "data": {
+    "institute_code": "310",
+    "institute_name": "DR. RIZVI COLLEGE OF ENGINEERING,,KAUSHAMBI",
+    "institute_address": "Karari, Kaushambi (U. P.) - 212 206",
+    "institute_mobile": "7080205248",
+    "institute_email": "contactus@drce.org",
+    "course_count_declared": 6,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical & Electronics Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

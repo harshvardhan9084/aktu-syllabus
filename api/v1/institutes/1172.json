@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1172",
+    "institute_name": "SHRI BADRINATH COLLEGE OF PHARMACY",
+    "institute_address": "VILLAGE PAHARI BUJURG TAHSIL MOTH JHANSI KANPUR HIGHWAY DISTRICT JHANSI UTTAR PRADESH PIN 284303",
+    "institute_mobile": "9415030589",
+    "institute_email": "bcopjhansi19@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

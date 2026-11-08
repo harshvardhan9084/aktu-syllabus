@@ -1,0 +1,85 @@
+{
+  "data": {
+    "course": "PHARM D",
+    "slug": "pharm-d",
+    "branch_rows": 14,
+    "institute_count": 12,
+    "institutes": [
+      {
+        "institute_code": "1004",
+        "institute_name": "JIVIKA COLLEGE OF PHARMACY , HARDOI",
+        "branch": "Pharm D"
+      },
+      {
+        "institute_code": "1009",
+        "institute_name": "R. P. S. COLLEGE OF PHARMACY , BARABANKI",
+        "branch": "Pharm D"
+      },
+      {
+        "institute_code": "1053",
+        "institute_name": "JYOTIRADITYA INSTITUTE OF PHARMACY , PRATAPGARH",
+        "branch": "Pharm D"
+      },
+      {
+        "institute_code": "1064",
+        "institute_name": "JAHANGIRABAD INSTITUTE OF TECHNOLOGY FACULTY OF PHARMACY , BARABANKI",
+        "branch": "Pharm D"
+      },
+      {
+        "institute_code": "202",
+        "institute_name": "HYGIA INSTITUTE OF PHARMACEUTICAL EDUCATION AND RESEARCH, LUCKNOW,LUCKNOW",
+        "branch": "Pharm D"
+      },
+      {
+        "institute_code": "202",
+        "institute_name": "HYGIA INSTITUTE OF PHARMACEUTICAL EDUCATION AND RESEARCH, LUCKNOW,LUCKNOW",
+        "branch": "Pharm D Post Baccalaureta"
+      },
+      {
+        "institute_code": "241",
+        "institute_name": "SHAMBHU NATH INSTITUTE OF PHARMACY,ALLAHABAD",
+        "branch": "Pharm D"
+      },
+      {
+        "institute_code": "303",
+        "institute_name": "DR. M.C.SAXENA COLLEGE OF PHARMACY,,LUCKNOW",
+        "branch": "Pharm D"
+      },
+      {
+        "institute_code": "303",
+        "institute_name": "DR. M.C.SAXENA COLLEGE OF PHARMACY,,LUCKNOW",
+        "branch": "Pharm D Post Baccalaureta"
+      },
+      {
+        "institute_code": "554",
+        "institute_name": "NARAINA VIDYA PEETH \" GROUP OF INSTITUTIONS\" FACULTY OF PHARMACY,KANPUR",
+        "branch": "Pharm D"
+      },
+      {
+        "institute_code": "875",
+        "institute_name": "LLOYD SCHOOL OF PHARMACY",
+        "branch": "Pharm D"
+      },
+      {
+        "institute_code": "900",
+        "institute_name": "ITM COLLEGE OF PHARMACY,MAHARAJGANJ",
+        "branch": "Pharm D"
+      },
+      {
+        "institute_code": "904",
+        "institute_name": "APEX INSTITUTE OF PHARMACY,MIRZAPUR",
+        "branch": "Pharm D"
+      },
+      {
+        "institute_code": "907",
+        "institute_name": "SUYASH INSTITUTE OF PHARMACY,GORAKHPUR",
+        "branch": "Pharm D"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 14
+  }
+}

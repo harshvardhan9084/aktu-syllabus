@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1301",
+    "institute_name": "BBS COLLEGE OF PHARMACY AND POLYTECHNIC",
+    "institute_address": "GADDOPUR, SHANTIPURAM, PHAPHAMAU, PRAYAGRAJ (U.P.) Pin code- 211013",
+    "institute_mobile": "8009700339",
+    "institute_email": "bbsphar@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

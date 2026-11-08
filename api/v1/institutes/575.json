@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "575",
+    "institute_name": "MALTI MEMORIAL TRUSTS CSM \"GROUP OF INSTITUTIONS\" FACULTY OF B.PHARMACY,ALLAHABAD",
+    "institute_address": "8TH MLE STONE REWA ROAD IRADATGANJ, Allahabad",
+    "institute_mobile": "9839148580",
+    "institute_email": "csmgoi@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

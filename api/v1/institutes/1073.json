@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1073",
+    "institute_name": "DISHA INSTITUTE OF PHARMACY , BIJNOR",
+    "institute_address": "VILL-MOJAMPUR JAITRA,NEHTAUR ROAD ,DHAMPUR,DISTT.-BIJNOR (U.P.)",
+    "institute_mobile": "9927069855",
+    "institute_email": "info.dip2019@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

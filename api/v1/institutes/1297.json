@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1297",
+    "institute_name": "BHAGWATI PRASAD MEMORIAL PHARMACY COLLEGE, MAHARAJGANJ",
+    "institute_address": "ARAZI NO. 209 KARAVATAHI URF KATAKA, NICHLAUL, MAHARAJGANJ",
+    "institute_mobile": "9899487060",
+    "institute_email": "skmaneesh81@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "data": {
+    "institute_code": "007",
+    "institute_name": "SHIVDAN SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALIGARH",
+    "institute_address": "Aligarh-202001",
+    "institute_mobile": "9555699988",
+    "institute_email": "ceo@admissionx.info",
+    "course_count_declared": 21,
+    "courses": [
+      {
+        "course": "Master of Technology",
+        "branches": [
+          "VLSI Design",
+          "Computer Science and Engineering",
+          "Computer Aided Design & Manufacturing",
+          "Electronics and Communication Engineering",
+          "Production Engineering"
+        ]
+      },
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Information Technology",
+          "Electrical Engineering",
+          "Electrical & Electronics Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Biotechnology",
+          "Agricultural Engineering",
+          "Computer Science and Engineering (Artificial Intelligence)",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+          "Computer Science And Engineering(Data Science)",
+          "Computer Science & Engineering (Cyber Security)"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 5
+  }
+}

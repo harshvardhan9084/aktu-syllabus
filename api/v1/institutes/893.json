@@ -1,0 +1,30 @@
+{
+  "data": {
+    "institute_code": "893",
+    "institute_name": "GCRG COLLEGE OF PHARMACY,LUCKNOW",
+    "institute_address": "VILL-PARVATPUR, CHANDRIKA DEVI ROAD, BAKSHI KA TALAB, LUCKNOW",
+    "institute_mobile": "7897811003",
+    "institute_email": "director@gcrg.in",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmceutical Chemistry"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

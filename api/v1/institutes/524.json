@@ -1,0 +1,30 @@
+{
+  "data": {
+    "institute_code": "524",
+    "institute_name": "VISION INSTITUTE OF TECHNOLOGY,ALIGARH",
+    "institute_address": "Shahpur, Madrak, Aligarh-Agra Highway, Approx. 10 km from Sasni Gate; Aligarh-202150",
+    "institute_mobile": "8392878633",
+    "institute_email": "shweta@vision.org.in",
+    "course_count_declared": 8,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical & Electronics Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Agricultural Engineering",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+          "Computer Science And Engineering(Data Science)"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

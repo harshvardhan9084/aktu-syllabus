@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "866",
+    "institute_name": "A.N.A INSTITUTE OF PHARMACEUTICAL SCIENCES & RESEARCH,BAREILLY",
+    "institute_address": "13.5 km Bareilly - Delhi road, near rubber factory agras road ,Bareilly",
+    "institute_mobile": "9719233333",
+    "institute_email": "rahulanand.ana@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

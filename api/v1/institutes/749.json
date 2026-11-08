@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "749",
+    "institute_name": "MADHU VACHASPATI SCHOOL OF MANAGEMENT,KAUSHAMBI",
+    "institute_address": "Rasoolabad urf Koilaha, Puramufti, G.T.Road, Kaushambi-212213.",
+    "institute_mobile": "9956795886",
+    "institute_email": "samarmvgroup@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

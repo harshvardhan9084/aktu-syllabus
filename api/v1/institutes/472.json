@@ -1,0 +1,59 @@
+{
+  "data": {
+    "institute_code": "472",
+    "institute_name": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,MAHARAJGANJ",
+    "institute_address": "Chehari, Pharenda Road,Maharajganj",
+    "institute_mobile": "9953697210",
+    "institute_email": "directoritm472@gmail.com",
+    "course_count_declared": 12,
+    "courses": [
+      {
+        "course": "Master of Technology",
+        "branches": [
+          "Computer Science and Engineering"
+        ]
+      },
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Computer Science and Engineering (Artificial Intelligence)",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+          "Computer Science And Engineering(Data Science)"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      },
+      {
+        "course": "BBA",
+        "branches": [
+          "BBA"
+        ]
+      },
+      {
+        "course": "BCA",
+        "branches": [
+          "BCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 6
+  }
+}

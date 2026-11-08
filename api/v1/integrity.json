@@ -1,0 +1,75 @@
+{
+  "data": {
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "policy": "Verbatim publication of data/raw CSVs. No source values were altered (only header snake_casing + surrounding-whitespace trim). Issues are reported here, not fixed.",
+    "record_counts": {
+      "institutes_csv_rows": 784,
+      "branches_csv_rows": 2571,
+      "unique_institute_codes": 784,
+      "unique_courses": 26
+    },
+    "checks": [
+      {
+        "id": "branch_rows_with_unknown_institute_code",
+        "status": "pass",
+        "count": 0,
+        "note": "0 of them would resolve if leading zeros were ignored (informational)",
+        "examples": []
+      },
+      {
+        "id": "institutes_with_zero_branch_rows",
+        "status": "pass",
+        "count": 0,
+        "examples": []
+      },
+      {
+        "id": "declared_course_count_vs_listed",
+        "status": "info",
+        "declared_equals_unique_courses": 513,
+        "declared_equals_branch_rows": 271,
+        "declared_matches_neither": 0,
+        "examples_of_neither": []
+      },
+      {
+        "id": "duplicate_institute_codes",
+        "status": "pass",
+        "count": 0,
+        "note": "first occurrence kept in per-code views; all rows present in raw CSV copy",
+        "examples": []
+      },
+      {
+        "id": "duplicate_branch_rows",
+        "status": "pass",
+        "count": 0,
+        "note": "exact (institute, course, branch) repeats; deduplicated in tree views"
+      },
+      {
+        "id": "missing_values",
+        "status": "info",
+        "institutes_csv": {
+          "institute_code": 0,
+          "institute_name": 0,
+          "institute_address": 6,
+          "institute_mobile": 0,
+          "institute_email": 0,
+          "course_count": 0
+        },
+        "branches_csv": {
+          "institute_code": 0,
+          "course": 0,
+          "branch": 0
+        }
+      },
+      {
+        "id": "slug_disambiguation",
+        "status": "info",
+        "count": 0,
+        "examples": []
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30"
+  }
+}

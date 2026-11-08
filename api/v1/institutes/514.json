@@ -1,0 +1,26 @@
+{
+  "data": {
+    "institute_code": "514",
+    "institute_name": "FACULTY OF ENGINEERING SHANTI NIKETAN TRUST'S GROUP OF INSTITUTIONS,MEERUT",
+    "institute_address": "Meerut",
+    "institute_mobile": "8192000923",
+    "institute_email": "Shantiniketanmrt@gmail.com",
+    "course_count_declared": 4,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "data": {
+    "institute_code": "290",
+    "institute_name": "ABES INSTITUTE OF TECHNOLOGY,GHAZIABAD",
+    "institute_address": "NH-9 NEAR CROSSING REPUBLIK GHAZIABAD- 201009",
+    "institute_mobile": "9711060930",
+    "institute_email": "registrar@abesit.in",
+    "course_count_declared": 5,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Computer Science and Engineering (Artificial Intelligence)",
+          "Computer Science And Engineering(Data Science)"
+        ]
+      },
+      {
+        "course": "BBA",
+        "branches": [
+          "BBA"
+        ]
+      },
+      {
+        "course": "BCA",
+        "branches": [
+          "BCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 3
+  }
+}

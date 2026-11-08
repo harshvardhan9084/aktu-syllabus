@@ -1,0 +1,29 @@
+{
+  "data": {
+    "institute_code": "1171",
+    "institute_name": "SRI SAI R R INSTITUTE OF PHARMACY",
+    "institute_address": "NH 91, G T ROAD SARSOL OPP. PHAL MANDI ALIGARH",
+    "institute_mobile": "8937044400",
+    "institute_email": "srrpaligarh@gmail.com",
+    "course_count_declared": 2,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmceutical Chemistry"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

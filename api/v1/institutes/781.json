@@ -1,0 +1,34 @@
+{
+  "data": {
+    "institute_code": "781",
+    "institute_name": "HARDAYAL TECHNICAL CAMPUS,MATHURA",
+    "institute_address": "24 KM Stone, Agra-Delhi Road (NH-2), Farah, Mathura (UP)",
+    "institute_mobile": "9453374151",
+    "institute_email": "director1@hardayal.in",
+    "course_count_declared": 7,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical & Electronics Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Biotechnology"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

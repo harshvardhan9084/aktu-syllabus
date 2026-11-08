@@ -1,0 +1,30 @@
+{
+  "data": {
+    "institute_code": "300",
+    "institute_name": "SARSWATI HIGHIER EDUCATION & TECHNICAL COLLEGE OF PHARMACY,,VARANASI",
+    "institute_address": "Varanasi",
+    "institute_mobile": "9554744928",
+    "institute_email": "sheatcop@gmail.com",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmacology"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

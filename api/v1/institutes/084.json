@@ -1,0 +1,47 @@
+{
+  "data": {
+    "institute_code": "084",
+    "institute_name": "BHAGWANT INSTITUTE OF TECHNOLOGY,MUZAFFARNAGAR",
+    "institute_address": "Muzaffarnagar -251315",
+    "institute_mobile": "8006541541",
+    "institute_email": "bhagwant_society@rediffmail.com",
+    "course_count_declared": 10,
+    "courses": [
+      {
+        "course": "Master of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering"
+        ]
+      },
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 4
+  }
+}

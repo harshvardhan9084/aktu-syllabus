@@ -1,0 +1,37 @@
+{
+  "data": {
+    "institute_code": "490",
+    "institute_name": "SUYASH INSTITUTE OF INFORMATION TECHNOLOGY,GORAKHPUR",
+    "institute_address": "Gorakhpur",
+    "institute_mobile": "9415339570",
+    "institute_email": "siitgkp@yahoo.com",
+    "course_count_declared": 10,
+    "courses": [
+      {
+        "course": "Master of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering"
+        ]
+      },
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Information Technology",
+          "Electrical & Electronics Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

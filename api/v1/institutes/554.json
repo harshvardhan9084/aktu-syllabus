@@ -1,0 +1,37 @@
+{
+  "data": {
+    "institute_code": "554",
+    "institute_name": "NARAINA VIDYA PEETH \" GROUP OF INSTITUTIONS\" FACULTY OF PHARMACY,KANPUR",
+    "institute_address": "Gangaganj, Panki, Kanpur",
+    "institute_mobile": "9839901472",
+    "institute_email": "md@narainagroup.net",
+    "course_count_declared": 5,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmceutical Chemistry",
+          "Pharmacology"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      },
+      {
+        "course": "PHARM D",
+        "branches": [
+          "Pharm D"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 3
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "248",
+    "institute_name": "SAMS INSTITUTE OF HOTEL MANAGEMENT,VARANASI",
+    "institute_address": "Varanasi-221003",
+    "institute_mobile": "9794852403",
+    "institute_email": "director@samsportal.org",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "BHMCT",
+        "branches": [
+          "BHMCT"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

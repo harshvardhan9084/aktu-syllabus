@@ -1,0 +1,29 @@
+{
+  "data": {
+    "institute_code": "246",
+    "institute_name": "DAYANAND DEENANATH COLLEGE, INSTITUTE OF PHARMACY,KANPUR",
+    "institute_address": "Kanpur,209-214",
+    "institute_mobile": "7887070444",
+    "institute_email": "info@ddckanpur.edu.in",
+    "course_count_declared": 2,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": [
+    {
+      "course": "Bachelor of Technology",
+      "slug": "bachelor-of-technology",
+      "branch_rows": 1128,
+      "institute_count": 191,
+      "detail": "/api/v1/courses/bachelor-of-technology.json"
+    },
+    {
+      "course": "Bachelor of Pharmacy",
+      "slug": "bachelor-of-pharmacy",
+      "branch_rows": 446,
+      "institute_count": 446,
+      "detail": "/api/v1/courses/bachelor-of-pharmacy.json"
+    },
+    {
+      "course": "Masters of Business Administration",
+      "slug": "masters-of-business-administration",
+      "branch_rows": 271,
+      "institute_count": 256,
+      "detail": "/api/v1/courses/masters-of-business-administration.json"
+    },
+    {
+      "course": "Master of Pharmacy",
+      "slug": "master-of-pharmacy",
+      "branch_rows": 233,
+      "institute_count": 103,
+      "detail": "/api/v1/courses/master-of-pharmacy.json"
+    },
+    {
+      "course": "Master of Technology",
+      "slug": "master-of-technology",
+      "branch_rows": 185,
+      "institute_count": 70,
+      "detail": "/api/v1/courses/master-of-technology.json"
+    },
+    {
+      "course": "Master of Computer Applications",
+      "slug": "master-of-computer-applications",
+      "branch_rows": 108,
+      "institute_count": 108,
+      "detail": "/api/v1/courses/master-of-computer-applications.json"
+    },
+    {
+      "course": "BCA",
+      "slug": "bca",
+      "branch_rows": 53,
+      "institute_count": 53,
+      "detail": "/api/v1/courses/bca.json"
+    },
+    {
+      "course": "BBA",
+      "slug": "bba",
+      "branch_rows": 49,
+      "institute_count": 49,
+      "detail": "/api/v1/courses/bba.json"
+    },
+    {
+      "course": "Bachelor of Technology Working Professional",
+      "slug": "bachelor-of-technology-working-professional",
+      "branch_rows": 18,
+      "institute_count": 8,
+      "detail": "/api/v1/courses/bachelor-of-technology-working-professional.json"
+    },
+    {
+      "course": "B Voc",
+      "slug": "b-voc",
+      "branch_rows": 14,
+      "institute_count": 6,
+      "detail": "/api/v1/courses/b-voc.json"
+    },
+    {
+      "course": "PHARM D",
+      "slug": "pharm-d",
+      "branch_rows": 14,
+      "institute_count": 12,
+      "detail": "/api/v1/courses/pharm-d.json"
+    },
+    {
+      "course": "MBA(Integrated)",
+      "slug": "mba-integrated",
+      "branch_rows": 11,
+      "institute_count": 11,
+      "detail": "/api/v1/courses/mba-integrated.json"
+    },
+    {
+      "course": "BHMCT",
+      "slug": "bhmct",
+      "branch_rows": 7,
+      "institute_count": 7,
+      "detail": "/api/v1/courses/bhmct.json"
+    },
+    {
+      "course": "Bachelor of Architecture",
+      "slug": "bachelor-of-architecture",
+      "branch_rows": 6,
+      "institute_count": 6,
+      "detail": "/api/v1/courses/bachelor-of-architecture.json"
+    },
+    {
+      "course": "M.Tech (Part Time)",
+      "slug": "m-tech-part-time",
+      "branch_rows": 5,
+      "institute_count": 1,
+      "detail": "/api/v1/courses/m-tech-part-time.json"
+    },
+    {
+      "course": "Master of Technology Working Professional",
+      "slug": "master-of-technology-working-professional",
+      "branch_rows": 4,
+      "institute_count": 3,
+      "detail": "/api/v1/courses/master-of-technology-working-professional.json"
+    },
+    {
+      "course": "Master of Architecture",
+      "slug": "master-of-architecture",
+      "branch_rows": 3,
+      "institute_count": 1,
+      "detail": "/api/v1/courses/master-of-architecture.json"
+    },
+    {
+      "course": "MCA(Integrated)",
+      "slug": "mca-integrated",
+      "branch_rows": 3,
+      "institute_count": 3,
+      "detail": "/api/v1/courses/mca-integrated.json"
+    },
+    {
+      "course": "Bachelor of Design",
+      "slug": "bachelor-of-design",
+      "branch_rows": 2,
+      "institute_count": 2,
+      "detail": "/api/v1/courses/bachelor-of-design.json"
+    },
+    {
+      "course": "BFAD",
+      "slug": "bfad",
+      "branch_rows": 2,
+      "institute_count": 2,
+      "detail": "/api/v1/courses/bfad.json"
+    },
+    {
+      "course": "M.Design.",
+      "slug": "m-design",
+      "branch_rows": 2,
+      "institute_count": 2,
+      "detail": "/api/v1/courses/m-design.json"
+    },
+    {
+      "course": "Master of Planning",
+      "slug": "master-of-planning",
+      "branch_rows": 2,
+      "institute_count": 1,
+      "detail": "/api/v1/courses/master-of-planning.json"
+    },
+    {
+      "course": "MBA Working Professional",
+      "slug": "mba-working-professional",
+      "branch_rows": 2,
+      "institute_count": 2,
+      "detail": "/api/v1/courses/mba-working-professional.json"
+    },
+    {
+      "course": "Bachelor of Fine Art(BFA)",
+      "slug": "bachelor-of-fine-art-bfa",
+      "branch_rows": 1,
+      "institute_count": 1,
+      "detail": "/api/v1/courses/bachelor-of-fine-art-bfa.json"
+    },
+    {
+      "course": "Master Of Integrated Technology",
+      "slug": "master-of-integrated-technology",
+      "branch_rows": 1,
+      "institute_count": 1,
+      "detail": "/api/v1/courses/master-of-integrated-technology.json"
+    },
+    {
+      "course": "MCA Working Professional",
+      "slug": "mca-working-professional",
+      "branch_rows": 1,
+      "institute_count": 1,
+      "detail": "/api/v1/courses/mca-working-professional.json"
+    }
+  ],
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 26
+  }
+}

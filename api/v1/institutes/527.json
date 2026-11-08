@@ -1,0 +1,35 @@
+{
+  "data": {
+    "institute_code": "527",
+    "institute_name": "SUNRISE INSTITUTE OF ENGINEERING TECHNICAL & MANAGEMENT,UNNAO",
+    "institute_address": "Campus : Korari kala, Achalganj Road, Unnao 209801 (U.P.)",
+    "institute_mobile": "8004920306",
+    "institute_email": "lncsknp@gmail.com",
+    "course_count_declared": 8,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical Engineering",
+          "Mechanical Engineering"
+        ]
+      },
+      {
+        "course": "B Voc",
+        "branches": [
+          "Automobile Engineering",
+          "Refrigeration and Air Conditioning",
+          "Software Development",
+          "Robotics And Automation"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

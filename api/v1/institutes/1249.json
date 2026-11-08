@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1249",
+    "institute_name": "PLATINUM INSTITUTE OF PHARMACY",
+    "institute_address": "Nera Indian Oil Petrol Pump, Semara, Bhagaura, Sahjanwa, Gorakhpur -273209",
+    "institute_mobile": "8173072829",
+    "institute_email": "platinumpharmacy2022@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

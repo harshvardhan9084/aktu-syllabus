@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "584",
+    "institute_name": "BANSHI COLLEGE OF MANAGEMENT & TECHNOLOGY,KANPUR",
+    "institute_address": "Mohmmadpur, Bithoor, Kanpur Nagar",
+    "institute_mobile": "9670636000",
+    "institute_email": "dr.dikshit01@rediffmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

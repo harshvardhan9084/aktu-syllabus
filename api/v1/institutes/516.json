@@ -1,0 +1,29 @@
+{
+  "data": {
+    "institute_code": "516",
+    "institute_name": "KAILASH INSTITUTE OF PHARMACY & MANAGEMENT,GORAKHPUR",
+    "institute_address": "PLOT NO- BL-1&2 SECTOR-9 GIDA GORAKHPUR,273209",
+    "institute_mobile": "8009902936",
+    "institute_email": "director@kipm.edu.in",
+    "course_count_declared": 2,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "948",
+    "institute_name": "POINEER INSTITUTE OF PHARMACY , BAREILLY",
+    "institute_address": "village padoli, bisalpur road, bhuta bareilly",
+    "institute_mobile": "9412360875",
+    "institute_email": "coordinator.poineerinstitute@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

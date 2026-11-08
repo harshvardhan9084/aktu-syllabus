@@ -1,0 +1,31 @@
+{
+  "data": {
+    "institute_code": "066",
+    "institute_name": "RAJEEV ACADEMY FOR PHARMACY,MATHURA",
+    "institute_address": "Mathura - 281001",
+    "institute_mobile": "8755663709",
+    "institute_email": "rap_1999@rediffmail.com",
+    "course_count_declared": 4,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmceutical Chemistry",
+          "Pharmacology"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

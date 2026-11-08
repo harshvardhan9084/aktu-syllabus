@@ -1,0 +1,35 @@
+{
+  "data": {
+    "institute_code": "666",
+    "institute_name": "SRM BUSINESS SCHOOL,LUCKNOW",
+    "institute_address": "NH 24 Sitapur Road Bakshi Ka Talab, Lucknow - 226201",
+    "institute_mobile": "9793000009",
+    "institute_email": "srmbsedu@gmail.com",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "MBA(Integrated)",
+        "branches": [
+          "MBA(Integrated)"
+        ]
+      },
+      {
+        "course": "B Voc",
+        "branches": [
+          "BFSI"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 3
+  }
+}

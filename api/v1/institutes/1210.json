@@ -1,0 +1,30 @@
+{
+  "data": {
+    "institute_code": "1210",
+    "institute_name": "PSIT-PRANVEER SINGH INSTITUTE OF TECHNOLOGY(PHARMACY)",
+    "institute_address": "Kanpur-Agra-Delhi NationalHighway (NH-19), Bhauti, Kanpur- 209305",
+    "institute_mobile": "8004232444",
+    "institute_email": "info@psit.ac.in",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmacology"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

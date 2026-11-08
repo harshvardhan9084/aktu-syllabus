@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "868",
+    "institute_name": "STELLER INSTITUTE OF PHARMACY,BAREILLY",
+    "institute_address": "UDAYPUR MOHANLAL, NEAR FARIDPUR BYPASS, FARIDPUR, BAREILLY",
+    "institute_mobile": "8869828499",
+    "institute_email": "coord.steller@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

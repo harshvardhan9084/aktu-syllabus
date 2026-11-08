@@ -1,0 +1,30 @@
+{
+  "data": {
+    "institute_code": "896",
+    "institute_name": "J. P. COLLEGE OF PHARMACY,LUCKNOW",
+    "institute_address": "4.0 K.M. STONE MOHANLALGANJ KANPUR BYPASS ROAD, VILLAGE- BHASANDA PARGANANIGOHA TEHSIL - MOHANLALGANJ, LUCKNOW",
+    "institute_mobile": "8400000141",
+    "institute_email": "jpcp2018@gmail.com",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmacogonosy"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

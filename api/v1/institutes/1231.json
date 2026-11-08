@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1231",
+    "institute_name": "P P S PHARMACY COLLEGE BHATAURA SATHIAON AZAMGARH",
+    "institute_address": "",
+    "institute_mobile": "9794356262",
+    "institute_email": "directorppsazm@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

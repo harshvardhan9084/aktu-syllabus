@@ -1,0 +1,32 @@
+{
+  "data": {
+    "institute_code": "188",
+    "institute_name": "ADVANCED INSTITUTE OF BIO-TECH & PARAMEDICAL SCIENCES,KANPUR",
+    "institute_address": "366, NARAMAU, G.T. ROAD (OPP. ALIMCO) KANPUR - 209217",
+    "institute_mobile": "9415040326",
+    "institute_email": "advancecolleges@gmail.com",
+    "course_count_declared": 5,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmceutical Chemistry",
+          "Pharmacogonosy",
+          "Pharmacology"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

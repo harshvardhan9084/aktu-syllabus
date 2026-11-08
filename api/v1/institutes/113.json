@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "113",
+    "institute_name": "INTEGRATED ACADEMY OF MANAGEMENT & TECHNOLOGY,GHAZIABAD",
+    "institute_address": "Adhytamik Nagar, NH-24, Near Dasna Flyover, Ghaziabad- 201009 UP",
+    "institute_mobile": "8860624438",
+    "institute_email": "info@inmantec.edu",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

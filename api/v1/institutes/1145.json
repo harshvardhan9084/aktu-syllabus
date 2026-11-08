@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1145",
+    "institute_name": "SRAJAN INSTITUTE OF PHARMACY,KHERI",
+    "institute_address": "VIIL- DHAKHAWA, PARGANA- KHERI",
+    "institute_mobile": "9236775303",
+    "institute_email": "siop.kheri@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

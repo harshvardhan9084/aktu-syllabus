@@ -1,0 +1,29 @@
+{
+  "data": {
+    "institute_code": "038",
+    "institute_name": "INSTITUTE OF TECHNOLOGY & SCIENCE,GHAZIABAD",
+    "institute_address": "Mohan Nagar, G. T. Road, Ghaziabad - 201007",
+    "institute_mobile": "8447744054",
+    "institute_email": "reg.pg.mn@its.edu.in",
+    "course_count_declared": 2,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

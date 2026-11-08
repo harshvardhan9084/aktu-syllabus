@@ -1,0 +1,49 @@
+{
+  "data": {
+    "institute_code": "053",
+    "institute_name": "AZAD INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
+    "institute_address": "Azadpur, Adjacent CRPF Camp, Chandrawal, Bijnour, Lucknow - 226002",
+    "institute_mobile": "8416826642",
+    "institute_email": "contactaietlko@gmail.com",
+    "course_count_declared": 12,
+    "courses": [
+      {
+        "course": "Master of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Electrical Engineering",
+          "Production Engineering",
+          "Power Systems"
+        ]
+      },
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical Engineering",
+          "Electronics Engineering",
+          "Mechanical Engineering",
+          "Biotechnology"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 4
+  }
+}

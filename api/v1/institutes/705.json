@@ -1,0 +1,39 @@
+{
+  "data": {
+    "institute_code": "705",
+    "institute_name": "JMS GROUP OF INSTITUTIONS,GHAZIABAD",
+    "institute_address": "Hapur Bypass, Ghaziabad",
+    "institute_mobile": "9311218306",
+    "institute_email": "jmsgzb@gmail.com",
+    "course_count_declared": 7,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical & Electronics Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 3
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1077",
+    "institute_name": "LAKHMI CHAND PATWARI COLLEGE OF PHARMACY , BAGHPAT",
+    "institute_address": "MAIN ROAD NEAR GAS GODOWN , KHEKRA",
+    "institute_mobile": "7409965213",
+    "institute_email": "lcppharmacy2019@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

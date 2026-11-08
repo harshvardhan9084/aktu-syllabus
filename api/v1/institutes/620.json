@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "620",
+    "institute_name": "GCRG MEMORIAL TRUST'S GROUP OF INSTITUTIONS, FACULTY OF MANAGEMENT,LUCKNOW",
+    "institute_address": "Lucknow",
+    "institute_mobile": "8400000643",
+    "institute_email": "registrar@gcrg.in",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

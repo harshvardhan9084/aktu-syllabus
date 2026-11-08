@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1151",
+    "institute_name": "NOVA COLLEGE OF PHARMACY,LUCKNOW",
+    "institute_address": "KHASARA NO.-74,VILLAGE BHAISAURA,GOMTI NAGAR EXTENSION",
+    "institute_mobile": "9531200000",
+    "institute_email": "novapharmacycollegelko@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

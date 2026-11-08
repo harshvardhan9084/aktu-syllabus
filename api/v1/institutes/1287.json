@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1287",
+    "institute_name": "IMPACT COLLEGE OF SCIENCE AND TECHNOLOGY, RAMPUR",
+    "institute_address": "VILL- THOONAPUR, BHOT, DISTT-RAMPUR",
+    "institute_mobile": "7983522808",
+    "institute_email": "kaushal_kum2@rediffmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

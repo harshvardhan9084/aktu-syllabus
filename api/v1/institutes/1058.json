@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1058",
+    "institute_name": "J D S R INSTITUTE OF PHARMACY , SHAHJAHANPUR",
+    "institute_address": "VILLAGE HARPARA, NAGOI SHAHJAHANPUR",
+    "institute_mobile": "9997390099",
+    "institute_email": "coordinator.jdsrinstitute@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

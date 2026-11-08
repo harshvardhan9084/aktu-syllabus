@@ -1,0 +1,29 @@
+{
+  "data": {
+    "institute_code": "520",
+    "institute_name": "INDRAPRASTHA INSTITUTE OF MANAGEMENT & TECHNOLOGY,SAHARANPUR",
+    "institute_address": "Umahi Kota,Muzaffarnagar-Dehradun Highway,Saharanpur",
+    "institute_mobile": "9927880099",
+    "institute_email": "iimtkotasre@gmail.com",
+    "course_count_declared": 7,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Information Technology",
+          "Electrical Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

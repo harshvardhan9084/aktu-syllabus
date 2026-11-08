@@ -1,0 +1,28 @@
+{
+  "data": {
+    "institute_code": "349",
+    "institute_name": "MAHARANA INSTITUTE OF PROFESSIONAL STUDIES,KANPUR",
+    "institute_address": "BAIKUNTHPUR KALYANPUR SINGHPUR ROAD KANPUR NAGAR PINCODE 209217 UTTAR PRADESH",
+    "institute_mobile": "9005003838",
+    "institute_email": "deanmips@gmail.com",
+    "course_count_declared": 6,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+          "Computer Science And Engineering(Data Science)"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

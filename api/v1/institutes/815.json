@@ -1,0 +1,27 @@
+{
+  "data": {
+    "institute_code": "815",
+    "institute_name": "AMANI GROUP OF INSTITUTIONS,AMROHA",
+    "institute_address": "Amani Group of Institutions, Amani Knowledge Park , Bijnor - Dehradun Road, Amroha - 244221 ( Uttar Pradesh)",
+    "institute_mobile": "8191007615",
+    "institute_email": "amanicampus@gmail.com",
+    "course_count_declared": 5,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical & Electronics Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

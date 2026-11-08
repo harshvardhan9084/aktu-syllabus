@@ -1,0 +1,39 @@
+{
+  "data": {
+    "institute_code": "220",
+    "institute_name": "HI-TECH. INSTITUTE OF ENGINEERING &TECHNOLOGY,GHAZIABAD",
+    "institute_address": "Address: 766,26th Km.Stone, Delhi-Hapur Bypass (NH-24), Ghaziabad.",
+    "institute_mobile": "9818697091",
+    "institute_email": "registrar@hietgroup.org",
+    "course_count_declared": 7,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Electrical Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 3
+  }
+}

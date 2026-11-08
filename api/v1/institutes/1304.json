@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1304",
+    "institute_name": "SHRI NATH BABA COLLEGE OF PHARMACY",
+    "institute_address": "VILLEG URAINI POST KODAI THANA NAGRA BALLIA",
+    "institute_mobile": "8601360111",
+    "institute_email": "shrinathbabapharmacy@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

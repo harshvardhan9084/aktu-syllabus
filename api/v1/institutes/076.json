@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "076",
+    "institute_name": "GHANSHYAM BINANI ACADEMY OF MANAGEMENT SCIENCE,MIRZAPUR",
+    "institute_address": "Mirzapur-231001",
+    "institute_mobile": "9935993665",
+    "institute_email": "gbams_123@yahoo.co.in",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

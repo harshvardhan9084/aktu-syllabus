@@ -1,0 +1,29 @@
+{
+  "data": {
+    "institute_code": "098",
+    "institute_name": "INSTITUTE OF MANAGEMENT STUDIES,GAUTAM BUDDH NAGAR",
+    "institute_address": "Noida-201303",
+    "institute_mobile": "9971483232",
+    "institute_email": "registrar@imsnoida.com",
+    "course_count_declared": 2,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

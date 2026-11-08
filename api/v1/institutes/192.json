@@ -1,0 +1,51 @@
+{
+  "data": {
+    "institute_code": "192",
+    "institute_name": "G.L. BAJAJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR",
+    "institute_address": "PLOT NO.-2, KNOWLEDGE PARK-III, GREATER NOIDA",
+    "institute_mobile": "7835005112",
+    "institute_email": "director@glbitm.org",
+    "course_count_declared": 14,
+    "courses": [
+      {
+        "course": "Master of Technology",
+        "branches": [
+          "Computer Science and Engineering"
+        ]
+      },
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Computer Science Information Technology",
+          "Electrical & Electronics Engineering",
+          "Electrical & Computer Engg.",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Computer Science and Engineering (Artificial Intelligence)",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+          "Computer Science And Engineering(Data Science)",
+          "Computer Science and Engineering (Hindi)"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA",
+          "MBA(Business Analytics)"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 4
+  }
+}

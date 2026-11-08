@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "599",
+    "institute_name": "JAHANGIRABAD EDUCATIONAL TRUST'S GROUP OF INSTITUTIONS,FACULTY OF MANAGEMENT,BARABANKI",
+    "institute_address": "Jahangirabad Raj Barabanki",
+    "institute_mobile": "7054476632",
+    "institute_email": "info@jit.edu.in",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

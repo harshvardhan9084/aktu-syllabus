@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1307",
+    "institute_name": "A B COLLEGE OF PHARMACY",
+    "institute_address": "GANESHPUR- RAHMANPUR MATIYARI CHINHAT DEVA ROAD LUCKNOW",
+    "institute_mobile": "9415089019",
+    "institute_email": "a644yt@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

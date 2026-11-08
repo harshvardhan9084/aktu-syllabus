@@ -1,0 +1,31 @@
+{
+  "data": {
+    "institute_code": "473",
+    "institute_name": "G.C.R.G. MEMORIAL TRUST'S GROUP OF INSTITUTIONS, FACULTY OF ENGINEERING,LUCKNOW",
+    "institute_address": "Lucknow",
+    "institute_mobile": "8400000643",
+    "institute_email": "registrar@gcrg.in",
+    "course_count_declared": 9,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Biotechnology",
+          "Computer Science And Engineering(Data Science)",
+          "Artificial Intelligence And Machine Learning",
+          "Computer Science & Engineering (Cyber Security)"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

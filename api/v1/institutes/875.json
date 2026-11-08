@@ -1,0 +1,36 @@
+{
+  "data": {
+    "institute_code": "875",
+    "institute_name": "LLOYD SCHOOL OF PHARMACY",
+    "institute_address": "PLOT NO 3, KNOWLEDGE PARK-II, GREATER NOIDA, U.P. 201308",
+    "institute_mobile": "9871381222",
+    "institute_email": "registrar@lloydcollege.in",
+    "course_count_declared": 4,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmceutical Chemistry"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      },
+      {
+        "course": "PHARM D",
+        "branches": [
+          "Pharm D"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 3
+  }
+}

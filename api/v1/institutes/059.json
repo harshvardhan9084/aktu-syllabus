@@ -1,0 +1,41 @@
+{
+  "data": {
+    "institute_code": "059",
+    "institute_name": "LAL BAHADUR SHASTRI INSTITUTE OF MANAGEMENT & DEVELOPMENT STUDIES,LUCKNOW",
+    "institute_address": "Gaurabagh , Kursi Road , Near Gudamba Police Station Lucknow - 226026",
+    "institute_mobile": "7309299955",
+    "institute_email": "info@lbsimds.ac.in",
+    "course_count_declared": 4,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      },
+      {
+        "course": "BBA",
+        "branches": [
+          "BBA"
+        ]
+      },
+      {
+        "course": "BCA",
+        "branches": [
+          "BCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 4
+  }
+}

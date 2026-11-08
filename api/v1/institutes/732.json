@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "732",
+    "institute_name": "RUDRA GROUP OF INSTITUTIONS,MEERUT",
+    "institute_address": "NH-119, MAWANA KHURD MEERUT (U.P)",
+    "institute_mobile": "9690022995",
+    "institute_email": "rudraedu@rediffmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

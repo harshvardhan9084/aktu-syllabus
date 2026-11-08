@@ -1,0 +1,41 @@
+{
+  "data": {
+    "institute_code": "1289",
+    "institute_name": "DIVINE INSTITUTE OF MANAGEMENT AND TECHNOLOGY, GAUTAM BUDDHA NAGAR",
+    "institute_address": "PLOT NO.30/5 & 30/6, KNOWLEDGE PARK-III, GREATER NOIDA",
+    "institute_mobile": "8376005300",
+    "institute_email": "director@dimtech.org",
+    "course_count_declared": 4,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      },
+      {
+        "course": "BBA",
+        "branches": [
+          "BBA"
+        ]
+      },
+      {
+        "course": "BCA",
+        "branches": [
+          "BCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 4
+  }
+}

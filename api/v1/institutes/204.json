@@ -1,0 +1,30 @@
+{
+  "data": {
+    "institute_code": "204",
+    "institute_name": "R.V.NORTHLAND INSTITUTE,GAUTAM BUDDH NAGAR",
+    "institute_address": "18 Km. on Ghaziabad-Bulandshahr National Highway 91, Dadri, Near Shiv Nadar University, Gautam Budh Nagar- 203207 (UP)",
+    "institute_mobile": "9810981348",
+    "institute_email": "rvnorthlandinstitute.204@gmail.com",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmacology"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "834",
+    "institute_name": "INTEGRATED ACADEMY OF MANAGEMENT & TECHNOLOGY(INMANTEC),GHAZIABAD",
+    "institute_address": "Adhyatmik Nagar, Delhi-Hapur Bypass (NH24) Udyog Kunj, Ghaziabad, UP -201 009",
+    "institute_mobile": "9810388295",
+    "institute_email": "info@inmantec.edu",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

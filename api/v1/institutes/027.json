@@ -1,0 +1,46 @@
+{
+  "data": {
+    "institute_code": "027",
+    "institute_name": "AJAY KUMAR GARG ENGG. COLLEGE,GHAZIABAD",
+    "institute_address": "AKGEC Campus, 27th KM Milestone, Delhi-Meerut Expressway, Ghaziabad, Uttar Pradesh - 201009",
+    "institute_mobile": "8744052895",
+    "institute_email": "registrar@akgec.ac.in",
+    "course_count_declared": 14,
+    "courses": [
+      {
+        "course": "Master of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Electrical & Electronics Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering"
+        ]
+      },
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Information Technology",
+          "Electrical & Electronics Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+          "Computer Science And Engineering(Data Science)",
+          "Computer Science and Engineering (Hindi)"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 3
+  }
+}

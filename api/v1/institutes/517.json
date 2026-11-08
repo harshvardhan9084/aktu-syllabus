@@ -1,0 +1,41 @@
+{
+  "data": {
+    "institute_code": "517",
+    "institute_name": "KIPM COLLEGE OF MANAGEMENT,GORAKHPUR",
+    "institute_address": "Plot Number BL 1 and 2 sector 09 GIDA, Gorakhpur, Uttar Pradesh 273209",
+    "institute_mobile": "9415010554",
+    "institute_email": "hodmba@kipm.edu.in",
+    "course_count_declared": 4,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      },
+      {
+        "course": "BBA",
+        "branches": [
+          "BBA"
+        ]
+      },
+      {
+        "course": "BCA",
+        "branches": [
+          "BCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 4
+  }
+}

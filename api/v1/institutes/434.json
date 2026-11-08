@@ -1,0 +1,35 @@
+{
+  "data": {
+    "institute_code": "434",
+    "institute_name": "JAGARAN INSTITUTE OF MANAGEMENT,KANPUR",
+    "institute_address": "620 W Block , Saket Nagar, Juhi, Kanpur, U.P.",
+    "institute_mobile": "9621488762",
+    "institute_email": "anilsinghjim@jef.org.in",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      },
+      {
+        "course": "BCA",
+        "branches": [
+          "BCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 3
+  }
+}

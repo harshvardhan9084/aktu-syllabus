@@ -1,0 +1,24 @@
+{
+  "data": {
+    "institute_code": "1156",
+    "institute_name": "MODERN COLLEGE JHANSI,JHANSI",
+    "institute_address": "544, KOCHHABHAWAR, KANPUR ROAD",
+    "institute_mobile": "9889676767",
+    "institute_email": "managementjhansi@gmail.com",
+    "course_count_declared": 2,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA",
+          "MBA (Health Care and Hospital Management)"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

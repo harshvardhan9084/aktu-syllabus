@@ -1,0 +1,38 @@
+{
+  "data": {
+    "institute_code": "1292",
+    "institute_name": "DTC COLLEGE, GAUTAM BUDDHA NAGAR",
+    "institute_address": "28/1 KNOWLEDGE PARK III GREATER NOIDA (U.P.-201306)",
+    "institute_mobile": "9818606666",
+    "institute_email": "vipinsahni@yahoo.com",
+    "course_count_declared": 6,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Electronics and Communication Engineering",
+          "Electronic And Computer Engineering",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "BCA",
+        "branches": [
+          "BCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 3
+  }
+}

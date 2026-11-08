@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "396",
+    "institute_name": "ARYAKUL COLEGE OF MANAGEMENT,LUCKNOW",
+    "institute_address": "NATKUR PO CHANDRAWAL GAURI BIJNOUR ROAD",
+    "institute_mobile": "9005092455",
+    "institute_email": "aryakulcollege@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "data": {
+    "institute_code": "951",
+    "institute_name": "INDU PRAKASH PHARMACY COLLEGE , MAU",
+    "institute_address": "Mau Ballia road",
+    "institute_mobile": "9839612875",
+    "institute_email": "akhileshprakashmau@gmail.com",
+    "course_count_declared": 4,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmceutical Chemistry",
+          "Pharmacogonosy"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "data": {
+    "institute_code": "479",
+    "institute_name": "RAJSHREE INSTITUTE OF MANAGEMENT & TECHNOLOGY,BAREILLY",
+    "institute_address": "Bareilly",
+    "institute_mobile": "9690000100",
+    "institute_email": "rajshree.institute@gmail.com",
+    "course_count_declared": 18,
+    "courses": [
+      {
+        "course": "Master of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Structural Engineering",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)"
+        ]
+      },
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Computer Science",
+          "Information Technology",
+          "Electrical & Electronics Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Artificial Intelligence",
+          "Computer Science (Data Science)"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "MBA(Integrated)",
+        "branches": [
+          "MBA(Integrated)"
+        ]
+      },
+      {
+        "course": "BCA",
+        "branches": [
+          "BCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 5
+  }
+}

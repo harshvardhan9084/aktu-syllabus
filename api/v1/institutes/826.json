@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "826",
+    "institute_name": "SANSKAR COLLEGE OF ARCHITECTURE & PLANNING,GHAZIABAD",
+    "institute_address": "NH - 09, Opp. Jindal Pipes Ltd, Jindal Nagar, Ghaziabad",
+    "institute_mobile": "7251000110",
+    "institute_email": "director.architecture@sanskar.org",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Architecture",
+        "branches": [
+          "Architecture"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

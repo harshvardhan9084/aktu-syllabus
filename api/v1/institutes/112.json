@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "112",
+    "institute_name": "INDIAN INSTITUTE OF CARPET TECHNOLOGY,BHADOHI",
+    "institute_address": "Chauri Road Bhadohi- 221401",
+    "institute_mobile": "8400009490",
+    "institute_email": "pstodirector@iict.ac.in",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Carpet & Textile Technology"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

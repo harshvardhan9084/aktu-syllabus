@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "048",
+    "institute_name": "DAYANAND ACADEMY OF MANAGEMENT STUDIES,KANPUR",
+    "institute_address": "N-Block Govind Nagar Kanpur-208006",
+    "institute_mobile": "9919227763",
+    "institute_email": "dams@damsindia.org",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "data": {
+    "institute_code": "172",
+    "institute_name": "LLOYD INSTITUTE OF MANAGEMENT & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+    "institute_address": "PLOT NO. 11, KNOWLEDGE PARK - II, GREATER NOIDA, GAUTAM BUDDHA NAGAR, PIN CODE – 201306, UTTAR PRADESH",
+    "institute_mobile": "9810025192",
+    "institute_email": "mthairani@yahoo.com",
+    "course_count_declared": 10,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmacology",
+          "PHARMACEUTICAL QUALITY ASSURANCE"
+        ]
+      },
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Electronics Engineering",
+          "Electronics and Telecommunication Engineering",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+          "Computer Science And Engineering(Data Science)"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 4
+  }
+}

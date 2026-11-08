@@ -1,0 +1,33 @@
+{
+  "data": {
+    "institute_code": "780",
+    "institute_name": "LANDMARK TECHNICAL CAMPUS,J.P.NAGAR",
+    "institute_address": "DIDAULI, NH-24, AMROHA, U.P.",
+    "institute_mobile": "9412411281",
+    "institute_email": "landmark780@gmail.com",
+    "course_count_declared": 6,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical & Electronics Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

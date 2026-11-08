@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "880",
+    "institute_name": "LUTAWAN INSTITUTE OF PHARMACY,GHAZIPUR",
+    "institute_address": "VIL- SAKARA, JAITPURA, POST- HUSSAINPUR, DIST.- GHAZIPUR",
+    "institute_mobile": "9415345152",
+    "institute_email": "lutawaninstitute@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

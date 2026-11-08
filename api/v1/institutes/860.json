@@ -1,0 +1,31 @@
+{
+  "data": {
+    "institute_code": "860",
+    "institute_name": "RAHUL SANKRITYAYAN COLLEGE OF PHARMACY,AZAMGARH",
+    "institute_address": "VILL-JAIGAHA, POST- SHEKHUPUR, BLOCK-BILARIYAGANJ, TEHSIL-SAGADI, DIST- AZAMGARH, U.P 276121",
+    "institute_mobile": "9415238104",
+    "institute_email": "mksn09@gmail.com",
+    "course_count_declared": 4,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmceutical Chemistry",
+          "Pharmacology"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1306",
+    "institute_name": "DR. K. L. PATEL COLLEGE OF PROFESSIONAL STUDIES",
+    "institute_address": "VILL & POST- BHAGAUTIPUR URF KHUTHANA, TEHSIL- SORAON, BLOCK- HOLAGARH, DIST- PRAYAGRAJ, UP-212503",
+    "institute_mobile": "7007130231",
+    "institute_email": "dklpald@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

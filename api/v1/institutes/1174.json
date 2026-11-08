@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1174",
+    "institute_name": "SUN PHARMACY COLLEGE",
+    "institute_address": "BADHAUNA FATEHGANJ JAUNPUR",
+    "institute_mobile": "9792079000",
+    "institute_email": "sunpharmacyjnp@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

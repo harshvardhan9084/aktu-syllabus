@@ -1,0 +1,33 @@
+{
+  "data": {
+    "institute_code": "339",
+    "institute_name": "ACN COLLEGE OF ENGINEERING & MANAGEMENT STUDIES,ALIGARH",
+    "institute_address": "Aligarh",
+    "institute_mobile": "9897840004",
+    "institute_email": "acncemsaligarh@gmail.com",
+    "course_count_declared": 6,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical Engineering",
+          "Mechanical Engineering",
+          "Agricultural Engineering"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

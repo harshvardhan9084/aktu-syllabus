@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1150",
+    "institute_name": "DR SARVESH SHUKLA INSTITUTE OF PHARMACY,BAHRAICH",
+    "institute_address": "VILLAGE: SABLAPUR, TEHSIL: MAHASI, DISTRICT: BAHRAICH",
+    "institute_mobile": "9125654737",
+    "institute_email": "ssip.bahraich@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

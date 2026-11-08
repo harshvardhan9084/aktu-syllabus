@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1251",
+    "institute_name": "AWADH PARAMEDICAL COLLEGE AND INSTITUTE",
+    "institute_address": "89-A, NAYANSAND, GAURABADSHAHPUR, JAUNPUR U.P. 222133",
+    "institute_mobile": "9889377675",
+    "institute_email": "apmc.institute@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

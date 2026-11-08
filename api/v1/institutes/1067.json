@@ -1,0 +1,29 @@
+{
+  "data": {
+    "institute_code": "1067",
+    "institute_name": "MISSION COLLEGE OF PHARMACY , VARANASI",
+    "institute_address": "Sirishti Bhagatua Varanasi",
+    "institute_mobile": "9415225166",
+    "institute_email": "missioncollegevns@gmail.com",
+    "course_count_declared": 2,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmacology"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

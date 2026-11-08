@@ -1,0 +1,38 @@
+{
+  "data": {
+    "institute_code": "1288",
+    "institute_name": "Trinity Institute of Innovations in Professional Studies, GAUTAM BUDDHA NAGAR",
+    "institute_address": "Plot No. 2B/1, Knowledge Park-III, Greater Noida",
+    "institute_mobile": "9811067566",
+    "institute_email": "harsh88tandon@gmail.com",
+    "course_count_declared": 6,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 3
+  }
+}

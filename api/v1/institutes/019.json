@@ -1,0 +1,39 @@
+{
+  "data": {
+    "institute_code": "019",
+    "institute_name": "MARATHWADA INSTT. OF TECHNOLOGY,BULANDSHAHAR",
+    "institute_address": "Dhamara chola Bulandshahr",
+    "institute_mobile": "9358010236",
+    "institute_email": "atul_physics@rediffmail.com",
+    "course_count_declared": 7,
+    "courses": [
+      {
+        "course": "Master of Technology",
+        "branches": [
+          "Computer Science and Engineering"
+        ]
+      },
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Information Technology",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Agricultural Engineering"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 3
+  }
+}

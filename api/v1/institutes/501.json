@@ -1,0 +1,40 @@
+{
+  "data": {
+    "institute_code": "501",
+    "institute_name": "R.V.INSTITUTE OF TECHNOLOGY,BIJNAUR",
+    "institute_address": "9th Km Milestone Bijnor-Moradabad Road Bijnor - 246728",
+    "institute_mobile": "9719445400",
+    "institute_email": "director.rvit@gamil.com",
+    "course_count_declared": 8,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Artificial Intelligence And Machine Learning"
+        ]
+      },
+      {
+        "course": "BBA",
+        "branches": [
+          "BBA"
+        ]
+      },
+      {
+        "course": "BCA",
+        "branches": [
+          "BCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 3
+  }
+}

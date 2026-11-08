@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1310",
+    "institute_name": "GREATER NOIDA INSTITUTE OF PHARMACEUTICAL EDUCATION AND RESEARCH",
+    "institute_address": "PLOT NO. 7, KNOWLEDGE PARK - II, GREATER NOIDA (UP) 201 310",
+    "institute_mobile": "9911135522",
+    "institute_email": "chairman@gnit.net",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

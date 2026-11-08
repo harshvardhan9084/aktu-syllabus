@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "835",
+    "institute_name": "LTR INSTITUTE OF MANAGEMENT,MEERUT",
+    "institute_address": "L.T.R. Institute of Management",
+    "institute_mobile": "9760101111",
+    "institute_email": "ltr.management835@mail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

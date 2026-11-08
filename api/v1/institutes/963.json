@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "963",
+    "institute_name": "R. K. INSTITUTE OF PHARMACY , BAREILLY",
+    "institute_address": "174-175 VILLAGE DEWRANIYA TEHSIL FARIDPUR BAREILLY",
+    "institute_mobile": "9837601922",
+    "institute_email": "rkinstituteofpharmacy@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

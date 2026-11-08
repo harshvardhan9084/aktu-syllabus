@@ -1,0 +1,30 @@
+{
+  "data": {
+    "institute_code": "764",
+    "institute_name": "SMT. FULEHRA SMARAK COLLEGE OF PHARMACY,BALLIA",
+    "institute_address": "Kamtailla, Rasra-Ballia",
+    "institute_mobile": "9415222648",
+    "institute_email": "fulehracollegeofpharmacy@gmail.com",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmacology"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1021",
+    "institute_name": "SEIKO COLLEGE OF PHARMACY , LUCKNOW",
+    "institute_address": "VILLAGE- NARAINPUR NEAR HARAUNI RAILWAY STATION",
+    "institute_mobile": "9336268020",
+    "institute_email": "seikocplko@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

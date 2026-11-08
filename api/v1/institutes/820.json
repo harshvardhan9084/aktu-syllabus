@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "820",
+    "institute_name": "AJAY KUMAR GARG INSTITUTE OF MANAGEMENT,GHAZIABAD",
+    "institute_address": "27th Km Stone, NH-24, Delhi-Hapur Road, Ghaziabad - 201009",
+    "institute_mobile": "1202762593",
+    "institute_email": "director@akgim.edu.in",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "data": {
+    "institute_code": "1212",
+    "institute_name": "BUDDHA INSTITUTE OF MANAGEMENT",
+    "institute_address": "CL 01 SECTOR 7 GIDA GORAKHPUR UTTER PRADESH 273209",
+    "institute_mobile": "9554343210",
+    "institute_email": "bim.gida@gmail.com",
+    "course_count_declared": 4,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      },
+      {
+        "course": "BBA",
+        "branches": [
+          "BBA"
+        ]
+      },
+      {
+        "course": "BCA",
+        "branches": [
+          "BCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 4
+  }
+}

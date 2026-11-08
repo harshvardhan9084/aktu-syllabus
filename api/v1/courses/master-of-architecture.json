@@ -1,0 +1,30 @@
+{
+  "data": {
+    "course": "Master of Architecture",
+    "slug": "master-of-architecture",
+    "branch_rows": 3,
+    "institute_count": 1,
+    "institutes": [
+      {
+        "institute_code": "051",
+        "institute_name": "FACULTY OF ARCHITECTURE, AKTU,LUCKNOW",
+        "branch": "Environmental Design"
+      },
+      {
+        "institute_code": "051",
+        "institute_name": "FACULTY OF ARCHITECTURE, AKTU,LUCKNOW",
+        "branch": "Interior Design"
+      },
+      {
+        "institute_code": "051",
+        "institute_name": "FACULTY OF ARCHITECTURE, AKTU,LUCKNOW",
+        "branch": "Master of Architecture"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 3
+  }
+}

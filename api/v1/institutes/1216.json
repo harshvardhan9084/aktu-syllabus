@@ -1,0 +1,26 @@
+{
+  "data": {
+    "institute_code": "1216",
+    "institute_name": "Bharat Ratna Baba Saheb Bhim Rao Ambedkar Rajkiya Engineering College, Pratapgarh",
+    "institute_address": "Pratapgarh",
+    "institute_mobile": "6392802891",
+    "institute_email": "director.1216@aktu.ac.in",
+    "course_count_declared": 4,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical Engineering",
+          "Mechanical Engineering"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

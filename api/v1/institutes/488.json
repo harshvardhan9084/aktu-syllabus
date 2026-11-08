@@ -1,0 +1,26 @@
+{
+  "data": {
+    "institute_code": "488",
+    "institute_name": "SHRI NATH JI INSTITUTE FOR TECHNICAL EDUCATION,MEERUT",
+    "institute_address": "Meerut",
+    "institute_mobile": "8057411333",
+    "institute_email": "dir488.sritech@gmail.com",
+    "course_count_declared": 4,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical & Electronics Engineering",
+          "Mechanical Engineering"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

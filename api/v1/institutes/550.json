@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "550",
+    "institute_name": "KANPUR INSTITUTE OF TECHNOLOGY AND PHARMACY,KANPUR",
+    "institute_address": "A-1, UPSIDC Industrial Area, Rooma, Kanpur-208001 (UP) - India",
+    "institute_mobile": "7705011891",
+    "institute_email": "info.kitp@kit.ac.in",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

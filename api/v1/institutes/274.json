@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "274",
+    "institute_name": "NARMADESHWAR MANAGEMENT COLLEGE ,LUCKNOW,LUCKNOW",
+    "institute_address": "Narendra Nagar , Opp. Vikalp Khand , Gomtinagar, Lucknow",
+    "institute_mobile": "9918132888",
+    "institute_email": "director.nmc@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

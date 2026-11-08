@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1129",
+    "institute_name": "ANJUMAN A ASHRAF PHARMACY COLLEGE,JYOTIBA PHULE NAGAR",
+    "institute_address": "VILL SIHALI JAGIR, TEHSIL HASANPUR, DISTT AMROHA",
+    "institute_mobile": "9058468854",
+    "institute_email": "anjumanaashraf@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

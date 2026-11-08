@@ -1,0 +1,25 @@
+{
+  "data": {
+    "institute_code": "447",
+    "institute_name": "GOKARAN NARVADESHWAR INSTITUTE OF TECHNOLOGY & MANAGEMENT,BARABANKI",
+    "institute_address": "Lucknow Dewa Road",
+    "institute_mobile": "9450804593",
+    "institute_email": "gnitm@yahoo.co.in",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Mechanical Engineering"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

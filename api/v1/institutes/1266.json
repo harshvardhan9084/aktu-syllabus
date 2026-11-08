@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1266",
+    "institute_name": "APEX COLLEGE OF PHARMACY",
+    "institute_address": "village & Post Kaushalganj , Bilaspur Distt Rampur",
+    "institute_mobile": "9719410903",
+    "institute_email": "apexrbews@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

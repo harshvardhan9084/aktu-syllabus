@@ -1,0 +1,29 @@
+{
+  "data": {
+    "institute_code": "1023",
+    "institute_name": "LUCKNOW MODEL COLLEGE OF PHARMACY , LUCKNOW",
+    "institute_address": "AJEETAN KHERA ROAD, SADRAUNA, LUCKNOW",
+    "institute_mobile": "9335905250",
+    "institute_email": "lmcoppharmacy@gmail.com",
+    "course_count_declared": 2,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1318",
+    "institute_name": "ADHUNIK INSTITUTE OF EDUCATION AND RESEARCH",
+    "institute_address": "9TH MILE STONE, DELHI MEERUT ROAD NEAR RAPID METRO STATION DUHAI GHAZIABAD UP",
+    "institute_mobile": "9818592787",
+    "institute_email": "adhunikinstitute@yahoo.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

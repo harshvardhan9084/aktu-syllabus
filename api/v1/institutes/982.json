@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "982",
+    "institute_name": "MAHALAXMI INSTITUTE OF MANAGEMENT & TECHNOLOGY , MEERUT",
+    "institute_address": "VILLAGE-NANGLI ESA, POST-BANA, TEHSIL-MAWANA, MEERUT",
+    "institute_mobile": "9997882060",
+    "institute_email": "mimtmeerut@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

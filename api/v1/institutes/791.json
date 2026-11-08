@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "791",
+    "institute_name": "DISHA BHARTI COLLEGE OF MANAGEMENT & EDUCATION,SAHARANPUR",
+    "institute_address": "OPP. D.P.S., Delhi road saharanpur",
+    "institute_mobile": "9319211448",
+    "institute_email": "info.dishabharti@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

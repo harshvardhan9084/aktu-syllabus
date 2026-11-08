@@ -1,0 +1,35 @@
+{
+  "data": {
+    "institute_code": "1211",
+    "institute_name": "UTTAR PRADESH INSTITUTE OF DESIGN & RESEARCH",
+    "institute_address": "HARIHARPUR,NEAR DPS SCHOOL,SHAHEED PATH, LUCKNOW-226002",
+    "institute_mobile": "8006666355",
+    "institute_email": "director@upid.ac.in",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "Bachelor of Design",
+        "branches": [
+          "Bachelor of Design"
+        ]
+      },
+      {
+        "course": "BFAD",
+        "branches": [
+          "BFAD"
+        ]
+      },
+      {
+        "course": "M.Design.",
+        "branches": [
+          "M.Design."
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 3
+  }
+}

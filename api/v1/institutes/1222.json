@@ -1,0 +1,29 @@
+{
+  "data": {
+    "institute_code": "1222",
+    "institute_name": "ACCMAN Business School",
+    "institute_address": "46 A/2, Knowledge Park - 3, Greater Noida (Uttar Pradesh) PIN - 201308",
+    "institute_mobile": "7683023107",
+    "institute_email": "registrar@accmanbusinessschool.in",
+    "course_count_declared": 2,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "BBA",
+        "branches": [
+          "BBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

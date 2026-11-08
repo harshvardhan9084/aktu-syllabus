@@ -1,0 +1,31 @@
+{
+  "data": {
+    "institute_code": "1086",
+    "institute_name": "AVADH COLLEGE OF PHARMACY , BARABANKI",
+    "institute_address": "NINDURA, TEHSIL FATEHPUR, BARABANKI",
+    "institute_mobile": "6394252001",
+    "institute_email": "avadhpharmacybarabanki@gmail.com",
+    "course_count_declared": 4,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmceutical Chemistry",
+          "Pharmacology"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

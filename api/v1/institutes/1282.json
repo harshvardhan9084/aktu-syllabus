@@ -1,0 +1,24 @@
+{
+  "data": {
+    "institute_code": "1282",
+    "institute_name": "RAM-EESH INSTITUTE OF ENGINEERING & TECHNOLOGY, GAUTAM BUDDHA NAGAR",
+    "institute_address": "PLOT NO-3, KNOWLEDGE PARK-1, GREATER NOIDA",
+    "institute_mobile": "9910282335",
+    "institute_email": "info@rameeshinstitutions.org",
+    "course_count_declared": 2,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Electronic And Computer Engineering",
+          "Artificial Inelligence (AI) And Data Science"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

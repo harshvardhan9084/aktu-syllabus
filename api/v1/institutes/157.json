@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "157",
+    "institute_name": "INSTITUTE OF HOTEL MANAGEMENT CATERING TECHNOLOGY & APPLIED NUTRITION,MEERUT",
+    "institute_address": "77th MILE STONE, DELHI-DEHRADUN ROAD, NH-58, DAURALA, MEERUT 250221",
+    "institute_mobile": "9917307117",
+    "institute_email": "ihmmeerut@ihmmeerut.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "BHMCT",
+        "branches": [
+          "BHMCT"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

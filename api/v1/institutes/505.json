@@ -1,0 +1,32 @@
+{
+  "data": {
+    "institute_code": "505",
+    "institute_name": "ALLENHOUSE INSTITUTE OF TECHNOLOGY,KANPUR",
+    "institute_address": "Kanpur - 208008",
+    "institute_mobile": "9935147753",
+    "institute_email": "director@allenhouse.ac.in",
+    "course_count_declared": 5,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

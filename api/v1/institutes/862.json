@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "862",
+    "institute_name": "SETH VISHAMBHAR NATH INSTITUTE OF PHARMACEUTICAL SCIENCES,BARABANKI",
+    "institute_address": "Khajoor Gaon at Lucknow Dewa Road District- Barabanki",
+    "institute_mobile": "9838000020",
+    "institute_email": "svn.edu.society@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "data": {
+    "institute_code": "1209",
+    "institute_name": "Faculty of Management AKTU",
+    "institute_address": "Vistar Yojna, AKTU CDRI Rd, Naya Khera, Jankipuram, Lucknow, Uttar Pradesh",
+    "institute_mobile": "8004914102",
+    "institute_email": "registrar@aktu.ac.in",
+    "course_count_declared": 2,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "BBA",
+        "branches": [
+          "BBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

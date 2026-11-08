@@ -1,0 +1,29 @@
+{
+  "data": {
+    "institute_code": "733",
+    "institute_name": "HIERANK BUSINESS SCHOOL,GAUTAM BUDDH NAGAR",
+    "institute_address": "A-42, INSTITUTIONAL AREA, SECTOR-62, NOIDA",
+    "institute_mobile": "9910172577",
+    "institute_email": "info@hierank.org",
+    "course_count_declared": 2,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

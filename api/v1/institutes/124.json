@@ -1,0 +1,29 @@
+{
+  "data": {
+    "institute_code": "124",
+    "institute_name": "INSTITUTE OF CO-OPERATIVE & CORPORATE MANAGEMENT, RESEARCH & TRAINING,LUCKNOW",
+    "institute_address": "Lucknow",
+    "institute_mobile": "9415931744",
+    "institute_email": "info@iccmrt.ac.in",
+    "course_count_declared": 2,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "BBA",
+        "branches": [
+          "BBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

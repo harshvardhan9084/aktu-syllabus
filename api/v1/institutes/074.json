@@ -1,0 +1,35 @@
+{
+  "data": {
+    "institute_code": "074",
+    "institute_name": "DEWAN INSTITUTE OF MANAGEMENT STUDIES,MEERUT",
+    "institute_address": "Meerut",
+    "institute_mobile": "7055719000",
+    "institute_email": "info@dewaninstitutes.org",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "MBA(Integrated)",
+        "branches": [
+          "MBA(Integrated)"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 3
+  }
+}

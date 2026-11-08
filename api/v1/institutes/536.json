@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "536",
+    "institute_name": "SHREE JI BABA INSTITUE OF PROFESSIONAL STUDIES,MATHURA",
+    "institute_address": "Mathura",
+    "institute_mobile": "9690001628",
+    "institute_email": "sjbi@ymail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

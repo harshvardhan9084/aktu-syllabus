@@ -1,0 +1,36 @@
+{
+  "data": {
+    "institute_code": "193",
+    "institute_name": "UNITED COLLEGE OF ENGINEERING & RESEARCH,GREATER NOIDA,GAUTAM BUDDH NAGAR",
+    "institute_address": "50 KNOWLEDGE PARK III, GREATER NOIDA , G.B.NAGAR. UP",
+    "institute_mobile": "9350744556",
+    "institute_email": "infogn@united.ac.in",
+    "course_count_declared": 9,
+    "courses": [
+      {
+        "course": "Master of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Electronics and Communication Engineering"
+        ]
+      },
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Information Technology",
+          "Electrical Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "data": {
+    "institute_code": "1013",
+    "institute_name": "SIGNA COLLEGE OF PHARMACY , KANPUR NAGAR",
+    "institute_address": "406 DHARMANGADPUR NEAR SACHENI THANA KANPUR 209304",
+    "institute_mobile": "9336101647",
+    "institute_email": "signacolleges@gmail.com",
+    "course_count_declared": 2,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

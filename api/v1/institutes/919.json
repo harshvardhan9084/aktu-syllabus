@@ -1,0 +1,30 @@
+{
+  "data": {
+    "institute_code": "919",
+    "institute_name": "B N COLLEGE OF PHARMACY , LUCKNOW",
+    "institute_address": "NH24 SITAPUR ROAD BAKSHI KA TALAB LUCKNOW",
+    "institute_mobile": "8174831026",
+    "institute_email": "directorgeneral@bncet.ac.in",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmacology"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

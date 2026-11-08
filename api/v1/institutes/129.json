@@ -1,0 +1,29 @@
+{
+  "data": {
+    "institute_code": "129",
+    "institute_name": "FORT INSTITUTE OF TECHNOLOGY,MEERUT",
+    "institute_address": "KASERU BUXER, MAWANA ROAD, MEERUT UP - 250001",
+    "institute_mobile": "9760013136",
+    "institute_email": "info@forte.ac.in",
+    "course_count_declared": 2,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

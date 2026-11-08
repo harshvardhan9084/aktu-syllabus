@@ -1,0 +1,29 @@
+{
+  "data": {
+    "institute_code": "1291",
+    "institute_name": "RAKSHPAL BAHADUR MANAGEMENT INSTITUTE, GAUTAM BUDDHA NAGAR",
+    "institute_address": "PLOT NO. 4, KNOWLEDGE PARK - III, GREATER NOIDA, GAUTAM BUDDH NAGAR -201306 (U.P.)",
+    "institute_mobile": "8475002604",
+    "institute_email": "info@rbmi.in",
+    "course_count_declared": 2,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

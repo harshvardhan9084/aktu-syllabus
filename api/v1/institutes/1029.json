@@ -1,0 +1,30 @@
+{
+  "data": {
+    "institute_code": "1029",
+    "institute_name": "K D C COLLEGE OF PHARMACY , MATHURA",
+    "institute_address": "BARARI ROAD OL MATHURA",
+    "institute_mobile": "9412652147",
+    "institute_email": "adarshkdc@gmail.com",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmacology"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

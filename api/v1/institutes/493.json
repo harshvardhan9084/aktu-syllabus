@@ -1,0 +1,26 @@
+{
+  "data": {
+    "institute_code": "493",
+    "institute_name": "MAHARAJA AGRASEN COLLEGE OF ENGINEERING & TECHNOLOGY,J.P.NAGAR",
+    "institute_address": "NH # 24, 10th Kms. From Gajraula, Delhi - Moradabad Highway ,Bagarpur Mafi ,Post-Rajabpur Dist -Amroha(J.P.Nagar)",
+    "institute_mobile": "9639001784",
+    "institute_email": "MACET493@GMAIL.COM",
+    "course_count_declared": 4,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical & Electronics Engineering",
+          "Mechanical Engineering"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "data": {
+    "institute_code": "005",
+    "institute_name": "RAJA BALWANT SINGH MANAGEMENT TECHNICAL CAMPUS,AGRA",
+    "institute_address": "Khandari Farm, Agra-282002",
+    "institute_mobile": "9411684493",
+    "institute_email": "director.rbsmtc@gmail.com",
+    "course_count_declared": 6,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "MBA(Integrated)",
+        "branches": [
+          "MBA(Integrated)"
+        ]
+      },
+      {
+        "course": "MCA(Integrated)",
+        "branches": [
+          "MCA(Integrated)"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      },
+      {
+        "course": "BBA",
+        "branches": [
+          "BBA"
+        ]
+      },
+      {
+        "course": "BCA",
+        "branches": [
+          "BCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 6
+  }
+}

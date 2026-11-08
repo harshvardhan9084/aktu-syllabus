@@ -1,0 +1,41 @@
+{
+  "data": {
+    "institute_code": "222",
+    "institute_name": "I.T.S. ENGG.COLLEGE,GAUTAM BUDDH NAGAR",
+    "institute_address": "Plot No.46, Knowledge Park-III, Greater Noida, Uttar Pradesh, PIN-201308",
+    "institute_mobile": "7838555875",
+    "institute_email": "dir.engg@its.edu.in",
+    "course_count_declared": 9,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical & Computer Engg.",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+          "Computer Science And Engineering(Data Science)"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "Bachelor of Technology Working Professional",
+        "branches": [
+          "Electronics and Communication Engineering"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 3
+  }
+}

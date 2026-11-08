@@ -1,0 +1,32 @@
+{
+  "data": {
+    "institute_code": "480",
+    "institute_name": "NIGC INSTITUTE OF TECHNOLOGY AND MANAGEMENT, BIJNOR",
+    "institute_address": "7th KM BUNDKI ROAD,NAJIBABAD",
+    "institute_mobile": "8941090807",
+    "institute_email": "nigc.najibabad@gmail.com",
+    "course_count_declared": 5,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical Engineering",
+          "Mechanical Engineering"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

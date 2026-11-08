@@ -1,0 +1,29 @@
+{
+  "data": {
+    "institute_code": "607",
+    "institute_name": "DR VIRENDRA SWAROOP INSTITUTE OF PROFESSIONAL STUDIES,KANPUR",
+    "institute_address": "337, K Block, Kidwai Nagar, Kanpur, Uttar Pradesh 208011",
+    "institute_mobile": "9453037350",
+    "institute_email": "vsipskanpur@gmail.com",
+    "course_count_declared": 2,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "MBA(Integrated)",
+        "branches": [
+          "MBA(Integrated)"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

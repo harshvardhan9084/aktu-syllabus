@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1003",
+    "institute_name": "D. R. COLLEGE OF PHARMACY , HAPUR",
+    "institute_address": "KHASARA NO. 1470/2, VILLAGE DOTAI, TEHSIL - GARHMUKTESHWAR, DIST- HAPUR, (U.P.)",
+    "institute_mobile": "9456662400",
+    "institute_email": "tyagisandeep.dr@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

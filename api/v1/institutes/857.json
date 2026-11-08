@@ -1,0 +1,35 @@
+{
+  "data": {
+    "institute_code": "857",
+    "institute_name": "U.P. INSTITUTE OF DESIGN,NOIDA",
+    "institute_address": "Noida",
+    "institute_mobile": "8303704871",
+    "institute_email": "info@upidnoida.ac.in",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "Bachelor of Design",
+        "branches": [
+          "Bachelor of Design"
+        ]
+      },
+      {
+        "course": "M.Design.",
+        "branches": [
+          "M.Design."
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 3
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1295",
+    "institute_name": "SITASRM ENGINEERING AND RESEARCH INSTITUTE, GAUTAM BUDDHA NAGAR",
+    "institute_address": "PLOT NO 14, KNOWLEDGE PARK-III, GAUTAM BUDDHA NAGAR, GREATER NOIDA, UTTAR PRADESH",
+    "institute_mobile": "8800200010",
+    "institute_email": "krishnasfpl@rediffmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "548",
+    "institute_name": "DEWAN V.S. INSTITUTE OF HOTEL MANAGEMENT & TECHNOLOGY,MEERUT",
+    "institute_address": "Meerut",
+    "institute_mobile": "7055542225",
+    "institute_email": "info@dewaninstitutes.org",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "BHMCT",
+        "branches": [
+          "BHMCT"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

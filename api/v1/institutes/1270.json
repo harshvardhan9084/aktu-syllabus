@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1270",
+    "institute_name": "R.S. PHARMACY COLLEGE",
+    "institute_address": "Khajuri Rajatalab, Varanasi-Prayagraj Highway, Varanasi",
+    "institute_mobile": "9026103787",
+    "institute_email": "rspharmacy17@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

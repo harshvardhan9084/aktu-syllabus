@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1227",
+    "institute_name": "JEEVAN GOPI INSTITUTE OF PHARMACY AND TECHNOLOGY",
+    "institute_address": "AHERA-BAGHPAT UTTAR PRADESH 250609",
+    "institute_mobile": "9639200999",
+    "institute_email": "jeevangopi2019@yahoo.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

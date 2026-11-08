@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1286",
+    "institute_name": "LITTLE FLOWER POLYTECHNIC, GORAKHPUR",
+    "institute_address": "PB NO.1 ,MMM ENGINEERING COLLEGE PO JUNGLE SIKRI,KHORABAR GORAKHPUR ,U.P.-273010",
+    "institute_mobile": "8765848842",
+    "institute_email": "jjvadekel@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "BCA",
+        "branches": [
+          "BCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

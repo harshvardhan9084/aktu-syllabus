@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "989",
+    "institute_name": "UNITED COLLEGE OF ENGINEERING AND RESEARCH(PHARMACY), GREATER NOIDA , GAUTAM BUDDHA NAGAR",
+    "institute_address": "50 KNOWLEDGE PARK III, GREATER NOIDA",
+    "institute_mobile": "9793600000",
+    "institute_email": "gaurav@united.ac.in",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

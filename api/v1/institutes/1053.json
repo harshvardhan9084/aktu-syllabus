@@ -1,0 +1,38 @@
+{
+  "data": {
+    "institute_code": "1053",
+    "institute_name": "JYOTIRADITYA INSTITUTE OF PHARMACY , PRATAPGARH",
+    "institute_address": "JD SHIKSHA GRAM, KOHANDAUR, PRATAPGHARH",
+    "institute_mobile": "9820190962",
+    "institute_email": "tripathinsd@gmail.com",
+    "course_count_declared": 6,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmceutical Chemistry",
+          "Pharmacogonosy",
+          "Pharmacology"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      },
+      {
+        "course": "PHARM D",
+        "branches": [
+          "Pharm D"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 3
+  }
+}

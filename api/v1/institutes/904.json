@@ -1,0 +1,36 @@
+{
+  "data": {
+    "institute_code": "904",
+    "institute_name": "APEX INSTITUTE OF PHARMACY,MIRZAPUR",
+    "institute_address": "NH-7, Varanasi Mirzapur Highway, Samaspur, Chunar, Mirzapur -231304",
+    "institute_mobile": "9893926205",
+    "institute_email": "aims.mzp@gmail.com",
+    "course_count_declared": 4,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmacogonosy"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      },
+      {
+        "course": "PHARM D",
+        "branches": [
+          "Pharm D"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 3
+  }
+}

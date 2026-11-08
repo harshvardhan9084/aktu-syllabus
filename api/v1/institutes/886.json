@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "886",
+    "institute_name": "YOGENDRA NATH SAXENA COLLEGE OF PHARMACY & RESEARCH,JYOTIBA PHULE NAGAR",
+    "institute_address": "Rampur Bhud Road, Hasanpur (Amroha), U.P.",
+    "institute_mobile": "9837791663",
+    "institute_email": "jhammanlalpgcollege@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

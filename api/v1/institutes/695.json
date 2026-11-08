@@ -1,0 +1,58 @@
+{
+  "data": {
+    "institute_code": "695",
+    "institute_name": "SRI RAM GROUP OF COLLEGES,MUZAFFARNAGAR",
+    "institute_address": "Muzaffarnagar",
+    "institute_mobile": "7088013153",
+    "institute_email": "directorsrgc695@gmail.com",
+    "course_count_declared": 16,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Computer Science And Engineering(Data Science)",
+          "Artificial Intelligence And Machine Learning"
+        ]
+      },
+      {
+        "course": "Bachelor of Architecture",
+        "branches": [
+          "Architecture"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA",
+          "MBA(Business Analytics)",
+          "MBA (Banking and Finance Service)",
+          "MBA (AGRIBUSINESS MANAGEMENT)"
+        ]
+      },
+      {
+        "course": "B Voc",
+        "branches": [
+          "Automobile Servicing",
+          "Refrigeration and Air Conditioning",
+          "Electronic Manufacturing Servicing"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 5
+  }
+}

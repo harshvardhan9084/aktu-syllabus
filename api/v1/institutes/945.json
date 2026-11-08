@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "945",
+    "institute_name": "S.N.A. INSTITUTE OF PHARMACY , BARABANKI",
+    "institute_address": "Ranapur Haidergarh Barabanki",
+    "institute_mobile": "7007161378",
+    "institute_email": "snainstituteofpharmacy@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

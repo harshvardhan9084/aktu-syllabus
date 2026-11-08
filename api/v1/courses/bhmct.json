@@ -1,0 +1,50 @@
+{
+  "data": {
+    "course": "BHMCT",
+    "slug": "bhmct",
+    "branch_rows": 7,
+    "institute_count": 7,
+    "institutes": [
+      {
+        "institute_code": "1177",
+        "institute_name": "IED HOTEL MANAGEMENT",
+        "branch": "BHMCT"
+      },
+      {
+        "institute_code": "1197",
+        "institute_name": "BUDDHA INSTITUTE OF HOTEL MANAGEMENT",
+        "branch": "BHMCT"
+      },
+      {
+        "institute_code": "157",
+        "institute_name": "INSTITUTE OF HOTEL MANAGEMENT CATERING TECHNOLOGY & APPLIED NUTRITION,MEERUT",
+        "branch": "BHMCT"
+      },
+      {
+        "institute_code": "159",
+        "institute_name": "J.P.INSTITUTE OF HOTEL MANAGEMENT & CATERING TECHNOLOGY,MEERUT",
+        "branch": "BHMCT"
+      },
+      {
+        "institute_code": "248",
+        "institute_name": "SAMS INSTITUTE OF HOTEL MANAGEMENT,VARANASI",
+        "branch": "BHMCT"
+      },
+      {
+        "institute_code": "450",
+        "institute_name": "SRI RAMMURTI SMARAK COLLEGE OF ENGINEERING TECHNOLOGY & RESEARCH,BAREILLY",
+        "branch": "BHMCT"
+      },
+      {
+        "institute_code": "548",
+        "institute_name": "DEWAN V.S. INSTITUTE OF HOTEL MANAGEMENT & TECHNOLOGY,MEERUT",
+        "branch": "BHMCT"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 7
+  }
+}

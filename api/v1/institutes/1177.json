@@ -1,0 +1,30 @@
+{
+  "data": {
+    "institute_code": "1177",
+    "institute_name": "IED HOTEL MANAGEMENT",
+    "institute_address": "A-1/2 INDUSTRIAL AREA, SAROJINI NAGAR, KANPUR ROAD",
+    "institute_mobile": "7376091052",
+    "institute_email": "director.1177@aktu.ac.in",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "BHMCT",
+        "branches": [
+          "BHMCT"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA",
+          "Innovation Entrepreneurship and Venture Devlopement"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

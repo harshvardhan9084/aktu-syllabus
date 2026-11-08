@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "722",
+    "institute_name": "AXIS BUSINES SCHOOL,KANPUR",
+    "institute_address": "Axis Knowledge City, Rooma (NH-2, Kanpur - Allahabad Highway, Milestone#489), Kanpur",
+    "institute_mobile": "7607888889",
+    "institute_email": "info@axiscolleges.in",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

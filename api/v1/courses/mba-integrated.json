@@ -1,0 +1,70 @@
+{
+  "data": {
+    "course": "MBA(Integrated)",
+    "slug": "mba-integrated",
+    "branch_rows": 11,
+    "institute_count": 11,
+    "institutes": [
+      {
+        "institute_code": "005",
+        "institute_name": "RAJA BALWANT SINGH MANAGEMENT TECHNICAL CAMPUS,AGRA",
+        "branch": "MBA(Integrated)"
+      },
+      {
+        "institute_code": "011",
+        "institute_name": "UNITED INSTITUTE OF MANAGEMENT,ALLAHABAD",
+        "branch": "MBA(Integrated)"
+      },
+      {
+        "institute_code": "074",
+        "institute_name": "DEWAN INSTITUTE OF MANAGEMENT STUDIES,MEERUT",
+        "branch": "MBA(Integrated)"
+      },
+      {
+        "institute_code": "151",
+        "institute_name": "GLOBAL INSTITUTE OF INFORMATION TECHNOLOGY,GAUTAM BUDDH NAGAR",
+        "branch": "MBA(Integrated)"
+      },
+      {
+        "institute_code": "153",
+        "institute_name": "LLOYD INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+        "branch": "MBA(Integrated)"
+      },
+      {
+        "institute_code": "173",
+        "institute_name": "RAJEEV ACADEMY FOR TECHNOLOGY & MANAGEMENT,MATHURA",
+        "branch": "MBA(Integrated)"
+      },
+      {
+        "institute_code": "272",
+        "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY(MBA INSTITUTE),GAUTAM BUDDH NAGAR",
+        "branch": "MBA(Integrated)"
+      },
+      {
+        "institute_code": "479",
+        "institute_name": "RAJSHREE INSTITUTE OF MANAGEMENT & TECHNOLOGY,BAREILLY",
+        "branch": "MBA(Integrated)"
+      },
+      {
+        "institute_code": "607",
+        "institute_name": "DR VIRENDRA SWAROOP INSTITUTE OF PROFESSIONAL STUDIES,KANPUR",
+        "branch": "MBA(Integrated)"
+      },
+      {
+        "institute_code": "666",
+        "institute_name": "SRM BUSINESS SCHOOL,LUCKNOW",
+        "branch": "MBA(Integrated)"
+      },
+      {
+        "institute_code": "703",
+        "institute_name": "SHRI SIDDHI VINAYAK INSTITUTE OF MANAGEMENT,BAREILLY",
+        "branch": "MBA(Integrated)"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 11
+  }
+}

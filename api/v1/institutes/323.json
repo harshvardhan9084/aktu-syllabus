@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "323",
+    "institute_name": "SPECTRUM INSTITUTE OF PHARMACEUTICAL SCIENCE & RESEARCH,GAUTAM BUDDH NAGAR",
+    "institute_address": "Knowledge Park-1, Greater Noida, UP 201309",
+    "institute_mobile": "9650097840",
+    "institute_email": "principal@sipsar.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

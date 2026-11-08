@@ -1,0 +1,40 @@
+{
+  "data": {
+    "course": "M.Tech (Part Time)",
+    "slug": "m-tech-part-time",
+    "branch_rows": 5,
+    "institute_count": 1,
+    "institutes": [
+      {
+        "institute_code": "104",
+        "institute_name": "KAMLA NEHRU INSTITUTE OF TECHNOLOGY,SULTANPUR",
+        "branch": "Civil Engineering"
+      },
+      {
+        "institute_code": "104",
+        "institute_name": "KAMLA NEHRU INSTITUTE OF TECHNOLOGY,SULTANPUR",
+        "branch": "Computer Science and Engineering"
+      },
+      {
+        "institute_code": "104",
+        "institute_name": "KAMLA NEHRU INSTITUTE OF TECHNOLOGY,SULTANPUR",
+        "branch": "Electrical Engineering"
+      },
+      {
+        "institute_code": "104",
+        "institute_name": "KAMLA NEHRU INSTITUTE OF TECHNOLOGY,SULTANPUR",
+        "branch": "Electronics Engineering"
+      },
+      {
+        "institute_code": "104",
+        "institute_name": "KAMLA NEHRU INSTITUTE OF TECHNOLOGY,SULTANPUR",
+        "branch": "Mechanical Engineering"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "991",
+    "institute_name": "MAA SARASWATI PARAMEDICAL INSTITUTE , GHAZIPUR",
+    "institute_address": "N H 24, VILL: MAGENGAVA, PO: MARDAH(PIPNAR), GHAZIPUR",
+    "institute_mobile": "9415219676",
+    "institute_email": "msssghazipur@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

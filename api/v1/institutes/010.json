@@ -1,0 +1,42 @@
+{
+  "data": {
+    "institute_code": "010",
+    "institute_name": "UNITED COLLEGE OF ENGINEERING & RESEARCH,ALLAHABAD",
+    "institute_address": "A-31, UPSIDC Industrial Area, Naini, Prayagraj U.P.-211010",
+    "institute_mobile": "8299652473",
+    "institute_email": "info@united.ac.in",
+    "course_count_declared": 10,
+    "courses": [
+      {
+        "course": "Master of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Computer Aided Design & Manufacturing",
+          "Power Electronics And Drives"
+        ]
+      },
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 3
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "data": {
+    "institute_code": "970",
+    "institute_name": "L.N.PHARMACY COLLEGE , DEORIA",
+    "institute_address": "VILLAGE- GOVINDPUR DHATURA (SILHAT), BAITALPUR, TEH- SADAR, DIST- DEORIA, U.P.",
+    "institute_mobile": "9455112905",
+    "institute_email": "lnpharmacycollege970@gmail.com",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmacogonosy"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

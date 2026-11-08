@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "686",
+    "institute_name": "ACCURATE INSTITUTE OF ADVANCE MANAGEMENT,GAUTAM BUDDH NAGAR",
+    "institute_address": "Plot No.- 49, Knowledge Park-III, Greater Noida",
+    "institute_mobile": "9412387514",
+    "institute_email": "director_aiam@accurate.in",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

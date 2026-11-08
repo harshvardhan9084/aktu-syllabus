@@ -1,0 +1,30 @@
+{
+  "data": {
+    "institute_code": "170",
+    "institute_name": "I.T.S. COLLEGE OF PHARMACY,GHAZIABAD",
+    "institute_address": "NH-58, DELHI MEERUT ROAD, MURADNAGAR GHAZIABAD-201206",
+    "institute_mobile": "8447753526",
+    "institute_email": "pharmacy@its.edu.in",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmacology"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "854",
+    "institute_name": "SAHARANPUR PHARMACY COLLEGE,SAHARANPUR",
+    "institute_address": "Vill - Sansarpur, Block - Muzaffarabad, Tehsil - Behat",
+    "institute_mobile": "9719230023",
+    "institute_email": "sanskarss2016@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1131",
+    "institute_name": "ALLENHOUSE INSTITUTE OF MANAGEMENT,KANPUR NAGAR",
+    "institute_address": "176, KULGAON ROAD, ROOMA",
+    "institute_mobile": "9919992345",
+    "institute_email": "superhouseeducation@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

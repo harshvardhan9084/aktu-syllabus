@@ -1,0 +1,32 @@
+{
+  "data": {
+    "institute_code": "1276",
+    "institute_name": "CROSS BELLY INSTITUTE OF PHARMACY AZAMGARH",
+    "institute_address": "VILLAGE-BELHARA POST-SATHIOAN DIST. AZAMGARH",
+    "institute_mobile": "9415648333",
+    "institute_email": "cbip8555@gmail.com",
+    "course_count_declared": 5,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmceutical Chemistry",
+          "Pharmacogonosy",
+          "Pharmacology"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

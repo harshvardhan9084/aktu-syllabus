@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1308",
+    "institute_name": "NIIT COLLEGE OF PHARMACY",
+    "institute_address": "7TH KM BUNDKI ROAD, VILLAGE NEKPUR, NAJIBABAD, DISTRICT BIJNOR, UTTAR PRADESH (246763)",
+    "institute_mobile": "9837065801",
+    "institute_email": "niitcollegeofpharmacy@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

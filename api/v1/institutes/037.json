@@ -1,0 +1,29 @@
+{
+  "data": {
+    "institute_code": "037",
+    "institute_name": "INSTITUTE OF MANAGEMENT EDUCATION,GHAZIABAD",
+    "institute_address": "178, Main G.T. Road, Sahibabad,Ghaziabad - 201005.",
+    "institute_mobile": "9599706361",
+    "institute_email": "director@ime.in",
+    "course_count_declared": 2,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

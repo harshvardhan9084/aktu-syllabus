@@ -1,0 +1,33 @@
+{
+  "data": {
+    "institute_code": "1285",
+    "institute_name": "VIKRAM SARABHAI INSTITUTE OF ENGINEERING & TECHNOLOGY, GAUTAM BUDDHA NAGAR",
+    "institute_address": "Plot No. 6B/1, Knowledge Park - II, Greater Noida",
+    "institute_mobile": "9953173307",
+    "institute_email": "sujitindelhi@yahoo.com",
+    "course_count_declared": 6,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Information Technology",
+          "Electrical Engineering",
+          "Electronics and Communication Engineering",
+          "Computer Science and Engineering (Artificial Intelligence)"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

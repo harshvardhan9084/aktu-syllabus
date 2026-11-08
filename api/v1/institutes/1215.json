@@ -1,0 +1,26 @@
+{
+  "data": {
+    "institute_code": "1215",
+    "institute_name": "Samrat Ashok Rajkiya Engineering College, Mirzapur",
+    "institute_address": "Mirzapur",
+    "institute_mobile": "9415610987",
+    "institute_email": "ksverma@knit.ac.in",
+    "course_count_declared": 4,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Information Technology",
+          "Electrical Engineering",
+          "Electronics Engineering"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

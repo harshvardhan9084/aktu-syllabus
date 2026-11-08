@@ -1,0 +1,36 @@
+{
+  "data": {
+    "institute_code": "858",
+    "institute_name": "CENTRE FOR ADVANCED STUDIES,LUCKNOW",
+    "institute_address": "Lucknow",
+    "institute_mobile": "0",
+    "institute_email": "info@cas.res.in",
+    "course_count_declared": 9,
+    "courses": [
+      {
+        "course": "Master of Technology",
+        "branches": [
+          "Computer science and engineering with specialization in cyber security/ ICT",
+          "Energy Science & Technology",
+          "Mechatronics",
+          "Nano Technology",
+          "Manufacturing Technology and Automation"
+        ]
+      },
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+          "Electronics Engineering (VLSI Design and Technology)",
+          "Mechanical and Mechatronics Engineering(Additive Manufacturing)"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "data": {
+    "institute_code": "221",
+    "institute_name": "INSTITUTE OF ENGINEERING & TECHNOLOGY,SITAPUR",
+    "institute_address": "Resora, Sitapur",
+    "institute_mobile": "9838075059",
+    "institute_email": "sss.ietsitapur@gmail.com",
+    "course_count_declared": 7,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical & Electronics Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Artificial Intelligence And Machine Learning"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

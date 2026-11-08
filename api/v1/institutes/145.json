@@ -1,0 +1,55 @@
+{
+  "data": {
+    "institute_code": "145",
+    "institute_name": "S R GROUP OF INSTITUTIONS (COLLEGE OF SCIENCE AND ENGINEERING),JHANSI",
+    "institute_address": "Jhansi",
+    "institute_mobile": "7007091371",
+    "institute_email": "srgi.groupdirector@gmail.com",
+    "course_count_declared": 13,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical Engineering",
+          "Mechanical Engineering",
+          "Computer Science & Technology",
+          "Computer Science And Engineering(Data Science)",
+          "Computer Science And Engineering(Internet Of Things)",
+          "Artificial Intelligence And Machine Learning",
+          "Computer Science & Engineering (Cyber Security)"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      },
+      {
+        "course": "BBA",
+        "branches": [
+          "BBA"
+        ]
+      },
+      {
+        "course": "BCA",
+        "branches": [
+          "BCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 5
+  }
+}

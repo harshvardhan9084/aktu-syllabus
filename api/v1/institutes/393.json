@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "393",
+    "institute_name": "VARANASI COLLEGE OF PHARMACY,VARANASI",
+    "institute_address": "Varanasi - 221105",
+    "institute_mobile": "9628919000",
+    "institute_email": "vc.pharmacy@rediffmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

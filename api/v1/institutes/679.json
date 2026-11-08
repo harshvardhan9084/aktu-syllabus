@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "679",
+    "institute_name": "INSTITUTE OF TECHNICAL EDUCATION & RESEARCH CENTRE, GHAZIABAD",
+    "institute_address": "Ghaziabad",
+    "institute_mobile": "9540196521",
+    "institute_email": "iterceducation@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "name": "AKTU Syllabus Data API",
+  "api_version": "1.0.0",
+  "description": "Static JSON API for the institutes affiliated to Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow, and the courses/branches each institute offers.",
+  "generated_at": "2026-11-08T18:49:58+05:30",
+  "source_repo": "https://github.com/harshvardhan9084/aktu-syllabus",
+  "bases": {
+    "github_pages": "https://harshvardhan9084.github.io/aktu-syllabus/",
+    "raw": "https://raw.githubusercontent.com/harshvardhan9084/aktu-syllabus/main",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/harshvardhan9084/aktu-syllabus@main"
+  },
+  "source_files": [
+    "/data/raw/institutes.csv",
+    "/data/raw/branches.csv"
+  ],
+  "counts": {
+    "institutes": 784,
+    "unique_courses": 26,
+    "branch_rows": 2571
+  },
+  "endpoints": [
+    {
+      "method": "GET",
+      "path": "/api/v1/index.json",
+      "description": "This manifest: endpoints, counts, integrity summary."
+    },
+    {
+      "method": "GET",
+      "path": "/api/v1/tree.json",
+      "count": 784,
+      "description": "Whole dataset as one nested JSON tree (institutes -> courses -> branches)."
+    },
+    {
+      "method": "GET",
+      "path": "/api/v1/institutes.json",
+      "count": 784,
+      "description": "All institutes (summary fields + detail links)."
+    },
+    {
+      "method": "GET",
+      "path": "/api/v1/institutes/{institute_code}.json",
+      "count": 784,
+      "example": "/api/v1/institutes/002.json",
+      "description": "One institute with its courses and branches (nested)."
+    },
+    {
+      "method": "GET",
+      "path": "/api/v1/branches.json",
+      "count": 2571,
+      "description": "Flat list of every (institute, course, branch) offering."
+    },
+    {
+      "method": "GET",
+      "path": "/api/v1/courses.json",
+      "count": 26,
+      "description": "Course taxonomy with slugs and counts."
+    },
+    {
+      "method": "GET",
+      "path": "/api/v1/courses/{slug}.json",
+      "count": 26,
+      "example": "/api/v1/courses/bachelor-of-technology.json",
+      "description": "One course: every institute offering it."
+    },
+    {
+      "method": "GET",
+      "path": "/api/v1/integrity.json",
+      "description": "Source-data cross-check report (published verbatim, not fixed)."
+    }
+  ],
+  "integrity": {
+    "orphan_branch_rows": 0,
+    "institutes_with_zero_branch_rows": 0,
+    "declared_course_count_matches_neither": 0,
+    "duplicate_institute_codes": 0,
+    "duplicate_branch_rows": 0,
+    "details": "/api/v1/integrity.json"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "117",
+    "institute_name": "RAM CHAMELI CHADDHA VISHWASH GIRL COLLEGE,GHAZIABAD",
+    "institute_address": "C22 Meerut Road",
+    "institute_mobile": "9999399951",
+    "institute_email": "rccvgpgcollege10@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

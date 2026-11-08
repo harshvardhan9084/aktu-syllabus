@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1207",
+    "institute_name": "AZAD COLLEGE OF EDUCATION",
+    "institute_address": "VILL- SHAKHA JANVARA, TEHSIL-GHATAMPUR, KANPUR NAGAR, UTTAR PRADESH",
+    "institute_mobile": "9889999095",
+    "institute_email": "azadcoe@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

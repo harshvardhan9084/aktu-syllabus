@@ -1,0 +1,34 @@
+{
+  "data": {
+    "institute_code": "547",
+    "institute_name": "CHAUDHARY BEERI SINGH COLLEGE OF ENGINEERING & MANAGEMENT,AGRA",
+    "institute_address": "Agra",
+    "institute_mobile": "9319123100",
+    "institute_email": "cbsem547@gmail.com",
+    "course_count_declared": 7,
+    "courses": [
+      {
+        "course": "Master of Technology",
+        "branches": [
+          "Electronics and Communication Engineering",
+          "Production Engineering"
+        ]
+      },
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical & Electronics Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

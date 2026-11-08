@@ -1,0 +1,32 @@
+{
+  "data": {
+    "institute_code": "419",
+    "institute_name": "PRABHAT ENGINEERING COLLEGE,KANPUR DEHAT",
+    "institute_address": "N.H.-2, KALPI ROAD, RANIYA, BARA, KANPUR DEHAT-209304",
+    "institute_mobile": "9044489777",
+    "institute_email": "director.419@aktu.ac.in",
+    "course_count_declared": 5,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical Engineering",
+          "Mechanical Engineering"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

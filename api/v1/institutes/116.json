@@ -1,0 +1,25 @@
+{
+  "data": {
+    "institute_code": "116",
+    "institute_name": "JAIPURIA INSTITUTE OF MANAGEMENT,GHAZIABAD",
+    "institute_address": "Ghaziabad - 201012",
+    "institute_mobile": "956005000",
+    "institute_email": "directorjim@jaipuria.edu.in",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA",
+          "MBA(Business Analytics)",
+          "MBA (Banking and Finance Service)"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

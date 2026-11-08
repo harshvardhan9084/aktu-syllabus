@@ -1,0 +1,28 @@
+{
+  "data": {
+    "institute_code": "498",
+    "institute_name": "DELHI INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
+    "institute_address": "5th KM Stone, Partapur By-Pass Road, Ghat Institutional Area, NH-58, Meerut",
+    "institute_mobile": "8826800376",
+    "institute_email": "info@dietmeerut.com",
+    "course_count_declared": 6,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Automobile Engineering"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "692",
+    "institute_name": "LLOYD SCHOOL OF MANAGEMENT STUDIES",
+    "institute_address": "Plot No 3, Knowledge Park-II, Greater Noida, U.P. 201308",
+    "institute_mobile": "9871381222",
+    "institute_email": "registrar@lloydcollege.in",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

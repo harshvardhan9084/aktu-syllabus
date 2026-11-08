@@ -1,0 +1,54 @@
+{
+  "data": {
+    "institute_code": "104",
+    "institute_name": "KAMLA NEHRU INSTITUTE OF TECHNOLOGY,SULTANPUR",
+    "institute_address": "Sultanpur - 228118",
+    "institute_mobile": "9415041790",
+    "institute_email": "director@knit.ac.in",
+    "course_count_declared": 17,
+    "courses": [
+      {
+        "course": "M.Tech (Part Time)",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical Engineering",
+          "Electronics Engineering",
+          "Mechanical Engineering"
+        ]
+      },
+      {
+        "course": "Master of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Thermal Engineering",
+          "Power Electronics And Drives",
+          "Communication Engineering",
+          "Geotechnical & Geoenvironmental Engineering"
+        ]
+      },
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Information Technology",
+          "Electrical Engineering",
+          "Electronics Engineering",
+          "Mechanical Engineering"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 4
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "data": {
+    "institute_code": "153",
+    "institute_name": "LLOYD INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+    "institute_address": "Plot No - 3, Knowledge Park-II, Greater Noida, U.P. 201308",
+    "institute_mobile": "9871381222",
+    "institute_email": "registrar@lloydcollege.in",
+    "course_count_declared": 11,
+    "courses": [
+      {
+        "course": "Master of Technology",
+        "branches": [
+          "Computer Science and Engineering"
+        ]
+      },
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+          "Computer Science And Engineering(Data Science)",
+          "Computer Science & Engineering (Cyber Security)",
+          "Electronics Engineering (VLSI Design and Technology)"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "MBA(Integrated)",
+        "branches": [
+          "MBA(Integrated)"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 5
+  }
+}

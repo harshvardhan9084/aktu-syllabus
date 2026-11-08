@@ -1,0 +1,32 @@
+{
+  "data": {
+    "institute_code": "206",
+    "institute_name": "TRANSLAM INSTITUTE OF PHARMACEUTICAL EDUCATION & RESEARCH,MEERUT",
+    "institute_address": "Rajpura, Mawana Road, Meerut -250001",
+    "institute_mobile": "9411983829",
+    "institute_email": "pharma@translam.com",
+    "course_count_declared": 5,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmceutical Chemistry",
+          "Pharmacogonosy",
+          "Pharmacology"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

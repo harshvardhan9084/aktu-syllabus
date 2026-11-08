@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1020",
+    "institute_name": "K. J. COLLEGE OF PHARMACY , VARANASI",
+    "institute_address": "VILLAGE & POST- BABATPUR, TAHSIL-PINDRA DIST-VARANASI, UTTAR PRADESH, PIN- 221006",
+    "institute_mobile": "9792529299",
+    "institute_email": "mithu_cology@yahoo.co.in",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

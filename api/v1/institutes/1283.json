@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1283",
+    "institute_name": "RAM-EESH INSTITUTE OF MANAGEMENT, GAUTAM BUDDHA NAGAR",
+    "institute_address": "PLOT NO. 3, KNOWLEDGE PARK-1, GREATER NOIDA",
+    "institute_mobile": "9910282335",
+    "institute_email": "info@rameeshinstitutions.org",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "BBA",
+        "branches": [
+          "BBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1146",
+    "institute_name": "NIRMALA DEVI PHARMACY COLLEGE,JAUNPUR",
+    "institute_address": "NAYANSAND, GAURABADSHAHPUR",
+    "institute_mobile": "9415234998",
+    "institute_email": "dnirmala432@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

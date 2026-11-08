@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1183",
+    "institute_name": "JAGANNATH COLLEGE OF PHARMACY",
+    "institute_address": "MOHAMMADPUR ROAD MOHAMMADPUR KADIM MODINAGAR",
+    "institute_mobile": "9639895010",
+    "institute_email": "jagannathcollegeofpharmacy@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

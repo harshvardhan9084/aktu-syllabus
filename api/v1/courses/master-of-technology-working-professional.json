@@ -1,0 +1,35 @@
+{
+  "data": {
+    "course": "Master of Technology Working Professional",
+    "slug": "master-of-technology-working-professional",
+    "branch_rows": 4,
+    "institute_count": 3,
+    "institutes": [
+      {
+        "institute_code": "068",
+        "institute_name": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
+        "branch": "Computer Science and Engineering"
+      },
+      {
+        "institute_code": "132",
+        "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY (ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR",
+        "branch": "Computer Science and Engineering"
+      },
+      {
+        "institute_code": "133",
+        "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+        "branch": "Computer Science and Engineering"
+      },
+      {
+        "institute_code": "133",
+        "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+        "branch": "Mechanical Engineering"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 4
+  }
+}

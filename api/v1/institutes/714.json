@@ -1,0 +1,29 @@
+{
+  "data": {
+    "institute_code": "714",
+    "institute_name": "KANPUR INSTITUTE OF MANAGEMENT STUDIES,UNNAO",
+    "institute_address": "Kanpur Institute of Management Studies 10 Km. Milestone, Kanpur-Lucknow Highway P.O.-Singrausi, Distt.- Kanpur / Unnao, Pin-209801",
+    "institute_mobile": "9792909888",
+    "institute_email": "kimskanpur@gmail.com",
+    "course_count_declared": 2,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

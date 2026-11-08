@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "661",
+    "institute_name": "KRISHNARPIT INSTITUTE OF MANAGEMENT & TECHNOLOGY,ALLAHABAD",
+    "institute_address": "behind triveni glass factory iradatganj ghoorpur naini",
+    "institute_mobile": "9335054485",
+    "institute_email": "info@krishnarpitgroup.in",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

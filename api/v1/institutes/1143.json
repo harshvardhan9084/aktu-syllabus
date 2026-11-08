@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1143",
+    "institute_name": "ASHOK SINGH PHARMACY COLLEGE,JAUNPUR",
+    "institute_address": "MAHAROOPUR JAUNPUR, U.P. PIN CODE- 222180",
+    "institute_mobile": "9935899383",
+    "institute_email": "ashoksinghedu19@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

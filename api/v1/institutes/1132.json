@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1132",
+    "institute_name": "SAINATH COLLEGE OF PHARMACY,SONBHADRA",
+    "institute_address": "VILLAGE HINDUWARI ROBERTSGANJ, HINDUWARI, SONEBHADRA, UTTAR PRADESH,231216",
+    "institute_mobile": "8887875908",
+    "institute_email": "siamsrc14@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

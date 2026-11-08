@@ -1,0 +1,50 @@
+{
+  "data": {
+    "institute_code": "448",
+    "institute_name": "NEELAM COLLEGE OF ENGINEERING & TECHNOLOGY,AGRA",
+    "institute_address": "27 Km. Stone Vill. Korai, Tehsil- Kirawali, Agra – Jaipur NH-11, Agra",
+    "institute_mobile": "9760696800",
+    "institute_email": "info@neelamcollege.com",
+    "course_count_declared": 8,
+    "courses": [
+      {
+        "course": "Master of Technology",
+        "branches": [
+          "Computer Science and Engineering"
+        ]
+      },
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical Engineering",
+          "Mechanical Engineering"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "BBA",
+        "branches": [
+          "BBA"
+        ]
+      },
+      {
+        "course": "BCA",
+        "branches": [
+          "BCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 5
+  }
+}

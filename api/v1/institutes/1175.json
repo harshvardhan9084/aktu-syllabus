@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1175",
+    "institute_name": "NK COLLEGE",
+    "institute_address": "VILLEGE- NAGLA BALU POST- ALAU, TAHSIL BHONGAON DISTRICT - MAINPURI- 205247",
+    "institute_mobile": "96274 7376",
+    "institute_email": "NKCOLLEGE7750@GMAIL.COM",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

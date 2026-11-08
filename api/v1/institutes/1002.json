@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1002",
+    "institute_name": "SHRI RAMESHWAR COLLEGE OF PHARMACY , HAPUR",
+    "institute_address": "VILL-KANDOLA,TEH-DHAULANA,DISTT-HAPUR",
+    "institute_mobile": "9891919497",
+    "institute_email": "srcp.hpr@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

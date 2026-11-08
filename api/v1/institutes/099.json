@@ -1,0 +1,29 @@
+{
+  "data": {
+    "institute_code": "099",
+    "institute_name": "HARLAL INSTITUTE OF MANAGEMENT & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+    "institute_address": "Greater Noida 201310",
+    "institute_mobile": "9711604712",
+    "institute_email": "anilbansal1947@yahoo.co.in",
+    "course_count_declared": 2,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

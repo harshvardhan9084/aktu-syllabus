@@ -1,0 +1,35 @@
+{
+  "data": {
+    "institute_code": "345",
+    "institute_name": "SETH VISHAMBHAR NATH INSTITUTE OF ENGG. & TECHNOLOGY,BARABANKI",
+    "institute_address": "Safedabad, Lucknow-Barabanki Road-225003",
+    "institute_mobile": "9621368941",
+    "institute_email": "registrar@svn.ac.in",
+    "course_count_declared": 8,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical Engineering",
+          "Mechanical Engineering",
+          "Biotechnology",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+          "Artificial Inelligence (AI) And Data Science"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

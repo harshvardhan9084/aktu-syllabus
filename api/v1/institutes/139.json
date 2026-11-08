@@ -1,0 +1,46 @@
+{
+  "data": {
+    "institute_code": "139",
+    "institute_name": "KALICHARAN NIGAM INSTITUTE OF TECHNOLOGY,BANDA",
+    "institute_address": "Banda UP - 210001",
+    "institute_mobile": "7839454625",
+    "institute_email": "kcnit2002@rediffmail.com",
+    "course_count_declared": 9,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical & Electronics Engineering",
+          "Mechanical Engineering",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+          "Computer Science And Engineering(Data Science)"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "BBA",
+        "branches": [
+          "BBA"
+        ]
+      },
+      {
+        "course": "BCA",
+        "branches": [
+          "BCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 4
+  }
+}

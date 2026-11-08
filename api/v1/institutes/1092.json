@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1092",
+    "institute_name": "GALGOTIAS COLLEGE OF PHARMACY,GAUTAM BUDDHA NAGAR",
+    "institute_address": "Plot No-1, Knowledge Park-II, Greater Noida",
+    "institute_mobile": "9828810489",
+    "institute_email": "director.gcp@galgotiacollege.edu",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

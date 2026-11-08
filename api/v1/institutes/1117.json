@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1117",
+    "institute_name": "SAINIK PHARMACY COLLEGE,PRAYAGRAJ",
+    "institute_address": "MAI, DEVKALI, HANUMANGANJ, PRAYAGRAJ",
+    "institute_mobile": "9450766072",
+    "institute_email": "sainikdfarma@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

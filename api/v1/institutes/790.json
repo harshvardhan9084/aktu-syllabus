@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "790",
+    "institute_name": "SCHOOL OF BUSINESS MANAGEMENT & TECHNOLOGY,BULANDSHAHAR",
+    "institute_address": "School of Business Management & Technology (SBMT), NH-91, Khurja Road, Bulandshahr-203001",
+    "institute_mobile": "8006403204",
+    "institute_email": "sbmtedu@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

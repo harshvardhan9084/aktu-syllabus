@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1316",
+    "institute_name": "PRINCE INSTITUTE OF INNOVATIVE TECHNOLOGY GREATER NOIDA",
+    "institute_address": "Plot NO.-9 Knowledge Park-III Instututional Area Greater Noida",
+    "institute_mobile": "9868251818",
+    "institute_email": "bharatprincepsingh@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

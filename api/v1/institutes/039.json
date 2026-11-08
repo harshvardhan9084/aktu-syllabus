@@ -1,0 +1,29 @@
+{
+  "data": {
+    "institute_code": "039",
+    "institute_name": "INSTITUTE OF MANAGEMENT RESEARCH,GHAZIABAD",
+    "institute_address": "Ghaziabad - 201206",
+    "institute_mobile": "7503045601",
+    "institute_email": "imr.gzb@hotmail.com",
+    "course_count_declared": 2,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

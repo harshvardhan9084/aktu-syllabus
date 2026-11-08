@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "918",
+    "institute_name": "M.G.B. RAJAT COLLEGE OF PHARMACY AND MANAGEMENT , AMBEDKAR NAGAR",
+    "institute_address": "Singhpur Gohila Baskhari",
+    "institute_mobile": "6392979881",
+    "institute_email": "director.918@aktu.ac.in",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "872",
+    "institute_name": "DR. OM PRAKASH SCHOOL OF PHARMACY,FARRUKHABAD",
+    "institute_address": "Gram; Nisai Bewar road near gas plant Farrukhabad",
+    "institute_mobile": "9695438764",
+    "institute_email": "shivam_gupta_15@yahoo.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

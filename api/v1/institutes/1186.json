@@ -1,0 +1,33 @@
+{
+  "data": {
+    "institute_code": "1186",
+    "institute_name": "MAYA INSTITUTE OF PHARMACY",
+    "institute_address": "MENDU ROAD SOKHNA HATHRAS",
+    "institute_mobile": "9411662879",
+    "institute_email": "mayainstitution@gmail.com",
+    "course_count_declared": 6,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Information Technology",
+          "Electronics and Communication Engineering",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+          "Computer Science And Engineering(Data Science)"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

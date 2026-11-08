@@ -1,0 +1,31 @@
+{
+  "data": {
+    "institute_code": "392",
+    "institute_name": "GOEL INSTITUTE OF PHARMACY & SCIENCES,LUCKNOW",
+    "institute_address": "Lucknow",
+    "institute_mobile": "9793445559",
+    "institute_email": "goel.institute@gmail.com",
+    "course_count_declared": 4,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmceutical Chemistry",
+          "Pharmacology"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

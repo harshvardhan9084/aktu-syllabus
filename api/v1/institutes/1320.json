@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1320",
+    "institute_name": "VIMLA VIKRAM DEGREE MAHAVIDYALAYA COLLEGE",
+    "institute_address": "VILL AND POST PACHPEDWA, TEHSIL TULSIPUR DISTT BALRAMPUR",
+    "institute_mobile": "9935231234",
+    "institute_email": "Siddhant821@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

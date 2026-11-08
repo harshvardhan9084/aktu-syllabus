@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "998",
+    "institute_name": "CROSS BELLY COLLEGE OF PHARMACY , AZAMGARH",
+    "institute_address": "VILLAGE- KUKURIPUR, POST- SATHIOAN",
+    "institute_mobile": "8545839899",
+    "institute_email": "crossbellyazm@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

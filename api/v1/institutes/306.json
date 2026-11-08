@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "306",
+    "institute_name": "DISHA INSTITUTE OF SCIENCE AND TECHNOLOGY,,BIJNAUR",
+    "institute_address": "Dhampur, Bijnor",
+    "institute_mobile": "9927069856",
+    "institute_email": "dishainstitute_2007@rediffmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

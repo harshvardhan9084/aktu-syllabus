@@ -1,0 +1,27 @@
+{
+  "data": {
+    "institute_code": "1296",
+    "institute_name": "ACADEMY OF TECHNOLOGY MANAGEMENT AND SCIENCE, HAPUR",
+    "institute_address": "49 KM MILE STONE VILLAGE ACCHEJJA HAPUR UTTAR PRADESH",
+    "institute_mobile": "9997020077",
+    "institute_email": "ag.rajat@gmail.com",
+    "course_count_declared": 5,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Computer Science",
+          "Electrical Engineering",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+          "Computer Science and Information Technology"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

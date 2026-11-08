@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "940",
+    "institute_name": "RAM NAGINA PHARMACY COLLEGE , SONBHADRA",
+    "institute_address": "VILLAGE- MAJHAULI, POST- JHAROKALAN (RENUKOOT DUDDHI ROAD)",
+    "institute_mobile": "9517102973",
+    "institute_email": "rnpc2019@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

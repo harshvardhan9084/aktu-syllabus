@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1144",
+    "institute_name": "KUNWAR AJEET COLLEGE OF PHARMACY,JAUNPUR",
+    "institute_address": "VILL- RAJEPUR, POST-KAJGAON, JAUNPUR, PIN- 222136, (U.P.).",
+    "institute_mobile": "9451555555",
+    "institute_email": "kacpjnp2018@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

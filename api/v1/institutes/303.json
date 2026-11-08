@@ -1,0 +1,37 @@
+{
+  "data": {
+    "institute_code": "303",
+    "institute_name": "DR. M.C.SAXENA COLLEGE OF PHARMACY,,LUCKNOW",
+    "institute_address": "Lucknow",
+    "institute_mobile": "9559912233",
+    "institute_email": "mcscop@rediffmail.com",
+    "course_count_declared": 5,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmceutical Chemistry",
+          "Pharmacology"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      },
+      {
+        "course": "PHARM D",
+        "branches": [
+          "Pharm D",
+          "Pharm D Post Baccalaureta"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 3
+  }
+}

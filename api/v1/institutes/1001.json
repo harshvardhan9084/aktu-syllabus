@@ -1,0 +1,32 @@
+{
+  "data": {
+    "institute_code": "1001",
+    "institute_name": "BABA RAMDAL SURAJDEV PHARMACY COLLEGE , BALLIA",
+    "institute_address": "VILL – PATNA, POST – KANSO, TEHSIL – RASRA, DISTT – BALLIA (U.P.)",
+    "institute_mobile": "9457232766",
+    "institute_email": "babaramdalpharmacycollege@gmail.com",
+    "course_count_declared": 5,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmceutical Chemistry",
+          "Pharmacogonosy",
+          "Pharmacology"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

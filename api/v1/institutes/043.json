@@ -1,0 +1,49 @@
+{
+  "data": {
+    "institute_code": "043",
+    "institute_name": "BUNDELKHAND INSTITUTE OF ENGINEERING & TECHNOLOGY,JHANSI",
+    "institute_address": "Jhansi-284128",
+    "institute_mobile": "9450723106",
+    "institute_email": "director@bietjhs.ac.in",
+    "course_count_declared": 17,
+    "courses": [
+      {
+        "course": "Master of Technology",
+        "branches": [
+          "Bio Medical Engineering",
+          "Construction Technology & MGT",
+          "Digital Communications",
+          "Manufacturing Science & Technology",
+          "Thermal Engineering",
+          "Environmental Engineering",
+          "Energy Science & Technology"
+        ]
+      },
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Information Technology",
+          "Electrical Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Chemical Engineering",
+          "Artificial Inelligence (AI) And Data Science",
+          "Artificial Intelligence And Machine Learning"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 3
+  }
+}

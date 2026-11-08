@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1043",
+    "institute_name": "KATYAYANI COLLEGE OF EDUCATION , MEERUT",
+    "institute_address": "KARNAL MEERUT HIGHWAY, BADRUDEEN NAGAR, VILLAGE+POST-NANU, MEERUT",
+    "institute_mobile": "8171699923",
+    "institute_email": "katyayaniedu17@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1110",
+    "institute_name": "SAKSHI COLLEGE OF PHARMACY,KANPUR NAGAR",
+    "institute_address": "309, BAIKUNTHPUR, BITHOOR ROAD, KALYANPUR, KANPUR, UTTAR PRADESH - 208017",
+    "institute_mobile": "9839035995",
+    "institute_email": "skcop2019@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

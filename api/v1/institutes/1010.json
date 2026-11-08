@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1010",
+    "institute_name": "GHAUSIA COLLEGE OF PHARMACY , FATEHPUR",
+    "institute_address": "SH-46, BAKEWAR- JAHANABAD ROAD, KASHMIRIPUR, FATEHPUR, U.P.-212657",
+    "institute_mobile": "9839770230",
+    "institute_email": "ghausiacollegeofpharmacy@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

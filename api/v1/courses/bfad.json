@@ -1,0 +1,25 @@
+{
+  "data": {
+    "course": "BFAD",
+    "slug": "bfad",
+    "branch_rows": 2,
+    "institute_count": 2,
+    "institutes": [
+      {
+        "institute_code": "1211",
+        "institute_name": "UTTAR PRADESH INSTITUTE OF DESIGN & RESEARCH",
+        "branch": "BFAD"
+      },
+      {
+        "institute_code": "720",
+        "institute_name": "AXIS INSTITUTE OF FASHION TECHNOLOGY,KANPUR",
+        "branch": "BFAD"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

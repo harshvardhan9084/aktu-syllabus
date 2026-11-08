@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "785",
+    "institute_name": "G & R INSTITUTE OF MANAGEMENT & TECHNOLOGY,BULANDSHAHAR",
+    "institute_address": "KHAT NO 180 VILLAGE ALLIPUR GIJHORI",
+    "institute_mobile": "9557532227",
+    "institute_email": "grimt2010@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "data": {
+    "institute_code": "212",
+    "institute_name": "UNITED INSTITUTE OF MANAGEMENT,GAUTAM BUDDH NAGAR",
+    "institute_address": "50 KNOWLEDGE PARK III, GREATER NOIDA , G.B.NAGAR. UP",
+    "institute_mobile": "9350744556",
+    "institute_email": "infogn@united.ac.in",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "BBA",
+        "branches": [
+          "BBA"
+        ]
+      },
+      {
+        "course": "BCA",
+        "branches": [
+          "BCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 3
+  }
+}

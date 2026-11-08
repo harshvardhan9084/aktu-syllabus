@@ -1,0 +1,26 @@
+{
+  "data": {
+    "institute_code": "496",
+    "institute_name": "FIT ENGINEERING COLLEGE,MEERUT",
+    "institute_address": "Meerut",
+    "institute_mobile": "9760013136",
+    "institute_email": "info@forte.ac.in",
+    "course_count_declared": 4,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "data": {
+    "institute_code": "525",
+    "institute_name": "BUDDHA INSTITUTE OF TECHNOLOGY,GORAKHPUR",
+    "institute_address": "Gorakhpur",
+    "institute_mobile": "9554559900",
+    "institute_email": "bit.gkp@gmail.com",
+    "course_count_declared": 12,
+    "courses": [
+      {
+        "course": "Master of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Electronics and Communication Engineering",
+          "Electronics Engineering (VLSI Design)"
+        ]
+      },
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Computer Science",
+          "Information Technology",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+          "Computer Science And Engineering(Data Science)",
+          "Electronics Engineering (VLSI Design and Technology)"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "data": {
+    "institute_code": "134",
+    "institute_name": "SACRED HEART INSTITUTE OF MANAGAMENT & TECHNOLOGY,SITAPUR",
+    "institute_address": "Naipalapur, Sitapur-261001",
+    "institute_mobile": "9415084973",
+    "institute_email": "shimtstp@gmail.com",
+    "course_count_declared": 2,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

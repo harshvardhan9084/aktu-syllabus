@@ -1,0 +1,35 @@
+{
+  "data": {
+    "institute_code": "002",
+    "institute_name": "FACULTY OF ENGG, AGRA COLLEGE,AGRA",
+    "institute_address": "Agra College,Agra - 282002",
+    "institute_mobile": "9412558601",
+    "institute_email": "principalagracollege@gmail.com",
+    "course_count_declared": 8,
+    "courses": [
+      {
+        "course": "Master of Technology",
+        "branches": [
+          "Computer Science and Engineering"
+        ]
+      },
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical Engineering",
+          "Mechanical Engineering",
+          "Biotechnology",
+          "Artificial Inelligence (AI) And Data Science",
+          "Artificial Intelligence And Machine Learning"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

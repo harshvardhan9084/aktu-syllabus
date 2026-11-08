@@ -1,0 +1,29 @@
+{
+  "data": {
+    "institute_code": "085",
+    "institute_name": "S.D. COLLEGE OF MANAGEMENT STUDIES,MUZAFFARNAGAR",
+    "institute_address": "Muzaffarnagar - 251001",
+    "institute_mobile": "8937095009",
+    "institute_email": "sdcms17@rediffmail.com",
+    "course_count_declared": 2,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

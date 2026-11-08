@@ -1,0 +1,28 @@
+{
+  "data": {
+    "institute_code": "166",
+    "institute_name": "DR.AMBEDKAR INSTITUTE OF TECHNOLOGY FOR DIVYANGJAN, U.P., KANPUR",
+    "institute_address": "Dr.Ambedkar Institute of Technology for Handicapped, Awadhpuri, Kanpur Nagar",
+    "institute_mobile": "8005494582",
+    "institute_email": "director@aith.ac.in",
+    "course_count_declared": 6,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Information Technology",
+          "Electronics Engineering",
+          "Chemical Engineering",
+          "Biotechnology",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

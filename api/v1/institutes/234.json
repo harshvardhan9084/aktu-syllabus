@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "234",
+    "institute_name": "ALIGARH COLLEGE OF PHARMACY,ALIGARH",
+    "institute_address": "3 KM FROM SASNI GATE, AT ALIGARH-MATHURA ROAD, Aligarh - 202001",
+    "institute_mobile": "9412272919",
+    "institute_email": "mail@aligarhpharmacy.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

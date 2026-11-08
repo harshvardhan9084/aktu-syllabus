@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1134",
+    "institute_name": "GNIT COLLEGE OF MANAGEMENT,GAUTAM BUDDHA NAGAR",
+    "institute_address": "PLOT NO 6 C , KNOWLEDGE PARK II GREATER NOIDA",
+    "institute_mobile": "9999995299",
+    "institute_email": "registrar.gnitgroup@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

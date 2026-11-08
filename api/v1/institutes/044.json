@@ -1,0 +1,34 @@
+{
+  "data": {
+    "institute_code": "044",
+    "institute_name": "UTTAR PRADESH TEXTILE TECHNOLOGY INSTITUTE,KANPUR",
+    "institute_address": "Kanpur U.P. 208001",
+    "institute_mobile": "9453232219",
+    "institute_email": "info@uptti.ac.in",
+    "course_count_declared": 7,
+    "courses": [
+      {
+        "course": "Master of Technology",
+        "branches": [
+          "Textile Chemistry",
+          "Textile Technology"
+        ]
+      },
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Textile Chemistry",
+          "Textile Technology",
+          "Man Made Fibre Technology",
+          "Textile Engineering"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

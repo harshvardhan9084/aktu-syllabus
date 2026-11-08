@@ -1,0 +1,26 @@
+{
+  "data": {
+    "institute_code": "333",
+    "institute_name": "RAJ KUMAR GOEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,GHAZIABAD",
+    "institute_address": "5 km stone Delhi Meerut Road Ghaziabad - 201003",
+    "institute_mobile": "9310089942",
+    "institute_email": "director@rkgitm.ac.in",
+    "course_count_declared": 4,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Information Technology",
+          "Electronics and Communication Engineering",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1050",
+    "institute_name": "R.S.D. ACADEMY (COLLEGE OF PHARMACY) , MORADABAD",
+    "institute_address": "RAM GANGA VIHAR PHASE II",
+    "institute_mobile": "9837075443",
+    "institute_email": "rsdacademy@yahoo.co.in",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

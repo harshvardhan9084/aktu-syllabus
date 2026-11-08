@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1293",
+    "institute_name": "INDIRAPURAM INSTITUTE OF HIGHER STUDIES, GHAZIABAD",
+    "institute_address": "VISHISHT SHIKSHA BHOOKHAND NYAY KHAND - 1 INDIRAPURAM GHAZIABAD UTTAR PRADESH 201014",
+    "institute_mobile": "9560994655",
+    "institute_email": "director@theiihs.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

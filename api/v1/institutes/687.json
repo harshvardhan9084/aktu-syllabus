@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "687",
+    "institute_name": "ANA COLLEGE OF MANAGEMENT STUDIES,BAREILLY",
+    "institute_address": "13.5 Km. NH-24, Bareily-Delhi Highway, Near Rubber Factory-Bareilly-243501 (UP)",
+    "institute_mobile": "8630825196",
+    "institute_email": "info@anacollege.org",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

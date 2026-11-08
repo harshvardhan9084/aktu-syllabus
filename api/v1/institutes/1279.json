@@ -1,0 +1,51 @@
+{
+  "data": {
+    "institute_code": "1279",
+    "institute_name": "INSTITUTE OF PROFESSIONAL STUDIES AND RESEARCH, UNNAO",
+    "institute_address": "Mahadev Campus, on Lko-Knp Express Highway, Sohramau, Unnao - 209859",
+    "institute_mobile": "9453020603",
+    "institute_email": "chairman@ipsr.in",
+    "course_count_declared": 9,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Computer Science",
+          "Electrical Engineering",
+          "Electronics and Communication Engineering",
+          "Artificial Intelligence And Machine Learning"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      },
+      {
+        "course": "BBA",
+        "branches": [
+          "BBA"
+        ]
+      },
+      {
+        "course": "BCA",
+        "branches": [
+          "BCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 5
+  }
+}

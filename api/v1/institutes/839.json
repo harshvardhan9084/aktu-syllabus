@@ -1,0 +1,26 @@
+{
+  "data": {
+    "institute_code": "839",
+    "institute_name": "RAJKIYA ENGINEERING COLLEGE,KANNAUJ",
+    "institute_address": "RAJKIYA ENGINEERING COLLEGE KANNAUJ",
+    "institute_mobile": "9565333637",
+    "institute_email": "director@reck.ac.in",
+    "course_count_declared": 4,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical Engineering",
+          "Electronics Engineering"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

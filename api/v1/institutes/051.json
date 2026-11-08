@@ -1,0 +1,38 @@
+{
+  "data": {
+    "institute_code": "051",
+    "institute_name": "FACULTY OF ARCHITECTURE, AKTU,LUCKNOW",
+    "institute_address": "Tagore Marg, Lucknow",
+    "institute_mobile": "9415305000",
+    "institute_email": "dean.foa@aktu.ac.in",
+    "course_count_declared": 6,
+    "courses": [
+      {
+        "course": "Bachelor of Architecture",
+        "branches": [
+          "Architecture"
+        ]
+      },
+      {
+        "course": "Master of Architecture",
+        "branches": [
+          "Interior Design",
+          "Master of Architecture",
+          "Environmental Design"
+        ]
+      },
+      {
+        "course": "Master of Planning",
+        "branches": [
+          "Urban and Regional Planning",
+          "Infrastructure Planning and Management"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 3
+  }
+}

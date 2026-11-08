@@ -1,0 +1,31 @@
+{
+  "data": {
+    "institute_code": "1063",
+    "institute_name": "J.S.SINGH INSTITUTE OF PHARMACY , SITAPUR",
+    "institute_address": "VILL-PARA SARAI,POST-DHODHI LAHARPUR ROAD, TEHSIL-LAHARPUR , DIST-SITAPUR",
+    "institute_mobile": "9918888879",
+    "institute_email": "jssinghpharmacy@gmail.com",
+    "course_count_declared": 4,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmceutical Chemistry",
+          "Pharmacology"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

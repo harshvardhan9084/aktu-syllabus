@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1015",
+    "institute_name": "ADVANCE COLLEGE OF EDUCATION , KANPUR NAGAR",
+    "institute_address": "355-NARAMAU KACHHAR, G.T. ROAD, KANPUR",
+    "institute_mobile": "9336651555",
+    "institute_email": "advancecolleges2@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

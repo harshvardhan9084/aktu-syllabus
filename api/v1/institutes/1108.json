@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1108",
+    "institute_name": "R. G. S. COLLEGE OF PHARMACY,LUCKNOW",
+    "institute_address": "VILLAGE-KARAUNDI POST- ITAUNJA, TEHSIL, BAKSHI KA TALAB.",
+    "institute_mobile": "9555263033",
+    "institute_email": "rgscp23@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

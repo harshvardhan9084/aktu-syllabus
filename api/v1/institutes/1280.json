@@ -1,0 +1,27 @@
+{
+  "data": {
+    "institute_code": "1280",
+    "institute_name": "SHRI VISHWANATH COLLEGE OF TECHNOLOGY, SULTANPUR",
+    "institute_address": "Villege & Post Kalan, Tehsil Kadipur",
+    "institute_mobile": "9450178027",
+    "institute_email": "mapg140@gmail.com",
+    "course_count_declared": 5,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical Engineering",
+          "Electronics and Communication Engineering",
+          "Artificial Inelligence (AI) And Data Science"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

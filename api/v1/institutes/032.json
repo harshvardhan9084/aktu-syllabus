@@ -1,0 +1,54 @@
+{
+  "data": {
+    "institute_code": "032",
+    "institute_name": "ABES ENGG.COLLEGE,GHAZIABAD",
+    "institute_address": "Campus 1, 19th KM Stone, NH-24, Ghaziabad-201009, U.P.",
+    "institute_mobile": "9999889341",
+    "institute_email": "info@abes.ac.in",
+    "course_count_declared": 12,
+    "courses": [
+      {
+        "course": "Master of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Electronics and Communication Engineering"
+        ]
+      },
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Electrical & Computer Engg.",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+          "Computer Science And Engineering(Data Science)"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      },
+      {
+        "course": "BCA",
+        "branches": [
+          "BCA"
+        ]
+      },
+      {
+        "course": "Bachelor of Technology Working Professional",
+        "branches": [
+          "Computer Science and Engineering",
+          "Electronics and Communication Engineering"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 5
+  }
+}

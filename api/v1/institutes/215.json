@@ -1,0 +1,39 @@
+{
+  "data": {
+    "institute_code": "215",
+    "institute_name": "SANSKAR COLLEGE OF ENGINEERING & TECHNOLOGY,GHAZIABAD",
+    "institute_address": "NH-09 Opp Jindal Pipes Ltd., Jindal Nagar Ghaziabad UP 201302",
+    "institute_mobile": "7251000124",
+    "institute_email": "director.engineering@sanskar.org",
+    "course_count_declared": 7,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Mechanical Engineering",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+          "Computer Science And Engineering(Data Science)"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "B Voc",
+        "branches": [
+          "BFSI"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 3
+  }
+}

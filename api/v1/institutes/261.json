@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "261",
+    "institute_name": "SHAKTI COLLEGE OF PHARMACY,BALRAMPUR",
+    "institute_address": "Balrampur - 271201",
+    "institute_mobile": "9919736836",
+    "institute_email": "shaktidirectorblp@rediffmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "data": {
+    "institute_code": "133",
+    "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+    "institute_address": "19, Knowledge Park-II, Institutional Area, Greater Noida - 201306",
+    "institute_mobile": "9599446607",
+    "institute_email": "director@niet.co.in",
+    "course_count_declared": 34,
+    "courses": [
+      {
+        "course": "Master of Technology",
+        "branches": [
+          "VLSI Design",
+          "Computer Science and Engineering",
+          "Mechanical Engineering",
+          "Biotechnology",
+          "Artificial Intelligence"
+        ]
+      },
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Computer Science",
+          "Information Technology",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Biotechnology",
+          "Computer Science and Engineering (Artificial Intelligence)",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+          "Computer Science And Engineering(Data Science)",
+          "Computer Science And Engineering(Internet Of Things)",
+          "Computer Science And Business System",
+          "Computer Science & Engineering (Cyber Security)",
+          "Electronics Engineering (VLSI Design and Technology)",
+          "Computer Science and Engineering (Collaboration & Twining Program)",
+          "Computer Science and Engineering (Artificial Intelligence) (Collaboration & Twining Program)",
+          "Computer Science And Engineering(AIML) (Collaboration & Twining Program)",
+          "Information Technology (Collaboration & Twining Program)"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA",
+          "Innovation Entrepreneurship and Venture Devlopement",
+          "MBA (Marketing and Finance)"
+        ]
+      },
+      {
+        "course": "Master Of Integrated Technology",
+        "branches": [
+          "Computer Science and Engineering"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      },
+      {
+        "course": "BBA",
+        "branches": [
+          "BBA"
+        ]
+      },
+      {
+        "course": "BCA",
+        "branches": [
+          "BCA"
+        ]
+      },
+      {
+        "course": "Bachelor of Technology Working Professional",
+        "branches": [
+          "Computer Science and Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering"
+        ]
+      },
+      {
+        "course": "Master of Technology Working Professional",
+        "branches": [
+          "Computer Science and Engineering",
+          "Mechanical Engineering"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 9
+  }
+}

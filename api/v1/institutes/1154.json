@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1154",
+    "institute_name": "SHRI RATAN SINGH COLLEGE OF PHARMACY,SHAHJAHANPUR",
+    "institute_address": "99 101 133 BHUDA MAINARI POWAYAN",
+    "institute_mobile": "9990745119",
+    "institute_email": "ratansinghcollege2019@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

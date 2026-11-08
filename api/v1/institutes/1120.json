@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1120",
+    "institute_name": "K.P.SINGH COLLEGE OF PHARMACY,PRATAPGARH",
+    "institute_address": "VILL RAMGARHA, POST- PUREDHANI, TEH- PATTI",
+    "institute_mobile": "9670891000",
+    "institute_email": "kpsinghjaunpur@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

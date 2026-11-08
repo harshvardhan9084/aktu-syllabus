@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AKTU Syllabus Data API — v1</title>
+<style>
+ body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;max-width:900px;
+      margin:2rem auto;padding:0 1rem;color:#1a1a2e;line-height:1.55}
+ h1{font-size:1.55rem} code{background:#f4f4f6;border-radius:6px;padding:.1rem .35rem}
+ table{border-collapse:collapse;width:100%;margin:1rem 0}
+ th,td{text-align:left;padding:.45rem .6rem;border-bottom:1px solid #e4e4ea}
+ th{background:#f8f8fb} a{color:#0b57d0;text-decoration:none}
+ a:hover{text-decoration:underline} .muted{color:#666}
+</style>
+</head>
+<body>
+<h1>AKTU Syllabus Data API <span class="muted">v1.0.0</span></h1>
+<p>Static JSON API for the institutes affiliated to Dr. A.P.J. Abdul Kalam Technical
+University (AKTU), Lucknow, and their course/branch offerings. Generated 08 Nov 2026, 18:49 IST.</p>
+<p><b>784</b> institutes · <b>26</b> courses ·
+<b>2571</b> branch offerings</p>
+<table>
+<tr><th>Endpoint</th><th>Returns</th></tr>
+<tr><td><a href="api/v1/index.json">/api/v1/index.json</a></td><td>manifest (start here)</td></tr>
+<tr><td><a href="api/v1/tree.json">/api/v1/tree.json</a></td><td>whole dataset, nested tree</td></tr>
+<tr><td><a href="api/v1/institutes.json">/api/v1/institutes.json</a></td><td>all institutes</td></tr>
+<tr><td><a href="api/v1/institutes/002.json">/api/v1/institutes/{institute_code}.json</a></td><td>one institute (example)</td></tr>
+<tr><td><a href="api/v1/branches.json">/api/v1/branches.json</a></td><td>flat offerings list</td></tr>
+<tr><td><a href="api/v1/courses.json">/api/v1/courses.json</a></td><td>course taxonomy</td></tr>
+<tr><td><a href="api/v1/courses/bachelor-of-technology.json">/api/v1/courses/{slug}.json</a></td><td>one course (example)</td></tr>
+<tr><td><a href="api/v1/integrity.json">/api/v1/integrity.json</a></td><td>source cross-check report</td></tr>
+</table>
+<p class="muted">Data published verbatim from <code>data/raw</code> CSVs — nothing hand-fixed.
+Docs in <code>README.md</code>. Bases: GitHub Pages · raw.githubusercontent.com · jsDelivr CDN.</p>
+</body>
+</html>

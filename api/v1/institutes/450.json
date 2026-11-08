@@ -1,0 +1,43 @@
+{
+  "data": {
+    "institute_code": "450",
+    "institute_name": "SRI RAMMURTI SMARAK COLLEGE OF ENGINEERING TECHNOLOGY & RESEARCH,BAREILLY",
+    "institute_address": "Ram Murti Puram, 13th K.M. Bareilly Nainital Road, Prahladpur, Abhaipur, Bhojipura",
+    "institute_mobile": "9412761545",
+    "institute_email": "cetr@srms.ac.in",
+    "course_count_declared": 6,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Electronics and Communication Engineering",
+          "Computer Science & Engineering (Cyber Security)"
+        ]
+      },
+      {
+        "course": "BHMCT",
+        "branches": [
+          "BHMCT"
+        ]
+      },
+      {
+        "course": "BBA",
+        "branches": [
+          "BBA"
+        ]
+      },
+      {
+        "course": "BCA",
+        "branches": [
+          "BCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 4
+  }
+}

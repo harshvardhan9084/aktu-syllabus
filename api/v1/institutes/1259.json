@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1259",
+    "institute_name": "PRABHAT COLLEGE OF PHARMACY",
+    "institute_address": "N.H.-2, NEAR BARA TOLL TAX, BARA, KANPUR DEHAT",
+    "institute_mobile": "9336112249",
+    "institute_email": "erpckurele@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

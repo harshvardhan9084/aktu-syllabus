@@ -1,0 +1,85 @@
+{
+  "data": {
+    "course": "B Voc",
+    "slug": "b-voc",
+    "branch_rows": 14,
+    "institute_count": 6,
+    "institutes": [
+      {
+        "institute_code": "215",
+        "institute_name": "SANSKAR COLLEGE OF ENGINEERING & TECHNOLOGY,GHAZIABAD",
+        "branch": "BFSI"
+      },
+      {
+        "institute_code": "485",
+        "institute_name": "S.R.INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
+        "branch": "Automobile Engineering"
+      },
+      {
+        "institute_code": "485",
+        "institute_name": "S.R.INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
+        "branch": "Software Development"
+      },
+      {
+        "institute_code": "518",
+        "institute_name": "SSLD VARSHNEY ENGINEERING COLLEGE,ALIGARH",
+        "branch": "Automobile Servicing"
+      },
+      {
+        "institute_code": "518",
+        "institute_name": "SSLD VARSHNEY ENGINEERING COLLEGE,ALIGARH",
+        "branch": "Production Technology"
+      },
+      {
+        "institute_code": "518",
+        "institute_name": "SSLD VARSHNEY ENGINEERING COLLEGE,ALIGARH",
+        "branch": "Software Development"
+      },
+      {
+        "institute_code": "527",
+        "institute_name": "SUNRISE INSTITUTE OF ENGINEERING TECHNICAL & MANAGEMENT,UNNAO",
+        "branch": "Automobile Engineering"
+      },
+      {
+        "institute_code": "527",
+        "institute_name": "SUNRISE INSTITUTE OF ENGINEERING TECHNICAL & MANAGEMENT,UNNAO",
+        "branch": "Refrigeration and Air Conditioning"
+      },
+      {
+        "institute_code": "527",
+        "institute_name": "SUNRISE INSTITUTE OF ENGINEERING TECHNICAL & MANAGEMENT,UNNAO",
+        "branch": "Robotics And Automation"
+      },
+      {
+        "institute_code": "527",
+        "institute_name": "SUNRISE INSTITUTE OF ENGINEERING TECHNICAL & MANAGEMENT,UNNAO",
+        "branch": "Software Development"
+      },
+      {
+        "institute_code": "666",
+        "institute_name": "SRM BUSINESS SCHOOL,LUCKNOW",
+        "branch": "BFSI"
+      },
+      {
+        "institute_code": "695",
+        "institute_name": "SRI RAM GROUP OF COLLEGES,MUZAFFARNAGAR",
+        "branch": "Automobile Servicing"
+      },
+      {
+        "institute_code": "695",
+        "institute_name": "SRI RAM GROUP OF COLLEGES,MUZAFFARNAGAR",
+        "branch": "Electronic Manufacturing Servicing"
+      },
+      {
+        "institute_code": "695",
+        "institute_name": "SRI RAM GROUP OF COLLEGES,MUZAFFARNAGAR",
+        "branch": "Refrigeration and Air Conditioning"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 14
+  }
+}

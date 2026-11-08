@@ -1,0 +1,36 @@
+{
+  "data": {
+    "institute_code": "760",
+    "institute_name": "LOTUS INSTITUTE OF MANAGEMENT,BAREILLY",
+    "institute_address": "16 KM, BAREILLY-LUCKNOW ROAD, BAREILLY",
+    "institute_mobile": "9639440831",
+    "institute_email": "lotus.bly@gmail.com",
+    "course_count_declared": 4,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 3
+  }
+}

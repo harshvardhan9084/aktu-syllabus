@@ -1,0 +1,39 @@
+{
+  "data": {
+    "institute_code": "187",
+    "institute_name": "FEROZE GANDHI INSTITUTE OF ENGG AND TECHNOLOGY, RAIBAREILLY",
+    "institute_address": "NH 24B, Lucknow-Allahabad Highway, Ratapur Chauraha, Raebareli",
+    "institute_mobile": "9450063272",
+    "institute_email": "director@fgiet.ac.in",
+    "course_count_declared": 7,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Aeronautical Engineering",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      },
+      {
+        "course": "BCA",
+        "branches": [
+          "BCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 3
+  }
+}

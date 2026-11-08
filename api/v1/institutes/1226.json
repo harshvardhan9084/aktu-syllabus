@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1226",
+    "institute_name": "SHRI GULAB SINGH COLLEGE OF PHARMACY",
+    "institute_address": "Phaphund Road, Auraiya",
+    "institute_mobile": "9412556747",
+    "institute_email": "principal.gsmv@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

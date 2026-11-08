@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "636",
+    "institute_name": "SAHARANPUR INSTITUTE OF ADVANCE STUDIES,SAHARANPUR",
+    "institute_address": "PURANI CHNGI SAHARANPUR",
+    "institute_mobile": "9045014442",
+    "institute_email": "INFOSIAS636@GMAIL.COM",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

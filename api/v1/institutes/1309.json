@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1309",
+    "institute_name": "Ishan Institute of Pharmacy",
+    "institute_address": "Plot No 2, Knowledge Park 1, Greater Noida 201310",
+    "institute_mobile": "9873807011",
+    "institute_email": "pharmacy@ishan.ac",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "data": {
+    "institute_code": "136",
+    "institute_name": "S.D.COLLEGE OF PHARMACY AND VOCATIONAL STUDIES,MUZAFFARNAGAR",
+    "institute_address": "Bhopa road, Muzaffarnagar - 251001",
+    "institute_mobile": "8937095010",
+    "institute_email": "sdcop@rediffmail.com",
+    "course_count_declared": 5,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmceutical Chemistry",
+          "Pharmacogonosy",
+          "Pharmacology"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

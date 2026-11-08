@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "842",
+    "institute_name": "DEVRISHI INSTITUTE OF MANAGEMENT & TECHNOLOGY, SAHARANPUR",
+    "institute_address": "v.p.o-salhapur , Teh. - nakur distt. saharanpur, uttar pradesh , pin 247342",
+    "institute_mobile": "9896464510",
+    "institute_email": "devrishi243@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

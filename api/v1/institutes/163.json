@@ -1,0 +1,34 @@
+{
+  "data": {
+    "institute_code": "163",
+    "institute_name": "DR.M.C.SAXENA COLLEGE OF ENGG. & TECHNOLOGY,LUCKNOW",
+    "institute_address": "Mall Road Dubbaga, IIM By Pass, Lucknow",
+    "institute_mobile": "9616233453",
+    "institute_email": "mcscet@rediffmail.com",
+    "course_count_declared": 7,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Information Technology",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Biotechnology",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

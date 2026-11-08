@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "721",
+    "institute_name": "AXIS INSTITUTE OF ARCHITECTURE,KANPUR",
+    "institute_address": "Axis Knowledge City, Hathipur, Rooma, NH-2 ,Milestone-478, Kanpur (U.P.)",
+    "institute_mobile": "7897618333",
+    "institute_email": "info@axiscolleges.in",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Architecture",
+        "branches": [
+          "Architecture"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

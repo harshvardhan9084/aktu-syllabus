@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1173",
+    "institute_name": "ONE BEAT COLLEGE OF MEDICAL SCIENCES",
+    "institute_address": "SANTGARH NAGAR, BHIRA, LAKHIMPUR KHERI. U.P.-262901",
+    "institute_mobile": "7800741705",
+    "institute_email": "directorobcms@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

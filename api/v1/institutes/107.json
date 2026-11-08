@@ -1,0 +1,29 @@
+{
+  "data": {
+    "institute_code": "107",
+    "institute_name": "INSTITUTE OF COMPUTER SCIENCE & TECHNOLOGY,VARANASI",
+    "institute_address": "SHEPA Campus (Near DPS Varanasi) Nibia Bachchaon Varanasi 221011",
+    "institute_mobile": "8957026100",
+    "institute_email": "registrar@icst.ac.in",
+    "course_count_declared": 2,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

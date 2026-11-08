@@ -1,0 +1,32 @@
+{
+  "data": {
+    "institute_code": "471",
+    "institute_name": "ESHAN COLLEGE OF ENGINEERING,MATHURA",
+    "institute_address": "28 Km. Mile stone, Delhi- Agra highway, NH-2, Farah, Mathura",
+    "institute_mobile": "9258011656",
+    "institute_email": "lordshiva_trust@rediffmail.com",
+    "course_count_declared": 5,
+    "courses": [
+      {
+        "course": "Master of Technology",
+        "branches": [
+          "Computer Science and Engineering"
+        ]
+      },
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical Engineering",
+          "Mechanical Engineering"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

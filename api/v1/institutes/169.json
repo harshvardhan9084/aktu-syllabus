@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "169",
+    "institute_name": "RAKSHAPAL BAHADUR COLLEGE OF PHARMACY,BAREILLY",
+    "institute_address": "Near ITBP, Bukhara Turn, Badaun Road, Bareilly (U.P.) Pin 243001",
+    "institute_mobile": "8475002610",
+    "institute_email": "info@rbmi.in",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1235",
+    "institute_name": "UDAY PRATAP PHARMACY COLLEGE",
+    "institute_address": "MAJIDAHA CHAHANIYA CHANDAULI",
+    "institute_mobile": "9335592212",
+    "institute_email": "uppchandauli@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

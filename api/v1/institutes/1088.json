@@ -1,0 +1,30 @@
+{
+  "data": {
+    "institute_code": "1088",
+    "institute_name": "RISHI RAM NARESH COLLEGE OF PHARMACY,MAU",
+    "institute_address": "MOLANAPUR (AMMA) DUBARI - MAU",
+    "institute_mobile": "9450758085",
+    "institute_email": "rrnpharmacycollege@gmail.com",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmacology"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

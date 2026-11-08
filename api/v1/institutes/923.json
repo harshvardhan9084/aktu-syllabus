@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "923",
+    "institute_name": "S. K. MISHRA COLLEGE OF PHARMACY , AZAMGARH",
+    "institute_address": "VILLAGE- BALPUR, POST- SARAIPALTU",
+    "institute_mobile": "9956469511",
+    "institute_email": "skmc2018@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

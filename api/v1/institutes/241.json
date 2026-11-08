@@ -1,0 +1,38 @@
+{
+  "data": {
+    "institute_code": "241",
+    "institute_name": "SHAMBHU NATH INSTITUTE OF PHARMACY,ALLAHABAD",
+    "institute_address": "Allahabad",
+    "institute_mobile": "9452140718",
+    "institute_email": "mail@siponline.in",
+    "course_count_declared": 6,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmceutical Chemistry",
+          "Pharmacogonosy",
+          "Pharmacology"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      },
+      {
+        "course": "PHARM D",
+        "branches": [
+          "Pharm D"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 3
+  }
+}

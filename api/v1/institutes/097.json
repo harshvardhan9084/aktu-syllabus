@@ -1,0 +1,57 @@
+{
+  "data": {
+    "institute_code": "097",
+    "institute_name": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+    "institute_address": "Greater Noida - 201310 (U.P.)",
+    "institute_mobile": "9891372928",
+    "institute_email": "director@galgotiacollege.edu",
+    "course_count_declared": 20,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Information Technology",
+          "Electrical Engineering",
+          "Electrical & Electronics Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Computer Science and Engineering (Artificial Intelligence)",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+          "Computer Science And Engineering(Data Science)",
+          "Artificial Intelligence And Machine Learning",
+          "Computer Science and Engineering (Hindi)",
+          "Electronics Engineering (VLSI Design and Technology)",
+          "Electronics and Communication (Advanced Communication Technology)"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA",
+          "MBA(Logistics and supply chain management)"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      },
+      {
+        "course": "Bachelor of Technology Working Professional",
+        "branches": [
+          "Computer Science and Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 4
+  }
+}

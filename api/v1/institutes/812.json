@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "812",
+    "institute_name": "CBS COLLEGE OF MANAGEMENT,AGRA",
+    "institute_address": "Poiya Hathras Road Agra",
+    "institute_mobile": "9319123100",
+    "institute_email": "cbsmgt812@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

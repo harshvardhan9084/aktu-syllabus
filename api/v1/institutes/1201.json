@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1201",
+    "institute_name": "Faculty of Pharmacy AKTU",
+    "institute_address": "Vistar Yojna, AKTU CDRI Rd, Naya Khera, Jankipuram, Lucknow, Uttar Pradesh",
+    "institute_mobile": "8004914102",
+    "institute_email": "registrar@aktu.ac.in",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "673",
+    "institute_name": "ITM SCHOOL OF MANAGEMENT,LUCKNOW",
+    "institute_address": "NH-24, Mampur Bana, Sitapur Road, Bakshi Ka Talab, Lucknow - 226202",
+    "institute_mobile": "9792740002",
+    "institute_email": "itmlko@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

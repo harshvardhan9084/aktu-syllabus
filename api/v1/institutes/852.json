@@ -1,0 +1,31 @@
+{
+  "data": {
+    "institute_code": "852",
+    "institute_name": "METRO COLLEGE OF HEALTH SCIENCES & RESEARCH,GAUTAM BUDDH NAGAR",
+    "institute_address": "PLOT NO 41, KNOWLEDGE PARK III",
+    "institute_mobile": "880044862",
+    "institute_email": "director-edu@metrocollege.in",
+    "course_count_declared": 4,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmceutical Chemistry",
+          "Pharmacology"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

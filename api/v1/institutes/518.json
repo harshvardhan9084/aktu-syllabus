@@ -1,0 +1,34 @@
+{
+  "data": {
+    "institute_code": "518",
+    "institute_name": "SSLD VARSHNEY ENGINEERING COLLEGE,ALIGARH",
+    "institute_address": "13KM stone Aligarh-Kanpur G.T. Road N.H.-91 Aligarh",
+    "institute_mobile": "9639008181",
+    "institute_email": "ssldvcse@gmail.com",
+    "course_count_declared": 7,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Electrical & Electronics Engineering",
+          "Mechanical Engineering",
+          "Computer Science And Engineering(Data Science)"
+        ]
+      },
+      {
+        "course": "B Voc",
+        "branches": [
+          "Automobile Servicing",
+          "Production Technology",
+          "Software Development"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

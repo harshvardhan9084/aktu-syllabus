@@ -1,0 +1,29 @@
+{
+  "data": {
+    "institute_code": "200",
+    "institute_name": "MAHARANA PRATAP COLLEGE OF PHARMACY,KANPUR",
+    "institute_address": "Kothi Mandhana Kanpur",
+    "institute_mobile": "9889478719",
+    "institute_email": "vikramsahuknp@gmail.com",
+    "course_count_declared": 2,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmacology"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

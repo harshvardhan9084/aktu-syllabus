@@ -1,0 +1,43 @@
+{
+  "data": {
+    "institute_code": "054",
+    "institute_name": "BABU BANARASI DAS INSTITUTE OF TECHNOLOGY AND MANAGEMENT, LUCKNOW",
+    "institute_address": "Sector-I, Dr. Akhilesh Das Nagar, Faizabad Road, Lucknow - 226028",
+    "institute_mobile": "9889004035",
+    "institute_email": "director@bbdnitm.ac.in",
+    "course_count_declared": 11,
+    "courses": [
+      {
+        "course": "Master of Technology",
+        "branches": [
+          "Production Engineering"
+        ]
+      },
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Information Technology",
+          "Electrical Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Computer Science and Engineering (Artificial Intelligence)",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+          "Computer Science And Engineering(Data Science)"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 3
+  }
+}

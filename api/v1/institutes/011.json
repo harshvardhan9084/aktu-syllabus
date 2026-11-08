@@ -1,0 +1,35 @@
+{
+  "data": {
+    "institute_code": "011",
+    "institute_name": "UNITED INSTITUTE OF MANAGEMENT,ALLAHABAD",
+    "institute_address": "Allahabad-211010",
+    "institute_mobile": "8601914548",
+    "institute_email": "kkmalviya@united.ac.in",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "MBA(Integrated)",
+        "branches": [
+          "MBA(Integrated)"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 3
+  }
+}

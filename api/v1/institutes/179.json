@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "179",
+    "institute_name": "JEEVAN DEEP INSTITUTE OF MANAGEMENT & TECHNOLOGY,VARANASI",
+    "institute_address": "BARALAL PUR CHANDMARI POST LAMAHI VARANASI 221007",
+    "institute_mobile": "7080202024",
+    "institute_email": "jdemtvns@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

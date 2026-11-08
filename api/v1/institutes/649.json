@@ -1,0 +1,34 @@
+{
+  "data": {
+    "institute_code": "649",
+    "institute_name": "MG INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
+    "institute_address": "Lucknow",
+    "institute_mobile": "8189000868",
+    "institute_email": "registrar@mgimt.edu.in",
+    "course_count_declared": 7,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical Engineering",
+          "Mechanical Engineering",
+          "Biotechnology",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)"
+        ]
+      },
+      {
+        "course": "Bachelor of Technology Working Professional",
+        "branches": [
+          "Computer Science and Engineering"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

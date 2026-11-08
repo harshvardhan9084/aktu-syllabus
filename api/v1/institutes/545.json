@@ -1,0 +1,25 @@
+{
+  "data": {
+    "institute_code": "545",
+    "institute_name": "JAHANGIRABAD EDUCATIONAL TRUST'S GROUP OF INSTITUTIONS, FACULTY OF ENGINEERING,BARABANKI",
+    "institute_address": "Jahangirabad Raj Barabanki",
+    "institute_mobile": "9889540890",
+    "institute_email": "info@jit.edu.in",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Electrical Engineering",
+          "Artificial Intelligence And Machine Learning"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

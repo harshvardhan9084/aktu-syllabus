@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "926",
+    "institute_name": "MATA DULARI DEVI PHARMACY COLLEGE , AZAMGARH",
+    "institute_address": "VILL – PHOOLPUR, POST - PHOOLPUR, DISTT - AZAMGARH (U.P.)",
+    "institute_mobile": "9319531144",
+    "institute_email": "matadularidevipharmacycollege@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

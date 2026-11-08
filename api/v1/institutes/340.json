@@ -1,0 +1,48 @@
+{
+  "data": {
+    "institute_code": "340",
+    "institute_name": "VIVEKANANDA COLLEGE OF TECHNOLOGY & MANAGEMENT,ALIGARH",
+    "institute_address": "Aligarh",
+    "institute_mobile": "9837054588",
+    "institute_email": "vctmaligarh@gmail.com",
+    "course_count_declared": 11,
+    "courses": [
+      {
+        "course": "Master of Technology",
+        "branches": [
+          "Production Engineering",
+          "Structural Engineering"
+        ]
+      },
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Information Technology",
+          "Electrical Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Agricultural Engineering"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "branches": [
+          "MCA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1119",
+    "institute_name": "CHAUDHARY COLLEGE OF PHARMACY,AMBEDKAR NAGAR",
+    "institute_address": "VILLAGE & POST- BHEETI, TEHSIL- BHEETI, DISTRICT- AMBEDKAR NAGAR",
+    "institute_mobile": "9918620843",
+    "institute_email": "ccpharmacy2019@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

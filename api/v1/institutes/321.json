@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "321",
+    "institute_name": "TRANSLAM INSTITUTE OF TECHNOLOGY & MANAGEMENT,MEERUT",
+    "institute_address": "RAJPURA MAWANA ROAD MEERUT",
+    "institute_mobile": "9411983829",
+    "institute_email": "btech@translam.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

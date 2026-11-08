@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "909",
+    "institute_name": "MAA BHAGWATI COLLEGE OF PHARMACY , LUCKNOW",
+    "institute_address": "SATRIKH RAOD, NEAR INDIRA CANAL, JUGGAUR, CHINHAT LUCKNOW-226028",
+    "institute_mobile": "9415139460",
+    "institute_email": "mbsstlko@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

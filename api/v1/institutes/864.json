@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "864",
+    "institute_name": "TRC MAHAVIDYALAYA, DEPARTMENT OF PHARMACY,BARABANKI",
+    "institute_address": "VASUDEV NAGAR, SATRIKH, BARABANKI-225122",
+    "institute_mobile": "7376414141",
+    "institute_email": "directortrcp@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

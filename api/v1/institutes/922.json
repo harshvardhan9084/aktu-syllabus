@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "922",
+    "institute_name": "S.S.S. COLLEGE OF PHARMACY , AZAMGARH",
+    "institute_address": "VILLAGE- KHORRAMPUR POST- BELAUN",
+    "institute_mobile": "953311836",
+    "institute_email": "ssscazm@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

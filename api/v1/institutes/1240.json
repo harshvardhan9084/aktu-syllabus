@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1240",
+    "institute_name": "S V M PHARMACY COLLEGE",
+    "institute_address": "SARAI SULTANI, RANIGANJ, PRATAPGARH U.P 230304",
+    "institute_mobile": "8707641032",
+    "institute_email": "svmpcrng@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

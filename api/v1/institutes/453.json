@@ -1,0 +1,30 @@
+{
+  "data": {
+    "institute_code": "453",
+    "institute_name": "KUNWAR HARIBANSH SINGH COLLEGE OF PHARMACY,JAUNPUR",
+    "institute_address": "Jaunpur",
+    "institute_mobile": "9415287727",
+    "institute_email": "chairman.khs@gmail.com",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmacogonosy"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

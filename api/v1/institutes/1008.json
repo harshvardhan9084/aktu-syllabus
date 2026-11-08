@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "1008",
+    "institute_name": "R.G. COLLEGE OF PHARMACY , HATHRAS",
+    "institute_address": "MAMOTA KHURD, POST SHAHPUR, SASNI DISTT - HATHRAS",
+    "institute_mobile": "9997416276",
+    "institute_email": "rgpharmacycollege@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

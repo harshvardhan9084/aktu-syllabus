@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "797",
+    "institute_name": "ADHUNIK INSTITUTE OF PRODUCTIVITY MANAGEMENT & RESEARCH,GHAZIABAD",
+    "institute_address": "9 Km from New Ghaziabad Metro Station, NH-58, Delhi Meerut Road, Duhai, GHaziabad, Uttar Pradesh PIN-201206",
+    "institute_mobile": "9045252619",
+    "institute_email": "adhunikinstitute@yahoo.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

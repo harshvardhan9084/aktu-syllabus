@@ -1,0 +1,25 @@
+{
+  "data": {
+    "institute_code": "737",
+    "institute_name": "RAJKIYA ENGINEERING COLLEGE,AMBEDKAR NAGAR",
+    "institute_address": "Ambedkar Nagar",
+    "institute_mobile": "9451412201",
+    "institute_email": "director@recabn.ac.in",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Civil Engineering",
+          "Information Technology",
+          "Electrical Engineering"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "957",
+    "institute_name": "LOTUS INSTITUTE OF PHARMACY , BAREILLY",
+    "institute_address": "16 KM BAREILLY-LUCKNOW ROAD, BAREILLY - 243123 (UP)",
+    "institute_mobile": "9639440831",
+    "institute_email": "lotus.bly@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "institute_code": "576",
+    "institute_name": "CSM GROUP OF INSTITUTIONS,FACULTY OF MANAGEMENT,ALLAHABAD",
+    "institute_address": "8th MILE STONE REWA ROAD, NEAR YAMUNA DWAR, OPPOSITE RELIANCE PETROL PUMP, IRADATGANJ, PRAYAGRAJ",
+    "institute_mobile": "9839148580",
+    "institute_email": "CSMGOI@GMAIL.COM",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 1
+  }
+}

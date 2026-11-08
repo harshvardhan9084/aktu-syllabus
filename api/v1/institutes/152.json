@@ -1,0 +1,32 @@
+{
+  "data": {
+    "institute_code": "152",
+    "institute_name": "MANGALMAY INSTITUTE OF MANAGEMENT AND TECHNOLOGY,GAUTAM BUDDH NAGAR",
+    "institute_address": "Plot No. 8 & 9, Knowledge Park-II, Greater Noida, U.P",
+    "institute_mobile": "9650020041",
+    "institute_email": "registrar@mangalmay.org",
+    "course_count_declared": 5,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "branches": [
+          "Computer Science and Engineering",
+          "Electronics and Telecommunication Engineering",
+          "Electronic And Computer Engineering",
+          "Computer Science and Engineering (Artificial Intelligence)"
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "branches": [
+          "MBA"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

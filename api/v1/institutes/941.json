@@ -1,0 +1,30 @@
+{
+  "data": {
+    "institute_code": "941",
+    "institute_name": "SAGAR COLLEGE OF PHARMACY , BARABANKI",
+    "institute_address": "NH28 LUCKNOW FAIZABAD BY PASS NEAR RASAULI",
+    "institute_mobile": "9415049599",
+    "institute_email": "executive@sagar.ac.in",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmacology"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}

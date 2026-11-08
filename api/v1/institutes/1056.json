@@ -1,0 +1,30 @@
+{
+  "data": {
+    "institute_code": "1056",
+    "institute_name": "KINETIC INSTITUTE, DEPARTMENT OF PHARMACY , SHAHJAHANPUR",
+    "institute_address": "260/1, VILLEGE-PERU, LAND MARK- MAHUAPATHAK CHAURAHA, SAQUILIA ROAD",
+    "institute_mobile": "8755597799",
+    "institute_email": "vivekmpharmnew@gmail.com",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmacology"
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.0.0",
+    "generated_at": "2026-11-08T18:49:58+05:30",
+    "count": 2
+  }
+}
