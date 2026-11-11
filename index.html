@@ -3,35 +3,691 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>AKTU Syllabus Data API — v1</title>
+<title>AKTU Data Explorer</title>
+<meta name="description" content="Explore institutes affiliated to Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow — courses, branches and contacts, powered by the static JSON API in this repo.">
 <style>
- body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;max-width:900px;
-      margin:2rem auto;padding:0 1rem;color:#1a1a2e;line-height:1.55}
- h1{font-size:1.55rem} code{background:#f4f4f6;border-radius:6px;padding:.1rem .35rem}
- table{border-collapse:collapse;width:100%;margin:1rem 0}
- th,td{text-align:left;padding:.45rem .6rem;border-bottom:1px solid #e4e4ea}
- th{background:#f8f8fb} a{color:#0b57d0;text-decoration:none}
- a:hover{text-decoration:underline} .muted{color:#666}
+:root{
+  --bg:#f5f6f8; --surface:#ffffff; --surface2:#eef0f4; --text:#1b1f27; --muted:#5b6472;
+  --border:#dfe3ea; --accent:#0b57d0; --accent-soft:#e8f0fe;
+  --radius:12px; --shadow:0 1px 3px rgba(16,24,40,.08);
+}
+[data-theme="dark"]{
+  --bg:#0e1116; --surface:#161a22; --surface2:#1d222c; --text:#e7eaf0; --muted:#98a2b3;
+  --border:#2a303c; --accent:#8ab4f8; --accent-soft:#1e2a3f;
+  --shadow:0 1px 3px rgba(0,0,0,.4);
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:15px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,"Noto Sans",sans-serif}
+a{color:var(--accent);text-decoration:none} a:hover{text-decoration:underline}
+#topbar{position:sticky;top:0;z-index:20;display:flex;align-items:center;gap:1rem;padding:.6rem 1rem;background:var(--surface);border-bottom:1px solid var(--border);flex-wrap:wrap}
+.brand a{font-weight:700;font-size:1.05rem;color:var(--text)} .brand span{color:var(--accent)}
+.badge{font-size:.72rem;border:1px solid var(--border);border-radius:999px;padding:.05rem .5rem;color:var(--muted)}
+#nav{display:flex;gap:.25rem;flex-wrap:wrap}
+#nav a{padding:.35rem .7rem;border-radius:999px;color:var(--muted);font-weight:500}
+#nav a.active{background:var(--accent-soft);color:var(--accent)}
+#nav a:hover{text-decoration:none;color:var(--text)}
+.tools{margin-left:auto;display:flex;gap:.5rem;align-items:center}
+button,select,input{font:inherit;color:inherit}
+.btn{border:1px solid var(--border);background:var(--surface);border-radius:8px;padding:.35rem .7rem;cursor:pointer}
+.btn:hover{background:var(--surface2)}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:#fff}
+.btn.small{padding:.15rem .5rem;font-size:.82rem}
+input.search,select{border:1px solid var(--border);border-radius:8px;padding:.4rem .6rem;background:var(--surface)}
+input.search{min-width:230px}
+main{max-width:1180px;margin:0 auto;padding:1.1rem 1rem 3rem}
+h1{font-size:1.35rem;margin:.2rem 0 .6rem} h2{font-size:1.05rem;margin:1.2rem 0 .4rem}
+.muted{color:var(--muted)} .small{font-size:.85rem}
+.countline{display:flex;flex-wrap:wrap;gap:.6rem;align-items:center;margin:.7rem 0}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:.7rem}
+.card{display:block;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:.75rem .85rem;color:inherit;box-shadow:var(--shadow)}
+.card:hover{border-color:var(--accent);text-decoration:none}
+.card h3{margin:.25rem 0;font-size:.98rem;line-height:1.35}
+.card-top{display:flex;justify-content:space-between;align-items:center;gap:.4rem}
+.code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.78rem;color:var(--accent);background:var(--accent-soft);border-radius:6px;padding:.05rem .4rem}
+.tag{font-size:.72rem;background:var(--surface2);border-radius:999px;padding:.08rem .5rem;color:var(--muted)}
+.counts{font-size:.82rem;color:var(--muted)} .preview{font-size:.8rem;color:var(--muted);margin-top:.3rem}
+.tblwrap{overflow:auto;max-height:72vh;border-radius:var(--radius);border:1px solid var(--border)}
+table{border-collapse:collapse;width:100%;background:var(--surface)}
+th,td{text-align:left;padding:.5rem .65rem;border-bottom:1px solid var(--border);vertical-align:top}
+th{background:var(--surface2);font-size:.8rem;text-transform:uppercase;letter-spacing:.03em;color:var(--muted);position:sticky;top:0}
+tr:last-child td{border-bottom:none}
+.chips{display:flex;flex-wrap:wrap;gap:.35rem;margin:.4rem 0}
+.chip{border:1px solid var(--border);background:var(--surface);border-radius:999px;padding:.22rem .6rem;font-size:.8rem;cursor:pointer}
+.chip .n{color:var(--muted);font-size:.72rem;margin-left:.2rem}
+.chip.on{background:var(--accent-soft);border-color:var(--accent);color:var(--accent)}
+details.panel,details.course{border:1px solid var(--border);border-radius:var(--radius);background:var(--surface);margin:.5rem 0}
+details.panel summary,details.course summary{cursor:pointer;padding:.6rem .8rem;font-weight:600;list-style:none;display:flex;gap:.5rem;align-items:center}
+details.panel summary::before,details.course summary::before{content:"▸";color:var(--muted);transition:transform .15s}
+details[open]>summary::before{transform:rotate(90deg)}
+details.panel .body{padding:.2rem .9rem .8rem}
+.bchip{display:inline-block;background:var(--surface2);border-radius:6px;padding:.12rem .5rem;margin:.15rem .25rem .15rem 0;font-size:.82rem}
+.tinst{border:1px solid var(--border);border-radius:10px;background:var(--surface);margin:.35rem 0}
+.tinst>summary{cursor:pointer;padding:.45rem .6rem;display:flex;gap:.5rem;align-items:baseline;border-bottom:1px solid var(--border)}
+.tinst .tc{padding:.35rem .8rem .5rem;border-bottom:1px dashed var(--border)}
+.tinst .tc:last-child{border-bottom:none}
+.tc b{font-size:.86rem;color:var(--muted);font-weight:600;display:block;margin-top:.25rem}
+.actions{display:flex;flex-wrap:wrap;gap:.45rem;margin:.6rem 0}
+.pager{display:flex;gap:.5rem;align-items:center;justify-content:center;margin:1rem 0;flex-wrap:wrap}
+.pager .btn[disabled]{opacity:.45;cursor:default}
+.kv{display:grid;grid-template-columns:110px 1fr;gap:.3rem .8rem;margin:.5rem 0}
+.kv dt{color:var(--muted);font-size:.85rem} .kv dd{margin:0}
+pre.json{background:var(--surface2);border:1px solid var(--border);border-radius:var(--radius);padding:.8rem;overflow:auto;max-height:60vh;font-size:.8rem}
+.notice{background:var(--accent-soft);border:1px solid var(--border);border-radius:var(--radius);padding:.7rem .9rem;margin:.6rem 0;font-size:.9rem}
+.fatal{max-width:560px;margin:3rem auto;text-align:center}
+.loading{color:var(--muted);padding:2rem 0;text-align:center}
+#toast{position:fixed;bottom:1.2rem;left:50%;transform:translateX(-50%);background:var(--text);color:var(--bg);padding:.5rem .9rem;border-radius:8px;font-size:.9rem;z-index:50;box-shadow:var(--shadow)}
+#foot{max-width:1180px;margin:0 auto;padding:1rem;border-top:1px solid var(--border);color:var(--muted);font-size:.82rem;display:flex;gap:.4rem;flex-wrap:wrap}
+@media (max-width:640px){ input.search{min-width:150px;width:100%} .kv{grid-template-columns:90px 1fr} }
+:where(a,button,select,input,summary):focus-visible{outline:2px solid var(--accent);outline-offset:1px}
 </style>
 </head>
 <body>
-<h1>AKTU Syllabus Data API <span class="muted">v1.0.0</span></h1>
-<p>Static JSON API for the institutes affiliated to Dr. A.P.J. Abdul Kalam Technical
-University (AKTU), Lucknow, and their course/branch offerings. Generated 08 Nov 2026, 18:49 IST.</p>
-<p><b>784</b> institutes · <b>26</b> courses ·
-<b>2571</b> branch offerings</p>
-<table>
-<tr><th>Endpoint</th><th>Returns</th></tr>
-<tr><td><a href="api/v1/index.json">/api/v1/index.json</a></td><td>manifest (start here)</td></tr>
-<tr><td><a href="api/v1/tree.json">/api/v1/tree.json</a></td><td>whole dataset, nested tree</td></tr>
-<tr><td><a href="api/v1/institutes.json">/api/v1/institutes.json</a></td><td>all institutes</td></tr>
-<tr><td><a href="api/v1/institutes/002.json">/api/v1/institutes/{institute_code}.json</a></td><td>one institute (example)</td></tr>
-<tr><td><a href="api/v1/branches.json">/api/v1/branches.json</a></td><td>flat offerings list</td></tr>
-<tr><td><a href="api/v1/courses.json">/api/v1/courses.json</a></td><td>course taxonomy</td></tr>
-<tr><td><a href="api/v1/courses/bachelor-of-technology.json">/api/v1/courses/{slug}.json</a></td><td>one course (example)</td></tr>
-<tr><td><a href="api/v1/integrity.json">/api/v1/integrity.json</a></td><td>source cross-check report</td></tr>
-</table>
-<p class="muted">Data published verbatim from <code>data/raw</code> CSVs — nothing hand-fixed.
-Docs in <code>README.md</code>. Bases: GitHub Pages · raw.githubusercontent.com · jsDelivr CDN.</p>
+<header id="topbar">
+  <div class="brand"><a href="#/institutes">AKTU <span>Data Explorer</span></a> <span id="ver-badge" class="badge">…</span></div>
+  <nav id="nav">
+    <a href="#/institutes" data-nav="institutes">Institutes</a>
+    <a href="#/courses" data-nav="courses">Courses</a>
+    <a href="#/tree" data-nav="tree">Tree</a>
+    <a href="#/api" data-nav="api">API</a>
+  </nav>
+  <div class="tools">
+    <button id="theme-btn" class="btn small" title="Toggle light/dark theme">◐</button>
+    <a class="btn small" href="https://github.com/harshvardhan9084/aktu-syllabus" target="_blank" rel="noopener">GitHub</a>
+  </div>
+</header>
+<main id="app"><div class="loading">Loading…</div></main>
+<footer id="foot"></footer>
+<div id="toast" hidden></div>
+<script>
+'use strict';
+/* =================================================================
+   AKTU Data Explorer — single-file SPA over the static JSON API.
+   Routes: #/institutes  #/i/{code}  #/courses  #/c/{slug}  #/tree  #/api
+   All data is fetched relatively, so the app works from GitHub Pages,
+   jsDelivr, or any static server of this repo root. No dependencies.
+   ================================================================= */
+const API = 'api/v1/';
+const $  = (s, el) => (el || document).querySelector(s);
+const $$ = (s, el) => Array.from((el || document).querySelectorAll(s));
+const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g,
+  c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const fmt = n => Number(n || 0).toLocaleString('en-IN');
+const debounce = (fn, ms) => { let t; return (...a) => { clearTimeout(t); t = setTimeout(() => fn(...a), ms || 220); }; };
+
+/* ---------- data layer (in-memory cache) ---------- */
+const cache = new Map();
+async function getJSON(path){
+  if (cache.has(path)) return cache.get(path);
+  const res = await fetch(path, { headers: { 'Accept': 'application/json' } });
+  if (!res.ok) throw new Error('HTTP ' + res.status + ' — ' + path);
+  const data = await res.json();
+  cache.set(path, data);
+  return data;
+}
+
+/* ---------- global state ---------- */
+let IDX = null, INSTITUTES = [], BYCODE = new Map(), COURSES = [], SLUG = new Map();
+let TREE = null, TREEMAP = new Map(), treePromise = null;
+let F = { q:'', courses:new Set(), city:'', bq:'', sort:'code', dir:'asc', view:'cards', per:50, page:1 };
+
+function ensureTree(){
+  if (TREE) return Promise.resolve(TREE);
+  if (!treePromise) treePromise = getJSON(API + 'tree.json').then(d => {
+    TREE = d.data;
+    TREE.forEach(t => {
+      const courses = new Set(), branches = [];
+      (t.courses || []).forEach(c => { courses.add(c.course); (c.branches || []).forEach(b => branches.push(b)); });
+      TREEMAP.set(t.institute_code, { courses, branches });
+    });
+    return TREE;
+  });
+  return treePromise;
+}
+const treeCourses  = code => { const t = TREEMAP.get(code); return t ? t.courses : null; };
+const treeBranches = code => { const t = TREEMAP.get(code); return t ? t.branches : []; };
+
+/* ---------- misc ui helpers ---------- */
+let toastT;
+function toast(msg){
+  const t = $('#toast'); t.textContent = msg; t.hidden = false;
+  clearTimeout(toastT); toastT = setTimeout(() => { t.hidden = true; }, 1900);
+}
+async function copyText(s, label){
+  try { await navigator.clipboard.writeText(s); }
+  catch (e) {
+    const ta = document.createElement('textarea'); ta.value = s;
+    document.body.appendChild(ta); ta.select();
+    try { document.execCommand('copy'); } catch (e2) {}
+    ta.remove();
+  }
+  toast(label || 'Copied to clipboard');
+}
+function absURL(p){ return new URL(p, location.href).href; }
+function download(name, text, type){
+  const blob = new Blob([text], { type: type || 'application/json;charset=utf-8' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob); a.download = name; a.click();
+  setTimeout(() => URL.revokeObjectURL(a.href), 5000);
+  toast('Downloaded ' + name);
+}
+function csvDownload(rows, cols, name){
+  const q = v => { v = String(v == null ? '' : v); return /[",\n\r]/.test(v) ? '"' + v.replace(/"/g, '""') + '"' : v; };
+  const lines = ['\ufeff' + cols.map(c => q(c.h)).join(',')];
+  rows.forEach(r => lines.push(cols.map(c => q(typeof c.v === 'function' ? c.v(r) : r[c.k])).join(',')));
+  download(name, lines.join('\r\n'), 'text/csv;charset=utf-8');
+}
+/* location derived from the name's trailing token (e.g. ",AGRA") — display-only */
+function deriveCity(name){
+  const parts = String(name || '').split(',').map(s => s.trim()).filter(Boolean);
+  if (parts.length < 2) return '';
+  let c = parts[parts.length - 1];
+  if (/^(u\.?p\.?|uttar pradesh|india)$/i.test(c)) c = parts[parts.length - 2] || '';
+  c = c.replace(/\d{3,}.*$/, '').trim();
+  return /^[A-Za-z .&()'-]{3,}$/.test(c) ? c.toUpperCase() : '';
+}
+const loading = msg => '<div class="loading">' + esc(msg || 'Loading…') + '</div>';
+function errBox(e){
+  return '<div class="fatal"><h2>Something went wrong</h2><p class="muted">' + esc(e && e.message || e) +
+    '</p><p><a class="btn" href="#/institutes">← Back to institutes</a></p></div>';
+}
+
+/* ---------- theme ---------- */
+(function(){
+  const saved = localStorage.getItem('aktu-theme');
+  document.documentElement.dataset.theme = saved ||
+    (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+  $('#theme-btn').addEventListener('click', () => {
+    const cur = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';
+    document.documentElement.dataset.theme = cur;
+    localStorage.setItem('aktu-theme', cur);
+  });
+})();
+
+/* ---------- router ---------- */
+function parseHash(){
+  const h = location.hash.replace(/^#/, '') || '/institutes';
+  const qi = h.indexOf('?');
+  const path = qi >= 0 ? h.slice(0, qi) : h;
+  return { seg: path.split('/').filter(Boolean),
+           params: new URLSearchParams(qi >= 0 ? h.slice(qi + 1) : '') };
+}
+async function render(){
+  const { seg, params } = parseHash();
+  const app = $('#app');
+  const top = seg[0] || 'institutes';
+  $$('#nav a').forEach(a => a.classList.toggle('active',
+    a.dataset.nav === top || (top === 'i' && a.dataset.nav === 'institutes') ||
+    (top === 'c' && a.dataset.nav === 'courses')));
+  try {
+    if (top === 'i' && seg[1])      return await viewInstitute(decodeURIComponent(seg[1]), app);
+    if (top === 'institutes')       return viewInstitutes(params, app);
+    if (top === 'c' && seg[1])      return await viewCourse(decodeURIComponent(seg[1]), params, app);
+    if (top === 'courses')          return viewCourses(params, app);
+    if (top === 'tree')             return await viewTree(params, app);
+    if (top === 'api')              return viewApi(app);
+    location.hash = '#/institutes';
+  } catch (e) { app.innerHTML = errBox(e); }
+}
+
+/* =================================================================
+   INSTITUTES  #/institutes?q&c&city&bq&sort&dir&view&per&page
+   ================================================================= */
+function readF(p){
+  F.q      = p.get('q') || '';
+  F.courses = new Set((p.get('c') || '').split(',').filter(Boolean));
+  F.city   = p.get('city') || '';
+  F.bq     = p.get('bq') || '';
+  F.sort   = ['code','name','courses','branches'].includes(p.get('sort')) ? p.get('sort') : 'code';
+  F.dir    = p.get('dir') === 'desc' ? 'desc' : 'asc';
+  F.view   = p.get('view') === 'table' ? 'table' : 'cards';
+  F.per    = ['25','50','100','0'].includes(p.get('per')) ? +p.get('per') : 50;
+  F.page   = Math.max(1, parseInt(p.get('page') || '1', 10) || 1);
+}
+function pushF(keepPage){
+  const p = new URLSearchParams();
+  if (F.q) p.set('q', F.q);
+  if (F.courses.size) p.set('c', Array.from(F.courses).join(','));
+  if (F.city) p.set('city', F.city);
+  if (F.bq) p.set('bq', F.bq);
+  if (F.sort !== 'code') p.set('sort', F.sort);
+  if (F.dir !== 'asc') p.set('dir', F.dir);
+  if (F.view !== 'cards') p.set('view', F.view);
+  if (F.per !== 50) p.set('per', F.per);
+  if (!keepPage && F.page > 1) p.set('page', F.page);
+  const qs = p.toString();
+  history.replaceState(null, '', '#/institutes' + (qs ? '?' + qs : ''));
+  renderInstResults();
+}
+function instRowsFiltered(){
+  let rows = INSTITUTES;
+  const q = F.q.trim().toLowerCase();
+  if (q) rows = rows.filter(r =>
+    r.institute_code.toLowerCase().includes(q) ||
+    r.institute_name.toLowerCase().includes(q) ||
+    (r.institute_address || '').toLowerCase().includes(q) ||
+    (r.institute_email || '').toLowerCase().includes(q) ||
+    (r.institute_mobile || '').toLowerCase().includes(q));
+  if (F.city) rows = rows.filter(r => r._city === F.city);
+  if (F.courses.size) rows = rows.filter(r => {
+    const set = treeCourses(r.institute_code);
+    if (!set) return false;
+    for (const slug of F.courses){ const n = SLUG.get(slug); if (n && set.has(n)) return true; }
+    return false;
+  });
+  const bq = F.bq.trim().toLowerCase();
+  if (bq) rows = rows.filter(r => treeBranches(r.institute_code).some(b => b.toLowerCase().includes(bq)));
+  const sorters = {
+    code:     (a,b) => a.institute_code.localeCompare(b.institute_code),
+    name:     (a,b) => a.institute_name.localeCompare(b.institute_name),
+    courses:  (a,b) => (b.course_count - a.course_count) || a.institute_code.localeCompare(b.institute_code),
+    branches: (a,b) => (b.branch_count - a.branch_count) || a.institute_code.localeCompare(b.institute_code)
+  };
+  rows = rows.slice().sort(sorters[F.sort]);
+  if (F.dir === 'desc') rows.reverse();
+  return rows;
+}
+function viewInstitutes(params, app){
+  readF(params);
+  document.title = 'Institutes — AKTU Data Explorer';
+  const cities = new Map();
+  INSTITUTES.forEach(r => { const c = r._city; if (c) cities.set(c, (cities.get(c) || 0) + 1); });
+  const cityList = Array.from(cities).sort((a,b) => b[1] - a[1] || a[0].localeCompare(b[0]));
+  const c = IDX.counts;
+  app.innerHTML =
+    '<h1>Institutes <span class="muted small">' + fmt(c.institutes) + ' affiliated institutes · ' +
+      fmt(c.unique_courses) + ' courses · ' + fmt(c.branch_rows) + ' offerings</span></h1>' +
+    '<div class="countline">' +
+      '<input id="f-q" class="search" type="search" placeholder="Search name, address, email, code…  ( / )" value="' + esc(F.q) + '" aria-label="Search institutes">' +
+      '<button id="f-adv-btn" class="btn">Filters ' + (F.courses.size || F.city || F.bq ? '●' : '') + '</button>' +
+      '<span class="muted small">Defaults are viewer-friendly — open Filters for full control.</span>' +
+    '</div>' +
+    '<details id="f-adv" class="panel"' + (F.courses.size || F.city || F.bq ? ' open' : '') + '>' +
+      '<summary>Advanced filters &amp; power controls</summary><div class="body">' +
+        '<b class="small">Courses</b><div id="f-chips" class="chips">' +
+          COURSES.map(x => '<button class="chip' + (F.courses.has(x.slug) ? ' on' : '') + '" data-slug="' + esc(x.slug) + '">' +
+            esc(x.course) + '<span class="n">' + fmt(x.institute_count) + '</span></button>').join('') +
+        '</div>' +
+        '<div class="countline">' +
+          '<label class="small muted">Location (derived from name)<br><select id="f-city">' +
+            '<option value="">All locations</option>' +
+            cityList.map(x => '<option value="' + esc(x[0]) + '"' + (F.city === x[0] ? ' selected' : '') + '>' +
+              esc(x[0]) + ' (' + x[1] + ')</option>').join('') +
+          '</select></label>' +
+          '<label class="small muted">Branch keyword<br><input id="f-bq" class="search" style="min-width:200px" type="search" placeholder="e.g. artificial, civil, pharma…" value="' + esc(F.bq) + '"></label>' +
+          '<label class="small muted">Sort by<br><select id="f-sort">' +
+            '<option value="code">Institute code</option><option value="name">Name</option>' +
+            '<option value="courses">Course count</option><option value="branches">Branch count</option>' +
+          '</select></label>' +
+          '<label class="small muted">Direction<br><select id="f-dir"><option value="asc">Ascending</option><option value="desc">Descending</option></select></label>' +
+        '</div>' +
+        '<div class="actions">' +
+          '<button id="f-csv" class="btn small">⬇ Export filtered institutes (CSV)</button>' +
+          '<button id="f-csv-off" class="btn small">⬇ Export offerings (CSV)</button>' +
+          '<button id="f-share" class="btn small">🔗 Copy share link</button>' +
+          '<button id="f-reset" class="btn small">Reset filters</button>' +
+        '</div>' +
+        '<p class="muted small">Branch keyword &amp; course filters build an offering index from tree.json on first use (~350 KB, cached). Exports reflect the current filter, not just the visible page.</p>' +
+      '</div>' +
+    '</details>' +
+    '<div id="inst-results"></div>';
+  $('#f-q').addEventListener('input', debounce(e => { F.q = e.target.value; pushF(); }));
+  $('#f-city').addEventListener('change', e => { F.city = e.target.value; pushF(); });
+  $('#f-bq').addEventListener('input', debounce(e => { F.bq = e.target.value; pushF(); }));
+  $('#f-sort').value = F.sort; $('#f-dir').value = F.dir;
+  $('#f-sort').addEventListener('change', e => { F.sort = e.target.value; pushF(); });
+  $('#f-dir').addEventListener('change', e => { F.dir = e.target.value; pushF(); });
+  $('#f-adv-btn').addEventListener('click', () => { const d = $('#f-adv'); d.open = !d.open; });
+  $$('#f-chips .chip').forEach(ch => ch.addEventListener('click', () => {
+    const s = ch.dataset.slug;
+    if (F.courses.has(s)) F.courses.delete(s); else F.courses.add(s);
+    ch.classList.toggle('on'); pushF();
+  }));
+  $('#f-reset').addEventListener('click', () => {
+    F = { q:'', courses:new Set(), city:'', bq:'', sort:'code', dir:'asc', view:'cards', per:50, page:1 };
+    render();
+  });
+  $('#f-share').addEventListener('click', () => copyText(location.href, 'Share link copied'));
+  $('#f-csv').addEventListener('click', async () => {
+    if (F.courses.size || F.bq) await ensureTree();
+    const rows = instRowsFiltered();
+    csvDownload(rows, [
+      { h:'institute_code', k:'institute_code' }, { h:'institute_name', k:'institute_name' },
+      { h:'location_derived', k:'_city' }, { h:'institute_address', k:'institute_address' },
+      { h:'institute_mobile', k:'institute_mobile' }, { h:'institute_email', k:'institute_email' },
+      { h:'course_count', k:'course_count' }, { h:'branch_count', k:'branch_count' },
+      { h:'courses', v: r => treeCourses(r.institute_code) ? Array.from(treeCourses(r.institute_code)).join('; ') : '' }
+    ], 'aktu-institutes-filtered.csv');
+  });
+  $('#f-csv-off').addEventListener('click', async () => {
+    await ensureTree();
+    const rows = instRowsFiltered().flatMap(r => {
+      const t = TREEMAP.get(r.institute_code);
+      return TREE.filter(x => x.institute_code === r.institute_code)[0].courses
+        .flatMap(c => c.branches.map(b => ({
+          institute_code: r.institute_code, institute_name: r.institute_name,
+          course: c.course, branch: b })));
+    });
+    csvDownload(rows, [
+      { h:'institute_code', k:'institute_code' }, { h:'institute_name', k:'institute_name' },
+      { h:'course', k:'course' }, { h:'branch', k:'branch' }
+    ], 'aktu-offerings-filtered.csv');
+  });
+  renderInstResults();
+}
+async function renderInstResults(){
+  const zone = $('#inst-results');
+  if (!zone) return;
+  if ((F.courses.size || F.bq) && !TREE){
+    zone.innerHTML = loading('Building offering index (tree.json)…');
+    await ensureTree();
+  }
+  const rows = instRowsFiltered();
+  const per = F.per || rows.length || 1;
+  const pages = Math.max(1, Math.ceil(rows.length / per));
+  if (F.page > pages) F.page = pages;
+  const start = (F.page - 1) * per;
+  const view = rows.slice(start, F.per ? start + F.per : undefined);
+  let body;
+  if (F.view === 'table'){
+    body = '<div class="tblwrap"><table><thead><tr><th>Code</th><th>Institute</th><th>Address</th><th>Courses</th><th>Branches</th></tr></thead><tbody>' +
+      view.map(r => '<tr><td><a class="code" href="#/i/' + encodeURIComponent(r.institute_code) + '">#' + esc(r.institute_code) + '</a></td>' +
+        '<td><a href="#/i/' + encodeURIComponent(r.institute_code) + '">' + esc(r.institute_name) + '</a>' +
+          (r._city ? ' <span class="tag">' + esc(r._city) + '</span>' : '') + '</td>' +
+        '<td class="small muted">' + esc((r.institute_address || '').slice(0, 90)) + '</td>' +
+        '<td>' + fmt(r.course_count) + '</td><td>' + fmt(r.branch_count) + '</td></tr>').join('') +
+      '</tbody></table></div>';
+  } else {
+    body = '<div class="grid">' + view.map(r => {
+      const set = TREE ? treeCourses(r.institute_code) : null;
+      let preview = '';
+      if (set){
+        const names = Array.from(set);
+        preview = '<div class="preview">' + esc(names.slice(0, 4).join(' · ')) +
+          (names.length > 4 ? ' +' + (names.length - 4) + ' more' : '') + '</div>';
+      }
+      return '<a class="card" href="#/i/' + encodeURIComponent(r.institute_code) + '">' +
+        '<div class="card-top"><span class="code">#' + esc(r.institute_code) + '</span>' +
+          (r._city ? '<span class="tag">' + esc(r._city) + '</span>' : '') + '</div>' +
+        '<h3>' + esc(r.institute_name) + '</h3>' +
+        '<div class="counts">' + fmt(r.course_count) + ' courses · ' + fmt(r.branch_count) + ' branches</div>' +
+        preview + '</a>';
+    }).join('') + '</div>';
+  }
+  const pager = pages > 1
+    ? '<div class="pager">' +
+      '<button class="btn small" id="pg-prev"' + (F.page <= 1 ? ' disabled' : '') + '>← Prev</button>' +
+      '<span class="small muted">Page <input id="pg-num" type="number" min="1" max="' + pages + '" value="' + F.page + '" style="width:4.2rem;border:1px solid var(--border);border-radius:6px;padding:.15rem .3rem;background:var(--surface)"> of ' + fmt(pages) + '</span>' +
+      '<button class="btn small" id="pg-next"' + (F.page >= pages ? ' disabled' : '') + '>Next →</button></div>'
+    : '';
+  zone.innerHTML =
+    '<div class="countline"><b>' + fmt(view.length ? start + 1 : 0) + '–' + fmt(start + view.length) +
+      '</b><span class="muted">of ' + fmt(rows.length) + ' matching · ' + fmt(INSTITUTES.length) + ' total</span>' +
+      '<span style="flex:1"></span>' +
+      '<button id="v-cards" class="btn small' + (F.view === 'cards' ? ' primary' : '') + '">Cards</button>' +
+      '<button id="v-table" class="btn small' + (F.view === 'table' ? ' primary' : '') + '">Table</button>' +
+      '<select id="v-per" aria-label="Rows per page"><option value="25"' + (F.per === 25 ? ' selected' : '') + '>25 / page</option>' +
+        '<option value="50"' + (F.per === 50 ? ' selected' : '') + '>50 / page</option>' +
+        '<option value="100"' + (F.per === 100 ? ' selected' : '') + '>100 / page</option>' +
+        '<option value="0"' + (F.per === 0 ? ' selected' : '') + '>All</option></select>' +
+    '</div>' + body + pager;
+  $('#v-cards').addEventListener('click', () => { F.view = 'cards'; pushF(true); });
+  $('#v-table').addEventListener('click', () => { F.view = 'table'; pushF(true); });
+  $('#v-per').addEventListener('change', e => { F.per = +e.target.value; pushF(); });
+  if (pages > 1){
+    $('#pg-prev').addEventListener('click', () => { F.page--; pushF(true); });
+    $('#pg-next').addEventListener('click', () => { F.page++; pushF(true); });
+    $('#pg-num').addEventListener('change', e => {
+      F.page = Math.min(pages, Math.max(1, parseInt(e.target.value, 10) || 1)); pushF(true);
+    });
+  }
+}
+
+/* =================================================================
+   INSTITUTE DETAIL  #/i/{code}
+   ================================================================= */
+async function viewInstitute(code, app){
+  document.title = 'Institute ' + code + ' — AKTU Data Explorer';
+  app.innerHTML = loading('Loading institute ' + code + '…');
+  let d;
+  try { d = (await getJSON(API + 'institutes/' + encodeURIComponent(code) + '.json')).data; }
+  catch (e){ app.innerHTML = errBox(e); return; }
+  const rel = 'api/v1/institutes/' + encodeURIComponent(code) + '.json';
+  const city = deriveCity(d.institute_name);
+  app.innerHTML =
+    '<p class="small"><a href="#/institutes">← All institutes</a></p>' +
+    '<h1>' + esc(d.institute_name) + '</h1>' +
+    '<div class="countline"><span class="code">#' + esc(d.institute_code) + '</span>' +
+      (city ? '<span class="tag">' + esc(city) + '</span>' : '') +
+      '<span class="muted small">' + fmt(d.courses.length) + ' courses · ' +
+        fmt(d.courses.reduce((n, c) => n + c.branches.length, 0)) + ' branches</span></div>' +
+    '<div class="actions">' +
+      '<button class="btn small" id="d-api">Copy API URL</button>' +
+      '<a class="btn small" target="_blank" rel="noopener" href="' + esc(IDX.bases.raw + '/' + rel) + '">Open raw JSON ↗</a>' +
+      '<button class="btn small" id="d-dl">⬇ Download JSON</button>' +
+      '<button class="btn small" id="d-share">🔗 Copy link</button>' +
+    '</div>' +
+    '<div class="panelgrid"><dl class="kv" style="background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:.8rem">' +
+      '<dt>Address</dt><dd>' + (esc(d.institute_address) || '<span class="muted">—</span>') + '</dd>' +
+      '<dt>Mobile</dt><dd>' + (d.institute_mobile ? '<a href="tel:' + esc(d.institute_mobile) + '">' + esc(d.institute_mobile) + '</a>' : '<span class="muted">—</span>') + '</dd>' +
+      '<dt>Email</dt><dd>' + (d.institute_email ? '<a href="mailto:' + esc(d.institute_email) + '">' + esc(d.institute_email) + '</a>' : '<span class="muted">—</span>') + '</dd>' +
+      '<dt>Declared</dt><dd class="small muted">course_count = ' + esc(d.course_count_declared) + ' (as in source extract)</dd>' +
+    '</dl></div>' +
+    '<h2>Courses &amp; branches</h2>' +
+    d.courses.map(c => '<details class="course" open><summary>' + esc(c.course) +
+      ' <span class="muted small">' + c.branches.length + ' branches</span></summary><div class="body">' +
+      c.branches.map(b => '<span class="bchip">' + esc(b) + '</span>').join('') + '</div></details>').join('');
+  $('#d-api').addEventListener('click', () => copyText(absURL(rel), 'API URL copied'));
+  $('#d-dl').addEventListener('click', () =>
+    download('aktu-institute-' + code + '.json', JSON.stringify(d, null, 2)));
+  $('#d-share').addEventListener('click', () => copyText(location.href, 'Link copied'));
+}
+
+/* =================================================================
+   COURSES  #/courses?q     and     #/c/{slug}?q
+   ================================================================= */
+function viewCourses(params, app){
+  document.title = 'Courses — AKTU Data Explorer';
+  let q = (params.get('q') || '').trim();
+  app.innerHTML =
+    '<h1>Courses <span class="muted small">' + fmt(COURSES.length) + ' distinct courses</span></h1>' +
+    '<div class="countline"><input id="c-q" class="search" type="search" placeholder="Filter courses…" value="' + esc(q) + '" aria-label="Filter courses">' +
+      '<button id="c-csv" class="btn small">⬇ Export taxonomy (CSV)</button></div>' +
+    '<div id="course-results"></div>';
+  const paint = () => {
+    const ql = q.toLowerCase();
+    const rows = COURSES.filter(x => !ql || x.course.toLowerCase().includes(ql) || x.slug.includes(ql));
+    $('#course-results').innerHTML =
+      '<div class="tblwrap"><table><thead><tr><th>Course</th><th>Slug</th><th>Institutes</th><th>Branch rows</th></tr></thead><tbody>' +
+      rows.map(x => '<tr><td><a href="#/c/' + encodeURIComponent(x.slug) + '">' + esc(x.course) + '</a></td>' +
+        '<td class="small muted">' + esc(x.slug) + '</td><td>' + fmt(x.institute_count) + '</td><td>' + fmt(x.branch_rows) + '</td></tr>').join('') +
+      '</tbody></table></div>' +
+      (rows.length ? '' : '<p class="muted">No courses match.</p>');
+  };
+  $('#c-q').addEventListener('input', debounce(e => { q = e.target.value; paint(); }));
+  $('#c-csv').addEventListener('click', () => csvDownload(COURSES,
+    [{ h:'course', k:'course' }, { h:'slug', k:'slug' }, { h:'institute_count', k:'institute_count' },
+     { h:'branch_rows', k:'branch_rows' }], 'aktu-courses.csv'));
+  paint();
+}
+async function viewCourse(slug, params, app){
+  app.innerHTML = loading('Loading course…');
+  let d;
+  try { d = (await getJSON(API + 'courses/' + encodeURIComponent(slug) + '.json')).data; }
+  catch (e){ app.innerHTML = errBox(e); return; }
+  document.title = d.course + ' — AKTU Data Explorer';
+  const rel = 'api/v1/courses/' + encodeURIComponent(slug) + '.json';
+  const uniqBranches = Array.from(new Set(d.institutes.map(x => x.branch)));
+  let q = '';
+  app.innerHTML =
+    '<p class="small"><a href="#/courses">← All courses</a></p>' +
+    '<h1>' + esc(d.course) + '</h1>' +
+    '<div class="countline"><span class="muted small">' + fmt(d.institute_count) + ' institutes · ' +
+      fmt(d.branch_rows) + ' rows · ' + fmt(uniqBranches.length) + ' distinct branches</span></div>' +
+    '<div class="chips">' + uniqBranches.slice(0, 30).map(b => '<span class="bchip">' + esc(b) + '</span>').join('') +
+      (uniqBranches.length > 30 ? '<span class="muted small">+' + (uniqBranches.length - 30) + ' more…</span>' : '') + '</div>' +
+    '<div class="countline"><input id="cd-q" class="search" type="search" placeholder="Filter institutes / branches…" aria-label="Filter listing">' +
+      '<button id="cd-csv" class="btn small">⬇ Export (CSV)</button>' +
+      '<a class="btn small" target="_blank" rel="noopener" href="' + esc(IDX.bases.raw + '/' + rel) + '">Raw JSON ↗</a>' +
+      '<button id="cd-api" class="btn small">Copy API URL</button></div>' +
+    '<div id="cd-results"></div>';
+  const paint = () => {
+    const ql = q.toLowerCase();
+    const rows = d.institutes.filter(x => !ql ||
+      x.institute_name.toLowerCase().includes(ql) ||
+      x.institute_code.toLowerCase().includes(ql) ||
+      x.branch.toLowerCase().includes(ql));
+    $('#cd-results').innerHTML =
+      '<div class="tblwrap"><table><thead><tr><th>Code</th><th>Institute</th><th>Branch</th></tr></thead><tbody>' +
+      rows.map(x => '<tr><td><a class="code" href="#/i/' + encodeURIComponent(x.institute_code) + '">#' + esc(x.institute_code) + '</a></td>' +
+        '<td><a href="#/i/' + encodeURIComponent(x.institute_code) + '">' + esc(x.institute_name) + '</a></td>' +
+        '<td>' + esc(x.branch) + '</td></tr>').join('') +
+      '</tbody></table></div>' +
+      '<p class="muted small">Showing ' + fmt(rows.length) + ' of ' + fmt(d.institutes.length) + ' rows.</p>';
+  };
+  $('#cd-q').addEventListener('input', debounce(e => { q = e.target.value; paint(); }));
+  $('#cd-api').addEventListener('click', () => copyText(absURL(rel), 'API URL copied'));
+  $('#cd-csv').addEventListener('click', () => csvDownload(d.institutes,
+    [{ h:'institute_code', k:'institute_code' }, { h:'institute_name', k:'institute_name' },
+     { h:'branch', k:'branch' }], 'aktu-course-' + slug + '.csv'));
+  paint();
+}
+
+/* =================================================================
+   TREE  #/tree?q
+   ================================================================= */
+async function viewTree(params, app){
+  document.title = 'Tree — AKTU Data Explorer';
+  app.innerHTML = loading('Loading full tree (tree.json)…');
+  await ensureTree();
+  let q = (params.get('q') || '').trim();
+  app.innerHTML =
+    '<h1>Tree <span class="muted small">institutes → courses → branches, one nested view</span></h1>' +
+    '<div class="countline"><input id="t-q" class="search" type="search" placeholder="Filter by institute, code or branch…" value="' + esc(q) + '" aria-label="Filter tree">' +
+      '<button id="t-exp" class="btn small">Expand all</button><button id="t-col" class="btn small">Collapse all</button></div>' +
+    '<div id="tree-results"></div>';
+  const paint = () => {
+    const ql = q.toLowerCase();
+    const shown = TREE.filter(t => {
+      if (!ql) return true;
+      if (t.institute_code.toLowerCase().includes(ql) || t.institute_name.toLowerCase().includes(ql)) return true;
+      const tm = TREEMAP.get(t.institute_code);
+      return tm.branches.some(b => b.toLowerCase().includes(ql));
+    });
+    $('#tree-results').innerHTML = shown.map(t => {
+      const tm = TREEMAP.get(t.institute_code);
+      const n = tm.branches.length;
+      return '<details class="tinst"><summary><span class="code">#' + esc(t.institute_code) + '</span> ' +
+        esc(t.institute_name) + ' <span class="muted small">' + tm.courses.size + ' courses · ' + n + ' branches</span></summary>' +
+        (t.courses || []).map(c => '<div class="tc"><b>' + esc(c.course) + '</b>' +
+          (c.branches || []).map(b => '<span class="bchip">' + esc(b) + '</span>').join('') + '</div>').join('') +
+        '</details>';
+    }).join('') + '<p class="muted small">' + fmt(shown.length) + ' of ' + fmt(TREE.length) + ' institutes.</p>';
+  };
+  $('#t-q').addEventListener('input', debounce(e => { q = e.target.value; paint(); }));
+  $('#t-exp').addEventListener('click', () => $$('#tree-results details').forEach(d => { d.open = true; }));
+  $('#t-col').addEventListener('click', () => $$('#tree-results details').forEach(d => { d.open = false; }));
+  paint();
+}
+
+/* =================================================================
+   API EXPLORER  #/api
+   ================================================================= */
+function viewApi(app){
+  document.title = 'API — AKTU Data Explorer';
+  app.innerHTML =
+    '<h1>API <span class="muted small">v' + esc(IDX.api_version) + ' · ' + fmt(IDX.counts.institutes) + ' institutes · ' +
+      fmt(IDX.counts.unique_courses) + ' courses · ' + fmt(IDX.counts.branch_rows) + ' offerings</span></h1>' +
+    '<div class="notice"><b>Versioning policy.</b> <code>api/v1/</code> is updated in place for data refreshes and ' +
+      'additive additions (new fields, new endpoints — the upcoming syllabus dataset will land under ' +
+      '<code>api/v1/syllabus/…</code>, still v1). A new folder <code>api/v2/</code> appears only when the existing ' +
+      'shape breaks (fields renamed/removed, envelope changed); old versions then stay frozen. ' +
+      '<code>meta.generated_at</code> + git history is the changelog; pin <code>@&lt;commit-sha&gt;</code> on jsDelivr for immutable access.</div>' +
+    '<h2>Bases</h2><div class="tblwrap"><table><thead><tr><th>Base</th><th>URL</th></tr></thead><tbody>' +
+      Object.entries(IDX.bases).map(([k, v]) => '<tr><td>' + esc(k) + '</td><td class="small"><a href="' + esc(v) + '" target="_blank" rel="noopener">' + esc(v) + '</a> ' +
+        '<button class="btn small" data-copy="' + esc(v) + '">copy</button></td></tr>').join('') +
+    '</tbody></table></div>' +
+    '<h2>Endpoints</h2><div class="tblwrap"><table><thead><tr><th>Path</th><th>Returns</th><th>Count</th><th></th></tr></thead><tbody>' +
+      IDX.endpoints.map(e => '<tr><td class="small">' + esc(e.path) + '</td><td class="small muted">' + esc(e.description) + '</td>' +
+        '<td>' + (e.count != null ? fmt(e.count) : '—') + '</td>' +
+        '<td><button class="btn small try" data-p="' + esc(e.path.replace(/^\//, '')) + '">Try</button> ' +
+        '<button class="btn small" data-copy="' + esc(e.path) + '">copy</button></td></tr>').join('') +
+    '</tbody></table></div>' +
+    '<h2>Try any endpoint</h2>' +
+    '<div class="countline"><input id="api-path" class="search" placeholder="api/v1/institutes/002.json" aria-label="Endpoint path">' +
+      '<button id="api-go" class="btn primary">Fetch</button>' +
+      '<button id="api-copy-curl" class="btn small">Copy cURL</button></div>' +
+    '<div id="api-out" class="muted small">Response appears here — status, time, size and pretty JSON (display truncated at 30 kB; Copy/Download give the full body).</div>';
+  $$('button[data-copy]').forEach(b => b.addEventListener('click', () => copyText(absURL(b.dataset.copy.replace(/^\//, '')), 'URL copied')));
+  $$('.try').forEach(b => b.addEventListener('click', () => { $('#api-path').value = b.dataset.p; tryFetch(); }));
+  $('#api-go').addEventListener('click', tryFetch);
+  $('#api-path').addEventListener('keydown', e => { if (e.key === 'Enter') tryFetch(); });
+  $('#api-copy-curl').addEventListener('click', () => {
+    const p = $('#api-path').value.trim() || 'api/v1/index.json';
+    copyText('curl -s ' + absURL(p), 'cURL copied');
+  });
+  async function tryFetch(){
+    let p = $('#api-path').value.trim().replace(/^\//, '');
+    if (!p){ toast('Enter a path like api/v1/index.json'); return; }
+    if (!p.startsWith('api/')){ toast('Only repo-relative api/… paths here'); return; }
+    const out = $('#api-out');
+    out.innerHTML = loading('Fetching ' + p + ' …');
+    const t0 = performance.now();
+    try {
+      const res = await fetch(p);
+      const text = await res.text();
+      const ms = Math.round(performance.now() - t0);
+      let pretty = text, isJson = true;
+      try { pretty = JSON.stringify(JSON.parse(text), null, 2); }
+      catch (e){ isJson = false; }
+      const trunc = pretty.length > 30000;
+      out.innerHTML =
+        '<div class="countline"><span class="' + (res.ok ? '' : 'muted') + '"><b>' + res.status + ' ' + esc(res.statusText) +
+          '</b></span><span class="muted">' + ms + ' ms · ' + fmt(text.length) + ' bytes · ' + (isJson ? 'JSON' : 'text') + '</span>' +
+          '<button id="ao-copy" class="btn small">Copy full body</button>' +
+          '<button id="ao-dl" class="btn small">⬇ Download</button></div>' +
+        '<pre class="json">' + esc(trunc ? pretty.slice(0, 30000) + '\n… truncated for display' : pretty) + '</pre>';
+      $('#ao-copy').addEventListener('click', () => copyText(pretty, 'Full body copied'));
+      $('#ao-dl').addEventListener('click', () => download(p.replace(/\W+/g, '-'), text, isJson ? 'application/json' : 'text/plain'));
+    } catch (e){ out.innerHTML = errBox(e); }
+  }
+}
+
+/* =================================================================
+   BOOT
+   ================================================================= */
+async function boot(){
+  try {
+    const [idx, inst, cou] = await Promise.all([
+      getJSON(API + 'index.json'), getJSON(API + 'institutes.json'), getJSON(API + 'courses.json')
+    ]);
+    IDX = idx;
+    INSTITUTES = inst.data;
+    INSTITUTES.forEach(r => { BYCODE.set(r.institute_code, r); r._city = deriveCity(r.institute_name); });
+    COURSES = cou.data;
+    COURSES.forEach(x => SLUG.set(x.slug, x.course));
+    $('#ver-badge').textContent = 'v' + IDX.api_version;
+    $('#foot').innerHTML =
+      '<span>Static JSON API — data published verbatim from <code>data/raw</code> CSVs.</span>' +
+      '<span>Generated ' + esc(IDX.generated_at) + '.</span>' +
+      '<span><a href="' + esc(IDX.source_repo) + '" target="_blank" rel="noopener">repo</a> · ' +
+      '<a href="' + esc(IDX.bases.raw + '/README.md') + '" target="_blank" rel="noopener">README</a> · ' +
+      '<a href="#/api">API docs</a></span>';
+    window.addEventListener('hashchange', render);
+    document.addEventListener('keydown', e => {
+      if (e.key === '/' && !/^(INPUT|TEXTAREA|SELECT)$/.test(document.activeElement.tagName)){
+        const s = $('.search'); if (s){ e.preventDefault(); s.focus(); }
+      }
+    });
+    render();
+  } catch (e){
+    $('#app').innerHTML = '<div class="fatal"><h2>Couldn’t load API data</h2><p class="muted">' + esc(e.message) + '</p>' +
+      (location.protocol === 'file:'
+        ? '<p>This page was opened via <code>file://</code> — browsers block fetches there. Serve the repo folder instead: <code>python3 -m http.server</code>, then open <code>http://localhost:8000/</code>.</p>'
+        : '') +
+      '<button class="btn" onclick="location.reload()">Retry</button></div>';
+  }
+}
+boot();
+</script>
 </body>
 </html>
