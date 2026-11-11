@@ -34,8 +34,13 @@ Generated 08 Nov 2026, 18:49 IST · **784** institutes · **26** courses ·
 The repo root ships a dependency-free single-page explorer over the API.
 Open it on any of the bases (Pages / jsDelivr / any static server of this folder):
 
-- `https://cdn.jsdelivr.net/gh/harshvardhan9084/aktu-syllabus@main/index.html`
-- `https://harshvardhan9084.github.io/aktu-syllabus/` (once Pages is enabled)
+- **GitHub Pages (the app's home):** `https://harshvardhan9084.github.io/aktu-syllabus/`
+  — enable once in *Settings → Pages → Deploy from a branch → `main` / `(root)`*.
+  CDN security policies (jsDelivr, statically) force `.html` to `text/plain`, so those
+  CDNs serve the JSON endpoints perfectly but **cannot render this app**.
+- **Until Pages is enabled:** any static server of this folder works, e.g.
+  `python3 -m http.server` → `http://localhost:8000/`. (raw.githack renders it
+  behind a click-through notice page.)
 
 **Viewer defaults:** institutes grid with instant search, cards, 50/page.
 **Power controls (Filters panel):** multi-select course chips, derived-location filter,
