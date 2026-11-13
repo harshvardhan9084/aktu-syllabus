@@ -1,0 +1,54 @@
+{
+  "data": {
+    "rr_id": "I01783",
+    "institute_code": "997",
+    "institute_name": "HAKIKULLAH CHAUDHARY COLLEGE OF PHARMACY , GONDA",
+    "institute_address": "GHARIGHAT GONDA UTTAR PRADESH",
+    "institute_mobile": "9839413212",
+    "institute_email": "hakikullahcop@gmail.com",
+    "course_count_declared": 4,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "rr_id": "C0104",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmceutical Chemistry",
+          "Pharmacogonosy"
+        ],
+        "branch_details": [
+          {
+            "branch": "Pharmaceutics",
+            "rr_id": "B010402"
+          },
+          {
+            "branch": "Pharmceutical Chemistry",
+            "rr_id": "B010406"
+          },
+          {
+            "branch": "Pharmacogonosy",
+            "rr_id": "B010403"
+          }
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "rr_id": "C0102",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ],
+        "branch_details": [
+          {
+            "branch": "Bachelor of Pharmacy",
+            "rr_id": "B010201"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 2
+  }
+}

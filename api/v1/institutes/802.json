@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "I01644",
     "institute_code": "802",
     "institute_name": "NITRA TECHNICAL CAMPUS,GHAZIABAD",
     "institute_address": "NITRA , Sector-23 Raj Nagar, Ghaziabad",
@@ -9,17 +10,32 @@
     "courses": [
       {
         "course": "Bachelor of Technology",
+        "rr_id": "C0101",
         "branches": [
           "Computer Science and Engineering",
           "Textile Technology",
           "Computer Science And Engineering(Artificial Intelligence & Machine Learning)"
+        ],
+        "branch_details": [
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Textile Technology",
+            "rr_id": "B010160"
+          },
+          {
+            "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+            "rr_id": "B010123"
+          }
         ]
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 1
   }
 }

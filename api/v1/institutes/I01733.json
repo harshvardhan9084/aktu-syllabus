@@ -1,0 +1,31 @@
+{
+  "data": {
+    "rr_id": "I01733",
+    "institute_code": "938",
+    "institute_name": "MAA MATURNI DEVI MAHAVIDYALAY , BALLIA",
+    "institute_address": "VILL- CHANDADIH, POST CHANDADIH",
+    "institute_mobile": "9450351307",
+    "institute_email": "kushwahaamit90@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "rr_id": "C0102",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ],
+        "branch_details": [
+          {
+            "branch": "Bachelor of Pharmacy",
+            "rr_id": "B010201"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

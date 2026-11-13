@@ -1,0 +1,29 @@
+{
+  "data": {
+    "rr_id": "B010513",
+    "branch": "Electrical & Electronics Engineering",
+    "course": {
+      "course": "Master of Technology",
+      "rr_id": "C0105",
+      "slug": "master-of-technology"
+    },
+    "institute_count": 2,
+    "institutes": [
+      {
+        "rr_id": "I01014",
+        "institute_code": "027",
+        "institute_name": "AJAY KUMAR GARG ENGG. COLLEGE,GHAZIABAD"
+      },
+      {
+        "rr_id": "I01443",
+        "institute_code": "256",
+        "institute_name": "DNS COLLEGE OF ENGINEERING & TECHNOLOGY,J.P.NAGAR"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 2
+  }
+}

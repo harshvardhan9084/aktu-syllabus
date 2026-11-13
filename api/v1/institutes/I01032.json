@@ -1,0 +1,110 @@
+{
+  "data": {
+    "rr_id": "I01032",
+    "institute_code": "053",
+    "institute_name": "AZAD INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
+    "institute_address": "Azadpur, Adjacent CRPF Camp, Chandrawal, Bijnour, Lucknow - 226002",
+    "institute_mobile": "8416826642",
+    "institute_email": "contactaietlko@gmail.com",
+    "course_count_declared": 12,
+    "courses": [
+      {
+        "course": "Master of Technology",
+        "rr_id": "C0105",
+        "branches": [
+          "Computer Science and Engineering",
+          "Electrical Engineering",
+          "Production Engineering",
+          "Power Systems"
+        ],
+        "branch_details": [
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010509"
+          },
+          {
+            "branch": "Electrical Engineering",
+            "rr_id": "B010515"
+          },
+          {
+            "branch": "Production Engineering",
+            "rr_id": "B010532"
+          },
+          {
+            "branch": "Power Systems",
+            "rr_id": "B010530"
+          }
+        ]
+      },
+      {
+        "course": "Bachelor of Technology",
+        "rr_id": "C0101",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical Engineering",
+          "Electronics Engineering",
+          "Mechanical Engineering",
+          "Biotechnology"
+        ],
+        "branch_details": [
+          {
+            "branch": "Civil Engineering",
+            "rr_id": "B010114"
+          },
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Electrical Engineering",
+            "rr_id": "B010136"
+          },
+          {
+            "branch": "Electronics Engineering",
+            "rr_id": "B010138"
+          },
+          {
+            "branch": "Mechanical Engineering",
+            "rr_id": "B010153"
+          },
+          {
+            "branch": "Biotechnology",
+            "rr_id": "B010110"
+          }
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "rr_id": "C0103",
+        "branches": [
+          "MBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA",
+            "rr_id": "B010302"
+          }
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "rr_id": "C0106",
+        "branches": [
+          "MCA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MCA",
+            "rr_id": "B010601"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 4
+  }
+}

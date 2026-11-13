@@ -1,0 +1,44 @@
+{
+  "data": {
+    "rr_id": "B010515",
+    "branch": "Electrical Engineering",
+    "course": {
+      "course": "Master of Technology",
+      "rr_id": "C0105",
+      "slug": "master-of-technology"
+    },
+    "institute_count": 5,
+    "institutes": [
+      {
+        "rr_id": "I01010",
+        "institute_code": "014",
+        "institute_name": "SHRI RAMMURTI SMARAK COLLEGE OF ENGG AND TECHNOLOGY,BAREILLY"
+      },
+      {
+        "rr_id": "I01032",
+        "institute_code": "053",
+        "institute_name": "AZAD INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW"
+      },
+      {
+        "rr_id": "I01057",
+        "institute_code": "096",
+        "institute_name": "VISHVESHWARYA GROUP OF INSTITUTIONS,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01485",
+        "institute_code": "360",
+        "institute_name": "GOEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW"
+      },
+      {
+        "rr_id": "I01530",
+        "institute_code": "486",
+        "institute_name": "A.N.A.COLLEGE OF ENGINEERING & MANAGEMENT,BAREILLY"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 5
+  }
+}

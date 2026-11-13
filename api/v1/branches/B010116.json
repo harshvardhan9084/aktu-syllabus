@@ -1,0 +1,79 @@
+{
+  "data": {
+    "rr_id": "B010116",
+    "branch": "Computer Science & Engineering (Cyber Security)",
+    "course": {
+      "course": "Bachelor of Technology",
+      "rr_id": "C0101",
+      "slug": "bachelor-of-technology"
+    },
+    "institute_count": 12,
+    "institutes": [
+      {
+        "rr_id": "I01005",
+        "institute_code": "007",
+        "institute_name": "SHIVDAN SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALIGARH"
+      },
+      {
+        "rr_id": "I01057",
+        "institute_code": "096",
+        "institute_name": "VISHVESHWARYA GROUP OF INSTITUTIONS,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01264",
+        "institute_code": "122",
+        "institute_name": "SHRI RAM SWAROOP MEMORIAL COLLEGE OF ENGG. & MANAGEMENT,LUCKNOW"
+      },
+      {
+        "rr_id": "I01273",
+        "institute_code": "123",
+        "institute_name": "SAROJ INSTITUTE OF TECH. & MANAGEMENT,LUCKNOW"
+      },
+      {
+        "rr_id": "I01367",
+        "institute_code": "132",
+        "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY (ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01374",
+        "institute_code": "133",
+        "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01384",
+        "institute_code": "145",
+        "institute_name": "S R GROUP OF INSTITUTIONS (COLLEGE OF SCIENCE AND ENGINEERING),JHANSI"
+      },
+      {
+        "rr_id": "I01387",
+        "institute_code": "153",
+        "institute_name": "LLOYD INSTITUTE OF ENGINEERING AND TECHNOLOGY"
+      },
+      {
+        "rr_id": "I01457",
+        "institute_code": "287",
+        "institute_name": "NARAINA COLLEGE OF ENGINEERING & TECHNOLOGY,KANPUR"
+      },
+      {
+        "rr_id": "I01485",
+        "institute_code": "360",
+        "institute_name": "GOEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW"
+      },
+      {
+        "rr_id": "I01516",
+        "institute_code": "450",
+        "institute_name": "SRI RAMMURTI SMARAK COLLEGE OF ENGINEERING TECHNOLOGY & RESEARCH,BAREILLY"
+      },
+      {
+        "rr_id": "I01522",
+        "institute_code": "473",
+        "institute_name": "G.C.R.G. MEMORIAL TRUST'S GROUP OF INSTITUTIONS, FACULTY OF ENGINEERING,LUCKNOW"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 12
+  }
+}

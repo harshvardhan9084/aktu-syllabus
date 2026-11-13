@@ -1,0 +1,39 @@
+{
+  "data": {
+    "rr_id": "B010507",
+    "branch": "Computer Aided Design & Manufacturing",
+    "course": {
+      "course": "Master of Technology",
+      "rr_id": "C0105",
+      "slug": "master-of-technology"
+    },
+    "institute_count": 4,
+    "institutes": [
+      {
+        "rr_id": "I01005",
+        "institute_code": "007",
+        "institute_name": "SHIVDAN SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALIGARH"
+      },
+      {
+        "rr_id": "I01006",
+        "institute_code": "010",
+        "institute_name": "UNITED COLLEGE OF ENGINEERING & RESEARCH,ALLAHABAD"
+      },
+      {
+        "rr_id": "I01010",
+        "institute_code": "014",
+        "institute_name": "SHRI RAMMURTI SMARAK COLLEGE OF ENGG AND TECHNOLOGY,BAREILLY"
+      },
+      {
+        "rr_id": "I01378",
+        "institute_code": "138",
+        "institute_name": "B.B.S.COLLEGE OF ENGINEERING AND TECHNOLOGY,ALLAHABAD"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 4
+  }
+}

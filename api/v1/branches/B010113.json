@@ -1,0 +1,44 @@
+{
+  "data": {
+    "rr_id": "B010113",
+    "branch": "Chemical Engineering",
+    "course": {
+      "course": "Bachelor of Technology",
+      "rr_id": "C0101",
+      "slug": "bachelor-of-technology"
+    },
+    "institute_count": 5,
+    "institutes": [
+      {
+        "rr_id": "I01002",
+        "institute_code": "004",
+        "institute_name": "RAJA BALWANT SINGH ENGINEERING TECHNICAL CAMPUS,AGRA"
+      },
+      {
+        "rr_id": "I01024",
+        "institute_code": "043",
+        "institute_name": "BUNDELKHAND INSTITUTE OF ENGINEERING & TECHNOLOGY,JHANSI"
+      },
+      {
+        "rr_id": "I01031",
+        "institute_code": "052",
+        "institute_name": "INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW"
+      },
+      {
+        "rr_id": "I01045",
+        "institute_code": "077",
+        "institute_name": "DR. K.N. MODI INSTITUTE OF ENGG. & TECHNOLOGY,GHAZIABAD"
+      },
+      {
+        "rr_id": "I01395",
+        "institute_code": "166",
+        "institute_name": "DR.AMBEDKAR INSTITUTE OF TECHNOLOGY FOR DIVYANGJAN, U.P., KANPUR"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 5
+  }
+}

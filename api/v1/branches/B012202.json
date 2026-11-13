@@ -1,0 +1,24 @@
+{
+  "data": {
+    "rr_id": "B012202",
+    "branch": "Urban and Regional Planning",
+    "course": {
+      "course": "Master of Planning",
+      "rr_id": "C0122",
+      "slug": "master-of-planning"
+    },
+    "institute_count": 1,
+    "institutes": [
+      {
+        "rr_id": "I01030",
+        "institute_code": "051",
+        "institute_name": "FACULTY OF ARCHITECTURE, AKTU,LUCKNOW"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

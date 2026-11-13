@@ -1,0 +1,57 @@
+{
+  "data": {
+    "rr_id": "I01239",
+    "institute_code": "1194",
+    "institute_name": "S R M S INTERNATIONAL BUSINESS SCHOOL",
+    "institute_address": "34.5 KM. STONE LUCKNOW-KANPUR HIGHWAY, VILL-ASHAKHERA, TEHSILHASANGANJ, UNNAO, UTTAR PRADESH, 209859",
+    "institute_mobile": "9412293354",
+    "institute_email": "shyamal.gupta@srms.ac.in",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "rr_id": "C0103",
+        "branches": [
+          "MBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA",
+            "rr_id": "B010302"
+          }
+        ]
+      },
+      {
+        "course": "BBA",
+        "rr_id": "C0108",
+        "branches": [
+          "BBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "BBA",
+            "rr_id": "B010801"
+          }
+        ]
+      },
+      {
+        "course": "BCA",
+        "rr_id": "C0107",
+        "branches": [
+          "BCA"
+        ],
+        "branch_details": [
+          {
+            "branch": "BCA",
+            "rr_id": "B010701"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 3
+  }
+}

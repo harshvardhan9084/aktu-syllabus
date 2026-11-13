@@ -1,0 +1,44 @@
+{
+  "data": {
+    "rr_id": "I01047",
+    "institute_code": "079",
+    "institute_name": "UNIQUE INSTITUTE OF MANAGEMENT AND TECHNALOGY,,GHAZIABAD",
+    "institute_address": "UIMT City N.H-58 Near Ganga Canal, Muradnagar Ghaziabad - 201206 UP",
+    "institute_mobile": "9837024997",
+    "institute_email": "uimt.chairmen@gmail.com",
+    "course_count_declared": 2,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "rr_id": "C0103",
+        "branches": [
+          "MBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA",
+            "rr_id": "B010302"
+          }
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "rr_id": "C0106",
+        "branches": [
+          "MCA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MCA",
+            "rr_id": "B010601"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 2
+  }
+}

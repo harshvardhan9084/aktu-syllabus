@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "I01043",
     "institute_code": "074",
     "institute_name": "DEWAN INSTITUTE OF MANAGEMENT STUDIES,MEERUT",
     "institute_address": "Meerut",
@@ -9,27 +10,48 @@
     "courses": [
       {
         "course": "Masters of Business Administration",
+        "rr_id": "C0103",
         "branches": [
           "MBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA",
+            "rr_id": "B010302"
+          }
         ]
       },
       {
         "course": "MBA(Integrated)",
+        "rr_id": "C0112",
         "branches": [
           "MBA(Integrated)"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA(Integrated)",
+            "rr_id": "B011201"
+          }
         ]
       },
       {
         "course": "Master of Computer Applications",
+        "rr_id": "C0106",
         "branches": [
           "MCA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MCA",
+            "rr_id": "B010601"
+          }
         ]
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 3
   }
 }

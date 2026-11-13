@@ -1,0 +1,49 @@
+{
+  "data": {
+    "rr_id": "I01226",
+    "institute_code": "118",
+    "institute_name": "NANDINI NAGAR MAHAVIDAYALA,GONDA",
+    "institute_address": "Nawabganj - 271303",
+    "institute_mobile": "8948306052",
+    "institute_email": "nnmcop@gmail.com",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "rr_id": "C0104",
+        "branches": [
+          "Pharmceutical Chemistry",
+          "Pharmacogonosy"
+        ],
+        "branch_details": [
+          {
+            "branch": "Pharmceutical Chemistry",
+            "rr_id": "B010406"
+          },
+          {
+            "branch": "Pharmacogonosy",
+            "rr_id": "B010403"
+          }
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "rr_id": "C0102",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ],
+        "branch_details": [
+          {
+            "branch": "Bachelor of Pharmacy",
+            "rr_id": "B010201"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 2
+  }
+}

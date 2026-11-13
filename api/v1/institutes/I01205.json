@@ -1,0 +1,31 @@
+{
+  "data": {
+    "rr_id": "I01205",
+    "institute_code": "1155",
+    "institute_name": "INDIAN INSTITUTE OF HANDLOOM TECHNOLOGY,VARANASI",
+    "institute_address": "CHOWKAGHAT, VARANASI",
+    "institute_mobile": "8866985741",
+    "institute_email": "iihtvns@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "rr_id": "C0101",
+        "branches": [
+          "Handloom & Textile Technology"
+        ],
+        "branch_details": [
+          {
+            "branch": "Handloom & Textile Technology",
+            "rr_id": "B010146"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

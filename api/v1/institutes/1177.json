@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "I01223",
     "institute_code": "1177",
     "institute_name": "IED HOTEL MANAGEMENT",
     "institute_address": "A-1/2 INDUSTRIAL AREA, SAROJINI NAGAR, KANPUR ROAD",
@@ -9,22 +10,40 @@
     "courses": [
       {
         "course": "BHMCT",
+        "rr_id": "C0113",
         "branches": [
           "BHMCT"
+        ],
+        "branch_details": [
+          {
+            "branch": "BHMCT",
+            "rr_id": "B011301"
+          }
         ]
       },
       {
         "course": "Masters of Business Administration",
+        "rr_id": "C0103",
         "branches": [
           "MBA",
           "Innovation Entrepreneurship and Venture Devlopement"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA",
+            "rr_id": "B010302"
+          },
+          {
+            "branch": "Innovation Entrepreneurship and Venture Devlopement",
+            "rr_id": "B010301"
+          }
         ]
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 2
   }
 }

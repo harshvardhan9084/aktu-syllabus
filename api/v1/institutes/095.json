@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "I01056",
     "institute_code": "095",
     "institute_name": "MAHATAMA GANDHI MISSION COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
     "institute_address": "A-09, Sector-62, Noida-201302",
@@ -9,6 +10,7 @@
     "courses": [
       {
         "course": "Bachelor of Technology",
+        "rr_id": "C0101",
         "branches": [
           "Civil Engineering",
           "Computer Science and Engineering",
@@ -17,13 +19,43 @@
           "Automation and Robotics",
           "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
           "Computer Science And Engineering(Data Science)"
+        ],
+        "branch_details": [
+          {
+            "branch": "Civil Engineering",
+            "rr_id": "B010114"
+          },
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Electronics and Communication Engineering",
+            "rr_id": "B010141"
+          },
+          {
+            "branch": "Mechanical Engineering",
+            "rr_id": "B010153"
+          },
+          {
+            "branch": "Automation and Robotics",
+            "rr_id": "B010106"
+          },
+          {
+            "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+            "rr_id": "B010123"
+          },
+          {
+            "branch": "Computer Science And Engineering(Data Science)",
+            "rr_id": "B010124"
+          }
         ]
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 1
   }
 }

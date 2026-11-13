@@ -1,0 +1,44 @@
+{
+  "data": {
+    "rr_id": "I01023",
+    "institute_code": "041",
+    "institute_name": "ACHARYA NARENDRA DEV COLLEGE OF PHARMACY,GONDA",
+    "institute_address": "Bhabhnan, Gonda - 271313",
+    "institute_mobile": "9839167801",
+    "institute_email": "andcp1997@gmail.con",
+    "course_count_declared": 2,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "rr_id": "C0104",
+        "branches": [
+          "Pharmceutical Chemistry"
+        ],
+        "branch_details": [
+          {
+            "branch": "Pharmceutical Chemistry",
+            "rr_id": "B010406"
+          }
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "rr_id": "C0102",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ],
+        "branch_details": [
+          {
+            "branch": "Bachelor of Pharmacy",
+            "rr_id": "B010201"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 2
+  }
+}

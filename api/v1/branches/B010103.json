@@ -1,0 +1,79 @@
+{
+  "data": {
+    "rr_id": "B010103",
+    "branch": "Artificial Inelligence (AI) And Data Science",
+    "course": {
+      "course": "Bachelor of Technology",
+      "rr_id": "C0101",
+      "slug": "bachelor-of-technology"
+    },
+    "institute_count": 12,
+    "institutes": [
+      {
+        "rr_id": "I01001",
+        "institute_code": "002",
+        "institute_name": "FACULTY OF ENGG, AGRA COLLEGE,AGRA"
+      },
+      {
+        "rr_id": "I01024",
+        "institute_code": "043",
+        "institute_name": "BUNDELKHAND INSTITUTE OF ENGINEERING & TECHNOLOGY,JHANSI"
+      },
+      {
+        "rr_id": "I01314",
+        "institute_code": "127",
+        "institute_name": "I.I.M.T. ENGG. COLLEGE,MEERUT"
+      },
+      {
+        "rr_id": "I01326",
+        "institute_code": "1280",
+        "institute_name": "SHRI VISHWANATH COLLEGE OF TECHNOLOGY, SULTANPUR"
+      },
+      {
+        "rr_id": "I01328",
+        "institute_code": "1282",
+        "institute_name": "RAM-EESH INSTITUTE OF ENGINEERING & TECHNOLOGY, GAUTAM BUDDHA NAGAR"
+      },
+      {
+        "rr_id": "I01424",
+        "institute_code": "216",
+        "institute_name": "IIMT COLLEGE OF ENGINEERING,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01468",
+        "institute_code": "311",
+        "institute_name": "DEEWAN V.S. INSTITUTE OF ENGINEERING & TECHNOLOGY, MEERUT,MEERUT"
+      },
+      {
+        "rr_id": "I01472",
+        "institute_code": "319",
+        "institute_name": "RAKSHPAL BAHADUR COLLEGE OF ENGINEERING & TECHNOLOGY,BAREILLY"
+      },
+      {
+        "rr_id": "I01480",
+        "institute_code": "345",
+        "institute_name": "SETH VISHAMBHAR NATH INSTITUTE OF ENGG. & TECHNOLOGY,BARABANKI"
+      },
+      {
+        "rr_id": "I01490",
+        "institute_code": "373",
+        "institute_name": "NEELKANTH INSTITUTE OF TECHNOLOGY,MEERUT"
+      },
+      {
+        "rr_id": "I01509",
+        "institute_code": "423",
+        "institute_name": "SCHOOL OF MANAGEMENT SCIENCES,LUCKNOW"
+      },
+      {
+        "rr_id": "I01663",
+        "institute_code": "849",
+        "institute_name": "ISABELLA THOBURN COLLEGE (PROFESSIONAL STUDIES),LUCKNOW"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 12
+  }
+}

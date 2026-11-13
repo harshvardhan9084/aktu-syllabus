@@ -1,0 +1,51 @@
+{
+  "data": {
+    "rr_id": "C0115",
+    "course": "M.Tech (Part Time)",
+    "slug": "m-tech-part-time",
+    "branch_rows": 5,
+    "institute_count": 1,
+    "institutes": [
+      {
+        "institute_code": "104",
+        "institute_rr_id": "I01096",
+        "institute_name": "KAMLA NEHRU INSTITUTE OF TECHNOLOGY,SULTANPUR",
+        "branch": "Civil Engineering",
+        "branch_rr_id": "B011501"
+      },
+      {
+        "institute_code": "104",
+        "institute_rr_id": "I01096",
+        "institute_name": "KAMLA NEHRU INSTITUTE OF TECHNOLOGY,SULTANPUR",
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B011502"
+      },
+      {
+        "institute_code": "104",
+        "institute_rr_id": "I01096",
+        "institute_name": "KAMLA NEHRU INSTITUTE OF TECHNOLOGY,SULTANPUR",
+        "branch": "Electrical Engineering",
+        "branch_rr_id": "B011503"
+      },
+      {
+        "institute_code": "104",
+        "institute_rr_id": "I01096",
+        "institute_name": "KAMLA NEHRU INSTITUTE OF TECHNOLOGY,SULTANPUR",
+        "branch": "Electronics Engineering",
+        "branch_rr_id": "B011504"
+      },
+      {
+        "institute_code": "104",
+        "institute_rr_id": "I01096",
+        "institute_name": "KAMLA NEHRU INSTITUTE OF TECHNOLOGY,SULTANPUR",
+        "branch": "Mechanical Engineering",
+        "branch_rr_id": "B011505"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 5
+  }
+}

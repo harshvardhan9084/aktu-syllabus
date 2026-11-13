@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "I01265",
     "institute_code": "1220",
     "institute_name": "IILM ACADEMY OF HIGHER LEARNING",
     "institute_address": "1 VIRAJ KHAND LUCKNOW, GOMTI NAGAR NEAR Dr, HANHEMANN",
@@ -9,15 +10,22 @@
     "courses": [
       {
         "course": "BBA",
+        "rr_id": "C0108",
         "branches": [
           "BBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "BBA",
+            "rr_id": "B010801"
+          }
         ]
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 1
   }
 }

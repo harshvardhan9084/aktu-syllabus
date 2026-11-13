@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "I01634",
     "institute_code": "765",
     "institute_name": "REMOTE SENSING APPLICATION CENTRE,LUCKNOW",
     "institute_address": "Sector-G Jankipuram, Kursi Road",
@@ -9,15 +10,22 @@
     "courses": [
       {
         "course": "Master of Technology",
+        "rr_id": "C0105",
         "branches": [
           "Remote Sensing & GIS"
+        ],
+        "branch_details": [
+          {
+            "branch": "Remote Sensing & GIS",
+            "rr_id": "B010533"
+          }
         ]
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 1
   }
 }

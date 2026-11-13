@@ -1,12 +1,13 @@
 {
   "data": {
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "policy": "Verbatim publication of data/raw CSVs. No source values were altered (only header snake_casing + surrounding-whitespace trim). Issues are reported here, not fixed.",
     "record_counts": {
       "institutes_csv_rows": 784,
       "branches_csv_rows": 2571,
       "unique_institute_codes": 784,
-      "unique_courses": 26
+      "unique_courses": 26,
+      "branch_pairs": 153
     },
     "checks": [
       {
@@ -65,11 +66,28 @@
         "status": "info",
         "count": 0,
         "examples": []
+      },
+      {
+        "id": "rr_id_assignment",
+        "status": "pass",
+        "universities": 1,
+        "courses": 26,
+        "branch_pairs": 153,
+        "institutes": 784,
+        "caps": {
+          "universities": 99,
+          "courses_per_university": 99,
+          "branches_per_course": 99,
+          "institutes_per_university": 999,
+          "subjects_flat_reserved": 9999
+        },
+        "registry": "/api/v1/registry/rr-ids.json",
+        "note": "Every entity carries a frozen RR-ID (reference: /docs/rr-id-reference.md). IDs are stable across regenerations via the append-only registry."
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30"
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30"
   }
 }

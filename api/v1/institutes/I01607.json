@@ -1,0 +1,70 @@
+{
+  "data": {
+    "rr_id": "I01607",
+    "institute_code": "703",
+    "institute_name": "SHRI SIDDHI VINAYAK INSTITUTE OF MANAGEMENT,BAREILLY",
+    "institute_address": "Bareilly",
+    "institute_mobile": "9927723456",
+    "institute_email": "ta.ssvgi@gmail.com",
+    "course_count_declared": 4,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "rr_id": "C0103",
+        "branches": [
+          "MBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA",
+            "rr_id": "B010302"
+          }
+        ]
+      },
+      {
+        "course": "MBA(Integrated)",
+        "rr_id": "C0112",
+        "branches": [
+          "MBA(Integrated)"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA(Integrated)",
+            "rr_id": "B011201"
+          }
+        ]
+      },
+      {
+        "course": "BBA",
+        "rr_id": "C0108",
+        "branches": [
+          "BBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "BBA",
+            "rr_id": "B010801"
+          }
+        ]
+      },
+      {
+        "course": "BCA",
+        "rr_id": "C0107",
+        "branches": [
+          "BCA"
+        ],
+        "branch_details": [
+          {
+            "branch": "BCA",
+            "rr_id": "B010701"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 4
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "data": {
+    "rr_id": "I01682",
+    "institute_code": "873",
+    "institute_name": "SHIV BALI SINGH GROUP OF EDUCATIONAL AND TRAINING INSTITUTE COLLEGE OF PHARMACY,FATEHPUR",
+    "institute_address": "VILLAGE-ETRAURA,PILKHANI,POST OFFICE-MALWAN,TEHSIL-BINDKI,DISTRICT-FATEHPUR(U.P.)212664",
+    "institute_mobile": "9151090132",
+    "institute_email": "principal.pharmacy@sbsgeti.in",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "rr_id": "C0102",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ],
+        "branch_details": [
+          {
+            "branch": "Bachelor of Pharmacy",
+            "rr_id": "B010201"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

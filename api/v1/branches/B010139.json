@@ -1,0 +1,59 @@
+{
+  "data": {
+    "rr_id": "B010139",
+    "branch": "Electronics Engineering (VLSI Design and Technology)",
+    "course": {
+      "course": "Bachelor of Technology",
+      "rr_id": "C0101",
+      "slug": "bachelor-of-technology"
+    },
+    "institute_count": 8,
+    "institutes": [
+      {
+        "rr_id": "I01015",
+        "institute_code": "030",
+        "institute_name": "INDERPRASTHA ENGG. COLLEGE,GHAZIABAD"
+      },
+      {
+        "rr_id": "I01058",
+        "institute_code": "097",
+        "institute_name": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01243",
+        "institute_code": "120",
+        "institute_name": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,GORAKHPUR"
+      },
+      {
+        "rr_id": "I01261",
+        "institute_code": "1217",
+        "institute_name": "MAHARANA PRATAP INSTITUE OF TECHNOLOGY, GORAKHPUR"
+      },
+      {
+        "rr_id": "I01374",
+        "institute_code": "133",
+        "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01387",
+        "institute_code": "153",
+        "institute_name": "LLOYD INSTITUTE OF ENGINEERING AND TECHNOLOGY"
+      },
+      {
+        "rr_id": "I01551",
+        "institute_code": "525",
+        "institute_name": "BUDDHA INSTITUTE OF TECHNOLOGY,GORAKHPUR"
+      },
+      {
+        "rr_id": "I01670",
+        "institute_code": "858",
+        "institute_name": "CENTRE FOR ADVANCED STUDIES,LUCKNOW"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 8
+  }
+}

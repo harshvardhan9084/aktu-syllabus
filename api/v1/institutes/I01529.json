@@ -1,0 +1,117 @@
+{
+  "data": {
+    "rr_id": "I01529",
+    "institute_code": "485",
+    "institute_name": "S.R.INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
+    "institute_address": "NH 24 Sitapur Road Bakshi Ka Talab, Lucknow - 226201",
+    "institute_mobile": "8417000008",
+    "institute_email": "srimtedu@gmail.com",
+    "course_count_declared": 15,
+    "courses": [
+      {
+        "course": "Master of Technology",
+        "rr_id": "C0105",
+        "branches": [
+          "Computer Science and Engineering",
+          "Production Engineering"
+        ],
+        "branch_details": [
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010509"
+          },
+          {
+            "branch": "Production Engineering",
+            "rr_id": "B010532"
+          }
+        ]
+      },
+      {
+        "course": "Bachelor of Technology",
+        "rr_id": "C0101",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Information Technology",
+          "Electrical & Electronics Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Biotechnology",
+          "Agricultural Engineering",
+          "Computer Science and Engineering (Artificial Intelligence)",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+          "Computer Science And Engineering(Data Science)"
+        ],
+        "branch_details": [
+          {
+            "branch": "Civil Engineering",
+            "rr_id": "B010114"
+          },
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Information Technology",
+            "rr_id": "B010148"
+          },
+          {
+            "branch": "Electrical & Electronics Engineering",
+            "rr_id": "B010135"
+          },
+          {
+            "branch": "Electronics and Communication Engineering",
+            "rr_id": "B010141"
+          },
+          {
+            "branch": "Mechanical Engineering",
+            "rr_id": "B010153"
+          },
+          {
+            "branch": "Biotechnology",
+            "rr_id": "B010110"
+          },
+          {
+            "branch": "Agricultural Engineering",
+            "rr_id": "B010102"
+          },
+          {
+            "branch": "Computer Science and Engineering (Artificial Intelligence)",
+            "rr_id": "B010128"
+          },
+          {
+            "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+            "rr_id": "B010123"
+          },
+          {
+            "branch": "Computer Science And Engineering(Data Science)",
+            "rr_id": "B010124"
+          }
+        ]
+      },
+      {
+        "course": "B Voc",
+        "rr_id": "C0110",
+        "branches": [
+          "Automobile Engineering",
+          "Software Development"
+        ],
+        "branch_details": [
+          {
+            "branch": "Automobile Engineering",
+            "rr_id": "B011001"
+          },
+          {
+            "branch": "Software Development",
+            "rr_id": "B011008"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 3
+  }
+}

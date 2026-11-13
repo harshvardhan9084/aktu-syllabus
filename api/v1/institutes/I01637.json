@@ -1,0 +1,41 @@
+{
+  "data": {
+    "rr_id": "I01637",
+    "institute_code": "783",
+    "institute_name": "R.D.ENGINEERING COLLEGE RESEARCH CENTRE,GHAZIABAD",
+    "institute_address": "9th KM Mile Stone On NH-58 Delhi Meerut Road, Duhai, Ghaziabad",
+    "institute_mobile": "9999880912",
+    "institute_email": "info@rdec.in",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "rr_id": "C0101",
+        "branches": [
+          "Computer Science and Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering"
+        ],
+        "branch_details": [
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Electronics and Communication Engineering",
+            "rr_id": "B010141"
+          },
+          {
+            "branch": "Mechanical Engineering",
+            "rr_id": "B010153"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

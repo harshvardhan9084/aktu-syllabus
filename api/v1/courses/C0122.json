@@ -1,0 +1,30 @@
+{
+  "data": {
+    "rr_id": "C0122",
+    "course": "Master of Planning",
+    "slug": "master-of-planning",
+    "branch_rows": 2,
+    "institute_count": 1,
+    "institutes": [
+      {
+        "institute_code": "051",
+        "institute_rr_id": "I01030",
+        "institute_name": "FACULTY OF ARCHITECTURE, AKTU,LUCKNOW",
+        "branch": "Infrastructure Planning and Management",
+        "branch_rr_id": "B012201"
+      },
+      {
+        "institute_code": "051",
+        "institute_rr_id": "I01030",
+        "institute_name": "FACULTY OF ARCHITECTURE, AKTU,LUCKNOW",
+        "branch": "Urban and Regional Planning",
+        "branch_rr_id": "B012202"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 2
+  }
+}

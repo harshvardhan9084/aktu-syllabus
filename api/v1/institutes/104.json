@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "I01096",
     "institute_code": "104",
     "institute_name": "KAMLA NEHRU INSTITUTE OF TECHNOLOGY,SULTANPUR",
     "institute_address": "Sultanpur - 228118",
@@ -9,26 +10,73 @@
     "courses": [
       {
         "course": "M.Tech (Part Time)",
+        "rr_id": "C0115",
         "branches": [
           "Civil Engineering",
           "Computer Science and Engineering",
           "Electrical Engineering",
           "Electronics Engineering",
           "Mechanical Engineering"
+        ],
+        "branch_details": [
+          {
+            "branch": "Civil Engineering",
+            "rr_id": "B011501"
+          },
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B011502"
+          },
+          {
+            "branch": "Electrical Engineering",
+            "rr_id": "B011503"
+          },
+          {
+            "branch": "Electronics Engineering",
+            "rr_id": "B011504"
+          },
+          {
+            "branch": "Mechanical Engineering",
+            "rr_id": "B011505"
+          }
         ]
       },
       {
         "course": "Master of Technology",
+        "rr_id": "C0105",
         "branches": [
           "Computer Science and Engineering",
           "Thermal Engineering",
           "Power Electronics And Drives",
           "Communication Engineering",
           "Geotechnical & Geoenvironmental Engineering"
+        ],
+        "branch_details": [
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010509"
+          },
+          {
+            "branch": "Thermal Engineering",
+            "rr_id": "B010537"
+          },
+          {
+            "branch": "Power Electronics And Drives",
+            "rr_id": "B010529"
+          },
+          {
+            "branch": "Communication Engineering",
+            "rr_id": "B010506"
+          },
+          {
+            "branch": "Geotechnical & Geoenvironmental Engineering",
+            "rr_id": "B010521"
+          }
         ]
       },
       {
         "course": "Bachelor of Technology",
+        "rr_id": "C0101",
         "branches": [
           "Civil Engineering",
           "Computer Science and Engineering",
@@ -36,19 +84,52 @@
           "Electrical Engineering",
           "Electronics Engineering",
           "Mechanical Engineering"
+        ],
+        "branch_details": [
+          {
+            "branch": "Civil Engineering",
+            "rr_id": "B010114"
+          },
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Information Technology",
+            "rr_id": "B010148"
+          },
+          {
+            "branch": "Electrical Engineering",
+            "rr_id": "B010136"
+          },
+          {
+            "branch": "Electronics Engineering",
+            "rr_id": "B010138"
+          },
+          {
+            "branch": "Mechanical Engineering",
+            "rr_id": "B010153"
+          }
         ]
       },
       {
         "course": "Master of Computer Applications",
+        "rr_id": "C0106",
         "branches": [
           "MCA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MCA",
+            "rr_id": "B010601"
+          }
         ]
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 4
   }
 }

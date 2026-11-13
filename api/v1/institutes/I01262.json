@@ -1,0 +1,51 @@
+{
+  "data": {
+    "rr_id": "I01262",
+    "institute_code": "1218",
+    "institute_name": "MODERN COLLEGE, JHANSI",
+    "institute_address": "DEPARTMENT OF ENGINEERING & TECHNOLOGY, KOCHABHAWAR, KANPUR",
+    "institute_mobile": "9889003089",
+    "institute_email": "managementjhansi@gmail.com",
+    "course_count_declared": 5,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "rr_id": "C0101",
+        "branches": [
+          "Computer Science and Engineering",
+          "Information Technology",
+          "Electronics and Communication Engineering",
+          "Computer Science And Engineering(Data Science)",
+          "Artificial Intelligence And Machine Learning"
+        ],
+        "branch_details": [
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Information Technology",
+            "rr_id": "B010148"
+          },
+          {
+            "branch": "Electronics and Communication Engineering",
+            "rr_id": "B010141"
+          },
+          {
+            "branch": "Computer Science And Engineering(Data Science)",
+            "rr_id": "B010124"
+          },
+          {
+            "branch": "Artificial Intelligence And Machine Learning",
+            "rr_id": "B010105"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

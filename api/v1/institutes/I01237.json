@@ -1,0 +1,31 @@
+{
+  "data": {
+    "rr_id": "I01237",
+    "institute_code": "1192",
+    "institute_name": "INTERNATIONAL INSTITUTE FOR SPECIAL EDUCATION (IISE)",
+    "institute_address": "KANCHANA BIHARI MARG OFF RING ROAD, VIA KALYANPUR NEAR KUKRAIL PICNIC SPOT LUCKNOW-226022",
+    "institute_mobile": "9453350201",
+    "institute_email": "iisedirectormba@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "rr_id": "C0103",
+        "branches": [
+          "MBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA",
+            "rr_id": "B010302"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

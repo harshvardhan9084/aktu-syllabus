@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "I01030",
     "institute_code": "051",
     "institute_name": "FACULTY OF ARCHITECTURE, AKTU,LUCKNOW",
     "institute_address": "Tagore Marg, Lucknow",
@@ -9,30 +10,63 @@
     "courses": [
       {
         "course": "Bachelor of Architecture",
+        "rr_id": "C0114",
         "branches": [
           "Architecture"
+        ],
+        "branch_details": [
+          {
+            "branch": "Architecture",
+            "rr_id": "B011401"
+          }
         ]
       },
       {
         "course": "Master of Architecture",
+        "rr_id": "C0117",
         "branches": [
           "Interior Design",
           "Master of Architecture",
           "Environmental Design"
+        ],
+        "branch_details": [
+          {
+            "branch": "Interior Design",
+            "rr_id": "B011702"
+          },
+          {
+            "branch": "Master of Architecture",
+            "rr_id": "B011703"
+          },
+          {
+            "branch": "Environmental Design",
+            "rr_id": "B011701"
+          }
         ]
       },
       {
         "course": "Master of Planning",
+        "rr_id": "C0122",
         "branches": [
           "Urban and Regional Planning",
           "Infrastructure Planning and Management"
+        ],
+        "branch_details": [
+          {
+            "branch": "Urban and Regional Planning",
+            "rr_id": "B012202"
+          },
+          {
+            "branch": "Infrastructure Planning and Management",
+            "rr_id": "B012201"
+          }
         ]
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 3
   }
 }

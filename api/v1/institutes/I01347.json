@@ -1,0 +1,31 @@
+{
+  "data": {
+    "rr_id": "I01347",
+    "institute_code": "1300",
+    "institute_name": "UNITED COLLEGE OF PHARMACY",
+    "institute_address": "D 2 UPSIDC NAINI INDUSTRIAL AREA PRAYAGRAJ",
+    "institute_mobile": "9651903026",
+    "institute_email": "anilkumarsingh@united.ac.in",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "rr_id": "C0102",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ],
+        "branch_details": [
+          {
+            "branch": "Bachelor of Pharmacy",
+            "rr_id": "B010201"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

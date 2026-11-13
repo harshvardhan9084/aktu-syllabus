@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "C0124",
     "course": "Bachelor of Fine Art(BFA)",
     "slug": "bachelor-of-fine-art-bfa",
     "branch_rows": 1,
@@ -7,14 +8,16 @@
     "institutes": [
       {
         "institute_code": "720",
+        "institute_rr_id": "I01612",
         "institute_name": "AXIS INSTITUTE OF FASHION TECHNOLOGY,KANPUR",
-        "branch": "Bachelor of Fine Art(BFA)"
+        "branch": "Bachelor of Fine Art(BFA)",
+        "branch_rr_id": "B012401"
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 1
   }
 }

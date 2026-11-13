@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "I01427",
     "institute_code": "221",
     "institute_name": "INSTITUTE OF ENGINEERING & TECHNOLOGY,SITAPUR",
     "institute_address": "Resora, Sitapur",
@@ -9,6 +10,7 @@
     "courses": [
       {
         "course": "Bachelor of Technology",
+        "rr_id": "C0101",
         "branches": [
           "Civil Engineering",
           "Computer Science and Engineering",
@@ -16,19 +18,52 @@
           "Electronics and Communication Engineering",
           "Mechanical Engineering",
           "Artificial Intelligence And Machine Learning"
+        ],
+        "branch_details": [
+          {
+            "branch": "Civil Engineering",
+            "rr_id": "B010114"
+          },
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Electrical & Electronics Engineering",
+            "rr_id": "B010135"
+          },
+          {
+            "branch": "Electronics and Communication Engineering",
+            "rr_id": "B010141"
+          },
+          {
+            "branch": "Mechanical Engineering",
+            "rr_id": "B010153"
+          },
+          {
+            "branch": "Artificial Intelligence And Machine Learning",
+            "rr_id": "B010105"
+          }
         ]
       },
       {
         "course": "Masters of Business Administration",
+        "rr_id": "C0103",
         "branches": [
           "MBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA",
+            "rr_id": "B010302"
+          }
         ]
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 2
   }
 }

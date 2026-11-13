@@ -1,0 +1,39 @@
+{
+  "data": {
+    "rr_id": "B010537",
+    "branch": "Thermal Engineering",
+    "course": {
+      "course": "Master of Technology",
+      "rr_id": "C0105",
+      "slug": "master-of-technology"
+    },
+    "institute_count": 4,
+    "institutes": [
+      {
+        "rr_id": "I01024",
+        "institute_code": "043",
+        "institute_name": "BUNDELKHAND INSTITUTE OF ENGINEERING & TECHNOLOGY,JHANSI"
+      },
+      {
+        "rr_id": "I01096",
+        "institute_code": "104",
+        "institute_name": "KAMLA NEHRU INSTITUTE OF TECHNOLOGY,SULTANPUR"
+      },
+      {
+        "rr_id": "I01273",
+        "institute_code": "123",
+        "institute_name": "SAROJ INSTITUTE OF TECH. & MANAGEMENT,LUCKNOW"
+      },
+      {
+        "rr_id": "I01432",
+        "institute_code": "231",
+        "institute_name": "R.D.ENGINEERING COLLEGE,GHAZIABAD"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 4
+  }
+}

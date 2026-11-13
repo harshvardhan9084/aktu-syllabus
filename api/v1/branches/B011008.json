@@ -1,0 +1,34 @@
+{
+  "data": {
+    "rr_id": "B011008",
+    "branch": "Software Development",
+    "course": {
+      "course": "B Voc",
+      "rr_id": "C0110",
+      "slug": "b-voc"
+    },
+    "institute_count": 3,
+    "institutes": [
+      {
+        "rr_id": "I01529",
+        "institute_code": "485",
+        "institute_name": "S.R.INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW"
+      },
+      {
+        "rr_id": "I01546",
+        "institute_code": "518",
+        "institute_name": "SSLD VARSHNEY ENGINEERING COLLEGE,ALIGARH"
+      },
+      {
+        "rr_id": "I01552",
+        "institute_code": "527",
+        "institute_name": "SUNRISE INSTITUTE OF ENGINEERING TECHNICAL & MANAGEMENT,UNNAO"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 3
+  }
+}

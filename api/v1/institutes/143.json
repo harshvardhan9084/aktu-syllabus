@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "I01382",
     "institute_code": "143",
     "institute_name": "I.M.S. ENGINEERING COLLEGE,GHAZIABAD",
     "institute_address": "NH-24, Delhi-Hapur By Pass Road, Adhyatmik Nagar, Ghaziabad,Ghaziabad - 201015",
@@ -9,13 +10,25 @@
     "courses": [
       {
         "course": "Master of Technology",
+        "rr_id": "C0105",
         "branches": [
           "Computer Science and Engineering",
           "Biotechnology"
+        ],
+        "branch_details": [
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010509"
+          },
+          {
+            "branch": "Biotechnology",
+            "rr_id": "B010504"
+          }
         ]
       },
       {
         "course": "Bachelor of Technology",
+        "rr_id": "C0101",
         "branches": [
           "Computer Science and Engineering",
           "Computer Science",
@@ -23,25 +36,65 @@
           "Electronics and Communication Engineering",
           "Biotechnology",
           "Computer Science And Engineering(Artificial Intelligence & Machine Learning)"
+        ],
+        "branch_details": [
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Computer Science",
+            "rr_id": "B010115"
+          },
+          {
+            "branch": "Information Technology",
+            "rr_id": "B010148"
+          },
+          {
+            "branch": "Electronics and Communication Engineering",
+            "rr_id": "B010141"
+          },
+          {
+            "branch": "Biotechnology",
+            "rr_id": "B010110"
+          },
+          {
+            "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+            "rr_id": "B010123"
+          }
         ]
       },
       {
         "course": "Masters of Business Administration",
+        "rr_id": "C0103",
         "branches": [
           "MBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA",
+            "rr_id": "B010302"
+          }
         ]
       },
       {
         "course": "Master of Computer Applications",
+        "rr_id": "C0106",
         "branches": [
           "MCA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MCA",
+            "rr_id": "B010601"
+          }
         ]
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 4
   }
 }

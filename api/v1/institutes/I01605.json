@@ -1,0 +1,138 @@
+{
+  "data": {
+    "rr_id": "I01605",
+    "institute_code": "695",
+    "institute_name": "SRI RAM GROUP OF COLLEGES,MUZAFFARNAGAR",
+    "institute_address": "Muzaffarnagar",
+    "institute_mobile": "7088013153",
+    "institute_email": "directorsrgc695@gmail.com",
+    "course_count_declared": 16,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "rr_id": "C0101",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Computer Science And Engineering(Data Science)",
+          "Artificial Intelligence And Machine Learning"
+        ],
+        "branch_details": [
+          {
+            "branch": "Civil Engineering",
+            "rr_id": "B010114"
+          },
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Electrical Engineering",
+            "rr_id": "B010136"
+          },
+          {
+            "branch": "Electronics and Communication Engineering",
+            "rr_id": "B010141"
+          },
+          {
+            "branch": "Mechanical Engineering",
+            "rr_id": "B010153"
+          },
+          {
+            "branch": "Computer Science And Engineering(Data Science)",
+            "rr_id": "B010124"
+          },
+          {
+            "branch": "Artificial Intelligence And Machine Learning",
+            "rr_id": "B010105"
+          }
+        ]
+      },
+      {
+        "course": "Bachelor of Architecture",
+        "rr_id": "C0114",
+        "branches": [
+          "Architecture"
+        ],
+        "branch_details": [
+          {
+            "branch": "Architecture",
+            "rr_id": "B011401"
+          }
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "rr_id": "C0103",
+        "branches": [
+          "MBA",
+          "MBA(Business Analytics)",
+          "MBA (Banking and Finance Service)",
+          "MBA (AGRIBUSINESS MANAGEMENT)"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA",
+            "rr_id": "B010302"
+          },
+          {
+            "branch": "MBA(Business Analytics)",
+            "rr_id": "B010307"
+          },
+          {
+            "branch": "MBA (Banking and Finance Service)",
+            "rr_id": "B010304"
+          },
+          {
+            "branch": "MBA (AGRIBUSINESS MANAGEMENT)",
+            "rr_id": "B010303"
+          }
+        ]
+      },
+      {
+        "course": "B Voc",
+        "rr_id": "C0110",
+        "branches": [
+          "Automobile Servicing",
+          "Refrigeration and Air Conditioning",
+          "Electronic Manufacturing Servicing"
+        ],
+        "branch_details": [
+          {
+            "branch": "Automobile Servicing",
+            "rr_id": "B011002"
+          },
+          {
+            "branch": "Refrigeration and Air Conditioning",
+            "rr_id": "B011006"
+          },
+          {
+            "branch": "Electronic Manufacturing Servicing",
+            "rr_id": "B011004"
+          }
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "rr_id": "C0106",
+        "branches": [
+          "MCA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MCA",
+            "rr_id": "B010601"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 5
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "data": {
+    "rr_id": "I01052",
+    "institute_code": "088",
+    "institute_name": "APEEJAY INSTITUTE OF TECHNOLOGY SCHOOL OF ARCHITECTURE AND PLANNING,GAUTAM BUDDH NAGAR",
+    "institute_address": "Plot No. 1, Institutional Area, Knowledge Park-I, Surajpur Kasna Road, PO: Alpha 1st, (Oppsite of Jagat Farm Market), Greater NOIDA, Gautam Buddh Nagar, U.P. 201310",
+    "institute_mobile": "9667399811",
+    "institute_email": "ait.arch.gnvd@apeejay.edu",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Architecture",
+        "rr_id": "C0114",
+        "branches": [
+          "Architecture"
+        ],
+        "branch_details": [
+          {
+            "branch": "Architecture",
+            "rr_id": "B011401"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

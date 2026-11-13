@@ -1,0 +1,24 @@
+{
+  "data": {
+    "rr_id": "B010533",
+    "branch": "Remote Sensing & GIS",
+    "course": {
+      "course": "Master of Technology",
+      "rr_id": "C0105",
+      "slug": "master-of-technology"
+    },
+    "institute_count": 1,
+    "institutes": [
+      {
+        "rr_id": "I01634",
+        "institute_code": "765",
+        "institute_name": "REMOTE SENSING APPLICATION CENTRE,LUCKNOW"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

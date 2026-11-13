@@ -1,0 +1,57 @@
+{
+  "data": {
+    "rr_id": "I01242",
+    "institute_code": "1198",
+    "institute_name": "VISHVESHWARYA INSTITUTE OF POLYTECHNIC",
+    "institute_address": "20 KMS FROM GHAZIABAD ON GHAZIABAD-BULANDSHAHAR ROAD, NEAR DADRI G.B. NAGAR",
+    "institute_mobile": "9990638885",
+    "institute_email": "directoradmin@vgi.ac.in",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "rr_id": "C0103",
+        "branches": [
+          "MBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA",
+            "rr_id": "B010302"
+          }
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "rr_id": "C0106",
+        "branches": [
+          "MCA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MCA",
+            "rr_id": "B010601"
+          }
+        ]
+      },
+      {
+        "course": "MBA Working Professional",
+        "rr_id": "C0123",
+        "branches": [
+          "MBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA",
+            "rr_id": "B012301"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 3
+  }
+}

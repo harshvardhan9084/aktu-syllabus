@@ -1,0 +1,44 @@
+{
+  "data": {
+    "rr_id": "I01337",
+    "institute_code": "1290",
+    "institute_name": "SHRI MAHARAJA AGRASEN KANYA MAHAVIDHYALA, HATHRAS",
+    "institute_address": "Shri Maharaja Agrasen Kanya Mahavidhyala, Bijlighar Road, Sadabad, Hathras. PIN-281306",
+    "institute_mobile": "9219172085",
+    "institute_email": "manishindiainfo@gmail.com",
+    "course_count_declared": 2,
+    "courses": [
+      {
+        "course": "BBA",
+        "rr_id": "C0108",
+        "branches": [
+          "BBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "BBA",
+            "rr_id": "B010801"
+          }
+        ]
+      },
+      {
+        "course": "BCA",
+        "rr_id": "C0107",
+        "branches": [
+          "BCA"
+        ],
+        "branch_details": [
+          {
+            "branch": "BCA",
+            "rr_id": "B010701"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 2
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "data": {
+    "rr_id": "B010117",
+    "branch": "Computer Science & Technology",
+    "course": {
+      "course": "Bachelor of Technology",
+      "rr_id": "C0101",
+      "slug": "bachelor-of-technology"
+    },
+    "institute_count": 1,
+    "institutes": [
+      {
+        "rr_id": "I01384",
+        "institute_code": "145",
+        "institute_name": "S R GROUP OF INSTITUTIONS (COLLEGE OF SCIENCE AND ENGINEERING),JHANSI"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

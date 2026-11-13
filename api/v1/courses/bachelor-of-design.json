@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "C0119",
     "course": "Bachelor of Design",
     "slug": "bachelor-of-design",
     "branch_rows": 2,
@@ -7,19 +8,23 @@
     "institutes": [
       {
         "institute_code": "1211",
+        "institute_rr_id": "I01255",
         "institute_name": "UTTAR PRADESH INSTITUTE OF DESIGN & RESEARCH",
-        "branch": "Bachelor of Design"
+        "branch": "Bachelor of Design",
+        "branch_rr_id": "B011901"
       },
       {
         "institute_code": "857",
+        "institute_rr_id": "I01669",
         "institute_name": "U.P. INSTITUTE OF DESIGN,NOIDA",
-        "branch": "Bachelor of Design"
+        "branch": "Bachelor of Design",
+        "branch_rr_id": "B011901"
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 2
   }
 }

@@ -1,0 +1,24 @@
+{
+  "data": {
+    "rr_id": "B010112",
+    "branch": "Carpet & Textile Technology",
+    "course": {
+      "course": "Bachelor of Technology",
+      "rr_id": "C0101",
+      "slug": "bachelor-of-technology"
+    },
+    "institute_count": 1,
+    "institutes": [
+      {
+        "rr_id": "I01168",
+        "institute_code": "112",
+        "institute_name": "INDIAN INSTITUTE OF CARPET TECHNOLOGY,BHADOHI"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "I01259",
     "institute_code": "1215",
     "institute_name": "Samrat Ashok Rajkiya Engineering College, Mirzapur",
     "institute_address": "Mirzapur",
@@ -9,18 +10,37 @@
     "courses": [
       {
         "course": "Bachelor of Technology",
+        "rr_id": "C0101",
         "branches": [
           "Computer Science and Engineering",
           "Information Technology",
           "Electrical Engineering",
           "Electronics Engineering"
+        ],
+        "branch_details": [
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Information Technology",
+            "rr_id": "B010148"
+          },
+          {
+            "branch": "Electrical Engineering",
+            "rr_id": "B010136"
+          },
+          {
+            "branch": "Electronics Engineering",
+            "rr_id": "B010138"
+          }
         ]
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 1
   }
 }

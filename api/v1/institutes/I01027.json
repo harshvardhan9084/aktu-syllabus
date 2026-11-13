@@ -1,0 +1,44 @@
+{
+  "data": {
+    "rr_id": "I01027",
+    "institute_code": "047",
+    "institute_name": "DR. VIRENDRA SWAROOP INSTITUTE OF COMPUTER STUDIES,KANPUR",
+    "institute_address": "810, W1 Block, Juhi Kalan, Saket Nagar, Kanpur, Uttar Pradesh-208014",
+    "institute_mobile": "9935509200",
+    "institute_email": "vsefcomp@vsef.org",
+    "course_count_declared": 2,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "rr_id": "C0103",
+        "branches": [
+          "MBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA",
+            "rr_id": "B010302"
+          }
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "rr_id": "C0106",
+        "branches": [
+          "MCA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MCA",
+            "rr_id": "B010601"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 2
+  }
+}

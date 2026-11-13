@@ -1,0 +1,31 @@
+{
+  "data": {
+    "rr_id": "I01098",
+    "institute_code": "1042",
+    "institute_name": "NGI COLLEGE OF PHARMACY , MEERUT",
+    "institute_address": "NH-58, Near SVBP Agriculture University, Modipuram, Meerut- UP 250110",
+    "institute_mobile": "7302000233",
+    "institute_email": "INFO@NEELKANTH.EDU.IN",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "rr_id": "C0102",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ],
+        "branch_details": [
+          {
+            "branch": "Bachelor of Pharmacy",
+            "rr_id": "B010201"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

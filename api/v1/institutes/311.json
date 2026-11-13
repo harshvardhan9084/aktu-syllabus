@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "I01468",
     "institute_code": "311",
     "institute_name": "DEEWAN V.S. INSTITUTE OF ENGINEERING & TECHNOLOGY, MEERUT,MEERUT",
     "institute_address": "Meerut",
@@ -9,6 +10,7 @@
     "courses": [
       {
         "course": "Bachelor of Technology",
+        "rr_id": "C0101",
         "branches": [
           "Civil Engineering",
           "Computer Science and Engineering",
@@ -17,25 +19,69 @@
           "Mechanical Engineering",
           "Artificial Inelligence (AI) And Data Science",
           "Artificial Intelligence And Machine Learning"
+        ],
+        "branch_details": [
+          {
+            "branch": "Civil Engineering",
+            "rr_id": "B010114"
+          },
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Electrical Engineering",
+            "rr_id": "B010136"
+          },
+          {
+            "branch": "Electronics and Communication Engineering",
+            "rr_id": "B010141"
+          },
+          {
+            "branch": "Mechanical Engineering",
+            "rr_id": "B010153"
+          },
+          {
+            "branch": "Artificial Inelligence (AI) And Data Science",
+            "rr_id": "B010103"
+          },
+          {
+            "branch": "Artificial Intelligence And Machine Learning",
+            "rr_id": "B010105"
+          }
         ]
       },
       {
         "course": "Masters of Business Administration",
+        "rr_id": "C0103",
         "branches": [
           "MBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA",
+            "rr_id": "B010302"
+          }
         ]
       },
       {
         "course": "Master of Computer Applications",
+        "rr_id": "C0106",
         "branches": [
           "MCA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MCA",
+            "rr_id": "B010601"
+          }
         ]
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 3
   }
 }

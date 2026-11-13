@@ -1,0 +1,29 @@
+{
+  "data": {
+    "rr_id": "B010518",
+    "branch": "Energy Science & Technology",
+    "course": {
+      "course": "Master of Technology",
+      "rr_id": "C0105",
+      "slug": "master-of-technology"
+    },
+    "institute_count": 2,
+    "institutes": [
+      {
+        "rr_id": "I01024",
+        "institute_code": "043",
+        "institute_name": "BUNDELKHAND INSTITUTE OF ENGINEERING & TECHNOLOGY,JHANSI"
+      },
+      {
+        "rr_id": "I01670",
+        "institute_code": "858",
+        "institute_name": "CENTRE FOR ADVANCED STUDIES,LUCKNOW"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 2
+  }
+}

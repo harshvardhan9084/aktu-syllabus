@@ -1,0 +1,56 @@
+{
+  "data": {
+    "rr_id": "I01538",
+    "institute_code": "499",
+    "institute_name": "VEER KUNWAR INSTITUTE OF TECHNOLOGY,BIJNAUR",
+    "institute_address": "V.K. PURAM NAGINA ROAD, BIJNOR - 246701",
+    "institute_mobile": "8171001000",
+    "institute_email": "director@vkit.in",
+    "course_count_declared": 6,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "rr_id": "C0101",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Information Technology",
+          "Electrical Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering"
+        ],
+        "branch_details": [
+          {
+            "branch": "Civil Engineering",
+            "rr_id": "B010114"
+          },
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Information Technology",
+            "rr_id": "B010148"
+          },
+          {
+            "branch": "Electrical Engineering",
+            "rr_id": "B010136"
+          },
+          {
+            "branch": "Electronics and Communication Engineering",
+            "rr_id": "B010141"
+          },
+          {
+            "branch": "Mechanical Engineering",
+            "rr_id": "B010153"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

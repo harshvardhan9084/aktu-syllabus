@@ -1,0 +1,51 @@
+{
+  "data": {
+    "rr_id": "I01548",
+    "institute_code": "521",
+    "institute_name": "KOTHIWAL INSTITUTE OF TECHNOLOGY & PROFESSIONAL STUDIES,MORADABAD",
+    "institute_address": "Pachokara, Haridwar Road, Moradabad",
+    "institute_mobile": "9897868221",
+    "institute_email": "rawat.krishan@gmail.com",
+    "course_count_declared": 5,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "rr_id": "C0101",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Information Technology",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering"
+        ],
+        "branch_details": [
+          {
+            "branch": "Civil Engineering",
+            "rr_id": "B010114"
+          },
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Information Technology",
+            "rr_id": "B010148"
+          },
+          {
+            "branch": "Electronics and Communication Engineering",
+            "rr_id": "B010141"
+          },
+          {
+            "branch": "Mechanical Engineering",
+            "rr_id": "B010153"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

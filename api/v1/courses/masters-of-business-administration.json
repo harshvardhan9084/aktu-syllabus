@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "C0103",
     "course": "Masters of Business Administration",
     "slug": "masters-of-business-administration",
     "branch_rows": 271,
@@ -7,1364 +8,1906 @@
     "institutes": [
       {
         "institute_code": "005",
+        "institute_rr_id": "I01003",
         "institute_name": "RAJA BALWANT SINGH MANAGEMENT TECHNICAL CAMPUS,AGRA",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "007",
+        "institute_rr_id": "I01005",
         "institute_name": "SHIVDAN SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALIGARH",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "010",
+        "institute_rr_id": "I01006",
         "institute_name": "UNITED COLLEGE OF ENGINEERING & RESEARCH,ALLAHABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "011",
+        "institute_rr_id": "I01007",
         "institute_name": "UNITED INSTITUTE OF MANAGEMENT,ALLAHABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "014",
+        "institute_rr_id": "I01010",
         "institute_name": "SHRI RAMMURTI SMARAK COLLEGE OF ENGG AND TECHNOLOGY,BAREILLY",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "016",
+        "institute_rr_id": "I01011",
         "institute_name": "RAKSHPAL BAHADUR MANAGEMENT INSTITUTE,BAREILLY",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "017",
+        "institute_rr_id": "I01012",
         "institute_name": "KUNWAR SATYAVIRA COLLEGE OF ENGINEERING AND MANAGEMENT, BIJNOR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "030",
+        "institute_rr_id": "I01015",
         "institute_name": "INDERPRASTHA ENGG. COLLEGE,GHAZIABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "033",
+        "institute_rr_id": "I01017",
         "institute_name": "RAJ KUMAR GOEL INSTT. OF TECHNOLOGY,GHAZIABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "035",
+        "institute_rr_id": "I01018",
         "institute_name": "BABU BANARSI DAS INSTITUTE OF TECH.,GHAZIABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "037",
+        "institute_rr_id": "I01019",
         "institute_name": "INSTITUTE OF MANAGEMENT EDUCATION,GHAZIABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "038",
+        "institute_rr_id": "I01020",
         "institute_name": "INSTITUTE OF TECHNOLOGY & SCIENCE,GHAZIABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "039",
+        "institute_rr_id": "I01021",
         "institute_name": "INSTITUTE OF MANAGEMENT RESEARCH,GHAZIABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "040",
+        "institute_rr_id": "I01022",
         "institute_name": "TECHNICAL EDUCATION & RESEARCH INSTITUTE,GAZIPUR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "043",
+        "institute_rr_id": "I01024",
         "institute_name": "BUNDELKHAND INSTITUTE OF ENGINEERING & TECHNOLOGY,JHANSI",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "046",
+        "institute_rr_id": "I01026",
         "institute_name": "MAHARANA PRATAP ENGINEERING COLLEGE,KANPUR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "047",
+        "institute_rr_id": "I01027",
         "institute_name": "DR. VIRENDRA SWAROOP INSTITUTE OF COMPUTER STUDIES,KANPUR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "048",
+        "institute_rr_id": "I01028",
         "institute_name": "DAYANAND ACADEMY OF MANAGEMENT STUDIES,KANPUR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "050",
+        "institute_rr_id": "I01029",
         "institute_name": "COLLEGE OF MANAGEMENT STUDIES,KANPUR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "052",
+        "institute_rr_id": "I01031",
         "institute_name": "INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "053",
+        "institute_rr_id": "I01032",
         "institute_name": "AZAD INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "054",
+        "institute_rr_id": "I01033",
         "institute_name": "BABU BANARASI DAS INSTITUTE OF TECHNOLOGY AND MANAGEMENT, LUCKNOW",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "056",
+        "institute_rr_id": "I01034",
         "institute_name": "BABU BANARASI DAS NORTHERN INDIA INSTITUTE OF TECHNOLOGY,LUCKNOW",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "059",
+        "institute_rr_id": "I01036",
         "institute_name": "LAL BAHADUR SHASTRI INSTITUTE OF MANAGEMENT & DEVELOPMENT STUDIES,LUCKNOW",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "064",
+        "institute_rr_id": "I01037",
         "institute_name": "HINDUSTAN COLLEGE OF SCIENCE & TECHNOLOGY,MATHURA",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "065",
+        "institute_rr_id": "I01038",
         "institute_name": "B.S.A. COLLEGE OF ENGINEERING & TECHNOLOGY,MATHURA",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "067",
+        "institute_rr_id": "I01040",
         "institute_name": "HINDUSTAN INSTITUTE OF MANAGEMENT & COMPUTER STUDIES,MATHURA",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "068",
+        "institute_rr_id": "I01041",
         "institute_name": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "070",
+        "institute_rr_id": "I01042",
         "institute_name": "COLLEGE OF ENGG. & RURAL TECHNOLOGY,MEERUT",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "074",
+        "institute_rr_id": "I01043",
         "institute_name": "DEWAN INSTITUTE OF MANAGEMENT STUDIES,MEERUT",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "076",
+        "institute_rr_id": "I01044",
         "institute_name": "GHANSHYAM BINANI ACADEMY OF MANAGEMENT SCIENCE,MIRZAPUR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "079",
+        "institute_rr_id": "I01047",
         "institute_name": "UNIQUE INSTITUTE OF MANAGEMENT AND TECHNALOGY,,GHAZIABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "082",
+        "institute_rr_id": "I01048",
         "institute_name": "MORADABAD INSTITUTE OF TECHNOLOGY,MORADABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "083",
+        "institute_rr_id": "I01049",
         "institute_name": "S.D.COLLEGE OF ENGINEERING & TECHNOLOGY,MUZAFFARNAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "084",
+        "institute_rr_id": "I01050",
         "institute_name": "BHAGWANT INSTITUTE OF TECHNOLOGY,MUZAFFARNAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "085",
+        "institute_rr_id": "I01051",
         "institute_name": "S.D. COLLEGE OF MANAGEMENT STUDIES,MUZAFFARNAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "090",
+        "institute_rr_id": "I01053",
         "institute_name": "I.E.C. COLLEGE OF ENGINEERING & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "094",
+        "institute_rr_id": "I01055",
         "institute_name": "GALGOTIAS INSTITUTE OF MANAGEMENT & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "096",
+        "institute_rr_id": "I01057",
         "institute_name": "VISHVESHWARYA GROUP OF INSTITUTIONS,GAUTAM BUDDH NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "097",
+        "institute_rr_id": "I01058",
         "institute_name": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "097",
+        "institute_rr_id": "I01058",
         "institute_name": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "MBA(Logistics and supply chain management)"
+        "branch": "MBA(Logistics and supply chain management)",
+        "branch_rr_id": "B010308"
       },
       {
         "institute_code": "098",
+        "institute_rr_id": "I01059",
         "institute_name": "INSTITUTE OF MANAGEMENT STUDIES,GAUTAM BUDDH NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "099",
+        "institute_rr_id": "I01060",
         "institute_name": "HARLAL INSTITUTE OF MANAGEMENT & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "106",
+        "institute_rr_id": "I01115",
         "institute_name": "SCHOOL OF MANAGEMENT SCIENCES,VARANASI",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "1069",
+        "institute_rr_id": "I01125",
         "institute_name": "RAMA INSTITUTE OF HIGHER EDUCATION , Bijnor",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "107",
+        "institute_rr_id": "I01126",
         "institute_name": "INSTITUTE OF COMPUTER SCIENCE & TECHNOLOGY,VARANASI",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "108",
+        "institute_rr_id": "I01136",
         "institute_name": "R.S.M.T. COLLEGE,VARANASI",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "109",
+        "institute_rr_id": "I01145",
         "institute_name": "ALIGARH COLLEGE OF ENGG. & TECH,ALIGARH",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "1131",
+        "institute_rr_id": "I01181",
         "institute_name": "ALLENHOUSE INSTITUTE OF MANAGEMENT,KANPUR NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "1134",
+        "institute_rr_id": "I01184",
         "institute_name": "GNIT COLLEGE OF MANAGEMENT,GAUTAM BUDDHA NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "114",
+        "institute_rr_id": "I01190",
         "institute_name": "INSTITUTE OF PROFESSIONAL EXCELLENCE & MANAGEMENT,GHAZIABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "1156",
+        "institute_rr_id": "I01206",
         "institute_name": "MODERN COLLEGE JHANSI,JHANSI",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "1156",
+        "institute_rr_id": "I01206",
         "institute_name": "MODERN COLLEGE JHANSI,JHANSI",
-        "branch": "MBA (Health Care and Hospital Management)"
+        "branch": "MBA (Health Care and Hospital Management)",
+        "branch_rr_id": "B010305"
       },
       {
         "institute_code": "116",
+        "institute_rr_id": "I01210",
         "institute_name": "JAIPURIA INSTITUTE OF MANAGEMENT,GHAZIABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "116",
+        "institute_rr_id": "I01210",
         "institute_name": "JAIPURIA INSTITUTE OF MANAGEMENT,GHAZIABAD",
-        "branch": "MBA (Banking and Finance Service)"
+        "branch": "MBA (Banking and Finance Service)",
+        "branch_rr_id": "B010304"
       },
       {
         "institute_code": "116",
+        "institute_rr_id": "I01210",
         "institute_name": "JAIPURIA INSTITUTE OF MANAGEMENT,GHAZIABAD",
-        "branch": "MBA(Business Analytics)"
+        "branch": "MBA(Business Analytics)",
+        "branch_rr_id": "B010307"
       },
       {
         "institute_code": "1177",
+        "institute_rr_id": "I01223",
         "institute_name": "IED HOTEL MANAGEMENT",
-        "branch": "Innovation Entrepreneurship and Venture Devlopement"
+        "branch": "Innovation Entrepreneurship and Venture Devlopement",
+        "branch_rr_id": "B010301"
       },
       {
         "institute_code": "1177",
+        "institute_rr_id": "I01223",
         "institute_name": "IED HOTEL MANAGEMENT",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "1186",
+        "institute_rr_id": "I01233",
         "institute_name": "MAYA INSTITUTE OF PHARMACY",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "1188",
+        "institute_rr_id": "I01234",
         "institute_name": "MASTER SCHOOL OF MANAGEMENT STUDIES",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "1189",
+        "institute_rr_id": "I01235",
         "institute_name": "CENTRE FOR MANAGEMENT DEVELOPMENT",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "1190",
+        "institute_rr_id": "I01236",
         "institute_name": "MICROTEK COLLEGE OF MANAGEMENT & TECHNOLOGY",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "1192",
+        "institute_rr_id": "I01237",
         "institute_name": "INTERNATIONAL INSTITUTE FOR SPECIAL EDUCATION (IISE)",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "1193",
+        "institute_rr_id": "I01238",
         "institute_name": "ABES BUSINESS SCHOOL, GHAZIABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "1194",
+        "institute_rr_id": "I01239",
         "institute_name": "S R M S INTERNATIONAL BUSINESS SCHOOL",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "1195",
+        "institute_rr_id": "I01240",
         "institute_name": "ROOTS INSTITUTE OF PROFESSIONAL EDUCATION",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "1198",
+        "institute_rr_id": "I01242",
         "institute_name": "VISHVESHWARYA INSTITUTE OF POLYTECHNIC",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "120",
+        "institute_rr_id": "I01243",
         "institute_name": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,GORAKHPUR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "1200",
+        "institute_rr_id": "I01244",
         "institute_name": "G.L. BAJAJ COLLEGE OF TECHNOLOGY AND MANAGEMENT",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "1209",
+        "institute_rr_id": "I01253",
         "institute_name": "Faculty of Management AKTU",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "1212",
+        "institute_rr_id": "I01256",
         "institute_name": "BUDDHA INSTITUTE OF MANAGEMENT",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "1219",
+        "institute_rr_id": "I01263",
         "institute_name": "THAKUR HAR NARAYAN SINGH MAHAVIDYALAYA, PRAYAGRAJ",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "122",
+        "institute_rr_id": "I01264",
         "institute_name": "SHRI RAM SWAROOP MEMORIAL COLLEGE OF ENGG. & MANAGEMENT,LUCKNOW",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "1222",
+        "institute_rr_id": "I01266",
         "institute_name": "ACCMAN Business School",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "1223",
+        "institute_rr_id": "I01267",
         "institute_name": "ISLAMIA DEGREE COLLEGE",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "123",
+        "institute_rr_id": "I01273",
         "institute_name": "SAROJ INSTITUTE OF TECH. & MANAGEMENT,LUCKNOW",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "124",
+        "institute_rr_id": "I01284",
         "institute_name": "INSTITUTE OF CO-OPERATIVE & CORPORATE MANAGEMENT, RESEARCH & TRAINING,LUCKNOW",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "127",
+        "institute_rr_id": "I01314",
         "institute_name": "I.I.M.T. ENGG. COLLEGE,MEERUT",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "1278",
+        "institute_rr_id": "I01323",
         "institute_name": "LUCKNOW PUBLIC COLLEGE OF PROFESSIONAL STUDIES, Lucknow",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "1279",
+        "institute_rr_id": "I01324",
         "institute_name": "INSTITUTE OF PROFESSIONAL STUDIES AND RESEARCH, UNNAO",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "128",
+        "institute_rr_id": "I01325",
         "institute_name": "BHARAT INSTITUTE OF TECHNOLOGY,MEERUT",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "1281",
+        "institute_rr_id": "I01327",
         "institute_name": "Shri Vishwanath P.G. College, Sultanpur",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "1284",
+        "institute_rr_id": "I01330",
         "institute_name": "BANARAS INSTITUTE OF TEACHER'S EDUCATION, VARANASI",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "1285",
+        "institute_rr_id": "I01331",
         "institute_name": "VIKRAM SARABHAI INSTITUTE OF ENGINEERING & TECHNOLOGY, GAUTAM BUDDHA NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "1287",
+        "institute_rr_id": "I01333",
         "institute_name": "IMPACT COLLEGE OF SCIENCE AND TECHNOLOGY, RAMPUR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "1288",
+        "institute_rr_id": "I01334",
         "institute_name": "Trinity Institute of Innovations in Professional Studies, GAUTAM BUDDHA NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "1289",
+        "institute_rr_id": "I01335",
         "institute_name": "DIVINE INSTITUTE OF MANAGEMENT AND TECHNOLOGY, GAUTAM BUDDHA NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "129",
+        "institute_rr_id": "I01336",
         "institute_name": "FORT INSTITUTE OF TECHNOLOGY,MEERUT",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "1291",
+        "institute_rr_id": "I01338",
         "institute_name": "RAKSHPAL BAHADUR MANAGEMENT INSTITUTE, GAUTAM BUDDHA NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "1292",
+        "institute_rr_id": "I01339",
         "institute_name": "DTC COLLEGE, GAUTAM BUDDHA NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "1293",
+        "institute_rr_id": "I01340",
         "institute_name": "INDIRAPURAM INSTITUTE OF HIGHER STUDIES, GHAZIABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "1294",
+        "institute_rr_id": "I01341",
         "institute_name": "ST JHONS COLLEGE, AGRA",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "1295",
+        "institute_rr_id": "I01342",
         "institute_name": "SITASRM ENGINEERING AND RESEARCH INSTITUTE, GAUTAM BUDDHA NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "132",
+        "institute_rr_id": "I01367",
         "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY (ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "133",
+        "institute_rr_id": "I01374",
         "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Innovation Entrepreneurship and Venture Devlopement"
+        "branch": "Innovation Entrepreneurship and Venture Devlopement",
+        "branch_rr_id": "B010301"
       },
       {
         "institute_code": "133",
+        "institute_rr_id": "I01374",
         "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "133",
+        "institute_rr_id": "I01374",
         "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "MBA (Marketing and Finance)"
+        "branch": "MBA (Marketing and Finance)",
+        "branch_rr_id": "B010306"
       },
       {
         "institute_code": "134",
+        "institute_rr_id": "I01375",
         "institute_name": "SACRED HEART INSTITUTE OF MANAGAMENT & TECHNOLOGY,SITAPUR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "135",
+        "institute_rr_id": "I01376",
         "institute_name": "KAMLA NEHRU INSTITUTE OF PHYSICAL & SOCIAL SCIENCES,MANAGEMENT INSTITUTE,SULTANPUR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "138",
+        "institute_rr_id": "I01378",
         "institute_name": "B.B.S.COLLEGE OF ENGINEERING AND TECHNOLOGY,ALLAHABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "139",
+        "institute_rr_id": "I01379",
         "institute_name": "KALICHARAN NIGAM INSTITUTE OF TECHNOLOGY,BANDA",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "141",
+        "institute_rr_id": "I01380",
         "institute_name": "SAGAR INSTITUTE OF TECHNOLOGY & MANAGEMENT,BARABANKI",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "142",
+        "institute_rr_id": "I01381",
         "institute_name": "KHANDELWAL COLLEGE OF MANAGEMENT SCIENCE AND TECHNOLOGY,BAREILLY",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "143",
+        "institute_rr_id": "I01382",
         "institute_name": "I.M.S. ENGINEERING COLLEGE,GHAZIABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "144",
+        "institute_rr_id": "I01383",
         "institute_name": "PRASAD INSTITUTE OF TECHNOLOGY,JAUNPUR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "145",
+        "institute_rr_id": "I01384",
         "institute_name": "S R GROUP OF INSTITUTIONS (COLLEGE OF SCIENCE AND ENGINEERING),JHANSI",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "151",
+        "institute_rr_id": "I01385",
         "institute_name": "GLOBAL INSTITUTE OF INFORMATION TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "152",
+        "institute_rr_id": "I01386",
         "institute_name": "MANGALMAY INSTITUTE OF MANAGEMENT AND TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "153",
+        "institute_rr_id": "I01387",
         "institute_name": "LLOYD INSTITUTE OF ENGINEERING AND TECHNOLOGY",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "154",
+        "institute_rr_id": "I01388",
         "institute_name": "FACULTY OF MANAGEMENT AND TECHNOLOGY,VARANASI",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "162",
+        "institute_rr_id": "I01391",
         "institute_name": "SHAMBHU NATH INSTITUTE OF ENGG. & TECHNOLOGY,ALLAHABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "163",
+        "institute_rr_id": "I01392",
         "institute_name": "DR.M.C.SAXENA COLLEGE OF ENGG. & TECHNOLOGY,LUCKNOW",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "164",
+        "institute_rr_id": "I01393",
         "institute_name": "PRANVEER SINGH INSTITUTE OF TECHNOLOGY,KANPUR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "165",
+        "institute_rr_id": "I01394",
         "institute_name": "KANPUR INSTITUTE OF TECHNOLOGY,KANPUR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "172",
+        "institute_rr_id": "I01401",
         "institute_name": "LLOYD INSTITUTE OF MANAGEMENT & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "173",
+        "institute_rr_id": "I01402",
         "institute_name": "RAJEEV ACADEMY FOR TECHNOLOGY & MANAGEMENT,MATHURA",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "174",
+        "institute_rr_id": "I01403",
         "institute_name": "KISHAN INSTITUTE OF INFORMATION TECHNOLOGY,MEERUT",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "175",
+        "institute_rr_id": "I01404",
         "institute_name": "AL BARKAT INSTITUTE OF MANAGEMENT STUDIES,ALIGARH",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "179",
+        "institute_rr_id": "I01405",
         "institute_name": "JEEVAN DEEP INSTITUTE OF MANAGEMENT & TECHNOLOGY,VARANASI",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "182",
+        "institute_rr_id": "I01406",
         "institute_name": "KALKA INSTITUTE FOR RESEARCH & ADVANCED STUDIES,MEERUT",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "192",
+        "institute_rr_id": "I01411",
         "institute_name": "G.L. BAJAJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "192",
+        "institute_rr_id": "I01411",
         "institute_name": "G.L. BAJAJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR",
-        "branch": "MBA(Business Analytics)"
+        "branch": "MBA(Business Analytics)",
+        "branch_rr_id": "B010307"
       },
       {
         "institute_code": "203",
+        "institute_rr_id": "I01417",
         "institute_name": "RAMESHWARAM INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "212",
+        "institute_rr_id": "I01421",
         "institute_name": "UNITED INSTITUTE OF MANAGEMENT,GAUTAM BUDDH NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "215",
+        "institute_rr_id": "I01423",
         "institute_name": "SANSKAR COLLEGE OF ENGINEERING & TECHNOLOGY,GHAZIABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "216",
+        "institute_rr_id": "I01424",
         "institute_name": "IIMT COLLEGE OF ENGINEERING,GAUTAM BUDDH NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "216",
+        "institute_rr_id": "I01424",
         "institute_name": "IIMT COLLEGE OF ENGINEERING,GAUTAM BUDDH NAGAR",
-        "branch": "MBA(Business Analytics)"
+        "branch": "MBA(Business Analytics)",
+        "branch_rr_id": "B010307"
       },
       {
         "institute_code": "220",
+        "institute_rr_id": "I01426",
         "institute_name": "HI-TECH. INSTITUTE OF ENGINEERING &TECHNOLOGY,GHAZIABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "221",
+        "institute_rr_id": "I01427",
         "institute_name": "INSTITUTE OF ENGINEERING & TECHNOLOGY,SITAPUR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "222",
+        "institute_rr_id": "I01428",
         "institute_name": "I.T.S. ENGG.COLLEGE,GAUTAM BUDDH NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "225",
+        "institute_rr_id": "I01429",
         "institute_name": "ACCURATE INSTITUTE OF MANAGEMENT & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "230",
+        "institute_rr_id": "I01431",
         "institute_name": "DRONACHARYA GROUP OF INSTITUTIONS,GAUTAM BUDDH NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "231",
+        "institute_rr_id": "I01432",
         "institute_name": "R.D.ENGINEERING COLLEGE,GHAZIABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "238",
+        "institute_rr_id": "I01437",
         "institute_name": "NIMT INSTITUTE OF HOSPITAL & PHARMA MANAGEMENT,GAUTAM BUDDH NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "256",
+        "institute_rr_id": "I01443",
         "institute_name": "DNS COLLEGE OF ENGINEERING & TECHNOLOGY,J.P.NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "265",
+        "institute_rr_id": "I01448",
         "institute_name": "SIR MADAN LAL INSTITUTE OF MANAGEMENT,ETAWAH",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "272",
+        "institute_rr_id": "I01450",
         "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY(MBA INSTITUTE),GAUTAM BUDDH NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "272",
+        "institute_rr_id": "I01450",
         "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY(MBA INSTITUTE),GAUTAM BUDDH NAGAR",
-        "branch": "MBA (Health Care and Hospital Management)"
+        "branch": "MBA (Health Care and Hospital Management)",
+        "branch_rr_id": "B010305"
       },
       {
         "institute_code": "272",
+        "institute_rr_id": "I01450",
         "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY(MBA INSTITUTE),GAUTAM BUDDH NAGAR",
-        "branch": "MBA(Business Analytics)"
+        "branch": "MBA(Business Analytics)",
+        "branch_rr_id": "B010307"
       },
       {
         "institute_code": "274",
+        "institute_rr_id": "I01451",
         "institute_name": "NARMADESHWAR MANAGEMENT COLLEGE ,LUCKNOW,LUCKNOW",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "277",
+        "institute_rr_id": "I01452",
         "institute_name": "PETRONAGE INSTITUTE OF MANAGEMENT STUDIES,GREATER NOIDA,GAUTAM BUDDH NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "280",
+        "institute_rr_id": "I01453",
         "institute_name": "APEX INSTITUTE OF TECHNOLOGY,RAMPUR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "282",
+        "institute_rr_id": "I01454",
         "institute_name": "J.P..INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "283",
+        "institute_rr_id": "I01455",
         "institute_name": "LDC INSTITUTE OF TECHNICAL STUDIES,ALLAHABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "287",
+        "institute_rr_id": "I01457",
         "institute_name": "NARAINA COLLEGE OF ENGINEERING & TECHNOLOGY,KANPUR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "292",
+        "institute_rr_id": "I01459",
         "institute_name": "MEERUT INSTITUTE OF TECHNOLOGY,MEERUT",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "306",
+        "institute_rr_id": "I01465",
         "institute_name": "DISHA INSTITUTE OF SCIENCE AND TECHNOLOGY,,BIJNAUR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "307",
+        "institute_rr_id": "I01466",
         "institute_name": "DAYANAND DEENA NATH COLLEGE OF MANAGEMENT ,,KANPUR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "310",
+        "institute_rr_id": "I01467",
         "institute_name": "DR. RIZVI COLLEGE OF ENGINEERING,,KAUSHAMBI",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "311",
+        "institute_rr_id": "I01468",
         "institute_name": "DEEWAN V.S. INSTITUTE OF ENGINEERING & TECHNOLOGY, MEERUT,MEERUT",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "312",
+        "institute_rr_id": "I01469",
         "institute_name": "ABSS INSTITUTE OF TECHNOLOGY, MEERUT,MEERUT",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "321",
+        "institute_rr_id": "I01473",
         "institute_name": "TRANSLAM INSTITUTE OF TECHNOLOGY & MANAGEMENT,MEERUT",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "339",
+        "institute_rr_id": "I01477",
         "institute_name": "ACN COLLEGE OF ENGINEERING & MANAGEMENT STUDIES,ALIGARH",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "340",
+        "institute_rr_id": "I01478",
         "institute_name": "VIVEKANANDA COLLEGE OF TECHNOLOGY & MANAGEMENT,ALIGARH",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "341",
+        "institute_rr_id": "I01479",
         "institute_name": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALIGARH",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "345",
+        "institute_rr_id": "I01480",
         "institute_name": "SETH VISHAMBHAR NATH INSTITUTE OF ENGG. & TECHNOLOGY,BARABANKI",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "351",
+        "institute_rr_id": "I01482",
         "institute_name": "KRISHNA INSTITUTE OF TECHNOLOGY,KANPUR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "353",
+        "institute_rr_id": "I01483",
         "institute_name": "APOLLO INSTITUTE OF TECHNOLOGY,KANPUR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "358",
+        "institute_rr_id": "I01484",
         "institute_name": "RAMESHWARAM INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "360",
+        "institute_rr_id": "I01485",
         "institute_name": "GOEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "361",
+        "institute_rr_id": "I01486",
         "institute_name": "R.R.INSTITUTE OF MODERN TECHNOLOGY,LUCKNOW",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "362",
+        "institute_rr_id": "I01487",
         "institute_name": "LUCKNOW INSTITUTE OF TECHNOLOGY,LUCKNOW",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "363",
+        "institute_rr_id": "I01488",
         "institute_name": "AMBALIKA INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "370",
+        "institute_rr_id": "I01489",
         "institute_name": "SHANTI INSTITUTE OF TECHNOLOGY,MEERUT",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "373",
+        "institute_rr_id": "I01490",
         "institute_name": "NEELKANTH INSTITUTE OF TECHNOLOGY,MEERUT",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "374",
+        "institute_rr_id": "I01491",
         "institute_name": "RISHI INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "380",
+        "institute_rr_id": "I01492",
         "institute_name": "MODINAGAR INSTITUTE OF TECHNOLOGY,GHAZIABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "383",
+        "institute_rr_id": "I01494",
         "institute_name": "RAJARSHI RANANJAY SINGH INSTITUTE OF MANAGEMENT & TECHNOLOGY,SULTANPUR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "384",
+        "institute_rr_id": "I01495",
         "institute_name": "SARASWATI HIGHER EDUCATION & TECHNICAL COLLEGE OF ENGINEERING,VARANASI",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "394",
+        "institute_rr_id": "I01502",
         "institute_name": "COLLEGE OF BUSINESS STUDIES,AGRA",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "396",
+        "institute_rr_id": "I01503",
         "institute_name": "ARYAKUL COLEGE OF MANAGEMENT,LUCKNOW",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "410",
+        "institute_rr_id": "I01504",
         "institute_name": "RSD ACADEMY, COLLEGE OF MANAGEMENT & TECHNOLOGY,MORADABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "411",
+        "institute_rr_id": "I01505",
         "institute_name": "HMFA MEMORIAL INSTITUTE OF ENGINEERING & TECHNOLOGY,ALLAHABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "414",
+        "institute_rr_id": "I01506",
         "institute_name": "JMS INSTITUTE OF TECHNOLOGY, GHAZIABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "419",
+        "institute_rr_id": "I01507",
         "institute_name": "PRABHAT ENGINEERING COLLEGE,KANPUR DEHAT",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "422",
+        "institute_rr_id": "I01508",
         "institute_name": "BANSAL INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "423",
+        "institute_rr_id": "I01509",
         "institute_name": "SCHOOL OF MANAGEMENT SCIENCES,LUCKNOW",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "423",
+        "institute_rr_id": "I01509",
         "institute_name": "SCHOOL OF MANAGEMENT SCIENCES,LUCKNOW",
-        "branch": "MBA(Business Analytics)"
+        "branch": "MBA(Business Analytics)",
+        "branch_rr_id": "B010307"
       },
       {
         "institute_code": "425",
+        "institute_rr_id": "I01510",
         "institute_name": "MEERUT INTERNATIONAL INSTITUTE OF TECHNOLOGY,MEERUT",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "428",
+        "institute_rr_id": "I01511",
         "institute_name": "KASHI INSTITUTE OF TECHNOLOGY,VARANASI",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "430",
+        "institute_rr_id": "I01512",
         "institute_name": "MAHARANA INSTITUTE OF TECH. & SCIENCES,LUCKNOW",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "434",
+        "institute_rr_id": "I01513",
         "institute_name": "JAGARAN INSTITUTE OF MANAGEMENT,KANPUR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "448",
+        "institute_rr_id": "I01515",
         "institute_name": "NEELAM COLLEGE OF ENGINEERING & TECHNOLOGY,AGRA",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "465",
+        "institute_rr_id": "I01518",
         "institute_name": "HIMALAYAN INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "472",
+        "institute_rr_id": "I01521",
         "institute_name": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,MAHARAJGANJ",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "479",
+        "institute_rr_id": "I01524",
         "institute_name": "RAJSHREE INSTITUTE OF MANAGEMENT & TECHNOLOGY,BAREILLY",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "480",
+        "institute_rr_id": "I01525",
         "institute_name": "NIGC INSTITUTE OF TECHNOLOGY AND MANAGEMENT, BIJNOR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "492",
+        "institute_rr_id": "I01534",
         "institute_name": "KCC Institute of Technology & Management,Gautam Buddh Nagar",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "511",
+        "institute_rr_id": "I01542",
         "institute_name": "G.L.BAJAJ GROUP OF INSTITUTIONS,MATHURA",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "517",
+        "institute_rr_id": "I01545",
         "institute_name": "KIPM COLLEGE OF MANAGEMENT,GORAKHPUR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "523",
+        "institute_rr_id": "I01549",
         "institute_name": "VISION INSTITUTE OF TECHNOLOGY,KANPUR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "533",
+        "institute_rr_id": "I01553",
         "institute_name": "RV NORTHLAND INSTITUE OF MANAGEMENT,GAUTAM BUDDH NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "536",
+        "institute_rr_id": "I01554",
         "institute_name": "SHREE JI BABA INSTITUE OF PROFESSIONAL STUDIES,MATHURA",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "540",
+        "institute_rr_id": "I01555",
         "institute_name": "KRISHNA INSTITUTE OF MANAGEMENT,MEERUT",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "557",
+        "institute_rr_id": "I01563",
         "institute_name": "SHANTI NIKETAN TRUST'S GROUP OF INSTITUTIONA,FACULTY OF MANAGEMENT,MEERUT",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "561",
+        "institute_rr_id": "I01564",
         "institute_name": "HARI COLLEGE OF MANAGEMENT,SAHARANPUR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "576",
+        "institute_rr_id": "I01567",
         "institute_name": "CSM GROUP OF INSTITUTIONS,FACULTY OF MANAGEMENT,ALLAHABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "579",
+        "institute_rr_id": "I01568",
         "institute_name": "HLM COLLEGE,GHAZIABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "581",
+        "institute_rr_id": "I01569",
         "institute_name": "SHRI GIRAIRAJ MAHARAJ INSTITUTE OF MANAGEMENT,MATHURA",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "582",
+        "institute_rr_id": "I01570",
         "institute_name": "SUN INSTITUTE OF MANAGEMENT & TECHNOLOGY,SHAHJAHANPUR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "583",
+        "institute_rr_id": "I01571",
         "institute_name": "LAKSHYA INSTITUTE OF MANAGEMENT & INFORMATION TECHNOLOGY,SHAHJAHANPUR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "584",
+        "institute_rr_id": "I01572",
         "institute_name": "BANSHI COLLEGE OF MANAGEMENT & TECHNOLOGY,KANPUR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "588",
+        "institute_rr_id": "I01574",
         "institute_name": "PRINCE INSTITUTE OF INNOVATIVE TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "593",
+        "institute_rr_id": "I01575",
         "institute_name": "VINAYAK VIDYAPEETH,MEERUT",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "599",
+        "institute_rr_id": "I01577",
         "institute_name": "JAHANGIRABAD EDUCATIONAL TRUST'S GROUP OF INSTITUTIONS,FACULTY OF MANAGEMENT,BARABANKI",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "605",
+        "institute_rr_id": "I01578",
         "institute_name": "UNNATI MANAGEMENT COLLEGE,MATHURA",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "607",
+        "institute_rr_id": "I01579",
         "institute_name": "DR VIRENDRA SWAROOP INSTITUTE OF PROFESSIONAL STUDIES,KANPUR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "609",
+        "institute_rr_id": "I01580",
         "institute_name": "J P SCHOOL OF BUSINESS,MEERUT",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "617",
+        "institute_rr_id": "I01581",
         "institute_name": "UTTAM INSTITUTE OF MANAGEMENT STUDIES,AGRA",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "620",
+        "institute_rr_id": "I01582",
         "institute_name": "GCRG MEMORIAL TRUST'S GROUP OF INSTITUTIONS, FACULTY OF MANAGEMENT,LUCKNOW",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "621",
+        "institute_rr_id": "I01583",
         "institute_name": "DEV BHOOMI GROUP OF INSTITUTIONS FACULTY OF MANAGEMENT,SAHARANPUR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "622",
+        "institute_rr_id": "I01584",
         "institute_name": "MODERN INSTITUTE OF TECHNOLOGY & MANAGEMENT,GHAZIABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "636",
+        "institute_rr_id": "I01585",
         "institute_name": "SAHARANPUR INSTITUTE OF ADVANCE STUDIES,SAHARANPUR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "641",
+        "institute_rr_id": "I01587",
         "institute_name": "ASHOKA INSTITUTE OF TECHNOLOGY & MANAGEMENT,VARANASI",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "643",
+        "institute_rr_id": "I01588",
         "institute_name": "ABHAY MEMORIAL TRUST GROUP OF INSTITUTIONS,ALLAHABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "644",
+        "institute_rr_id": "I01589",
         "institute_name": "SVS GROUP OF INSTITUTIONS,MEERUT",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "648",
+        "institute_rr_id": "I01590",
         "institute_name": "BABU SUNDER SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "661",
+        "institute_rr_id": "I01593",
         "institute_name": "KRISHNARPIT INSTITUTE OF MANAGEMENT & TECHNOLOGY,ALLAHABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "666",
+        "institute_rr_id": "I01594",
         "institute_name": "SRM BUSINESS SCHOOL,LUCKNOW",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "673",
+        "institute_rr_id": "I01597",
         "institute_name": "ITM SCHOOL OF MANAGEMENT,LUCKNOW",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "679",
+        "institute_rr_id": "I01598",
         "institute_name": "INSTITUTE OF TECHNICAL EDUCATION & RESEARCH CENTRE, GHAZIABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "680",
+        "institute_rr_id": "I01599",
         "institute_name": "CITY COLLEGE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "682",
+        "institute_rr_id": "I01600",
         "institute_name": "BIMT COLLEGE,MEERUT",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "686",
+        "institute_rr_id": "I01601",
         "institute_name": "ACCURATE INSTITUTE OF ADVANCE MANAGEMENT,GAUTAM BUDDH NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "687",
+        "institute_rr_id": "I01602",
         "institute_name": "ANA COLLEGE OF MANAGEMENT STUDIES,BAREILLY",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "689",
+        "institute_rr_id": "I01603",
         "institute_name": "INSTITUTE OF INFORMATION MANAGEMENT & TECHNOLOGY,ALIGARH",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "692",
+        "institute_rr_id": "I01604",
         "institute_name": "LLOYD SCHOOL OF MANAGEMENT STUDIES",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "695",
+        "institute_rr_id": "I01605",
         "institute_name": "SRI RAM GROUP OF COLLEGES,MUZAFFARNAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "695",
+        "institute_rr_id": "I01605",
         "institute_name": "SRI RAM GROUP OF COLLEGES,MUZAFFARNAGAR",
-        "branch": "MBA (AGRIBUSINESS MANAGEMENT)"
+        "branch": "MBA (AGRIBUSINESS MANAGEMENT)",
+        "branch_rr_id": "B010303"
       },
       {
         "institute_code": "695",
+        "institute_rr_id": "I01605",
         "institute_name": "SRI RAM GROUP OF COLLEGES,MUZAFFARNAGAR",
-        "branch": "MBA (Banking and Finance Service)"
+        "branch": "MBA (Banking and Finance Service)",
+        "branch_rr_id": "B010304"
       },
       {
         "institute_code": "695",
+        "institute_rr_id": "I01605",
         "institute_name": "SRI RAM GROUP OF COLLEGES,MUZAFFARNAGAR",
-        "branch": "MBA(Business Analytics)"
+        "branch": "MBA(Business Analytics)",
+        "branch_rr_id": "B010307"
       },
       {
         "institute_code": "697",
+        "institute_rr_id": "I01606",
         "institute_name": "AGRA PUBLIC COLLEGE OF TECHNOLOGY & MANAGEMENT,AGRA",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "703",
+        "institute_rr_id": "I01607",
         "institute_name": "SHRI SIDDHI VINAYAK INSTITUTE OF MANAGEMENT,BAREILLY",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "705",
+        "institute_rr_id": "I01608",
         "institute_name": "JMS GROUP OF INSTITUTIONS,GHAZIABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "708",
+        "institute_rr_id": "I01609",
         "institute_name": "SSLD VARSHNEY INSTITUTE OF MANAGEMENT & ENGINEERING,ALIGARH",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "714",
+        "institute_rr_id": "I01610",
         "institute_name": "KANPUR INSTITUTE OF MANAGEMENT STUDIES,UNNAO",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "723",
+        "institute_rr_id": "I01615",
         "institute_name": "AXIS INSTITUTE OF PLANNING & MANAGEMENT,KANPUR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "727",
+        "institute_rr_id": "I01616",
         "institute_name": "SHAMBHUNATH INSTITUTE OF MANAGEMENT,ALLAHABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "732",
+        "institute_rr_id": "I01617",
         "institute_name": "RUDRA GROUP OF INSTITUTIONS,MEERUT",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "733",
+        "institute_rr_id": "I01618",
         "institute_name": "HIERANK BUSINESS SCHOOL,GAUTAM BUDDH NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "740",
+        "institute_rr_id": "I01623",
         "institute_name": "PRAYAG INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALLAHABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "743",
+        "institute_rr_id": "I01625",
         "institute_name": "BHAVDIYA INSTITUTE OF BUSINESS MANAGEMENT,FAIZABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "747",
+        "institute_rr_id": "I01626",
         "institute_name": "RAJ SCHOOL OF MANAGEMENT & SCIENCES,VARANASI",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "749",
+        "institute_rr_id": "I01627",
         "institute_name": "MADHU VACHASPATI SCHOOL OF MANAGEMENT,KAUSHAMBI",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "756",
+        "institute_rr_id": "I01629",
         "institute_name": "INSTITUTE OF MANAGEMENT RESEARCH & TECHNOLOGY,LUCKNOW",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "757",
+        "institute_rr_id": "I01630",
         "institute_name": "UTKARSH COLLEGE OF MANAGEMENT EDUCATION,BAREILLY",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "760",
+        "institute_rr_id": "I01631",
         "institute_name": "LOTUS INSTITUTE OF MANAGEMENT,BAREILLY",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "761",
+        "institute_rr_id": "I01632",
         "institute_name": "MAA VAISHNO DEVI EDUCATIONAL & LAW COLLEGE,LUCKNOW",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "780",
+        "institute_rr_id": "I01635",
         "institute_name": "LANDMARK TECHNICAL CAMPUS,J.P.NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "781",
+        "institute_rr_id": "I01636",
         "institute_name": "HARDAYAL TECHNICAL CAMPUS,MATHURA",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "785",
+        "institute_rr_id": "I01638",
         "institute_name": "G & R INSTITUTE OF MANAGEMENT & TECHNOLOGY,BULANDSHAHAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "790",
+        "institute_rr_id": "I01639",
         "institute_name": "SCHOOL OF BUSINESS MANAGEMENT & TECHNOLOGY,BULANDSHAHAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "791",
+        "institute_rr_id": "I01640",
         "institute_name": "DISHA BHARTI COLLEGE OF MANAGEMENT & EDUCATION,SAHARANPUR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "792",
+        "institute_rr_id": "I01641",
         "institute_name": "INSTITUTE OF ADVANCED MANAGEMENT & RESEARCH,GHAZIABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "797",
+        "institute_rr_id": "I01643",
         "institute_name": "ADHUNIK INSTITUTE OF PRODUCTIVITY MANAGEMENT & RESEARCH,GHAZIABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "803",
+        "institute_rr_id": "I01645",
         "institute_name": "GREATER NOIDA INSTITUTE OF BUSINESS MANAGEMENT,GAUTAM BUDDH NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "812",
+        "institute_rr_id": "I01647",
         "institute_name": "CBS COLLEGE OF MANAGEMENT,AGRA",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "817",
+        "institute_rr_id": "I01649",
         "institute_name": "AR INSTITUTE OF MANAGEMENT & TECHNOLOGY,MEERUT",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "820",
+        "institute_rr_id": "I01650",
         "institute_name": "AJAY KUMAR GARG INSTITUTE OF MANAGEMENT,GHAZIABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "822",
+        "institute_rr_id": "I01651",
         "institute_name": "ESHAN COLLEGE OF MANAGEMENT,MATHURA",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "828",
+        "institute_rr_id": "I01653",
         "institute_name": "DAYAL GROUP OF INSTITUTIONS,LUCKNOW",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "834",
+        "institute_rr_id": "I01654",
         "institute_name": "INTEGRATED ACADEMY OF MANAGEMENT & TECHNOLOGY(INMANTEC),GHAZIABAD",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "835",
+        "institute_rr_id": "I01655",
         "institute_name": "LTR INSTITUTE OF MANAGEMENT,MEERUT",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "842",
+        "institute_rr_id": "I01659",
         "institute_name": "DEVRISHI INSTITUTE OF MANAGEMENT & TECHNOLOGY, SAHARANPUR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "849",
+        "institute_rr_id": "I01663",
         "institute_name": "ISABELLA THOBURN COLLEGE (PROFESSIONAL STUDIES),LUCKNOW",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "857",
+        "institute_rr_id": "I01669",
         "institute_name": "U.P. INSTITUTE OF DESIGN,NOIDA",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "899",
+        "institute_rr_id": "I01700",
         "institute_name": "SRI SHARDA INSTITUTE OF MANAGEMENT AND TECHNOLOGY,LUCKNOW",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "950",
+        "institute_rr_id": "I01744",
         "institute_name": "IIF BUSINESS SCHOOL , Gautam Buddha Nagar",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "982",
+        "institute_rr_id": "I01771",
         "institute_name": "MAHALAXMI INSTITUTE OF MANAGEMENT & TECHNOLOGY , MEERUT",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "990",
+        "institute_rr_id": "I01777",
         "institute_name": "DR. VIRENDRA SWARUP MEMORIAL TRUST GROUP OF INSTITUIONS , KANPUR NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       },
       {
         "institute_code": "996",
+        "institute_rr_id": "I01782",
         "institute_name": "TECHNO INSTITUTE OF MANAGEMENT SCIENCES , Lucknow",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B010302"
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 271
   }
 }

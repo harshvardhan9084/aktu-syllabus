@@ -1,0 +1,31 @@
+{
+  "data": {
+    "rr_id": "I01116",
+    "institute_code": "1060",
+    "institute_name": "R A INSTITUTE OF PHARMACY , SIDDHARTHNAGAR",
+    "institute_address": "194 RAMVAPUR KURTHIYA",
+    "institute_mobile": "9412145070",
+    "institute_email": "rainstituteofpharmacy@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "rr_id": "C0102",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ],
+        "branch_details": [
+          {
+            "branch": "Bachelor of Pharmacy",
+            "rr_id": "B010201"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

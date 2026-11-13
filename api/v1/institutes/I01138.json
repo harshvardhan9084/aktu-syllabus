@@ -1,0 +1,31 @@
+{
+  "data": {
+    "rr_id": "I01138",
+    "institute_code": "1082",
+    "institute_name": "VENKATESHWARA COLLEGE OF PHARMACY , MEERUT",
+    "institute_address": "NH 58 JATOLI MEERUT",
+    "institute_mobile": "9897372999",
+    "institute_email": "INFO@venkateshwaragroup.in",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "rr_id": "C0102",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ],
+        "branch_details": [
+          {
+            "branch": "Bachelor of Pharmacy",
+            "rr_id": "B010201"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

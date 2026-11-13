@@ -1,0 +1,31 @@
+{
+  "data": {
+    "rr_id": "I01100",
+    "institute_code": "1044",
+    "institute_name": "OM SAI VINDHYA COLLEGE OF PHARMACY , MIRZAPUR",
+    "institute_address": "VILL- TISUHI, POST- MARIHAN, TAHSIL- MARIHAN, DIST- MIRZAPUR, PIN CODE- 231310",
+    "institute_mobile": "7007279250",
+    "institute_email": "osvvtmirzapur@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "rr_id": "C0102",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ],
+        "branch_details": [
+          {
+            "branch": "Bachelor of Pharmacy",
+            "rr_id": "B010201"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

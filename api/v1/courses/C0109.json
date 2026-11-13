@@ -1,0 +1,142 @@
+{
+  "data": {
+    "rr_id": "C0109",
+    "course": "Bachelor of Technology Working Professional",
+    "slug": "bachelor-of-technology-working-professional",
+    "branch_rows": 18,
+    "institute_count": 8,
+    "institutes": [
+      {
+        "institute_code": "030",
+        "institute_rr_id": "I01015",
+        "institute_name": "INDERPRASTHA ENGG. COLLEGE,GHAZIABAD",
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010901"
+      },
+      {
+        "institute_code": "030",
+        "institute_rr_id": "I01015",
+        "institute_name": "INDERPRASTHA ENGG. COLLEGE,GHAZIABAD",
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010903"
+      },
+      {
+        "institute_code": "030",
+        "institute_rr_id": "I01015",
+        "institute_name": "INDERPRASTHA ENGG. COLLEGE,GHAZIABAD",
+        "branch": "Mechanical Engineering",
+        "branch_rr_id": "B010904"
+      },
+      {
+        "institute_code": "032",
+        "institute_rr_id": "I01016",
+        "institute_name": "ABES ENGG.COLLEGE,GHAZIABAD",
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010901"
+      },
+      {
+        "institute_code": "032",
+        "institute_rr_id": "I01016",
+        "institute_name": "ABES ENGG.COLLEGE,GHAZIABAD",
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010903"
+      },
+      {
+        "institute_code": "068",
+        "institute_rr_id": "I01041",
+        "institute_name": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
+        "branch": "Electrical Engineering",
+        "branch_rr_id": "B010902"
+      },
+      {
+        "institute_code": "068",
+        "institute_rr_id": "I01041",
+        "institute_name": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
+        "branch": "Mechanical Engineering",
+        "branch_rr_id": "B010904"
+      },
+      {
+        "institute_code": "097",
+        "institute_rr_id": "I01058",
+        "institute_name": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010901"
+      },
+      {
+        "institute_code": "097",
+        "institute_rr_id": "I01058",
+        "institute_name": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010903"
+      },
+      {
+        "institute_code": "097",
+        "institute_rr_id": "I01058",
+        "institute_name": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+        "branch": "Mechanical Engineering",
+        "branch_rr_id": "B010904"
+      },
+      {
+        "institute_code": "132",
+        "institute_rr_id": "I01367",
+        "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY (ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR",
+        "branch": "Electrical Engineering",
+        "branch_rr_id": "B010902"
+      },
+      {
+        "institute_code": "132",
+        "institute_rr_id": "I01367",
+        "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY (ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR",
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010903"
+      },
+      {
+        "institute_code": "132",
+        "institute_rr_id": "I01367",
+        "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY (ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR",
+        "branch": "Mechanical Engineering",
+        "branch_rr_id": "B010904"
+      },
+      {
+        "institute_code": "133",
+        "institute_rr_id": "I01374",
+        "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010901"
+      },
+      {
+        "institute_code": "133",
+        "institute_rr_id": "I01374",
+        "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010903"
+      },
+      {
+        "institute_code": "133",
+        "institute_rr_id": "I01374",
+        "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+        "branch": "Mechanical Engineering",
+        "branch_rr_id": "B010904"
+      },
+      {
+        "institute_code": "222",
+        "institute_rr_id": "I01428",
+        "institute_name": "I.T.S. ENGG.COLLEGE,GAUTAM BUDDH NAGAR",
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010903"
+      },
+      {
+        "institute_code": "649",
+        "institute_rr_id": "I01591",
+        "institute_name": "MG INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010901"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 18
+  }
+}

@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "I01546",
     "institute_code": "518",
     "institute_name": "SSLD VARSHNEY ENGINEERING COLLEGE,ALIGARH",
     "institute_address": "13KM stone Aligarh-Kanpur G.T. Road N.H.-91 Aligarh",
@@ -9,26 +10,60 @@
     "courses": [
       {
         "course": "Bachelor of Technology",
+        "rr_id": "C0101",
         "branches": [
           "Computer Science and Engineering",
           "Electrical & Electronics Engineering",
           "Mechanical Engineering",
           "Computer Science And Engineering(Data Science)"
+        ],
+        "branch_details": [
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Electrical & Electronics Engineering",
+            "rr_id": "B010135"
+          },
+          {
+            "branch": "Mechanical Engineering",
+            "rr_id": "B010153"
+          },
+          {
+            "branch": "Computer Science And Engineering(Data Science)",
+            "rr_id": "B010124"
+          }
         ]
       },
       {
         "course": "B Voc",
+        "rr_id": "C0110",
         "branches": [
           "Automobile Servicing",
           "Production Technology",
           "Software Development"
+        ],
+        "branch_details": [
+          {
+            "branch": "Automobile Servicing",
+            "rr_id": "B011002"
+          },
+          {
+            "branch": "Production Technology",
+            "rr_id": "B011005"
+          },
+          {
+            "branch": "Software Development",
+            "rr_id": "B011008"
+          }
         ]
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 2
   }
 }

@@ -1,0 +1,54 @@
+{
+  "data": {
+    "rr_id": "B010532",
+    "branch": "Production Engineering",
+    "course": {
+      "course": "Master of Technology",
+      "rr_id": "C0105",
+      "slug": "master-of-technology"
+    },
+    "institute_count": 7,
+    "institutes": [
+      {
+        "rr_id": "I01005",
+        "institute_code": "007",
+        "institute_name": "SHIVDAN SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALIGARH"
+      },
+      {
+        "rr_id": "I01032",
+        "institute_code": "053",
+        "institute_name": "AZAD INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW"
+      },
+      {
+        "rr_id": "I01033",
+        "institute_code": "054",
+        "institute_name": "BABU BANARASI DAS INSTITUTE OF TECHNOLOGY AND MANAGEMENT, LUCKNOW"
+      },
+      {
+        "rr_id": "I01391",
+        "institute_code": "162",
+        "institute_name": "SHAMBHU NATH INSTITUTE OF ENGG. & TECHNOLOGY,ALLAHABAD"
+      },
+      {
+        "rr_id": "I01478",
+        "institute_code": "340",
+        "institute_name": "VIVEKANANDA COLLEGE OF TECHNOLOGY & MANAGEMENT,ALIGARH"
+      },
+      {
+        "rr_id": "I01529",
+        "institute_code": "485",
+        "institute_name": "S.R.INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW"
+      },
+      {
+        "rr_id": "I01557",
+        "institute_code": "547",
+        "institute_name": "CHAUDHARY BEERI SINGH COLLEGE OF ENGINEERING & MANAGEMENT,AGRA"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 7
+  }
+}

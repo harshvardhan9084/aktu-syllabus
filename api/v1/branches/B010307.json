@@ -1,0 +1,49 @@
+{
+  "data": {
+    "rr_id": "B010307",
+    "branch": "MBA(Business Analytics)",
+    "course": {
+      "course": "Masters of Business Administration",
+      "rr_id": "C0103",
+      "slug": "masters-of-business-administration"
+    },
+    "institute_count": 6,
+    "institutes": [
+      {
+        "rr_id": "I01210",
+        "institute_code": "116",
+        "institute_name": "JAIPURIA INSTITUTE OF MANAGEMENT,GHAZIABAD"
+      },
+      {
+        "rr_id": "I01411",
+        "institute_code": "192",
+        "institute_name": "G.L. BAJAJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01424",
+        "institute_code": "216",
+        "institute_name": "IIMT COLLEGE OF ENGINEERING,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01450",
+        "institute_code": "272",
+        "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY(MBA INSTITUTE),GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01509",
+        "institute_code": "423",
+        "institute_name": "SCHOOL OF MANAGEMENT SCIENCES,LUCKNOW"
+      },
+      {
+        "rr_id": "I01605",
+        "institute_code": "695",
+        "institute_name": "SRI RAM GROUP OF COLLEGES,MUZAFFARNAGAR"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 6
+  }
+}

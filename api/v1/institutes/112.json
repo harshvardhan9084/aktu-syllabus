@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "I01168",
     "institute_code": "112",
     "institute_name": "INDIAN INSTITUTE OF CARPET TECHNOLOGY,BHADOHI",
     "institute_address": "Chauri Road Bhadohi- 221401",
@@ -9,15 +10,22 @@
     "courses": [
       {
         "course": "Bachelor of Technology",
+        "rr_id": "C0101",
         "branches": [
           "Carpet & Textile Technology"
+        ],
+        "branch_details": [
+          {
+            "branch": "Carpet & Textile Technology",
+            "rr_id": "B010112"
+          }
         ]
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 1
   }
 }

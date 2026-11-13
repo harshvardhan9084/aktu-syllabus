@@ -1,0 +1,118 @@
+{
+  "data": {
+    "rr_id": "I01037",
+    "institute_code": "064",
+    "institute_name": "HINDUSTAN COLLEGE OF SCIENCE & TECHNOLOGY,MATHURA",
+    "institute_address": "AGRA-DELHI HIGHWAY, NH#2, FARAH, MATHURA (UP) - 281122",
+    "institute_mobile": "9927082612",
+    "institute_email": "registra.hcst@sgei.org",
+    "course_count_declared": 12,
+    "courses": [
+      {
+        "course": "Master of Technology",
+        "rr_id": "C0105",
+        "branches": [
+          "VLSI Design"
+        ],
+        "branch_details": [
+          {
+            "branch": "VLSI Design",
+            "rr_id": "B010538"
+          }
+        ]
+      },
+      {
+        "course": "Bachelor of Technology",
+        "rr_id": "C0101",
+        "branches": [
+          "Computer Science and Engineering",
+          "Information Technology",
+          "Electrical & Electronics Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Biotechnology",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+          "Computer Science And Engineering(Data Science)"
+        ],
+        "branch_details": [
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Information Technology",
+            "rr_id": "B010148"
+          },
+          {
+            "branch": "Electrical & Electronics Engineering",
+            "rr_id": "B010135"
+          },
+          {
+            "branch": "Electronics and Communication Engineering",
+            "rr_id": "B010141"
+          },
+          {
+            "branch": "Mechanical Engineering",
+            "rr_id": "B010153"
+          },
+          {
+            "branch": "Biotechnology",
+            "rr_id": "B010110"
+          },
+          {
+            "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+            "rr_id": "B010123"
+          },
+          {
+            "branch": "Computer Science And Engineering(Data Science)",
+            "rr_id": "B010124"
+          }
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "rr_id": "C0103",
+        "branches": [
+          "MBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA",
+            "rr_id": "B010302"
+          }
+        ]
+      },
+      {
+        "course": "BBA",
+        "rr_id": "C0108",
+        "branches": [
+          "BBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "BBA",
+            "rr_id": "B010801"
+          }
+        ]
+      },
+      {
+        "course": "BCA",
+        "rr_id": "C0107",
+        "branches": [
+          "BCA"
+        ],
+        "branch_details": [
+          {
+            "branch": "BCA",
+            "rr_id": "B010701"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 5
+  }
+}

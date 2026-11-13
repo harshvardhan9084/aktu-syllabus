@@ -1,0 +1,72 @@
+{
+  "data": {
+    "rr_id": "I01339",
+    "institute_code": "1292",
+    "institute_name": "DTC COLLEGE, GAUTAM BUDDHA NAGAR",
+    "institute_address": "28/1 KNOWLEDGE PARK III GREATER NOIDA (U.P.-201306)",
+    "institute_mobile": "9818606666",
+    "institute_email": "vipinsahni@yahoo.com",
+    "course_count_declared": 6,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "rr_id": "C0101",
+        "branches": [
+          "Computer Science and Engineering",
+          "Electronics and Communication Engineering",
+          "Electronic And Computer Engineering",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)"
+        ],
+        "branch_details": [
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Electronics and Communication Engineering",
+            "rr_id": "B010141"
+          },
+          {
+            "branch": "Electronic And Computer Engineering",
+            "rr_id": "B010137"
+          },
+          {
+            "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+            "rr_id": "B010123"
+          }
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "rr_id": "C0103",
+        "branches": [
+          "MBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA",
+            "rr_id": "B010302"
+          }
+        ]
+      },
+      {
+        "course": "BCA",
+        "rr_id": "C0107",
+        "branches": [
+          "BCA"
+        ],
+        "branch_details": [
+          {
+            "branch": "BCA",
+            "rr_id": "B010701"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 3
+  }
+}

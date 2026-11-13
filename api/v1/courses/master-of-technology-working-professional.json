@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "C0116",
     "course": "Master of Technology Working Professional",
     "slug": "master-of-technology-working-professional",
     "branch_rows": 4,
@@ -7,29 +8,37 @@
     "institutes": [
       {
         "institute_code": "068",
+        "institute_rr_id": "I01041",
         "institute_name": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B011601"
       },
       {
         "institute_code": "132",
+        "institute_rr_id": "I01367",
         "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY (ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B011601"
       },
       {
         "institute_code": "133",
+        "institute_rr_id": "I01374",
         "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B011601"
       },
       {
         "institute_code": "133",
+        "institute_rr_id": "I01374",
         "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Mechanical Engineering"
+        "branch": "Mechanical Engineering",
+        "branch_rr_id": "B011602"
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 4
   }
 }

@@ -1,0 +1,54 @@
+{
+  "data": {
+    "rr_id": "I01707",
+    "institute_code": "908",
+    "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY(PHARMACY INSTITUTE),GAUTAM BUDDH NAGAR",
+    "institute_address": "19, Knowledge Park-II, Institutional Area, Greater Noida - 201306",
+    "institute_mobile": "9871773644",
+    "institute_email": "director.908@aktu.ac.in",
+    "course_count_declared": 4,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "rr_id": "C0104",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmceutical Chemistry",
+          "Pharmacology"
+        ],
+        "branch_details": [
+          {
+            "branch": "Pharmaceutics",
+            "rr_id": "B010402"
+          },
+          {
+            "branch": "Pharmceutical Chemistry",
+            "rr_id": "B010406"
+          },
+          {
+            "branch": "Pharmacology",
+            "rr_id": "B010404"
+          }
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "rr_id": "C0102",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ],
+        "branch_details": [
+          {
+            "branch": "Bachelor of Pharmacy",
+            "rr_id": "B010201"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 2
+  }
+}

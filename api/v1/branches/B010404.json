@@ -1,0 +1,319 @@
+{
+  "data": {
+    "rr_id": "B010404",
+    "branch": "Pharmacology",
+    "course": {
+      "course": "Master of Pharmacy",
+      "rr_id": "C0104",
+      "slug": "master-of-pharmacy"
+    },
+    "institute_count": 60,
+    "institutes": [
+      {
+        "rr_id": "I01017",
+        "institute_code": "033",
+        "institute_name": "RAJ KUMAR GOEL INSTT. OF TECHNOLOGY,GHAZIABAD"
+      },
+      {
+        "rr_id": "I01034",
+        "institute_code": "056",
+        "institute_name": "BABU BANARASI DAS NORTHERN INDIA INSTITUTE OF TECHNOLOGY,LUCKNOW"
+      },
+      {
+        "rr_id": "I01039",
+        "institute_code": "066",
+        "institute_name": "RAJEEV ACADEMY FOR PHARMACY,MATHURA"
+      },
+      {
+        "rr_id": "I01041",
+        "institute_code": "068",
+        "institute_name": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT"
+      },
+      {
+        "rr_id": "I01053",
+        "institute_code": "090",
+        "institute_name": "I.E.C. COLLEGE OF ENGINEERING & TECHNOLOGY,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01054",
+        "institute_code": "093",
+        "institute_name": "RAM EESH INSTITUTE OF VOCATIONAL AND TECHNICAL EDUCATION,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01062",
+        "institute_code": "1001",
+        "institute_name": "BABA RAMDAL SURAJDEV PHARMACY COLLEGE , BALLIA"
+      },
+      {
+        "rr_id": "I01065",
+        "institute_code": "1004",
+        "institute_name": "JIVIKA COLLEGE OF PHARMACY , HARDOI"
+      },
+      {
+        "rr_id": "I01068",
+        "institute_code": "1009",
+        "institute_name": "R. P. S. COLLEGE OF PHARMACY , BARABANKI"
+      },
+      {
+        "rr_id": "I01071",
+        "institute_code": "1012",
+        "institute_name": "KRISHNA INSTITUTE OF PHARMACY AND SCIENCES , KANPUR NAGAR"
+      },
+      {
+        "rr_id": "I01087",
+        "institute_code": "1029",
+        "institute_name": "K D C COLLEGE OF PHARMACY , MATHURA"
+      },
+      {
+        "rr_id": "I01108",
+        "institute_code": "1053",
+        "institute_name": "JYOTIRADITYA INSTITUTE OF PHARMACY , PRATAPGARH"
+      },
+      {
+        "rr_id": "I01111",
+        "institute_code": "1056",
+        "institute_name": "KINETIC INSTITUTE, DEPARTMENT OF PHARMACY , SHAHJAHANPUR"
+      },
+      {
+        "rr_id": "I01117",
+        "institute_code": "1061",
+        "institute_name": "SHREE KRISHNA COLLEGE OF PHARMACY , SITAPUR"
+      },
+      {
+        "rr_id": "I01119",
+        "institute_code": "1063",
+        "institute_name": "J.S.SINGH INSTITUTE OF PHARMACY , SITAPUR"
+      },
+      {
+        "rr_id": "I01120",
+        "institute_code": "1064",
+        "institute_name": "JAHANGIRABAD INSTITUTE OF TECHNOLOGY FACULTY OF PHARMACY , BARABANKI"
+      },
+      {
+        "rr_id": "I01123",
+        "institute_code": "1067",
+        "institute_name": "MISSION COLLEGE OF PHARMACY , VARANASI"
+      },
+      {
+        "rr_id": "I01128",
+        "institute_code": "1071",
+        "institute_name": "SARDAR PATEL COLLEGE OF PHARMACY , GORAKHPUR"
+      },
+      {
+        "rr_id": "I01137",
+        "institute_code": "1080",
+        "institute_name": "SARASWATHI COLLEGE OF PHARMACY , GHAZIABAD"
+      },
+      {
+        "rr_id": "I01142",
+        "institute_code": "1086",
+        "institute_name": "AVADH COLLEGE OF PHARMACY , BARABANKI"
+      },
+      {
+        "rr_id": "I01143",
+        "institute_code": "1088",
+        "institute_name": "RISHI RAM NARESH COLLEGE OF PHARMACY,MAU"
+      },
+      {
+        "rr_id": "I01146",
+        "institute_code": "1090",
+        "institute_name": "SCPM COLLEGE OF PHARMACY,GONDA"
+      },
+      {
+        "rr_id": "I01243",
+        "institute_code": "120",
+        "institute_name": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,GORAKHPUR"
+      },
+      {
+        "rr_id": "I01254",
+        "institute_code": "1210",
+        "institute_name": "PSIT-PRANVEER SINGH INSTITUTE OF TECHNOLOGY(PHARMACY)"
+      },
+      {
+        "rr_id": "I01321",
+        "institute_code": "1276",
+        "institute_name": "CROSS BELLY INSTITUTE OF PHARMACY AZAMGARH"
+      },
+      {
+        "rr_id": "I01325",
+        "institute_code": "128",
+        "institute_name": "BHARAT INSTITUTE OF TECHNOLOGY,MEERUT"
+      },
+      {
+        "rr_id": "I01377",
+        "institute_code": "136",
+        "institute_name": "S.D.COLLEGE OF PHARMACY AND VOCATIONAL STUDIES,MUZAFFARNAGAR"
+      },
+      {
+        "rr_id": "I01399",
+        "institute_code": "170",
+        "institute_name": "I.T.S. COLLEGE OF PHARMACY,GHAZIABAD"
+      },
+      {
+        "rr_id": "I01401",
+        "institute_code": "172",
+        "institute_name": "LLOYD INSTITUTE OF MANAGEMENT & TECHNOLOGY,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01409",
+        "institute_code": "188",
+        "institute_name": "ADVANCED INSTITUTE OF BIO-TECH & PARAMEDICAL SCIENCES,KANPUR"
+      },
+      {
+        "rr_id": "I01414",
+        "institute_code": "200",
+        "institute_name": "MAHARANA PRATAP COLLEGE OF PHARMACY,KANPUR"
+      },
+      {
+        "rr_id": "I01416",
+        "institute_code": "202",
+        "institute_name": "HYGIA INSTITUTE OF PHARMACEUTICAL EDUCATION AND RESEARCH, LUCKNOW,LUCKNOW"
+      },
+      {
+        "rr_id": "I01417",
+        "institute_code": "203",
+        "institute_name": "RAMESHWARAM INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW"
+      },
+      {
+        "rr_id": "I01418",
+        "institute_code": "204",
+        "institute_name": "R.V.NORTHLAND INSTITUTE,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01420",
+        "institute_code": "206",
+        "institute_name": "TRANSLAM INSTITUTE OF PHARMACEUTICAL EDUCATION & RESEARCH,MEERUT"
+      },
+      {
+        "rr_id": "I01422",
+        "institute_code": "214",
+        "institute_name": "HIMT COLLEGE OF PHARMACY,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01430",
+        "institute_code": "227",
+        "institute_name": "INNOVATIVE COLLEGE OF PHARMACY,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01433",
+        "institute_code": "233",
+        "institute_name": "R.K.PHARMACY COLLEGE,AZAMGARH"
+      },
+      {
+        "rr_id": "I01438",
+        "institute_code": "241",
+        "institute_name": "SHAMBHU NATH INSTITUTE OF PHARMACY,ALLAHABAD"
+      },
+      {
+        "rr_id": "I01447",
+        "institute_code": "262",
+        "institute_name": "INSTITUTE OF PHARMACEUTICAL SCIENCE & RESEARCH,UNNAO"
+      },
+      {
+        "rr_id": "I01462",
+        "institute_code": "300",
+        "institute_name": "SARSWATI HIGHIER EDUCATION & TECHNICAL COLLEGE OF PHARMACY,,VARANASI"
+      },
+      {
+        "rr_id": "I01464",
+        "institute_code": "303",
+        "institute_name": "DR. M.C.SAXENA COLLEGE OF PHARMACY,,LUCKNOW"
+      },
+      {
+        "rr_id": "I01470",
+        "institute_code": "315",
+        "institute_name": "UNITED INSTITUTE OF PHARMACY, UNITED COLLEGE OF ENGG. & RESEARCH,,ALLAHABAD"
+      },
+      {
+        "rr_id": "I01471",
+        "institute_code": "316",
+        "institute_name": "ARYAKUL COLLEGE OF PHARMACY & RESEARCH ,,LUCKNOW"
+      },
+      {
+        "rr_id": "I01499",
+        "institute_code": "391",
+        "institute_name": "MAHATMA GANDHI INSTITUTE OF PHARMACY,LUCKNOW"
+      },
+      {
+        "rr_id": "I01500",
+        "institute_code": "392",
+        "institute_name": "GOEL INSTITUTE OF PHARMACY & SCIENCES,LUCKNOW"
+      },
+      {
+        "rr_id": "I01562",
+        "institute_code": "554",
+        "institute_name": "NARAINA VIDYA PEETH \" GROUP OF INSTITUTIONS\" FACULTY OF PHARMACY,KANPUR"
+      },
+      {
+        "rr_id": "I01633",
+        "institute_code": "764",
+        "institute_name": "SMT. FULEHRA SMARAK COLLEGE OF PHARMACY,BALLIA"
+      },
+      {
+        "rr_id": "I01661",
+        "institute_code": "845",
+        "institute_name": "KRISHNA PHARMACY COLLEGE, BIJNOR"
+      },
+      {
+        "rr_id": "I01665",
+        "institute_code": "852",
+        "institute_name": "METRO COLLEGE OF HEALTH SCIENCES & RESEARCH,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01671",
+        "institute_code": "860",
+        "institute_name": "RAHUL SANKRITYAYAN COLLEGE OF PHARMACY,AZAMGARH"
+      },
+      {
+        "rr_id": "I01674",
+        "institute_code": "863",
+        "institute_name": "SETH VISHAMBHAR NATH INSTITUTE OF PHARMACY,BARABANKI"
+      },
+      {
+        "rr_id": "I01706",
+        "institute_code": "907",
+        "institute_name": "SUYASH INSTITUTE OF PHARMACY,GORAKHPUR"
+      },
+      {
+        "rr_id": "I01707",
+        "institute_code": "908",
+        "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY(PHARMACY INSTITUTE),GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01709",
+        "institute_code": "910",
+        "institute_name": "SAI MEER COLLEGE OF PHARMACY , KANNAUJ"
+      },
+      {
+        "rr_id": "I01716",
+        "institute_code": "919",
+        "institute_name": "B N COLLEGE OF PHARMACY , LUCKNOW"
+      },
+      {
+        "rr_id": "I01722",
+        "institute_code": "925",
+        "institute_name": "BABU SATIRAM JAIKARAN SMARAK PHARMACY COLLEGE , AZAMGARH"
+      },
+      {
+        "rr_id": "I01726",
+        "institute_code": "930",
+        "institute_name": "JAINATH MEMORIAL PHARMACY COLLEGE , AZAMGARH"
+      },
+      {
+        "rr_id": "I01736",
+        "institute_code": "941",
+        "institute_name": "SAGAR COLLEGE OF PHARMACY , BARABANKI"
+      },
+      {
+        "rr_id": "I01737",
+        "institute_code": "942",
+        "institute_name": "CITY SCHOOL OF PHARMACY , BARABANKI"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 60
+  }
+}

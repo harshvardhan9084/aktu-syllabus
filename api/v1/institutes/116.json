@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "I01210",
     "institute_code": "116",
     "institute_name": "JAIPURIA INSTITUTE OF MANAGEMENT,GHAZIABAD",
     "institute_address": "Ghaziabad - 201012",
@@ -9,17 +10,32 @@
     "courses": [
       {
         "course": "Masters of Business Administration",
+        "rr_id": "C0103",
         "branches": [
           "MBA",
           "MBA(Business Analytics)",
           "MBA (Banking and Finance Service)"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA",
+            "rr_id": "B010302"
+          },
+          {
+            "branch": "MBA(Business Analytics)",
+            "rr_id": "B010307"
+          },
+          {
+            "branch": "MBA (Banking and Finance Service)",
+            "rr_id": "B010304"
+          }
         ]
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 1
   }
 }

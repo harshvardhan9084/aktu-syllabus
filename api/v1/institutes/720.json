@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "I01612",
     "institute_code": "720",
     "institute_name": "AXIS INSTITUTE OF FASHION TECHNOLOGY,KANPUR",
     "institute_address": "Axis Knowledge City, Rooma (NH-2, Kanpur - Allahabad Highway, Milestone#489), Kanpur-208001",
@@ -9,21 +10,35 @@
     "courses": [
       {
         "course": "BFAD",
+        "rr_id": "C0120",
         "branches": [
           "BFAD"
+        ],
+        "branch_details": [
+          {
+            "branch": "BFAD",
+            "rr_id": "B012001"
+          }
         ]
       },
       {
         "course": "Bachelor of Fine Art(BFA)",
+        "rr_id": "C0124",
         "branches": [
           "Bachelor of Fine Art(BFA)"
+        ],
+        "branch_details": [
+          {
+            "branch": "Bachelor of Fine Art(BFA)",
+            "rr_id": "B012401"
+          }
         ]
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 2
   }
 }

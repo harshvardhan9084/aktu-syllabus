@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "I01519",
     "institute_code": "467",
     "institute_name": "MADHU VACHASPATI INSTITUTE OF ENGINEERING & TECHNOLOGY,KAUSHAMBI",
     "institute_address": "Rasulabad urf Koilaha, Puramufti, G.T.Road, Kaushambi-212213",
@@ -9,6 +10,7 @@
     "courses": [
       {
         "course": "Bachelor of Technology",
+        "rr_id": "C0101",
         "branches": [
           "Civil Engineering",
           "Computer Science and Engineering",
@@ -16,13 +18,39 @@
           "Electronics and Communication Engineering",
           "Mechanical Engineering",
           "Artificial Intelligence And Machine Learning"
+        ],
+        "branch_details": [
+          {
+            "branch": "Civil Engineering",
+            "rr_id": "B010114"
+          },
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Electrical Engineering",
+            "rr_id": "B010136"
+          },
+          {
+            "branch": "Electronics and Communication Engineering",
+            "rr_id": "B010141"
+          },
+          {
+            "branch": "Mechanical Engineering",
+            "rr_id": "B010153"
+          },
+          {
+            "branch": "Artificial Intelligence And Machine Learning",
+            "rr_id": "B010105"
+          }
         ]
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 1
   }
 }

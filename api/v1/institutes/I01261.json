@@ -1,0 +1,56 @@
+{
+  "data": {
+    "rr_id": "I01261",
+    "institute_code": "1217",
+    "institute_name": "MAHARANA PRATAP INSTITUE OF TECHNOLOGY, GORAKHPUR",
+    "institute_address": "LACCHIPUR, P.O.- GORAKHNATH, TEHSIL- SADAR, DISTT.- GORAKHPUR",
+    "institute_mobile": "9559203714",
+    "institute_email": "mpit.mpsp@gmail.com",
+    "course_count_declared": 6,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "rr_id": "C0101",
+        "branches": [
+          "Computer Science and Engineering",
+          "Information Technology",
+          "Artificial Intelligence And Machine Learning",
+          "Electronics Engineering (VLSI Design and Technology)",
+          "DATA SCIENCE",
+          "CYBER SECURITY"
+        ],
+        "branch_details": [
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Information Technology",
+            "rr_id": "B010148"
+          },
+          {
+            "branch": "Artificial Intelligence And Machine Learning",
+            "rr_id": "B010105"
+          },
+          {
+            "branch": "Electronics Engineering (VLSI Design and Technology)",
+            "rr_id": "B010139"
+          },
+          {
+            "branch": "DATA SCIENCE",
+            "rr_id": "B010133"
+          },
+          {
+            "branch": "CYBER SECURITY",
+            "rr_id": "B010111"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

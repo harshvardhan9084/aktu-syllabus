@@ -1,0 +1,24 @@
+{
+  "data": {
+    "rr_id": "B011007",
+    "branch": "Robotics And Automation",
+    "course": {
+      "course": "B Voc",
+      "rr_id": "C0110",
+      "slug": "b-voc"
+    },
+    "institute_count": 1,
+    "institutes": [
+      {
+        "rr_id": "I01552",
+        "institute_code": "527",
+        "institute_name": "SUNRISE INSTITUTE OF ENGINEERING TECHNICAL & MANAGEMENT,UNNAO"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "data": {
+    "rr_id": "I01426",
+    "institute_code": "220",
+    "institute_name": "HI-TECH. INSTITUTE OF ENGINEERING &TECHNOLOGY,GHAZIABAD",
+    "institute_address": "Address: 766,26th Km.Stone, Delhi-Hapur Bypass (NH-24), Ghaziabad.",
+    "institute_mobile": "9818697091",
+    "institute_email": "registrar@hietgroup.org",
+    "course_count_declared": 7,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "rr_id": "C0101",
+        "branches": [
+          "Computer Science and Engineering",
+          "Electrical Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)"
+        ],
+        "branch_details": [
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Electrical Engineering",
+            "rr_id": "B010136"
+          },
+          {
+            "branch": "Electronics and Communication Engineering",
+            "rr_id": "B010141"
+          },
+          {
+            "branch": "Mechanical Engineering",
+            "rr_id": "B010153"
+          },
+          {
+            "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+            "rr_id": "B010123"
+          }
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "rr_id": "C0103",
+        "branches": [
+          "MBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA",
+            "rr_id": "B010302"
+          }
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "rr_id": "C0106",
+        "branches": [
+          "MCA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MCA",
+            "rr_id": "B010601"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 3
+  }
+}

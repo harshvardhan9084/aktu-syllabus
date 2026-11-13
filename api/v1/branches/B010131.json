@@ -1,0 +1,34 @@
+{
+  "data": {
+    "rr_id": "B010131",
+    "branch": "Computer Science and Engineering (Hindi)",
+    "course": {
+      "course": "Bachelor of Technology",
+      "rr_id": "C0101",
+      "slug": "bachelor-of-technology"
+    },
+    "institute_count": 3,
+    "institutes": [
+      {
+        "rr_id": "I01014",
+        "institute_code": "027",
+        "institute_name": "AJAY KUMAR GARG ENGG. COLLEGE,GHAZIABAD"
+      },
+      {
+        "rr_id": "I01058",
+        "institute_code": "097",
+        "institute_name": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01411",
+        "institute_code": "192",
+        "institute_name": "G.L. BAJAJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 3
+  }
+}

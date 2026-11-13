@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "rr_id": "U01",
+      "name": "Dr. A.P.J. Abdul Kalam Technical University (AKTU)",
+      "short_name": "AKTU",
+      "course_count": 26,
+      "institute_count": 784,
+      "branch_pair_count": 153,
+      "detail": "/api/v1/universities/U01.json"
+    }
+  ],
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

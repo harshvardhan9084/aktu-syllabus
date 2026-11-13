@@ -1,0 +1,31 @@
+{
+  "data": {
+    "rr_id": "I01073",
+    "institute_code": "1014",
+    "institute_name": "RADHA KRISHNA COLLEGE OF PHARMACY , KANPUR NAGAR",
+    "institute_address": "MEHARBAN SINGH KA PURVA, KANPUR NAGAR, U.P. 209305",
+    "institute_mobile": "9151315203",
+    "institute_email": "adityarkmec@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "rr_id": "C0102",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ],
+        "branch_details": [
+          {
+            "branch": "Bachelor of Pharmacy",
+            "rr_id": "B010201"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

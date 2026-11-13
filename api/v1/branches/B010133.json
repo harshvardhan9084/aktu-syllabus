@@ -1,0 +1,24 @@
+{
+  "data": {
+    "rr_id": "B010133",
+    "branch": "DATA SCIENCE",
+    "course": {
+      "course": "Bachelor of Technology",
+      "rr_id": "C0101",
+      "slug": "bachelor-of-technology"
+    },
+    "institute_count": 1,
+    "institutes": [
+      {
+        "rr_id": "I01261",
+        "institute_code": "1217",
+        "institute_name": "MAHARANA PRATAP INSTITUE OF TECHNOLOGY, GORAKHPUR"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

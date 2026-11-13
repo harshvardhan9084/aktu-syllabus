@@ -1,0 +1,49 @@
+{
+  "data": {
+    "rr_id": "I01709",
+    "institute_code": "910",
+    "institute_name": "SAI MEER COLLEGE OF PHARMACY , KANNAUJ",
+    "institute_address": "Farrukhabad Road Chhibramau, Kannauj (U.P.) 209721",
+    "institute_mobile": "9519202493",
+    "institute_email": "saimeercollegeofpharmacy@gmail.com",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "rr_id": "C0104",
+        "branches": [
+          "Pharmceutical Chemistry",
+          "Pharmacology"
+        ],
+        "branch_details": [
+          {
+            "branch": "Pharmceutical Chemistry",
+            "rr_id": "B010406"
+          },
+          {
+            "branch": "Pharmacology",
+            "rr_id": "B010404"
+          }
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "rr_id": "C0102",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ],
+        "branch_details": [
+          {
+            "branch": "Bachelor of Pharmacy",
+            "rr_id": "B010201"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 2
+  }
+}

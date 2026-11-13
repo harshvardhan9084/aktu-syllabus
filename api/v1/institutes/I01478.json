@@ -1,0 +1,105 @@
+{
+  "data": {
+    "rr_id": "I01478",
+    "institute_code": "340",
+    "institute_name": "VIVEKANANDA COLLEGE OF TECHNOLOGY & MANAGEMENT,ALIGARH",
+    "institute_address": "Aligarh",
+    "institute_mobile": "9837054588",
+    "institute_email": "vctmaligarh@gmail.com",
+    "course_count_declared": 11,
+    "courses": [
+      {
+        "course": "Master of Technology",
+        "rr_id": "C0105",
+        "branches": [
+          "Production Engineering",
+          "Structural Engineering"
+        ],
+        "branch_details": [
+          {
+            "branch": "Production Engineering",
+            "rr_id": "B010532"
+          },
+          {
+            "branch": "Structural Engineering",
+            "rr_id": "B010534"
+          }
+        ]
+      },
+      {
+        "course": "Bachelor of Technology",
+        "rr_id": "C0101",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Information Technology",
+          "Electrical Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Agricultural Engineering"
+        ],
+        "branch_details": [
+          {
+            "branch": "Civil Engineering",
+            "rr_id": "B010114"
+          },
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Information Technology",
+            "rr_id": "B010148"
+          },
+          {
+            "branch": "Electrical Engineering",
+            "rr_id": "B010136"
+          },
+          {
+            "branch": "Electronics and Communication Engineering",
+            "rr_id": "B010141"
+          },
+          {
+            "branch": "Mechanical Engineering",
+            "rr_id": "B010153"
+          },
+          {
+            "branch": "Agricultural Engineering",
+            "rr_id": "B010102"
+          }
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "rr_id": "C0103",
+        "branches": [
+          "MBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA",
+            "rr_id": "B010302"
+          }
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "rr_id": "C0106",
+        "branches": [
+          "MCA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MCA",
+            "rr_id": "B010601"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 4
+  }
+}

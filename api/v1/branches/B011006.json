@@ -1,0 +1,29 @@
+{
+  "data": {
+    "rr_id": "B011006",
+    "branch": "Refrigeration and Air Conditioning",
+    "course": {
+      "course": "B Voc",
+      "rr_id": "C0110",
+      "slug": "b-voc"
+    },
+    "institute_count": 2,
+    "institutes": [
+      {
+        "rr_id": "I01552",
+        "institute_code": "527",
+        "institute_name": "SUNRISE INSTITUTE OF ENGINEERING TECHNICAL & MANAGEMENT,UNNAO"
+      },
+      {
+        "rr_id": "I01605",
+        "institute_code": "695",
+        "institute_name": "SRI RAM GROUP OF COLLEGES,MUZAFFARNAGAR"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 2
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "data": {
+    "rr_id": "I01388",
+    "institute_code": "154",
+    "institute_name": "FACULTY OF MANAGEMENT AND TECHNOLOGY,VARANASI",
+    "institute_address": "Harish Chandra P G College, Bawan-Beegha Campus, Azamgarh Road, Varanasi-221002",
+    "institute_mobile": "9839148337",
+    "institute_email": "fmthcpg@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "rr_id": "C0103",
+        "branches": [
+          "MBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA",
+            "rr_id": "B010302"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

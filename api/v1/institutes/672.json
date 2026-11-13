@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "I01596",
     "institute_code": "672",
     "institute_name": "ITM SCHOOL OF ARCHITECTURE & TOWN PLANNING,LUCKNOW",
     "institute_address": "NH-24, Mampur Bana, Sitapur Road, BKT, Lucknow - 226202",
@@ -9,15 +10,22 @@
     "courses": [
       {
         "course": "Bachelor of Architecture",
+        "rr_id": "C0114",
         "branches": [
           "Architecture"
+        ],
+        "branch_details": [
+          {
+            "branch": "Architecture",
+            "rr_id": "B011401"
+          }
         ]
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 1
   }
 }

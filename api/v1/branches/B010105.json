@@ -1,0 +1,109 @@
+{
+  "data": {
+    "rr_id": "B010105",
+    "branch": "Artificial Intelligence And Machine Learning",
+    "course": {
+      "course": "Bachelor of Technology",
+      "rr_id": "C0101",
+      "slug": "bachelor-of-technology"
+    },
+    "institute_count": 18,
+    "institutes": [
+      {
+        "rr_id": "I01001",
+        "institute_code": "002",
+        "institute_name": "FACULTY OF ENGG, AGRA COLLEGE,AGRA"
+      },
+      {
+        "rr_id": "I01017",
+        "institute_code": "033",
+        "institute_name": "RAJ KUMAR GOEL INSTT. OF TECHNOLOGY,GHAZIABAD"
+      },
+      {
+        "rr_id": "I01024",
+        "institute_code": "043",
+        "institute_name": "BUNDELKHAND INSTITUTE OF ENGINEERING & TECHNOLOGY,JHANSI"
+      },
+      {
+        "rr_id": "I01058",
+        "institute_code": "097",
+        "institute_name": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01261",
+        "institute_code": "1217",
+        "institute_name": "MAHARANA PRATAP INSTITUE OF TECHNOLOGY, GORAKHPUR"
+      },
+      {
+        "rr_id": "I01262",
+        "institute_code": "1218",
+        "institute_name": "MODERN COLLEGE, JHANSI"
+      },
+      {
+        "rr_id": "I01324",
+        "institute_code": "1279",
+        "institute_name": "INSTITUTE OF PROFESSIONAL STUDIES AND RESEARCH, UNNAO"
+      },
+      {
+        "rr_id": "I01384",
+        "institute_code": "145",
+        "institute_name": "S R GROUP OF INSTITUTIONS (COLLEGE OF SCIENCE AND ENGINEERING),JHANSI"
+      },
+      {
+        "rr_id": "I01424",
+        "institute_code": "216",
+        "institute_name": "IIMT COLLEGE OF ENGINEERING,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01427",
+        "institute_code": "221",
+        "institute_name": "INSTITUTE OF ENGINEERING & TECHNOLOGY,SITAPUR"
+      },
+      {
+        "rr_id": "I01468",
+        "institute_code": "311",
+        "institute_name": "DEEWAN V.S. INSTITUTE OF ENGINEERING & TECHNOLOGY, MEERUT,MEERUT"
+      },
+      {
+        "rr_id": "I01519",
+        "institute_code": "467",
+        "institute_name": "MADHU VACHASPATI INSTITUTE OF ENGINEERING & TECHNOLOGY,KAUSHAMBI"
+      },
+      {
+        "rr_id": "I01522",
+        "institute_code": "473",
+        "institute_name": "G.C.R.G. MEMORIAL TRUST'S GROUP OF INSTITUTIONS, FACULTY OF ENGINEERING,LUCKNOW"
+      },
+      {
+        "rr_id": "I01534",
+        "institute_code": "492",
+        "institute_name": "KCC Institute of Technology & Management,Gautam Buddh Nagar"
+      },
+      {
+        "rr_id": "I01539",
+        "institute_code": "501",
+        "institute_name": "R.V.INSTITUTE OF TECHNOLOGY,BIJNAUR"
+      },
+      {
+        "rr_id": "I01556",
+        "institute_code": "545",
+        "institute_name": "JAHANGIRABAD EDUCATIONAL TRUST'S GROUP OF INSTITUTIONS, FACULTY OF ENGINEERING,BARABANKI"
+      },
+      {
+        "rr_id": "I01590",
+        "institute_code": "648",
+        "institute_name": "BABU SUNDER SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW"
+      },
+      {
+        "rr_id": "I01605",
+        "institute_code": "695",
+        "institute_name": "SRI RAM GROUP OF COLLEGES,MUZAFFARNAGAR"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 18
+  }
+}

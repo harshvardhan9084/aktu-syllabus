@@ -1,0 +1,29 @@
+{
+  "data": {
+    "rr_id": "B010160",
+    "branch": "Textile Technology",
+    "course": {
+      "course": "Bachelor of Technology",
+      "rr_id": "C0101",
+      "slug": "bachelor-of-technology"
+    },
+    "institute_count": 2,
+    "institutes": [
+      {
+        "rr_id": "I01025",
+        "institute_code": "044",
+        "institute_name": "UTTAR PRADESH TEXTILE TECHNOLOGY INSTITUTE,KANPUR"
+      },
+      {
+        "rr_id": "I01644",
+        "institute_code": "802",
+        "institute_name": "NITRA TECHNICAL CAMPUS,GHAZIABAD"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 2
+  }
+}

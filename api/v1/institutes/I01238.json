@@ -1,0 +1,31 @@
+{
+  "data": {
+    "rr_id": "I01238",
+    "institute_code": "1193",
+    "institute_name": "ABES BUSINESS SCHOOL, GHAZIABAD",
+    "institute_address": "19TH KM STONE, NH - 09 (FORMERLY NH-24), GHAZIABAD - 201009 (U.P.)",
+    "institute_mobile": "9999889341",
+    "institute_email": "info@abes.ac.in",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "rr_id": "C0103",
+        "branches": [
+          "MBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA",
+            "rr_id": "B010302"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

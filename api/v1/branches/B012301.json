@@ -1,0 +1,29 @@
+{
+  "data": {
+    "rr_id": "B012301",
+    "branch": "MBA",
+    "course": {
+      "course": "MBA Working Professional",
+      "rr_id": "C0123",
+      "slug": "mba-working-professional"
+    },
+    "institute_count": 2,
+    "institutes": [
+      {
+        "rr_id": "I01242",
+        "institute_code": "1198",
+        "institute_name": "VISHVESHWARYA INSTITUTE OF POLYTECHNIC"
+      },
+      {
+        "rr_id": "I01367",
+        "institute_code": "132",
+        "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY (ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 2
+  }
+}

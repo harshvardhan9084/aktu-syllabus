@@ -1,0 +1,140 @@
+{
+  "data": {
+    "rr_id": "I01031",
+    "institute_code": "052",
+    "institute_name": "INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
+    "institute_address": "Sitapur Road, Lucknow-226021",
+    "institute_mobile": "0522733696",
+    "institute_email": "director@ietlucknow.ac.in",
+    "course_count_declared": 18,
+    "courses": [
+      {
+        "course": "Master of Technology",
+        "rr_id": "C0105",
+        "branches": [
+          "Mechanical Engineering",
+          "Biotechnology",
+          "Structural Engineering",
+          "Electrical Drive and Control",
+          "Environmental Engineering",
+          "Micro Electronic Engineering",
+          "Artificial Inelligence (AI) And Data Science",
+          "Power and Energy System"
+        ],
+        "branch_details": [
+          {
+            "branch": "Mechanical Engineering",
+            "rr_id": "B010524"
+          },
+          {
+            "branch": "Biotechnology",
+            "rr_id": "B010504"
+          },
+          {
+            "branch": "Structural Engineering",
+            "rr_id": "B010534"
+          },
+          {
+            "branch": "Electrical Drive and Control",
+            "rr_id": "B010514"
+          },
+          {
+            "branch": "Environmental Engineering",
+            "rr_id": "B010519"
+          },
+          {
+            "branch": "Micro Electronic Engineering",
+            "rr_id": "B010526"
+          },
+          {
+            "branch": "Artificial Inelligence (AI) And Data Science",
+            "rr_id": "B010501"
+          },
+          {
+            "branch": "Power and Energy System",
+            "rr_id": "B010531"
+          }
+        ]
+      },
+      {
+        "course": "Bachelor of Technology",
+        "rr_id": "C0101",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Information Technology",
+          "Electrical Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Chemical Engineering",
+          "Computer Science and Engineering (Artificial Intelligence)"
+        ],
+        "branch_details": [
+          {
+            "branch": "Civil Engineering",
+            "rr_id": "B010114"
+          },
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Information Technology",
+            "rr_id": "B010148"
+          },
+          {
+            "branch": "Electrical Engineering",
+            "rr_id": "B010136"
+          },
+          {
+            "branch": "Electronics and Communication Engineering",
+            "rr_id": "B010141"
+          },
+          {
+            "branch": "Mechanical Engineering",
+            "rr_id": "B010153"
+          },
+          {
+            "branch": "Chemical Engineering",
+            "rr_id": "B010113"
+          },
+          {
+            "branch": "Computer Science and Engineering (Artificial Intelligence)",
+            "rr_id": "B010128"
+          }
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "rr_id": "C0103",
+        "branches": [
+          "MBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA",
+            "rr_id": "B010302"
+          }
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "rr_id": "C0106",
+        "branches": [
+          "MCA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MCA",
+            "rr_id": "B010601"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 4
+  }
+}

@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "I01034",
     "institute_code": "056",
     "institute_name": "BABU BANARASI DAS NORTHERN INDIA INSTITUTE OF TECHNOLOGY,LUCKNOW",
     "institute_address": "Sector-II, Dr. Akhilesh Das Nagar, Faizabad Road, Lucknow - 226028",
@@ -9,20 +10,43 @@
     "courses": [
       {
         "course": "Master of Technology",
+        "rr_id": "C0105",
         "branches": [
           "Electronics and Communication Engineering"
+        ],
+        "branch_details": [
+          {
+            "branch": "Electronics and Communication Engineering",
+            "rr_id": "B010517"
+          }
         ]
       },
       {
         "course": "Master of Pharmacy",
+        "rr_id": "C0104",
         "branches": [
           "Pharmaceutics",
           "Pharmceutical Chemistry",
           "Pharmacology"
+        ],
+        "branch_details": [
+          {
+            "branch": "Pharmaceutics",
+            "rr_id": "B010402"
+          },
+          {
+            "branch": "Pharmceutical Chemistry",
+            "rr_id": "B010406"
+          },
+          {
+            "branch": "Pharmacology",
+            "rr_id": "B010404"
+          }
         ]
       },
       {
         "course": "Bachelor of Technology",
+        "rr_id": "C0101",
         "branches": [
           "Civil Engineering",
           "Computer Science and Engineering",
@@ -32,25 +56,73 @@
           "Mechanical Engineering",
           "Computer Science and Engineering (Artificial Intelligence)",
           "Computer Science And Engineering(Artificial Intelligence & Machine Learning)"
+        ],
+        "branch_details": [
+          {
+            "branch": "Civil Engineering",
+            "rr_id": "B010114"
+          },
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Information Technology",
+            "rr_id": "B010148"
+          },
+          {
+            "branch": "Electrical Engineering",
+            "rr_id": "B010136"
+          },
+          {
+            "branch": "Electronics and Communication Engineering",
+            "rr_id": "B010141"
+          },
+          {
+            "branch": "Mechanical Engineering",
+            "rr_id": "B010153"
+          },
+          {
+            "branch": "Computer Science and Engineering (Artificial Intelligence)",
+            "rr_id": "B010128"
+          },
+          {
+            "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+            "rr_id": "B010123"
+          }
         ]
       },
       {
         "course": "Bachelor of Pharmacy",
+        "rr_id": "C0102",
         "branches": [
           "Bachelor of Pharmacy"
+        ],
+        "branch_details": [
+          {
+            "branch": "Bachelor of Pharmacy",
+            "rr_id": "B010201"
+          }
         ]
       },
       {
         "course": "Masters of Business Administration",
+        "rr_id": "C0103",
         "branches": [
           "MBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA",
+            "rr_id": "B010302"
+          }
         ]
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 5
   }
 }

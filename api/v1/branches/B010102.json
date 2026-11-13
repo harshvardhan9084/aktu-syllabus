@@ -1,0 +1,79 @@
+{
+  "data": {
+    "rr_id": "B010102",
+    "branch": "Agricultural Engineering",
+    "course": {
+      "course": "Bachelor of Technology",
+      "rr_id": "C0101",
+      "slug": "bachelor-of-technology"
+    },
+    "institute_count": 12,
+    "institutes": [
+      {
+        "rr_id": "I01005",
+        "institute_code": "007",
+        "institute_name": "SHIVDAN SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALIGARH"
+      },
+      {
+        "rr_id": "I01013",
+        "institute_code": "019",
+        "institute_name": "MARATHWADA INSTT. OF TECHNOLOGY,BULANDSHAHAR"
+      },
+      {
+        "rr_id": "I01145",
+        "institute_code": "109",
+        "institute_name": "ALIGARH COLLEGE OF ENGG. & TECH,ALIGARH"
+      },
+      {
+        "rr_id": "I01273",
+        "institute_code": "123",
+        "institute_name": "SAROJ INSTITUTE OF TECH. & MANAGEMENT,LUCKNOW"
+      },
+      {
+        "rr_id": "I01477",
+        "institute_code": "339",
+        "institute_name": "ACN COLLEGE OF ENGINEERING & MANAGEMENT STUDIES,ALIGARH"
+      },
+      {
+        "rr_id": "I01478",
+        "institute_code": "340",
+        "institute_name": "VIVEKANANDA COLLEGE OF TECHNOLOGY & MANAGEMENT,ALIGARH"
+      },
+      {
+        "rr_id": "I01518",
+        "institute_code": "465",
+        "institute_name": "HIMALAYAN INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW"
+      },
+      {
+        "rr_id": "I01527",
+        "institute_code": "483",
+        "institute_name": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW"
+      },
+      {
+        "rr_id": "I01529",
+        "institute_code": "485",
+        "institute_name": "S.R.INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW"
+      },
+      {
+        "rr_id": "I01549",
+        "institute_code": "523",
+        "institute_name": "VISION INSTITUTE OF TECHNOLOGY,KANPUR"
+      },
+      {
+        "rr_id": "I01550",
+        "institute_code": "524",
+        "institute_name": "VISION INSTITUTE OF TECHNOLOGY,ALIGARH"
+      },
+      {
+        "rr_id": "I01590",
+        "institute_code": "648",
+        "institute_name": "BABU SUNDER SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 12
+  }
+}

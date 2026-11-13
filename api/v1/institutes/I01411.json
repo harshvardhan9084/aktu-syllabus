@@ -1,0 +1,120 @@
+{
+  "data": {
+    "rr_id": "I01411",
+    "institute_code": "192",
+    "institute_name": "G.L. BAJAJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR",
+    "institute_address": "PLOT NO.-2, KNOWLEDGE PARK-III, GREATER NOIDA",
+    "institute_mobile": "7835005112",
+    "institute_email": "director@glbitm.org",
+    "course_count_declared": 14,
+    "courses": [
+      {
+        "course": "Master of Technology",
+        "rr_id": "C0105",
+        "branches": [
+          "Computer Science and Engineering"
+        ],
+        "branch_details": [
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010509"
+          }
+        ]
+      },
+      {
+        "course": "Bachelor of Technology",
+        "rr_id": "C0101",
+        "branches": [
+          "Computer Science and Engineering",
+          "Computer Science Information Technology",
+          "Electrical & Electronics Engineering",
+          "Electrical & Computer Engg.",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Computer Science and Engineering (Artificial Intelligence)",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+          "Computer Science And Engineering(Data Science)",
+          "Computer Science and Engineering (Hindi)"
+        ],
+        "branch_details": [
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Computer Science Information Technology",
+            "rr_id": "B010126"
+          },
+          {
+            "branch": "Electrical & Electronics Engineering",
+            "rr_id": "B010135"
+          },
+          {
+            "branch": "Electrical & Computer Engg.",
+            "rr_id": "B010134"
+          },
+          {
+            "branch": "Electronics and Communication Engineering",
+            "rr_id": "B010141"
+          },
+          {
+            "branch": "Mechanical Engineering",
+            "rr_id": "B010153"
+          },
+          {
+            "branch": "Computer Science and Engineering (Artificial Intelligence)",
+            "rr_id": "B010128"
+          },
+          {
+            "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+            "rr_id": "B010123"
+          },
+          {
+            "branch": "Computer Science And Engineering(Data Science)",
+            "rr_id": "B010124"
+          },
+          {
+            "branch": "Computer Science and Engineering (Hindi)",
+            "rr_id": "B010131"
+          }
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "rr_id": "C0103",
+        "branches": [
+          "MBA",
+          "MBA(Business Analytics)"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA",
+            "rr_id": "B010302"
+          },
+          {
+            "branch": "MBA(Business Analytics)",
+            "rr_id": "B010307"
+          }
+        ]
+      },
+      {
+        "course": "Master of Computer Applications",
+        "rr_id": "C0106",
+        "branches": [
+          "MCA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MCA",
+            "rr_id": "B010601"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 4
+  }
+}

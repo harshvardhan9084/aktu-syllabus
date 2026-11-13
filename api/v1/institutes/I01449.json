@@ -1,0 +1,31 @@
+{
+  "data": {
+    "rr_id": "I01449",
+    "institute_code": "266",
+    "institute_name": "LTR INSTITUTE OF TECHNOLOGY , MEERUT",
+    "institute_address": "Baghpat Road, Meerut -250001",
+    "institute_mobile": "9897551137",
+    "institute_email": "ltrcollegepharmacy@yahoo.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "rr_id": "C0102",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ],
+        "branch_details": [
+          {
+            "branch": "Bachelor of Pharmacy",
+            "rr_id": "B010201"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

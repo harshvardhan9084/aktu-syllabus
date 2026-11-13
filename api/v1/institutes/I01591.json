@@ -1,0 +1,69 @@
+{
+  "data": {
+    "rr_id": "I01591",
+    "institute_code": "649",
+    "institute_name": "MG INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
+    "institute_address": "Lucknow",
+    "institute_mobile": "8189000868",
+    "institute_email": "registrar@mgimt.edu.in",
+    "course_count_declared": 7,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "rr_id": "C0101",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical Engineering",
+          "Mechanical Engineering",
+          "Biotechnology",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)"
+        ],
+        "branch_details": [
+          {
+            "branch": "Civil Engineering",
+            "rr_id": "B010114"
+          },
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Electrical Engineering",
+            "rr_id": "B010136"
+          },
+          {
+            "branch": "Mechanical Engineering",
+            "rr_id": "B010153"
+          },
+          {
+            "branch": "Biotechnology",
+            "rr_id": "B010110"
+          },
+          {
+            "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+            "rr_id": "B010123"
+          }
+        ]
+      },
+      {
+        "course": "Bachelor of Technology Working Professional",
+        "rr_id": "C0109",
+        "branches": [
+          "Computer Science and Engineering"
+        ],
+        "branch_details": [
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010901"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 2
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "data": {
+    "rr_id": "B010138",
+    "branch": "Electronics Engineering",
+    "course": {
+      "course": "Bachelor of Technology",
+      "rr_id": "C0101",
+      "slug": "bachelor-of-technology"
+    },
+    "institute_count": 9,
+    "institutes": [
+      {
+        "rr_id": "I01032",
+        "institute_code": "053",
+        "institute_name": "AZAD INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW"
+      },
+      {
+        "rr_id": "I01096",
+        "institute_code": "104",
+        "institute_name": "KAMLA NEHRU INSTITUTE OF TECHNOLOGY,SULTANPUR"
+      },
+      {
+        "rr_id": "I01150",
+        "institute_code": "110",
+        "institute_name": "INSTITUTE OF ENGG. & RURAL TECHNOLOGY,ALLAHABAD"
+      },
+      {
+        "rr_id": "I01257",
+        "institute_code": "1213",
+        "institute_name": "Bharat Ratna Sardar Vallabhbhai Patel Rajkiya Engineering College, Basti"
+      },
+      {
+        "rr_id": "I01259",
+        "institute_code": "1215",
+        "institute_name": "Samrat Ashok Rajkiya Engineering College, Mirzapur"
+      },
+      {
+        "rr_id": "I01395",
+        "institute_code": "166",
+        "institute_name": "DR.AMBEDKAR INSTITUTE OF TECHNOLOGY FOR DIVYANGJAN, U.P., KANPUR"
+      },
+      {
+        "rr_id": "I01401",
+        "institute_code": "172",
+        "institute_name": "LLOYD INSTITUTE OF MANAGEMENT & TECHNOLOGY,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01656",
+        "institute_code": "839",
+        "institute_name": "RAJKIYA ENGINEERING COLLEGE,KANNAUJ"
+      },
+      {
+        "rr_id": "I01658",
+        "institute_code": "841",
+        "institute_name": "RAJKIYA ENGINEERING COLLEGE,SONEBHADRA"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 9
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "data": {
+    "rr_id": "B010121",
+    "branch": "Computer Science And Design",
+    "course": {
+      "course": "Bachelor of Technology",
+      "rr_id": "C0101",
+      "slug": "bachelor-of-technology"
+    },
+    "institute_count": 3,
+    "institutes": [
+      {
+        "rr_id": "I01486",
+        "institute_code": "361",
+        "institute_name": "R.R.INSTITUTE OF MODERN TECHNOLOGY,LUCKNOW"
+      },
+      {
+        "rr_id": "I01534",
+        "institute_code": "492",
+        "institute_name": "KCC Institute of Technology & Management,Gautam Buddh Nagar"
+      },
+      {
+        "rr_id": "I01646",
+        "institute_code": "810",
+        "institute_name": "GREATER NOIDA COLLEGE"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 3
+  }
+}

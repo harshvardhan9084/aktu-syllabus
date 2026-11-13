@@ -1,0 +1,39 @@
+{
+  "data": {
+    "rr_id": "B010534",
+    "branch": "Structural Engineering",
+    "course": {
+      "course": "Master of Technology",
+      "rr_id": "C0105",
+      "slug": "master-of-technology"
+    },
+    "institute_count": 4,
+    "institutes": [
+      {
+        "rr_id": "I01031",
+        "institute_code": "052",
+        "institute_name": "INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW"
+      },
+      {
+        "rr_id": "I01478",
+        "institute_code": "340",
+        "institute_name": "VIVEKANANDA COLLEGE OF TECHNOLOGY & MANAGEMENT,ALIGARH"
+      },
+      {
+        "rr_id": "I01485",
+        "institute_code": "360",
+        "institute_name": "GOEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW"
+      },
+      {
+        "rr_id": "I01524",
+        "institute_code": "479",
+        "institute_name": "RAJSHREE INSTITUTE OF MANAGEMENT & TECHNOLOGY,BAREILLY"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 4
+  }
+}

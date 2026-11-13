@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "I01410",
     "institute_code": "189",
     "institute_name": "CENTRAL INSTITUTE OF PETROCHEMICALS ENGINEERING & TECHNOLOGY (CIPET), LUCKNOW",
     "institute_address": "B-27 Amausi Industrial Area Nadarganj",
@@ -9,22 +10,40 @@
     "courses": [
       {
         "course": "Master of Technology",
+        "rr_id": "C0105",
         "branches": [
           "Plastic Engineering"
+        ],
+        "branch_details": [
+          {
+            "branch": "Plastic Engineering",
+            "rr_id": "B010528"
+          }
         ]
       },
       {
         "course": "Bachelor of Technology",
+        "rr_id": "C0101",
         "branches": [
           "Manufacturing Technology",
           "Plastic Engineering"
+        ],
+        "branch_details": [
+          {
+            "branch": "Manufacturing Technology",
+            "rr_id": "B010152"
+          },
+          {
+            "branch": "Plastic Engineering",
+            "rr_id": "B010156"
+          }
         ]
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 2
   }
 }

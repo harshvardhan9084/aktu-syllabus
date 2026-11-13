@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "I01108",
     "institute_code": "1053",
     "institute_name": "JYOTIRADITYA INSTITUTE OF PHARMACY , PRATAPGARH",
     "institute_address": "JD SHIKSHA GRAM, KOHANDAUR, PRATAPGHARH",
@@ -9,30 +10,63 @@
     "courses": [
       {
         "course": "Master of Pharmacy",
+        "rr_id": "C0104",
         "branches": [
           "Pharmaceutics",
           "Pharmceutical Chemistry",
           "Pharmacogonosy",
           "Pharmacology"
+        ],
+        "branch_details": [
+          {
+            "branch": "Pharmaceutics",
+            "rr_id": "B010402"
+          },
+          {
+            "branch": "Pharmceutical Chemistry",
+            "rr_id": "B010406"
+          },
+          {
+            "branch": "Pharmacogonosy",
+            "rr_id": "B010403"
+          },
+          {
+            "branch": "Pharmacology",
+            "rr_id": "B010404"
+          }
         ]
       },
       {
         "course": "Bachelor of Pharmacy",
+        "rr_id": "C0102",
         "branches": [
           "Bachelor of Pharmacy"
+        ],
+        "branch_details": [
+          {
+            "branch": "Bachelor of Pharmacy",
+            "rr_id": "B010201"
+          }
         ]
       },
       {
         "course": "PHARM D",
+        "rr_id": "C0111",
         "branches": [
           "Pharm D"
+        ],
+        "branch_details": [
+          {
+            "branch": "Pharm D",
+            "rr_id": "B011101"
+          }
         ]
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 3
   }
 }

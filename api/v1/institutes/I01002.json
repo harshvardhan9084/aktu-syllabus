@@ -1,0 +1,133 @@
+{
+  "data": {
+    "rr_id": "I01002",
+    "institute_code": "004",
+    "institute_name": "RAJA BALWANT SINGH ENGINEERING TECHNICAL CAMPUS,AGRA",
+    "institute_address": "Raja Balwant Singh Engineering Technical Campus, Bichpuri, Agra -283105",
+    "institute_mobile": "7534000286",
+    "institute_email": "tu04@rediffmail.com",
+    "course_count_declared": 15,
+    "courses": [
+      {
+        "course": "Master of Technology",
+        "rr_id": "C0105",
+        "branches": [
+          "Computer Science and Engineering",
+          "Electronics and Communication Engineering",
+          "Biotechnology",
+          "Food Technology"
+        ],
+        "branch_details": [
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010509"
+          },
+          {
+            "branch": "Electronics and Communication Engineering",
+            "rr_id": "B010517"
+          },
+          {
+            "branch": "Biotechnology",
+            "rr_id": "B010504"
+          },
+          {
+            "branch": "Food Technology",
+            "rr_id": "B010520"
+          }
+        ]
+      },
+      {
+        "course": "Bachelor of Technology",
+        "rr_id": "C0101",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Chemical Engineering",
+          "Biotechnology",
+          "Food Technology"
+        ],
+        "branch_details": [
+          {
+            "branch": "Civil Engineering",
+            "rr_id": "B010114"
+          },
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Electrical Engineering",
+            "rr_id": "B010136"
+          },
+          {
+            "branch": "Electronics and Communication Engineering",
+            "rr_id": "B010141"
+          },
+          {
+            "branch": "Mechanical Engineering",
+            "rr_id": "B010153"
+          },
+          {
+            "branch": "Chemical Engineering",
+            "rr_id": "B010113"
+          },
+          {
+            "branch": "Biotechnology",
+            "rr_id": "B010110"
+          },
+          {
+            "branch": "Food Technology",
+            "rr_id": "B010145"
+          }
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "rr_id": "C0102",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ],
+        "branch_details": [
+          {
+            "branch": "Bachelor of Pharmacy",
+            "rr_id": "B010201"
+          }
+        ]
+      },
+      {
+        "course": "BBA",
+        "rr_id": "C0108",
+        "branches": [
+          "BBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "BBA",
+            "rr_id": "B010801"
+          }
+        ]
+      },
+      {
+        "course": "BCA",
+        "rr_id": "C0107",
+        "branches": [
+          "BCA"
+        ],
+        "branch_details": [
+          {
+            "branch": "BCA",
+            "rr_id": "B010701"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 5
+  }
+}

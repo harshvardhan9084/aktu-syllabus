@@ -1,0 +1,304 @@
+{
+  "data": {
+    "rr_id": "B010124",
+    "branch": "Computer Science And Engineering(Data Science)",
+    "course": {
+      "course": "Bachelor of Technology",
+      "rr_id": "C0101",
+      "slug": "bachelor-of-technology"
+    },
+    "institute_count": 57,
+    "institutes": [
+      {
+        "rr_id": "I01005",
+        "institute_code": "007",
+        "institute_name": "SHIVDAN SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALIGARH"
+      },
+      {
+        "rr_id": "I01010",
+        "institute_code": "014",
+        "institute_name": "SHRI RAMMURTI SMARAK COLLEGE OF ENGG AND TECHNOLOGY,BAREILLY"
+      },
+      {
+        "rr_id": "I01014",
+        "institute_code": "027",
+        "institute_name": "AJAY KUMAR GARG ENGG. COLLEGE,GHAZIABAD"
+      },
+      {
+        "rr_id": "I01015",
+        "institute_code": "030",
+        "institute_name": "INDERPRASTHA ENGG. COLLEGE,GHAZIABAD"
+      },
+      {
+        "rr_id": "I01016",
+        "institute_code": "032",
+        "institute_name": "ABES ENGG.COLLEGE,GHAZIABAD"
+      },
+      {
+        "rr_id": "I01017",
+        "institute_code": "033",
+        "institute_name": "RAJ KUMAR GOEL INSTT. OF TECHNOLOGY,GHAZIABAD"
+      },
+      {
+        "rr_id": "I01018",
+        "institute_code": "035",
+        "institute_name": "BABU BANARSI DAS INSTITUTE OF TECH.,GHAZIABAD"
+      },
+      {
+        "rr_id": "I01026",
+        "institute_code": "046",
+        "institute_name": "MAHARANA PRATAP ENGINEERING COLLEGE,KANPUR"
+      },
+      {
+        "rr_id": "I01033",
+        "institute_code": "054",
+        "institute_name": "BABU BANARASI DAS INSTITUTE OF TECHNOLOGY AND MANAGEMENT, LUCKNOW"
+      },
+      {
+        "rr_id": "I01037",
+        "institute_code": "064",
+        "institute_name": "HINDUSTAN COLLEGE OF SCIENCE & TECHNOLOGY,MATHURA"
+      },
+      {
+        "rr_id": "I01041",
+        "institute_code": "068",
+        "institute_name": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT"
+      },
+      {
+        "rr_id": "I01048",
+        "institute_code": "082",
+        "institute_name": "MORADABAD INSTITUTE OF TECHNOLOGY,MORADABAD"
+      },
+      {
+        "rr_id": "I01049",
+        "institute_code": "083",
+        "institute_name": "S.D.COLLEGE OF ENGINEERING & TECHNOLOGY,MUZAFFARNAGAR"
+      },
+      {
+        "rr_id": "I01053",
+        "institute_code": "090",
+        "institute_name": "I.E.C. COLLEGE OF ENGINEERING & TECHNOLOGY,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01056",
+        "institute_code": "095",
+        "institute_name": "MAHATAMA GANDHI MISSION COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01057",
+        "institute_code": "096",
+        "institute_name": "VISHVESHWARYA GROUP OF INSTITUTIONS,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01058",
+        "institute_code": "097",
+        "institute_name": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01233",
+        "institute_code": "1186",
+        "institute_name": "MAYA INSTITUTE OF PHARMACY"
+      },
+      {
+        "rr_id": "I01243",
+        "institute_code": "120",
+        "institute_name": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,GORAKHPUR"
+      },
+      {
+        "rr_id": "I01262",
+        "institute_code": "1218",
+        "institute_name": "MODERN COLLEGE, JHANSI"
+      },
+      {
+        "rr_id": "I01264",
+        "institute_code": "122",
+        "institute_name": "SHRI RAM SWAROOP MEMORIAL COLLEGE OF ENGG. & MANAGEMENT,LUCKNOW"
+      },
+      {
+        "rr_id": "I01273",
+        "institute_code": "123",
+        "institute_name": "SAROJ INSTITUTE OF TECH. & MANAGEMENT,LUCKNOW"
+      },
+      {
+        "rr_id": "I01325",
+        "institute_code": "128",
+        "institute_name": "BHARAT INSTITUTE OF TECHNOLOGY,MEERUT"
+      },
+      {
+        "rr_id": "I01367",
+        "institute_code": "132",
+        "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY (ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01374",
+        "institute_code": "133",
+        "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01379",
+        "institute_code": "139",
+        "institute_name": "KALICHARAN NIGAM INSTITUTE OF TECHNOLOGY,BANDA"
+      },
+      {
+        "rr_id": "I01384",
+        "institute_code": "145",
+        "institute_name": "S R GROUP OF INSTITUTIONS (COLLEGE OF SCIENCE AND ENGINEERING),JHANSI"
+      },
+      {
+        "rr_id": "I01387",
+        "institute_code": "153",
+        "institute_name": "LLOYD INSTITUTE OF ENGINEERING AND TECHNOLOGY"
+      },
+      {
+        "rr_id": "I01393",
+        "institute_code": "164",
+        "institute_name": "PRANVEER SINGH INSTITUTE OF TECHNOLOGY,KANPUR"
+      },
+      {
+        "rr_id": "I01394",
+        "institute_code": "165",
+        "institute_name": "KANPUR INSTITUTE OF TECHNOLOGY,KANPUR"
+      },
+      {
+        "rr_id": "I01401",
+        "institute_code": "172",
+        "institute_name": "LLOYD INSTITUTE OF MANAGEMENT & TECHNOLOGY,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01411",
+        "institute_code": "192",
+        "institute_name": "G.L. BAJAJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01423",
+        "institute_code": "215",
+        "institute_name": "SANSKAR COLLEGE OF ENGINEERING & TECHNOLOGY,GHAZIABAD"
+      },
+      {
+        "rr_id": "I01428",
+        "institute_code": "222",
+        "institute_name": "I.T.S. ENGG.COLLEGE,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01432",
+        "institute_code": "231",
+        "institute_name": "R.D.ENGINEERING COLLEGE,GHAZIABAD"
+      },
+      {
+        "rr_id": "I01456",
+        "institute_code": "284",
+        "institute_name": "UNITED INSTITUTE OF TECHNOLOGY,ALLAHABAD"
+      },
+      {
+        "rr_id": "I01457",
+        "institute_code": "287",
+        "institute_name": "NARAINA COLLEGE OF ENGINEERING & TECHNOLOGY,KANPUR"
+      },
+      {
+        "rr_id": "I01458",
+        "institute_code": "290",
+        "institute_name": "ABES INSTITUTE OF TECHNOLOGY,GHAZIABAD"
+      },
+      {
+        "rr_id": "I01481",
+        "institute_code": "349",
+        "institute_name": "MAHARANA INSTITUTE OF PROFESSIONAL STUDIES,KANPUR"
+      },
+      {
+        "rr_id": "I01482",
+        "institute_code": "351",
+        "institute_name": "KRISHNA INSTITUTE OF TECHNOLOGY,KANPUR"
+      },
+      {
+        "rr_id": "I01485",
+        "institute_code": "360",
+        "institute_name": "GOEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW"
+      },
+      {
+        "rr_id": "I01488",
+        "institute_code": "363",
+        "institute_name": "AMBALIKA INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW"
+      },
+      {
+        "rr_id": "I01495",
+        "institute_code": "384",
+        "institute_name": "SARASWATI HIGHER EDUCATION & TECHNICAL COLLEGE OF ENGINEERING,VARANASI"
+      },
+      {
+        "rr_id": "I01512",
+        "institute_code": "430",
+        "institute_name": "MAHARANA INSTITUTE OF TECH. & SCIENCES,LUCKNOW"
+      },
+      {
+        "rr_id": "I01521",
+        "institute_code": "472",
+        "institute_name": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,MAHARAJGANJ"
+      },
+      {
+        "rr_id": "I01522",
+        "institute_code": "473",
+        "institute_name": "G.C.R.G. MEMORIAL TRUST'S GROUP OF INSTITUTIONS, FACULTY OF ENGINEERING,LUCKNOW"
+      },
+      {
+        "rr_id": "I01523",
+        "institute_code": "474",
+        "institute_name": "SHRI SIDHI VINAYAK INSTITUTE OF TECHNOLOGY,BAREILLY"
+      },
+      {
+        "rr_id": "I01529",
+        "institute_code": "485",
+        "institute_name": "S.R.INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW"
+      },
+      {
+        "rr_id": "I01534",
+        "institute_code": "492",
+        "institute_name": "KCC Institute of Technology & Management,Gautam Buddh Nagar"
+      },
+      {
+        "rr_id": "I01546",
+        "institute_code": "518",
+        "institute_name": "SSLD VARSHNEY ENGINEERING COLLEGE,ALIGARH"
+      },
+      {
+        "rr_id": "I01549",
+        "institute_code": "523",
+        "institute_name": "VISION INSTITUTE OF TECHNOLOGY,KANPUR"
+      },
+      {
+        "rr_id": "I01550",
+        "institute_code": "524",
+        "institute_name": "VISION INSTITUTE OF TECHNOLOGY,ALIGARH"
+      },
+      {
+        "rr_id": "I01551",
+        "institute_code": "525",
+        "institute_name": "BUDDHA INSTITUTE OF TECHNOLOGY,GORAKHPUR"
+      },
+      {
+        "rr_id": "I01587",
+        "institute_code": "641",
+        "institute_name": "ASHOKA INSTITUTE OF TECHNOLOGY & MANAGEMENT,VARANASI"
+      },
+      {
+        "rr_id": "I01605",
+        "institute_code": "695",
+        "institute_name": "SRI RAM GROUP OF COLLEGES,MUZAFFARNAGAR"
+      },
+      {
+        "rr_id": "I01611",
+        "institute_code": "719",
+        "institute_name": "AXIS INSTITUTE OF TECHNOLOGY & MANAGEMENT,KANPUR"
+      },
+      {
+        "rr_id": "I01646",
+        "institute_code": "810",
+        "institute_name": "GREATER NOIDA COLLEGE"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 57
+  }
+}

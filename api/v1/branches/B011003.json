@@ -1,0 +1,29 @@
+{
+  "data": {
+    "rr_id": "B011003",
+    "branch": "BFSI",
+    "course": {
+      "course": "B Voc",
+      "rr_id": "C0110",
+      "slug": "b-voc"
+    },
+    "institute_count": 2,
+    "institutes": [
+      {
+        "rr_id": "I01423",
+        "institute_code": "215",
+        "institute_name": "SANSKAR COLLEGE OF ENGINEERING & TECHNOLOGY,GHAZIABAD"
+      },
+      {
+        "rr_id": "I01594",
+        "institute_code": "666",
+        "institute_name": "SRM BUSINESS SCHOOL,LUCKNOW"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 2
+  }
+}

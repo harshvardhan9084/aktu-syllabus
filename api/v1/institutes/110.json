@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "I01150",
     "institute_code": "110",
     "institute_name": "INSTITUTE OF ENGG. & RURAL TECHNOLOGY,ALLAHABAD",
     "institute_address": "26, Chatham Lines, Prayagraj (Allahabad) – 211002 (U.P.)",
@@ -9,6 +10,7 @@
     "courses": [
       {
         "course": "Bachelor of Technology",
+        "rr_id": "C0101",
         "branches": [
           "Civil Engineering",
           "Computer Science and Engineering",
@@ -17,13 +19,43 @@
           "Electronics Engineering",
           "Mechanical Engineering",
           "Industrial Production Engineering"
+        ],
+        "branch_details": [
+          {
+            "branch": "Civil Engineering",
+            "rr_id": "B010114"
+          },
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Electrical Engineering",
+            "rr_id": "B010136"
+          },
+          {
+            "branch": "Instrumentation and Control Engineering",
+            "rr_id": "B010150"
+          },
+          {
+            "branch": "Electronics Engineering",
+            "rr_id": "B010138"
+          },
+          {
+            "branch": "Mechanical Engineering",
+            "rr_id": "B010153"
+          },
+          {
+            "branch": "Industrial Production Engineering",
+            "rr_id": "B010147"
+          }
         ]
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 1
   }
 }

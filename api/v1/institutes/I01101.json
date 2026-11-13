@@ -1,0 +1,31 @@
+{
+  "data": {
+    "rr_id": "I01101",
+    "institute_code": "1045",
+    "institute_name": "KRISHAK COLLEGE OF PHARMACY , MIRZAPUR",
+    "institute_address": "RAJGARH MIRZAPUR",
+    "institute_mobile": "7080192288",
+    "institute_email": "pharmacykrishak@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "rr_id": "C0102",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ],
+        "branch_details": [
+          {
+            "branch": "Bachelor of Pharmacy",
+            "rr_id": "B010201"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

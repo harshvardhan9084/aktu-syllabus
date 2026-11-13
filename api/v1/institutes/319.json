@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "I01472",
     "institute_code": "319",
     "institute_name": "RAKSHPAL BAHADUR COLLEGE OF ENGINEERING & TECHNOLOGY,BAREILLY",
     "institute_address": "Near ITBP, Bukhara Turn, Buduan Road, Bareilly (U.P.) Pin 243001",
@@ -9,19 +10,42 @@
     "courses": [
       {
         "course": "Bachelor of Technology",
+        "rr_id": "C0101",
         "branches": [
           "Computer Science and Engineering",
           "Electrical & Electronics Engineering",
           "Electronics and Communication Engineering",
           "Mechanical Engineering",
           "Artificial Inelligence (AI) And Data Science"
+        ],
+        "branch_details": [
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Electrical & Electronics Engineering",
+            "rr_id": "B010135"
+          },
+          {
+            "branch": "Electronics and Communication Engineering",
+            "rr_id": "B010141"
+          },
+          {
+            "branch": "Mechanical Engineering",
+            "rr_id": "B010153"
+          },
+          {
+            "branch": "Artificial Inelligence (AI) And Data Science",
+            "rr_id": "B010103"
+          }
         ]
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 1
   }
 }

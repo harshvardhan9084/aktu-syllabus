@@ -1,0 +1,31 @@
+{
+  "data": {
+    "rr_id": "I01645",
+    "institute_code": "803",
+    "institute_name": "GREATER NOIDA INSTITUTE OF BUSINESS MANAGEMENT,GAUTAM BUDDH NAGAR",
+    "institute_address": "plot 11/1 knowledge park 3 greater noida",
+    "institute_mobile": "8744077832",
+    "institute_email": "gnibm.2012@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "rr_id": "C0103",
+        "branches": [
+          "MBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA",
+            "rr_id": "B010302"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

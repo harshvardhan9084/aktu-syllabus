@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "I01135",
     "institute_code": "1079",
     "institute_name": "SRAM COLLEGE OF PHARMACY , FIROZABAD",
     "institute_address": "NEAR TOLL TAX NH-2 TUNDLA",
@@ -9,15 +10,22 @@
     "courses": [
       {
         "course": "Bachelor of Pharmacy",
+        "rr_id": "C0102",
         "branches": [
           "Bachelor of Pharmacy"
+        ],
+        "branch_details": [
+          {
+            "branch": "Bachelor of Pharmacy",
+            "rr_id": "B010201"
+          }
         ]
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 1
   }
 }

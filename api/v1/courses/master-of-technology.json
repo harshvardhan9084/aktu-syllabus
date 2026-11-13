@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "C0105",
     "course": "Master of Technology",
     "slug": "master-of-technology",
     "branch_rows": 185,
@@ -7,934 +8,1304 @@
     "institutes": [
       {
         "institute_code": "002",
+        "institute_rr_id": "I01001",
         "institute_name": "FACULTY OF ENGG, AGRA COLLEGE,AGRA",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "004",
+        "institute_rr_id": "I01002",
         "institute_name": "RAJA BALWANT SINGH ENGINEERING TECHNICAL CAMPUS,AGRA",
-        "branch": "Biotechnology"
+        "branch": "Biotechnology",
+        "branch_rr_id": "B010504"
       },
       {
         "institute_code": "004",
+        "institute_rr_id": "I01002",
         "institute_name": "RAJA BALWANT SINGH ENGINEERING TECHNICAL CAMPUS,AGRA",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "004",
+        "institute_rr_id": "I01002",
         "institute_name": "RAJA BALWANT SINGH ENGINEERING TECHNICAL CAMPUS,AGRA",
-        "branch": "Electronics and Communication Engineering"
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010517"
       },
       {
         "institute_code": "004",
+        "institute_rr_id": "I01002",
         "institute_name": "RAJA BALWANT SINGH ENGINEERING TECHNICAL CAMPUS,AGRA",
-        "branch": "Food Technology"
+        "branch": "Food Technology",
+        "branch_rr_id": "B010520"
       },
       {
         "institute_code": "007",
+        "institute_rr_id": "I01005",
         "institute_name": "SHIVDAN SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALIGARH",
-        "branch": "Computer Aided Design & Manufacturing"
+        "branch": "Computer Aided Design & Manufacturing",
+        "branch_rr_id": "B010507"
       },
       {
         "institute_code": "007",
+        "institute_rr_id": "I01005",
         "institute_name": "SHIVDAN SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALIGARH",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "007",
+        "institute_rr_id": "I01005",
         "institute_name": "SHIVDAN SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALIGARH",
-        "branch": "Electronics and Communication Engineering"
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010517"
       },
       {
         "institute_code": "007",
+        "institute_rr_id": "I01005",
         "institute_name": "SHIVDAN SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALIGARH",
-        "branch": "Production Engineering"
+        "branch": "Production Engineering",
+        "branch_rr_id": "B010532"
       },
       {
         "institute_code": "007",
+        "institute_rr_id": "I01005",
         "institute_name": "SHIVDAN SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALIGARH",
-        "branch": "VLSI Design"
+        "branch": "VLSI Design",
+        "branch_rr_id": "B010538"
       },
       {
         "institute_code": "010",
+        "institute_rr_id": "I01006",
         "institute_name": "UNITED COLLEGE OF ENGINEERING & RESEARCH,ALLAHABAD",
-        "branch": "Computer Aided Design & Manufacturing"
+        "branch": "Computer Aided Design & Manufacturing",
+        "branch_rr_id": "B010507"
       },
       {
         "institute_code": "010",
+        "institute_rr_id": "I01006",
         "institute_name": "UNITED COLLEGE OF ENGINEERING & RESEARCH,ALLAHABAD",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "010",
+        "institute_rr_id": "I01006",
         "institute_name": "UNITED COLLEGE OF ENGINEERING & RESEARCH,ALLAHABAD",
-        "branch": "Power Electronics And Drives"
+        "branch": "Power Electronics And Drives",
+        "branch_rr_id": "B010529"
       },
       {
         "institute_code": "014",
+        "institute_rr_id": "I01010",
         "institute_name": "SHRI RAMMURTI SMARAK COLLEGE OF ENGG AND TECHNOLOGY,BAREILLY",
-        "branch": "Computer Aided Design & Manufacturing"
+        "branch": "Computer Aided Design & Manufacturing",
+        "branch_rr_id": "B010507"
       },
       {
         "institute_code": "014",
+        "institute_rr_id": "I01010",
         "institute_name": "SHRI RAMMURTI SMARAK COLLEGE OF ENGG AND TECHNOLOGY,BAREILLY",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "014",
+        "institute_rr_id": "I01010",
         "institute_name": "SHRI RAMMURTI SMARAK COLLEGE OF ENGG AND TECHNOLOGY,BAREILLY",
-        "branch": "Electrical Engineering"
+        "branch": "Electrical Engineering",
+        "branch_rr_id": "B010515"
       },
       {
         "institute_code": "014",
+        "institute_rr_id": "I01010",
         "institute_name": "SHRI RAMMURTI SMARAK COLLEGE OF ENGG AND TECHNOLOGY,BAREILLY",
-        "branch": "Electronics and Communication Engineering"
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010517"
       },
       {
         "institute_code": "019",
+        "institute_rr_id": "I01013",
         "institute_name": "MARATHWADA INSTT. OF TECHNOLOGY,BULANDSHAHAR",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "027",
+        "institute_rr_id": "I01014",
         "institute_name": "AJAY KUMAR GARG ENGG. COLLEGE,GHAZIABAD",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "027",
+        "institute_rr_id": "I01014",
         "institute_name": "AJAY KUMAR GARG ENGG. COLLEGE,GHAZIABAD",
-        "branch": "Electrical & Electronics Engineering"
+        "branch": "Electrical & Electronics Engineering",
+        "branch_rr_id": "B010513"
       },
       {
         "institute_code": "027",
+        "institute_rr_id": "I01014",
         "institute_name": "AJAY KUMAR GARG ENGG. COLLEGE,GHAZIABAD",
-        "branch": "Electronics and Communication Engineering"
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010517"
       },
       {
         "institute_code": "027",
+        "institute_rr_id": "I01014",
         "institute_name": "AJAY KUMAR GARG ENGG. COLLEGE,GHAZIABAD",
-        "branch": "Mechanical Engineering"
+        "branch": "Mechanical Engineering",
+        "branch_rr_id": "B010524"
       },
       {
         "institute_code": "030",
+        "institute_rr_id": "I01015",
         "institute_name": "INDERPRASTHA ENGG. COLLEGE,GHAZIABAD",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "032",
+        "institute_rr_id": "I01016",
         "institute_name": "ABES ENGG.COLLEGE,GHAZIABAD",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "032",
+        "institute_rr_id": "I01016",
         "institute_name": "ABES ENGG.COLLEGE,GHAZIABAD",
-        "branch": "Electronics and Communication Engineering"
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010517"
       },
       {
         "institute_code": "033",
+        "institute_rr_id": "I01017",
         "institute_name": "RAJ KUMAR GOEL INSTT. OF TECHNOLOGY,GHAZIABAD",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "033",
+        "institute_rr_id": "I01017",
         "institute_name": "RAJ KUMAR GOEL INSTT. OF TECHNOLOGY,GHAZIABAD",
-        "branch": "Electronics and Communication Engineering"
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010517"
       },
       {
         "institute_code": "043",
+        "institute_rr_id": "I01024",
         "institute_name": "BUNDELKHAND INSTITUTE OF ENGINEERING & TECHNOLOGY,JHANSI",
-        "branch": "Bio Medical Engineering"
+        "branch": "Bio Medical Engineering",
+        "branch_rr_id": "B010503"
       },
       {
         "institute_code": "043",
+        "institute_rr_id": "I01024",
         "institute_name": "BUNDELKHAND INSTITUTE OF ENGINEERING & TECHNOLOGY,JHANSI",
-        "branch": "Construction Technology & MGT"
+        "branch": "Construction Technology & MGT",
+        "branch_rr_id": "B010511"
       },
       {
         "institute_code": "043",
+        "institute_rr_id": "I01024",
         "institute_name": "BUNDELKHAND INSTITUTE OF ENGINEERING & TECHNOLOGY,JHANSI",
-        "branch": "Digital Communications"
+        "branch": "Digital Communications",
+        "branch_rr_id": "B010512"
       },
       {
         "institute_code": "043",
+        "institute_rr_id": "I01024",
         "institute_name": "BUNDELKHAND INSTITUTE OF ENGINEERING & TECHNOLOGY,JHANSI",
-        "branch": "Energy Science & Technology"
+        "branch": "Energy Science & Technology",
+        "branch_rr_id": "B010518"
       },
       {
         "institute_code": "043",
+        "institute_rr_id": "I01024",
         "institute_name": "BUNDELKHAND INSTITUTE OF ENGINEERING & TECHNOLOGY,JHANSI",
-        "branch": "Environmental Engineering"
+        "branch": "Environmental Engineering",
+        "branch_rr_id": "B010519"
       },
       {
         "institute_code": "043",
+        "institute_rr_id": "I01024",
         "institute_name": "BUNDELKHAND INSTITUTE OF ENGINEERING & TECHNOLOGY,JHANSI",
-        "branch": "Manufacturing Science & Technology"
+        "branch": "Manufacturing Science & Technology",
+        "branch_rr_id": "B010522"
       },
       {
         "institute_code": "043",
+        "institute_rr_id": "I01024",
         "institute_name": "BUNDELKHAND INSTITUTE OF ENGINEERING & TECHNOLOGY,JHANSI",
-        "branch": "Thermal Engineering"
+        "branch": "Thermal Engineering",
+        "branch_rr_id": "B010537"
       },
       {
         "institute_code": "044",
+        "institute_rr_id": "I01025",
         "institute_name": "UTTAR PRADESH TEXTILE TECHNOLOGY INSTITUTE,KANPUR",
-        "branch": "Textile Chemistry"
+        "branch": "Textile Chemistry",
+        "branch_rr_id": "B010535"
       },
       {
         "institute_code": "044",
+        "institute_rr_id": "I01025",
         "institute_name": "UTTAR PRADESH TEXTILE TECHNOLOGY INSTITUTE,KANPUR",
-        "branch": "Textile Technology"
+        "branch": "Textile Technology",
+        "branch_rr_id": "B010536"
       },
       {
         "institute_code": "052",
+        "institute_rr_id": "I01031",
         "institute_name": "INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
-        "branch": "Artificial Inelligence (AI) And Data Science"
+        "branch": "Artificial Inelligence (AI) And Data Science",
+        "branch_rr_id": "B010501"
       },
       {
         "institute_code": "052",
+        "institute_rr_id": "I01031",
         "institute_name": "INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
-        "branch": "Biotechnology"
+        "branch": "Biotechnology",
+        "branch_rr_id": "B010504"
       },
       {
         "institute_code": "052",
+        "institute_rr_id": "I01031",
         "institute_name": "INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
-        "branch": "Electrical Drive and Control"
+        "branch": "Electrical Drive and Control",
+        "branch_rr_id": "B010514"
       },
       {
         "institute_code": "052",
+        "institute_rr_id": "I01031",
         "institute_name": "INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
-        "branch": "Environmental Engineering"
+        "branch": "Environmental Engineering",
+        "branch_rr_id": "B010519"
       },
       {
         "institute_code": "052",
+        "institute_rr_id": "I01031",
         "institute_name": "INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
-        "branch": "Mechanical Engineering"
+        "branch": "Mechanical Engineering",
+        "branch_rr_id": "B010524"
       },
       {
         "institute_code": "052",
+        "institute_rr_id": "I01031",
         "institute_name": "INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
-        "branch": "Micro Electronic Engineering"
+        "branch": "Micro Electronic Engineering",
+        "branch_rr_id": "B010526"
       },
       {
         "institute_code": "052",
+        "institute_rr_id": "I01031",
         "institute_name": "INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
-        "branch": "Power and Energy System"
+        "branch": "Power and Energy System",
+        "branch_rr_id": "B010531"
       },
       {
         "institute_code": "052",
+        "institute_rr_id": "I01031",
         "institute_name": "INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
-        "branch": "Structural Engineering"
+        "branch": "Structural Engineering",
+        "branch_rr_id": "B010534"
       },
       {
         "institute_code": "053",
+        "institute_rr_id": "I01032",
         "institute_name": "AZAD INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "053",
+        "institute_rr_id": "I01032",
         "institute_name": "AZAD INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
-        "branch": "Electrical Engineering"
+        "branch": "Electrical Engineering",
+        "branch_rr_id": "B010515"
       },
       {
         "institute_code": "053",
+        "institute_rr_id": "I01032",
         "institute_name": "AZAD INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
-        "branch": "Power Systems"
+        "branch": "Power Systems",
+        "branch_rr_id": "B010530"
       },
       {
         "institute_code": "053",
+        "institute_rr_id": "I01032",
         "institute_name": "AZAD INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
-        "branch": "Production Engineering"
+        "branch": "Production Engineering",
+        "branch_rr_id": "B010532"
       },
       {
         "institute_code": "054",
+        "institute_rr_id": "I01033",
         "institute_name": "BABU BANARASI DAS INSTITUTE OF TECHNOLOGY AND MANAGEMENT, LUCKNOW",
-        "branch": "Production Engineering"
+        "branch": "Production Engineering",
+        "branch_rr_id": "B010532"
       },
       {
         "institute_code": "056",
+        "institute_rr_id": "I01034",
         "institute_name": "BABU BANARASI DAS NORTHERN INDIA INSTITUTE OF TECHNOLOGY,LUCKNOW",
-        "branch": "Electronics and Communication Engineering"
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010517"
       },
       {
         "institute_code": "064",
+        "institute_rr_id": "I01037",
         "institute_name": "HINDUSTAN COLLEGE OF SCIENCE & TECHNOLOGY,MATHURA",
-        "branch": "VLSI Design"
+        "branch": "VLSI Design",
+        "branch_rr_id": "B010538"
       },
       {
         "institute_code": "068",
+        "institute_rr_id": "I01041",
         "institute_name": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
-        "branch": "Biotechnology"
+        "branch": "Biotechnology",
+        "branch_rr_id": "B010504"
       },
       {
         "institute_code": "068",
+        "institute_rr_id": "I01041",
         "institute_name": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)"
+        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010508"
       },
       {
         "institute_code": "068",
+        "institute_rr_id": "I01041",
         "institute_name": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "068",
+        "institute_rr_id": "I01041",
         "institute_name": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
-        "branch": "Electronics and Communication Engineering"
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010517"
       },
       {
         "institute_code": "083",
+        "institute_rr_id": "I01049",
         "institute_name": "S.D.COLLEGE OF ENGINEERING & TECHNOLOGY,MUZAFFARNAGAR",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "084",
+        "institute_rr_id": "I01050",
         "institute_name": "BHAGWANT INSTITUTE OF TECHNOLOGY,MUZAFFARNAGAR",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "084",
+        "institute_rr_id": "I01050",
         "institute_name": "BHAGWANT INSTITUTE OF TECHNOLOGY,MUZAFFARNAGAR",
-        "branch": "Electronics and Communication Engineering"
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010517"
       },
       {
         "institute_code": "084",
+        "institute_rr_id": "I01050",
         "institute_name": "BHAGWANT INSTITUTE OF TECHNOLOGY,MUZAFFARNAGAR",
-        "branch": "Mechanical Engineering"
+        "branch": "Mechanical Engineering",
+        "branch_rr_id": "B010524"
       },
       {
         "institute_code": "090",
+        "institute_rr_id": "I01053",
         "institute_name": "I.E.C. COLLEGE OF ENGINEERING & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Civil Engineering"
+        "branch": "Civil Engineering",
+        "branch_rr_id": "B010505"
       },
       {
         "institute_code": "090",
+        "institute_rr_id": "I01053",
         "institute_name": "I.E.C. COLLEGE OF ENGINEERING & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "090",
+        "institute_rr_id": "I01053",
         "institute_name": "I.E.C. COLLEGE OF ENGINEERING & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Electronics and Communication Engineering"
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010517"
       },
       {
         "institute_code": "090",
+        "institute_rr_id": "I01053",
         "institute_name": "I.E.C. COLLEGE OF ENGINEERING & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Mechanical Engineering"
+        "branch": "Mechanical Engineering",
+        "branch_rr_id": "B010524"
       },
       {
         "institute_code": "090",
+        "institute_rr_id": "I01053",
         "institute_name": "I.E.C. COLLEGE OF ENGINEERING & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Power Systems"
+        "branch": "Power Systems",
+        "branch_rr_id": "B010530"
       },
       {
         "institute_code": "096",
+        "institute_rr_id": "I01057",
         "institute_name": "VISHVESHWARYA GROUP OF INSTITUTIONS,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "096",
+        "institute_rr_id": "I01057",
         "institute_name": "VISHVESHWARYA GROUP OF INSTITUTIONS,GAUTAM BUDDH NAGAR",
-        "branch": "Electrical Engineering"
+        "branch": "Electrical Engineering",
+        "branch_rr_id": "B010515"
       },
       {
         "institute_code": "096",
+        "institute_rr_id": "I01057",
         "institute_name": "VISHVESHWARYA GROUP OF INSTITUTIONS,GAUTAM BUDDH NAGAR",
-        "branch": "Electronics and Communication Engineering"
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010517"
       },
       {
         "institute_code": "096",
+        "institute_rr_id": "I01057",
         "institute_name": "VISHVESHWARYA GROUP OF INSTITUTIONS,GAUTAM BUDDH NAGAR",
-        "branch": "Mechanical Engineering"
+        "branch": "Mechanical Engineering",
+        "branch_rr_id": "B010524"
       },
       {
         "institute_code": "104",
+        "institute_rr_id": "I01096",
         "institute_name": "KAMLA NEHRU INSTITUTE OF TECHNOLOGY,SULTANPUR",
-        "branch": "Communication Engineering"
+        "branch": "Communication Engineering",
+        "branch_rr_id": "B010506"
       },
       {
         "institute_code": "104",
+        "institute_rr_id": "I01096",
         "institute_name": "KAMLA NEHRU INSTITUTE OF TECHNOLOGY,SULTANPUR",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "104",
+        "institute_rr_id": "I01096",
         "institute_name": "KAMLA NEHRU INSTITUTE OF TECHNOLOGY,SULTANPUR",
-        "branch": "Geotechnical & Geoenvironmental Engineering"
+        "branch": "Geotechnical & Geoenvironmental Engineering",
+        "branch_rr_id": "B010521"
       },
       {
         "institute_code": "104",
+        "institute_rr_id": "I01096",
         "institute_name": "KAMLA NEHRU INSTITUTE OF TECHNOLOGY,SULTANPUR",
-        "branch": "Power Electronics And Drives"
+        "branch": "Power Electronics And Drives",
+        "branch_rr_id": "B010529"
       },
       {
         "institute_code": "104",
+        "institute_rr_id": "I01096",
         "institute_name": "KAMLA NEHRU INSTITUTE OF TECHNOLOGY,SULTANPUR",
-        "branch": "Thermal Engineering"
+        "branch": "Thermal Engineering",
+        "branch_rr_id": "B010537"
       },
       {
         "institute_code": "120",
+        "institute_rr_id": "I01243",
         "institute_name": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,GORAKHPUR",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "120",
+        "institute_rr_id": "I01243",
         "institute_name": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,GORAKHPUR",
-        "branch": "Electronics and Communication Engineering"
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010517"
       },
       {
         "institute_code": "120",
+        "institute_rr_id": "I01243",
         "institute_name": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,GORAKHPUR",
-        "branch": "Mechanical Engineering"
+        "branch": "Mechanical Engineering",
+        "branch_rr_id": "B010524"
       },
       {
         "institute_code": "122",
+        "institute_rr_id": "I01264",
         "institute_name": "SHRI RAM SWAROOP MEMORIAL COLLEGE OF ENGG. & MANAGEMENT,LUCKNOW",
-        "branch": "Civil Engineering"
+        "branch": "Civil Engineering",
+        "branch_rr_id": "B010505"
       },
       {
         "institute_code": "122",
+        "institute_rr_id": "I01264",
         "institute_name": "SHRI RAM SWAROOP MEMORIAL COLLEGE OF ENGG. & MANAGEMENT,LUCKNOW",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "122",
+        "institute_rr_id": "I01264",
         "institute_name": "SHRI RAM SWAROOP MEMORIAL COLLEGE OF ENGG. & MANAGEMENT,LUCKNOW",
-        "branch": "Environmental Engineering"
+        "branch": "Environmental Engineering",
+        "branch_rr_id": "B010519"
       },
       {
         "institute_code": "123",
+        "institute_rr_id": "I01273",
         "institute_name": "SAROJ INSTITUTE OF TECH. & MANAGEMENT,LUCKNOW",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "123",
+        "institute_rr_id": "I01273",
         "institute_name": "SAROJ INSTITUTE OF TECH. & MANAGEMENT,LUCKNOW",
-        "branch": "Electronics and Communication Engineering"
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010517"
       },
       {
         "institute_code": "123",
+        "institute_rr_id": "I01273",
         "institute_name": "SAROJ INSTITUTE OF TECH. & MANAGEMENT,LUCKNOW",
-        "branch": "Thermal Engineering"
+        "branch": "Thermal Engineering",
+        "branch_rr_id": "B010537"
       },
       {
         "institute_code": "128",
+        "institute_rr_id": "I01325",
         "institute_name": "BHARAT INSTITUTE OF TECHNOLOGY,MEERUT",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "128",
+        "institute_rr_id": "I01325",
         "institute_name": "BHARAT INSTITUTE OF TECHNOLOGY,MEERUT",
-        "branch": "Electronics and Communication Engineering"
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010517"
       },
       {
         "institute_code": "128",
+        "institute_rr_id": "I01325",
         "institute_name": "BHARAT INSTITUTE OF TECHNOLOGY,MEERUT",
-        "branch": "Mechanical Engineering"
+        "branch": "Mechanical Engineering",
+        "branch_rr_id": "B010524"
       },
       {
         "institute_code": "132",
+        "institute_rr_id": "I01367",
         "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY (ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR",
-        "branch": "Civil Engineering"
+        "branch": "Civil Engineering",
+        "branch_rr_id": "B010505"
       },
       {
         "institute_code": "132",
+        "institute_rr_id": "I01367",
         "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY (ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "132",
+        "institute_rr_id": "I01367",
         "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY (ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR",
-        "branch": "Mechanical Engineering"
+        "branch": "Mechanical Engineering",
+        "branch_rr_id": "B010524"
       },
       {
         "institute_code": "132",
+        "institute_rr_id": "I01367",
         "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY (ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR",
-        "branch": "VLSI Design"
+        "branch": "VLSI Design",
+        "branch_rr_id": "B010538"
       },
       {
         "institute_code": "133",
+        "institute_rr_id": "I01374",
         "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Artificial Intelligence"
+        "branch": "Artificial Intelligence",
+        "branch_rr_id": "B010502"
       },
       {
         "institute_code": "133",
+        "institute_rr_id": "I01374",
         "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Biotechnology"
+        "branch": "Biotechnology",
+        "branch_rr_id": "B010504"
       },
       {
         "institute_code": "133",
+        "institute_rr_id": "I01374",
         "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "133",
+        "institute_rr_id": "I01374",
         "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Mechanical Engineering"
+        "branch": "Mechanical Engineering",
+        "branch_rr_id": "B010524"
       },
       {
         "institute_code": "133",
+        "institute_rr_id": "I01374",
         "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "VLSI Design"
+        "branch": "VLSI Design",
+        "branch_rr_id": "B010538"
       },
       {
         "institute_code": "138",
+        "institute_rr_id": "I01378",
         "institute_name": "B.B.S.COLLEGE OF ENGINEERING AND TECHNOLOGY,ALLAHABAD",
-        "branch": "Computer Aided Design & Manufacturing"
+        "branch": "Computer Aided Design & Manufacturing",
+        "branch_rr_id": "B010507"
       },
       {
         "institute_code": "138",
+        "institute_rr_id": "I01378",
         "institute_name": "B.B.S.COLLEGE OF ENGINEERING AND TECHNOLOGY,ALLAHABAD",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "141",
+        "institute_rr_id": "I01380",
         "institute_name": "SAGAR INSTITUTE OF TECHNOLOGY & MANAGEMENT,BARABANKI",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)"
+        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010508"
       },
       {
         "institute_code": "141",
+        "institute_rr_id": "I01380",
         "institute_name": "SAGAR INSTITUTE OF TECHNOLOGY & MANAGEMENT,BARABANKI",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "141",
+        "institute_rr_id": "I01380",
         "institute_name": "SAGAR INSTITUTE OF TECHNOLOGY & MANAGEMENT,BARABANKI",
-        "branch": "Mechanical Engineering"
+        "branch": "Mechanical Engineering",
+        "branch_rr_id": "B010524"
       },
       {
         "institute_code": "143",
+        "institute_rr_id": "I01382",
         "institute_name": "I.M.S. ENGINEERING COLLEGE,GHAZIABAD",
-        "branch": "Biotechnology"
+        "branch": "Biotechnology",
+        "branch_rr_id": "B010504"
       },
       {
         "institute_code": "143",
+        "institute_rr_id": "I01382",
         "institute_name": "I.M.S. ENGINEERING COLLEGE,GHAZIABAD",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "153",
+        "institute_rr_id": "I01387",
         "institute_name": "LLOYD INSTITUTE OF ENGINEERING AND TECHNOLOGY",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "162",
+        "institute_rr_id": "I01391",
         "institute_name": "SHAMBHU NATH INSTITUTE OF ENGG. & TECHNOLOGY,ALLAHABAD",
-        "branch": "Production Engineering"
+        "branch": "Production Engineering",
+        "branch_rr_id": "B010532"
       },
       {
         "institute_code": "162",
+        "institute_rr_id": "I01391",
         "institute_name": "SHAMBHU NATH INSTITUTE OF ENGG. & TECHNOLOGY,ALLAHABAD",
-        "branch": "VLSI Design"
+        "branch": "VLSI Design",
+        "branch_rr_id": "B010538"
       },
       {
         "institute_code": "164",
+        "institute_rr_id": "I01393",
         "institute_name": "PRANVEER SINGH INSTITUTE OF TECHNOLOGY,KANPUR",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "189",
+        "institute_rr_id": "I01410",
         "institute_name": "CENTRAL INSTITUTE OF PETROCHEMICALS ENGINEERING & TECHNOLOGY (CIPET), LUCKNOW",
-        "branch": "Plastic Engineering"
+        "branch": "Plastic Engineering",
+        "branch_rr_id": "B010528"
       },
       {
         "institute_code": "192",
+        "institute_rr_id": "I01411",
         "institute_name": "G.L. BAJAJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "193",
+        "institute_rr_id": "I01412",
         "institute_name": "UNITED COLLEGE OF ENGINEERING & RESEARCH,GREATER NOIDA,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "193",
+        "institute_rr_id": "I01412",
         "institute_name": "UNITED COLLEGE OF ENGINEERING & RESEARCH,GREATER NOIDA,GAUTAM BUDDH NAGAR",
-        "branch": "Electronics and Communication Engineering"
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010517"
       },
       {
         "institute_code": "216",
+        "institute_rr_id": "I01424",
         "institute_name": "IIMT COLLEGE OF ENGINEERING,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "216",
+        "institute_rr_id": "I01424",
         "institute_name": "IIMT COLLEGE OF ENGINEERING,GAUTAM BUDDH NAGAR",
-        "branch": "Mechanical Engineering"
+        "branch": "Mechanical Engineering",
+        "branch_rr_id": "B010524"
       },
       {
         "institute_code": "231",
+        "institute_rr_id": "I01432",
         "institute_name": "R.D.ENGINEERING COLLEGE,GHAZIABAD",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "231",
+        "institute_rr_id": "I01432",
         "institute_name": "R.D.ENGINEERING COLLEGE,GHAZIABAD",
-        "branch": "Thermal Engineering"
+        "branch": "Thermal Engineering",
+        "branch_rr_id": "B010537"
       },
       {
         "institute_code": "256",
+        "institute_rr_id": "I01443",
         "institute_name": "DNS COLLEGE OF ENGINEERING & TECHNOLOGY,J.P.NAGAR",
-        "branch": "Civil Engineering"
+        "branch": "Civil Engineering",
+        "branch_rr_id": "B010505"
       },
       {
         "institute_code": "256",
+        "institute_rr_id": "I01443",
         "institute_name": "DNS COLLEGE OF ENGINEERING & TECHNOLOGY,J.P.NAGAR",
-        "branch": "Electrical & Electronics Engineering"
+        "branch": "Electrical & Electronics Engineering",
+        "branch_rr_id": "B010513"
       },
       {
         "institute_code": "256",
+        "institute_rr_id": "I01443",
         "institute_name": "DNS COLLEGE OF ENGINEERING & TECHNOLOGY,J.P.NAGAR",
-        "branch": "Electronics and Communication Engineering"
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010517"
       },
       {
         "institute_code": "256",
+        "institute_rr_id": "I01443",
         "institute_name": "DNS COLLEGE OF ENGINEERING & TECHNOLOGY,J.P.NAGAR",
-        "branch": "Mechanical Engineering"
+        "branch": "Mechanical Engineering",
+        "branch_rr_id": "B010524"
       },
       {
         "institute_code": "282",
+        "institute_rr_id": "I01454",
         "institute_name": "J.P..INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "284",
+        "institute_rr_id": "I01456",
         "institute_name": "UNITED INSTITUTE OF TECHNOLOGY,ALLAHABAD",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "284",
+        "institute_rr_id": "I01456",
         "institute_name": "UNITED INSTITUTE OF TECHNOLOGY,ALLAHABAD",
-        "branch": "Electronics and Communication Engineering"
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010517"
       },
       {
         "institute_code": "287",
+        "institute_rr_id": "I01457",
         "institute_name": "NARAINA COLLEGE OF ENGINEERING & TECHNOLOGY,KANPUR",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "287",
+        "institute_rr_id": "I01457",
         "institute_name": "NARAINA COLLEGE OF ENGINEERING & TECHNOLOGY,KANPUR",
-        "branch": "Electronics and Communication Engineering"
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010517"
       },
       {
         "institute_code": "312",
+        "institute_rr_id": "I01469",
         "institute_name": "ABSS INSTITUTE OF TECHNOLOGY, MEERUT,MEERUT",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "340",
+        "institute_rr_id": "I01478",
         "institute_name": "VIVEKANANDA COLLEGE OF TECHNOLOGY & MANAGEMENT,ALIGARH",
-        "branch": "Production Engineering"
+        "branch": "Production Engineering",
+        "branch_rr_id": "B010532"
       },
       {
         "institute_code": "340",
+        "institute_rr_id": "I01478",
         "institute_name": "VIVEKANANDA COLLEGE OF TECHNOLOGY & MANAGEMENT,ALIGARH",
-        "branch": "Structural Engineering"
+        "branch": "Structural Engineering",
+        "branch_rr_id": "B010534"
       },
       {
         "institute_code": "341",
+        "institute_rr_id": "I01479",
         "institute_name": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALIGARH",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "341",
+        "institute_rr_id": "I01479",
         "institute_name": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALIGARH",
-        "branch": "Electronics and Communication Engineering"
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010517"
       },
       {
         "institute_code": "341",
+        "institute_rr_id": "I01479",
         "institute_name": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALIGARH",
-        "branch": "Mechanical Engineering"
+        "branch": "Mechanical Engineering",
+        "branch_rr_id": "B010524"
       },
       {
         "institute_code": "358",
+        "institute_rr_id": "I01484",
         "institute_name": "RAMESHWARAM INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "358",
+        "institute_rr_id": "I01484",
         "institute_name": "RAMESHWARAM INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
-        "branch": "Electronics and Communication Engineering"
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010517"
       },
       {
         "institute_code": "360",
+        "institute_rr_id": "I01485",
         "institute_name": "GOEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
-        "branch": "Biotechnology"
+        "branch": "Biotechnology",
+        "branch_rr_id": "B010504"
       },
       {
         "institute_code": "360",
+        "institute_rr_id": "I01485",
         "institute_name": "GOEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "360",
+        "institute_rr_id": "I01485",
         "institute_name": "GOEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
-        "branch": "Electrical Engineering"
+        "branch": "Electrical Engineering",
+        "branch_rr_id": "B010515"
       },
       {
         "institute_code": "360",
+        "institute_rr_id": "I01485",
         "institute_name": "GOEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
-        "branch": "Electronics and Communication Engineering"
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010517"
       },
       {
         "institute_code": "360",
+        "institute_rr_id": "I01485",
         "institute_name": "GOEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
-        "branch": "Environmental Engineering"
+        "branch": "Environmental Engineering",
+        "branch_rr_id": "B010519"
       },
       {
         "institute_code": "360",
+        "institute_rr_id": "I01485",
         "institute_name": "GOEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
-        "branch": "Mechanical Engineering"
+        "branch": "Mechanical Engineering",
+        "branch_rr_id": "B010524"
       },
       {
         "institute_code": "360",
+        "institute_rr_id": "I01485",
         "institute_name": "GOEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
-        "branch": "Structural Engineering"
+        "branch": "Structural Engineering",
+        "branch_rr_id": "B010534"
       },
       {
         "institute_code": "362",
+        "institute_rr_id": "I01487",
         "institute_name": "LUCKNOW INSTITUTE OF TECHNOLOGY,LUCKNOW",
-        "branch": "Civil Engineering"
+        "branch": "Civil Engineering",
+        "branch_rr_id": "B010505"
       },
       {
         "institute_code": "362",
+        "institute_rr_id": "I01487",
         "institute_name": "LUCKNOW INSTITUTE OF TECHNOLOGY,LUCKNOW",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "373",
+        "institute_rr_id": "I01490",
         "institute_name": "NEELKANTH INSTITUTE OF TECHNOLOGY,MEERUT",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "373",
+        "institute_rr_id": "I01490",
         "institute_name": "NEELKANTH INSTITUTE OF TECHNOLOGY,MEERUT",
-        "branch": "Electronics and Communication Engineering"
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010517"
       },
       {
         "institute_code": "384",
+        "institute_rr_id": "I01495",
         "institute_name": "SARASWATI HIGHER EDUCATION & TECHNICAL COLLEGE OF ENGINEERING,VARANASI",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "422",
+        "institute_rr_id": "I01508",
         "institute_name": "BANSAL INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "448",
+        "institute_rr_id": "I01515",
         "institute_name": "NEELAM COLLEGE OF ENGINEERING & TECHNOLOGY,AGRA",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "471",
+        "institute_rr_id": "I01520",
         "institute_name": "ESHAN COLLEGE OF ENGINEERING,MATHURA",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "472",
+        "institute_rr_id": "I01521",
         "institute_name": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,MAHARAJGANJ",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "474",
+        "institute_rr_id": "I01523",
         "institute_name": "SHRI SIDHI VINAYAK INSTITUTE OF TECHNOLOGY,BAREILLY",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "474",
+        "institute_rr_id": "I01523",
         "institute_name": "SHRI SIDHI VINAYAK INSTITUTE OF TECHNOLOGY,BAREILLY",
-        "branch": "Mechanical Engineering"
+        "branch": "Mechanical Engineering",
+        "branch_rr_id": "B010524"
       },
       {
         "institute_code": "479",
+        "institute_rr_id": "I01524",
         "institute_name": "RAJSHREE INSTITUTE OF MANAGEMENT & TECHNOLOGY,BAREILLY",
-        "branch": "Civil Engineering"
+        "branch": "Civil Engineering",
+        "branch_rr_id": "B010505"
       },
       {
         "institute_code": "479",
+        "institute_rr_id": "I01524",
         "institute_name": "RAJSHREE INSTITUTE OF MANAGEMENT & TECHNOLOGY,BAREILLY",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)"
+        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010508"
       },
       {
         "institute_code": "479",
+        "institute_rr_id": "I01524",
         "institute_name": "RAJSHREE INSTITUTE OF MANAGEMENT & TECHNOLOGY,BAREILLY",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "479",
+        "institute_rr_id": "I01524",
         "institute_name": "RAJSHREE INSTITUTE OF MANAGEMENT & TECHNOLOGY,BAREILLY",
-        "branch": "Electronics and Communication Engineering"
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010517"
       },
       {
         "institute_code": "479",
+        "institute_rr_id": "I01524",
         "institute_name": "RAJSHREE INSTITUTE OF MANAGEMENT & TECHNOLOGY,BAREILLY",
-        "branch": "Mechanical Engineering"
+        "branch": "Mechanical Engineering",
+        "branch_rr_id": "B010524"
       },
       {
         "institute_code": "479",
+        "institute_rr_id": "I01524",
         "institute_name": "RAJSHREE INSTITUTE OF MANAGEMENT & TECHNOLOGY,BAREILLY",
-        "branch": "Structural Engineering"
+        "branch": "Structural Engineering",
+        "branch_rr_id": "B010534"
       },
       {
         "institute_code": "483",
+        "institute_rr_id": "I01527",
         "institute_name": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
-        "branch": "Civil Engineering"
+        "branch": "Civil Engineering",
+        "branch_rr_id": "B010505"
       },
       {
         "institute_code": "483",
+        "institute_rr_id": "I01527",
         "institute_name": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "485",
+        "institute_rr_id": "I01529",
         "institute_name": "S.R.INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "485",
+        "institute_rr_id": "I01529",
         "institute_name": "S.R.INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
-        "branch": "Production Engineering"
+        "branch": "Production Engineering",
+        "branch_rr_id": "B010532"
       },
       {
         "institute_code": "486",
+        "institute_rr_id": "I01530",
         "institute_name": "A.N.A.COLLEGE OF ENGINEERING & MANAGEMENT,BAREILLY",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "486",
+        "institute_rr_id": "I01530",
         "institute_name": "A.N.A.COLLEGE OF ENGINEERING & MANAGEMENT,BAREILLY",
-        "branch": "Electrical Engineering"
+        "branch": "Electrical Engineering",
+        "branch_rr_id": "B010515"
       },
       {
         "institute_code": "490",
+        "institute_rr_id": "I01533",
         "institute_name": "SUYASH INSTITUTE OF INFORMATION TECHNOLOGY,GORAKHPUR",
-        "branch": "Civil Engineering"
+        "branch": "Civil Engineering",
+        "branch_rr_id": "B010505"
       },
       {
         "institute_code": "490",
+        "institute_rr_id": "I01533",
         "institute_name": "SUYASH INSTITUTE OF INFORMATION TECHNOLOGY,GORAKHPUR",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "490",
+        "institute_rr_id": "I01533",
         "institute_name": "SUYASH INSTITUTE OF INFORMATION TECHNOLOGY,GORAKHPUR",
-        "branch": "Electronics and Communication Engineering"
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010517"
       },
       {
         "institute_code": "490",
+        "institute_rr_id": "I01533",
         "institute_name": "SUYASH INSTITUTE OF INFORMATION TECHNOLOGY,GORAKHPUR",
-        "branch": "Mechanical Engineering"
+        "branch": "Mechanical Engineering",
+        "branch_rr_id": "B010524"
       },
       {
         "institute_code": "492",
+        "institute_rr_id": "I01534",
         "institute_name": "KCC Institute of Technology & Management,Gautam Buddh Nagar",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "492",
+        "institute_rr_id": "I01534",
         "institute_name": "KCC Institute of Technology & Management,Gautam Buddh Nagar",
-        "branch": "Electronics and Communication Engineering"
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010517"
       },
       {
         "institute_code": "492",
+        "institute_rr_id": "I01534",
         "institute_name": "KCC Institute of Technology & Management,Gautam Buddh Nagar",
-        "branch": "Mechanical Engineering"
+        "branch": "Mechanical Engineering",
+        "branch_rr_id": "B010524"
       },
       {
         "institute_code": "525",
+        "institute_rr_id": "I01551",
         "institute_name": "BUDDHA INSTITUTE OF TECHNOLOGY,GORAKHPUR",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "525",
+        "institute_rr_id": "I01551",
         "institute_name": "BUDDHA INSTITUTE OF TECHNOLOGY,GORAKHPUR",
-        "branch": "Electronics Engineering (VLSI Design)"
+        "branch": "Electronics Engineering (VLSI Design)",
+        "branch_rr_id": "B010516"
       },
       {
         "institute_code": "525",
+        "institute_rr_id": "I01551",
         "institute_name": "BUDDHA INSTITUTE OF TECHNOLOGY,GORAKHPUR",
-        "branch": "Electronics and Communication Engineering"
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010517"
       },
       {
         "institute_code": "547",
+        "institute_rr_id": "I01557",
         "institute_name": "CHAUDHARY BEERI SINGH COLLEGE OF ENGINEERING & MANAGEMENT,AGRA",
-        "branch": "Electronics and Communication Engineering"
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010517"
       },
       {
         "institute_code": "547",
+        "institute_rr_id": "I01557",
         "institute_name": "CHAUDHARY BEERI SINGH COLLEGE OF ENGINEERING & MANAGEMENT,AGRA",
-        "branch": "Production Engineering"
+        "branch": "Production Engineering",
+        "branch_rr_id": "B010532"
       },
       {
         "institute_code": "648",
+        "institute_rr_id": "I01590",
         "institute_name": "BABU SUNDER SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "648",
+        "institute_rr_id": "I01590",
         "institute_name": "BABU SUNDER SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
-        "branch": "Electronics and Communication Engineering"
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010517"
       },
       {
         "institute_code": "719",
+        "institute_rr_id": "I01611",
         "institute_name": "AXIS INSTITUTE OF TECHNOLOGY & MANAGEMENT,KANPUR",
-        "branch": "Artificial Inelligence (AI) And Data Science"
+        "branch": "Artificial Inelligence (AI) And Data Science",
+        "branch_rr_id": "B010501"
       },
       {
         "institute_code": "719",
+        "institute_rr_id": "I01611",
         "institute_name": "AXIS INSTITUTE OF TECHNOLOGY & MANAGEMENT,KANPUR",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "751",
+        "institute_rr_id": "I01628",
         "institute_name": "KIPM COLLEGE OF ENGG. & TECHNOLOGY,GORAKHPUR",
-        "branch": "Computer Science and Engineering"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "751",
+        "institute_rr_id": "I01628",
         "institute_name": "KIPM COLLEGE OF ENGG. & TECHNOLOGY,GORAKHPUR",
-        "branch": "Electronics and Communication Engineering"
+        "branch": "Electronics and Communication Engineering",
+        "branch_rr_id": "B010517"
       },
       {
         "institute_code": "751",
+        "institute_rr_id": "I01628",
         "institute_name": "KIPM COLLEGE OF ENGG. & TECHNOLOGY,GORAKHPUR",
-        "branch": "Mechanical Engineering"
+        "branch": "Mechanical Engineering",
+        "branch_rr_id": "B010524"
       },
       {
         "institute_code": "765",
+        "institute_rr_id": "I01634",
         "institute_name": "REMOTE SENSING APPLICATION CENTRE,LUCKNOW",
-        "branch": "Remote Sensing & GIS"
+        "branch": "Remote Sensing & GIS",
+        "branch_rr_id": "B010533"
       },
       {
         "institute_code": "858",
+        "institute_rr_id": "I01670",
         "institute_name": "CENTRE FOR ADVANCED STUDIES,LUCKNOW",
-        "branch": "Computer science and engineering with specialization in cyber security/ ICT"
+        "branch": "Computer science and engineering with specialization in cyber security/ ICT",
+        "branch_rr_id": "B010510"
       },
       {
         "institute_code": "858",
+        "institute_rr_id": "I01670",
         "institute_name": "CENTRE FOR ADVANCED STUDIES,LUCKNOW",
-        "branch": "Energy Science & Technology"
+        "branch": "Energy Science & Technology",
+        "branch_rr_id": "B010518"
       },
       {
         "institute_code": "858",
+        "institute_rr_id": "I01670",
         "institute_name": "CENTRE FOR ADVANCED STUDIES,LUCKNOW",
-        "branch": "Manufacturing Technology and Automation"
+        "branch": "Manufacturing Technology and Automation",
+        "branch_rr_id": "B010523"
       },
       {
         "institute_code": "858",
+        "institute_rr_id": "I01670",
         "institute_name": "CENTRE FOR ADVANCED STUDIES,LUCKNOW",
-        "branch": "Mechatronics"
+        "branch": "Mechatronics",
+        "branch_rr_id": "B010525"
       },
       {
         "institute_code": "858",
+        "institute_rr_id": "I01670",
         "institute_name": "CENTRE FOR ADVANCED STUDIES,LUCKNOW",
-        "branch": "Nano Technology"
+        "branch": "Nano Technology",
+        "branch_rr_id": "B010527"
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 185
   }
 }

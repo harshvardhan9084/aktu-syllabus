@@ -1,0 +1,114 @@
+{
+  "data": {
+    "rr_id": "B010524",
+    "branch": "Mechanical Engineering",
+    "course": {
+      "course": "Master of Technology",
+      "rr_id": "C0105",
+      "slug": "master-of-technology"
+    },
+    "institute_count": 19,
+    "institutes": [
+      {
+        "rr_id": "I01014",
+        "institute_code": "027",
+        "institute_name": "AJAY KUMAR GARG ENGG. COLLEGE,GHAZIABAD"
+      },
+      {
+        "rr_id": "I01031",
+        "institute_code": "052",
+        "institute_name": "INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW"
+      },
+      {
+        "rr_id": "I01050",
+        "institute_code": "084",
+        "institute_name": "BHAGWANT INSTITUTE OF TECHNOLOGY,MUZAFFARNAGAR"
+      },
+      {
+        "rr_id": "I01053",
+        "institute_code": "090",
+        "institute_name": "I.E.C. COLLEGE OF ENGINEERING & TECHNOLOGY,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01057",
+        "institute_code": "096",
+        "institute_name": "VISHVESHWARYA GROUP OF INSTITUTIONS,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01243",
+        "institute_code": "120",
+        "institute_name": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,GORAKHPUR"
+      },
+      {
+        "rr_id": "I01325",
+        "institute_code": "128",
+        "institute_name": "BHARAT INSTITUTE OF TECHNOLOGY,MEERUT"
+      },
+      {
+        "rr_id": "I01367",
+        "institute_code": "132",
+        "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY (ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01374",
+        "institute_code": "133",
+        "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01380",
+        "institute_code": "141",
+        "institute_name": "SAGAR INSTITUTE OF TECHNOLOGY & MANAGEMENT,BARABANKI"
+      },
+      {
+        "rr_id": "I01424",
+        "institute_code": "216",
+        "institute_name": "IIMT COLLEGE OF ENGINEERING,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01443",
+        "institute_code": "256",
+        "institute_name": "DNS COLLEGE OF ENGINEERING & TECHNOLOGY,J.P.NAGAR"
+      },
+      {
+        "rr_id": "I01479",
+        "institute_code": "341",
+        "institute_name": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALIGARH"
+      },
+      {
+        "rr_id": "I01485",
+        "institute_code": "360",
+        "institute_name": "GOEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW"
+      },
+      {
+        "rr_id": "I01523",
+        "institute_code": "474",
+        "institute_name": "SHRI SIDHI VINAYAK INSTITUTE OF TECHNOLOGY,BAREILLY"
+      },
+      {
+        "rr_id": "I01524",
+        "institute_code": "479",
+        "institute_name": "RAJSHREE INSTITUTE OF MANAGEMENT & TECHNOLOGY,BAREILLY"
+      },
+      {
+        "rr_id": "I01533",
+        "institute_code": "490",
+        "institute_name": "SUYASH INSTITUTE OF INFORMATION TECHNOLOGY,GORAKHPUR"
+      },
+      {
+        "rr_id": "I01534",
+        "institute_code": "492",
+        "institute_name": "KCC Institute of Technology & Management,Gautam Buddh Nagar"
+      },
+      {
+        "rr_id": "I01628",
+        "institute_code": "751",
+        "institute_name": "KIPM COLLEGE OF ENGG. & TECHNOLOGY,GORAKHPUR"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 19
+  }
+}

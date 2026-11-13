@@ -1,0 +1,31 @@
+{
+  "data": {
+    "rr_id": "I01390",
+    "institute_code": "159",
+    "institute_name": "J.P.INSTITUTE OF HOTEL MANAGEMENT & CATERING TECHNOLOGY,MEERUT",
+    "institute_address": "POST - RAJPURA, MAWANA ROAD, MEERUT",
+    "institute_mobile": "8439570442",
+    "institute_email": "jpihmmeerut159@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "BHMCT",
+        "rr_id": "C0113",
+        "branches": [
+          "BHMCT"
+        ],
+        "branch_details": [
+          {
+            "branch": "BHMCT",
+            "rr_id": "B011301"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

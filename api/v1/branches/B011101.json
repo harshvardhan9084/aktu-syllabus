@@ -1,0 +1,79 @@
+{
+  "data": {
+    "rr_id": "B011101",
+    "branch": "Pharm D",
+    "course": {
+      "course": "PHARM D",
+      "rr_id": "C0111",
+      "slug": "pharm-d"
+    },
+    "institute_count": 12,
+    "institutes": [
+      {
+        "rr_id": "I01065",
+        "institute_code": "1004",
+        "institute_name": "JIVIKA COLLEGE OF PHARMACY , HARDOI"
+      },
+      {
+        "rr_id": "I01068",
+        "institute_code": "1009",
+        "institute_name": "R. P. S. COLLEGE OF PHARMACY , BARABANKI"
+      },
+      {
+        "rr_id": "I01108",
+        "institute_code": "1053",
+        "institute_name": "JYOTIRADITYA INSTITUTE OF PHARMACY , PRATAPGARH"
+      },
+      {
+        "rr_id": "I01120",
+        "institute_code": "1064",
+        "institute_name": "JAHANGIRABAD INSTITUTE OF TECHNOLOGY FACULTY OF PHARMACY , BARABANKI"
+      },
+      {
+        "rr_id": "I01416",
+        "institute_code": "202",
+        "institute_name": "HYGIA INSTITUTE OF PHARMACEUTICAL EDUCATION AND RESEARCH, LUCKNOW,LUCKNOW"
+      },
+      {
+        "rr_id": "I01438",
+        "institute_code": "241",
+        "institute_name": "SHAMBHU NATH INSTITUTE OF PHARMACY,ALLAHABAD"
+      },
+      {
+        "rr_id": "I01464",
+        "institute_code": "303",
+        "institute_name": "DR. M.C.SAXENA COLLEGE OF PHARMACY,,LUCKNOW"
+      },
+      {
+        "rr_id": "I01562",
+        "institute_code": "554",
+        "institute_name": "NARAINA VIDYA PEETH \" GROUP OF INSTITUTIONS\" FACULTY OF PHARMACY,KANPUR"
+      },
+      {
+        "rr_id": "I01683",
+        "institute_code": "875",
+        "institute_name": "LLOYD SCHOOL OF PHARMACY"
+      },
+      {
+        "rr_id": "I01701",
+        "institute_code": "900",
+        "institute_name": "ITM COLLEGE OF PHARMACY,MAHARAJGANJ"
+      },
+      {
+        "rr_id": "I01703",
+        "institute_code": "904",
+        "institute_name": "APEX INSTITUTE OF PHARMACY,MIRZAPUR"
+      },
+      {
+        "rr_id": "I01706",
+        "institute_code": "907",
+        "institute_name": "SUYASH INSTITUTE OF PHARMACY,GORAKHPUR"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 12
+  }
+}

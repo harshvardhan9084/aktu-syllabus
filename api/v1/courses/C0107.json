@@ -1,0 +1,387 @@
+{
+  "data": {
+    "rr_id": "C0107",
+    "course": "BCA",
+    "slug": "bca",
+    "branch_rows": 53,
+    "institute_count": 53,
+    "institutes": [
+      {
+        "institute_code": "004",
+        "institute_rr_id": "I01002",
+        "institute_name": "RAJA BALWANT SINGH ENGINEERING TECHNICAL CAMPUS,AGRA",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "005",
+        "institute_rr_id": "I01003",
+        "institute_name": "RAJA BALWANT SINGH MANAGEMENT TECHNICAL CAMPUS,AGRA",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "014",
+        "institute_rr_id": "I01010",
+        "institute_name": "SHRI RAMMURTI SMARAK COLLEGE OF ENGG AND TECHNOLOGY,BAREILLY",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "017",
+        "institute_rr_id": "I01012",
+        "institute_name": "KUNWAR SATYAVIRA COLLEGE OF ENGINEERING AND MANAGEMENT, BIJNOR",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "030",
+        "institute_rr_id": "I01015",
+        "institute_name": "INDERPRASTHA ENGG. COLLEGE,GHAZIABAD",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "032",
+        "institute_rr_id": "I01016",
+        "institute_name": "ABES ENGG.COLLEGE,GHAZIABAD",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "035",
+        "institute_rr_id": "I01018",
+        "institute_name": "BABU BANARSI DAS INSTITUTE OF TECH.,GHAZIABAD",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "040",
+        "institute_rr_id": "I01022",
+        "institute_name": "TECHNICAL EDUCATION & RESEARCH INSTITUTE,GAZIPUR",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "046",
+        "institute_rr_id": "I01026",
+        "institute_name": "MAHARANA PRATAP ENGINEERING COLLEGE,KANPUR",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "059",
+        "institute_rr_id": "I01036",
+        "institute_name": "LAL BAHADUR SHASTRI INSTITUTE OF MANAGEMENT & DEVELOPMENT STUDIES,LUCKNOW",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "064",
+        "institute_rr_id": "I01037",
+        "institute_name": "HINDUSTAN COLLEGE OF SCIENCE & TECHNOLOGY,MATHURA",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "065",
+        "institute_rr_id": "I01038",
+        "institute_name": "B.S.A. COLLEGE OF ENGINEERING & TECHNOLOGY,MATHURA",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "070",
+        "institute_rr_id": "I01042",
+        "institute_name": "COLLEGE OF ENGG. & RURAL TECHNOLOGY,MEERUT",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "082",
+        "institute_rr_id": "I01048",
+        "institute_name": "MORADABAD INSTITUTE OF TECHNOLOGY,MORADABAD",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "1194",
+        "institute_rr_id": "I01239",
+        "institute_name": "S R M S INTERNATIONAL BUSINESS SCHOOL",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "120",
+        "institute_rr_id": "I01243",
+        "institute_name": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,GORAKHPUR",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "1212",
+        "institute_rr_id": "I01256",
+        "institute_name": "BUDDHA INSTITUTE OF MANAGEMENT",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "127",
+        "institute_rr_id": "I01314",
+        "institute_name": "I.I.M.T. ENGG. COLLEGE,MEERUT",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "1279",
+        "institute_rr_id": "I01324",
+        "institute_name": "INSTITUTE OF PROFESSIONAL STUDIES AND RESEARCH, UNNAO",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "1286",
+        "institute_rr_id": "I01332",
+        "institute_name": "LITTLE FLOWER POLYTECHNIC, GORAKHPUR",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "1289",
+        "institute_rr_id": "I01335",
+        "institute_name": "DIVINE INSTITUTE OF MANAGEMENT AND TECHNOLOGY, GAUTAM BUDDHA NAGAR",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "1290",
+        "institute_rr_id": "I01337",
+        "institute_name": "SHRI MAHARAJA AGRASEN KANYA MAHAVIDHYALA, HATHRAS",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "1292",
+        "institute_rr_id": "I01339",
+        "institute_name": "DTC COLLEGE, GAUTAM BUDDHA NAGAR",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "132",
+        "institute_rr_id": "I01367",
+        "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY (ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "133",
+        "institute_rr_id": "I01374",
+        "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "139",
+        "institute_rr_id": "I01379",
+        "institute_name": "KALICHARAN NIGAM INSTITUTE OF TECHNOLOGY,BANDA",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "141",
+        "institute_rr_id": "I01380",
+        "institute_name": "SAGAR INSTITUTE OF TECHNOLOGY & MANAGEMENT,BARABANKI",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "145",
+        "institute_rr_id": "I01384",
+        "institute_name": "S R GROUP OF INSTITUTIONS (COLLEGE OF SCIENCE AND ENGINEERING),JHANSI",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "165",
+        "institute_rr_id": "I01394",
+        "institute_name": "KANPUR INSTITUTE OF TECHNOLOGY,KANPUR",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "187",
+        "institute_rr_id": "I01408",
+        "institute_name": "FEROZE GANDHI INSTITUTE OF ENGG AND TECHNOLOGY, RAIBAREILLY",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "212",
+        "institute_rr_id": "I01421",
+        "institute_name": "UNITED INSTITUTE OF MANAGEMENT,GAUTAM BUDDH NAGAR",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "216",
+        "institute_rr_id": "I01424",
+        "institute_name": "IIMT COLLEGE OF ENGINEERING,GAUTAM BUDDH NAGAR",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "290",
+        "institute_rr_id": "I01458",
+        "institute_name": "ABES INSTITUTE OF TECHNOLOGY,GHAZIABAD",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "351",
+        "institute_rr_id": "I01482",
+        "institute_name": "KRISHNA INSTITUTE OF TECHNOLOGY,KANPUR",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "363",
+        "institute_rr_id": "I01488",
+        "institute_name": "AMBALIKA INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "380",
+        "institute_rr_id": "I01492",
+        "institute_name": "MODINAGAR INSTITUTE OF TECHNOLOGY,GHAZIABAD",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "428",
+        "institute_rr_id": "I01511",
+        "institute_name": "KASHI INSTITUTE OF TECHNOLOGY,VARANASI",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "434",
+        "institute_rr_id": "I01513",
+        "institute_name": "JAGARAN INSTITUTE OF MANAGEMENT,KANPUR",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "448",
+        "institute_rr_id": "I01515",
+        "institute_name": "NEELAM COLLEGE OF ENGINEERING & TECHNOLOGY,AGRA",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "450",
+        "institute_rr_id": "I01516",
+        "institute_name": "SRI RAMMURTI SMARAK COLLEGE OF ENGINEERING TECHNOLOGY & RESEARCH,BAREILLY",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "472",
+        "institute_rr_id": "I01521",
+        "institute_name": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,MAHARAJGANJ",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "479",
+        "institute_rr_id": "I01524",
+        "institute_name": "RAJSHREE INSTITUTE OF MANAGEMENT & TECHNOLOGY,BAREILLY",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "501",
+        "institute_rr_id": "I01539",
+        "institute_name": "R.V.INSTITUTE OF TECHNOLOGY,BIJNAUR",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "517",
+        "institute_rr_id": "I01545",
+        "institute_name": "KIPM COLLEGE OF MANAGEMENT,GORAKHPUR",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "641",
+        "institute_rr_id": "I01587",
+        "institute_name": "ASHOKA INSTITUTE OF TECHNOLOGY & MANAGEMENT,VARANASI",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "648",
+        "institute_rr_id": "I01590",
+        "institute_name": "BABU SUNDER SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "680",
+        "institute_rr_id": "I01599",
+        "institute_name": "CITY COLLEGE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "697",
+        "institute_rr_id": "I01606",
+        "institute_name": "AGRA PUBLIC COLLEGE OF TECHNOLOGY & MANAGEMENT,AGRA",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "703",
+        "institute_rr_id": "I01607",
+        "institute_name": "SHRI SIDDHI VINAYAK INSTITUTE OF MANAGEMENT,BAREILLY",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "740",
+        "institute_rr_id": "I01623",
+        "institute_name": "PRAYAG INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALLAHABAD",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "822",
+        "institute_rr_id": "I01651",
+        "institute_name": "ESHAN COLLEGE OF MANAGEMENT,MATHURA",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "972",
+        "institute_rr_id": "I01764",
+        "institute_name": "BPS EDUCATIONAL INSTITUTION OF PHARMACY , ETAH",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      },
+      {
+        "institute_code": "996",
+        "institute_rr_id": "I01782",
+        "institute_name": "TECHNO INSTITUTE OF MANAGEMENT SCIENCES , Lucknow",
+        "branch": "BCA",
+        "branch_rr_id": "B010701"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 53
+  }
+}

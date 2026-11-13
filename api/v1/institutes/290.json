@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "I01458",
     "institute_code": "290",
     "institute_name": "ABES INSTITUTE OF TECHNOLOGY,GHAZIABAD",
     "institute_address": "NH-9 NEAR CROSSING REPUBLIK GHAZIABAD- 201009",
@@ -9,29 +10,58 @@
     "courses": [
       {
         "course": "Bachelor of Technology",
+        "rr_id": "C0101",
         "branches": [
           "Computer Science and Engineering",
           "Computer Science and Engineering (Artificial Intelligence)",
           "Computer Science And Engineering(Data Science)"
+        ],
+        "branch_details": [
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Computer Science and Engineering (Artificial Intelligence)",
+            "rr_id": "B010128"
+          },
+          {
+            "branch": "Computer Science And Engineering(Data Science)",
+            "rr_id": "B010124"
+          }
         ]
       },
       {
         "course": "BBA",
+        "rr_id": "C0108",
         "branches": [
           "BBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "BBA",
+            "rr_id": "B010801"
+          }
         ]
       },
       {
         "course": "BCA",
+        "rr_id": "C0107",
         "branches": [
           "BCA"
+        ],
+        "branch_details": [
+          {
+            "branch": "BCA",
+            "rr_id": "B010701"
+          }
         ]
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 3
   }
 }

@@ -1,0 +1,49 @@
+{
+  "data": {
+    "rr_id": "I01667",
+    "institute_code": "855",
+    "institute_name": "SHRI RAWATPURA SARKAR INSTITUTE OF PHARMACY,JHANSI",
+    "institute_address": "Near Bhojla Unnano Balaji Road, Aari Dist. Jhansi",
+    "institute_mobile": "8004146982",
+    "institute_email": "sripharmaari@gmail.com",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "rr_id": "C0104",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmceutical Chemistry"
+        ],
+        "branch_details": [
+          {
+            "branch": "Pharmaceutics",
+            "rr_id": "B010402"
+          },
+          {
+            "branch": "Pharmceutical Chemistry",
+            "rr_id": "B010406"
+          }
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "rr_id": "C0102",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ],
+        "branch_details": [
+          {
+            "branch": "Bachelor of Pharmacy",
+            "rr_id": "B010201"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 2
+  }
+}

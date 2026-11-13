@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "I01450",
     "institute_code": "272",
     "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY(MBA INSTITUTE),GAUTAM BUDDH NAGAR",
     "institute_address": "PLOT NO. 7, KNOWLEDGE PARK - II, GREATER NOIDA (U.P) 201 306",
@@ -9,23 +10,45 @@
     "courses": [
       {
         "course": "Masters of Business Administration",
+        "rr_id": "C0103",
         "branches": [
           "MBA",
           "MBA(Business Analytics)",
           "MBA (Health Care and Hospital Management)"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA",
+            "rr_id": "B010302"
+          },
+          {
+            "branch": "MBA(Business Analytics)",
+            "rr_id": "B010307"
+          },
+          {
+            "branch": "MBA (Health Care and Hospital Management)",
+            "rr_id": "B010305"
+          }
         ]
       },
       {
         "course": "MBA(Integrated)",
+        "rr_id": "C0112",
         "branches": [
           "MBA(Integrated)"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA(Integrated)",
+            "rr_id": "B011201"
+          }
         ]
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 2
   }
 }

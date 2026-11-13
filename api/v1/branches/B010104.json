@@ -1,0 +1,24 @@
+{
+  "data": {
+    "rr_id": "B010104",
+    "branch": "Artificial Intelligence",
+    "course": {
+      "course": "Bachelor of Technology",
+      "rr_id": "C0101",
+      "slug": "bachelor-of-technology"
+    },
+    "institute_count": 1,
+    "institutes": [
+      {
+        "rr_id": "I01524",
+        "institute_code": "479",
+        "institute_name": "RAJSHREE INSTITUTE OF MANAGEMENT & TECHNOLOGY,BAREILLY"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

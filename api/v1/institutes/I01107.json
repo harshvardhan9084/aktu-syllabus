@@ -1,0 +1,31 @@
+{
+  "data": {
+    "rr_id": "I01107",
+    "institute_code": "1052",
+    "institute_name": "ADESH COLLEGE OF PHARMACY , PILIBHIT",
+    "institute_address": "NARAYANPUR , BISALPUR, PILIBHIT PIN 262203",
+    "institute_mobile": "9837144855",
+    "institute_email": "agmeducationaltrust@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "rr_id": "C0102",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ],
+        "branch_details": [
+          {
+            "branch": "Bachelor of Pharmacy",
+            "rr_id": "B010201"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

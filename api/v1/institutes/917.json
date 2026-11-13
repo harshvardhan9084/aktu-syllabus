@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "I01714",
     "institute_code": "917",
     "institute_name": "R.K. COLLEGE OF PHARMACY , ALLAHABAD",
     "institute_address": "Mavaiya,Near Saraswati High-Tech City,Naini,Allahabad-211010",
@@ -9,15 +10,22 @@
     "courses": [
       {
         "course": "Bachelor of Pharmacy",
+        "rr_id": "C0102",
         "branches": [
           "Bachelor of Pharmacy"
+        ],
+        "branch_details": [
+          {
+            "branch": "Bachelor of Pharmacy",
+            "rr_id": "B010201"
+          }
         ]
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 1
   }
 }

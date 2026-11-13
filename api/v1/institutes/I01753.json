@@ -1,0 +1,31 @@
+{
+  "data": {
+    "rr_id": "I01753",
+    "institute_code": "959",
+    "institute_name": "PRADUMAN SINGH SHIKSHAN PRASHIKSHAN SANSTHAN PHARMACY COLLEGE , BASTI",
+    "institute_address": "VILLAGE-SANSARPUR, PARGANA-NAGAR PURAB, TEHSIL-BASTI SADAR, DISTRICT-BASTI",
+    "institute_mobile": "9415749420",
+    "institute_email": "gbecop.basti@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "rr_id": "C0102",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ],
+        "branch_details": [
+          {
+            "branch": "Bachelor of Pharmacy",
+            "rr_id": "B010201"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

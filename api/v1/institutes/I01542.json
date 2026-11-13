@@ -1,0 +1,54 @@
+{
+  "data": {
+    "rr_id": "I01542",
+    "institute_code": "511",
+    "institute_name": "G.L.BAJAJ GROUP OF INSTITUTIONS,MATHURA",
+    "institute_address": "NH#2, Mathura-Delhi Highway, PO - Akbarpur, Mathura (UP) - 281406",
+    "institute_mobile": "7500100051",
+    "institute_email": "info@glbajajgroup.org",
+    "course_count_declared": 4,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "rr_id": "C0101",
+        "branches": [
+          "Computer Science and Engineering",
+          "Computer Science",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)"
+        ],
+        "branch_details": [
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Computer Science",
+            "rr_id": "B010115"
+          },
+          {
+            "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+            "rr_id": "B010123"
+          }
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "rr_id": "C0103",
+        "branches": [
+          "MBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA",
+            "rr_id": "B010302"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 2
+  }
+}

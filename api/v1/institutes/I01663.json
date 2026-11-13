@@ -1,0 +1,72 @@
+{
+  "data": {
+    "rr_id": "I01663",
+    "institute_code": "849",
+    "institute_name": "ISABELLA THOBURN COLLEGE (PROFESSIONAL STUDIES),LUCKNOW",
+    "institute_address": "ISABELLA THOBURN COLLEGE (PROFESSIONAL STUDIES) 7, FAIZABAD RAOD",
+    "institute_mobile": "9415003328",
+    "institute_email": "itcollege_ps@bsnl.in",
+    "course_count_declared": 6,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "rr_id": "C0101",
+        "branches": [
+          "Computer Science Information Technology",
+          "Computer Science",
+          "Artificial Inelligence (AI) And Data Science",
+          "Bioinformatics"
+        ],
+        "branch_details": [
+          {
+            "branch": "Computer Science Information Technology",
+            "rr_id": "B010126"
+          },
+          {
+            "branch": "Computer Science",
+            "rr_id": "B010115"
+          },
+          {
+            "branch": "Artificial Inelligence (AI) And Data Science",
+            "rr_id": "B010103"
+          },
+          {
+            "branch": "Bioinformatics",
+            "rr_id": "B010109"
+          }
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "rr_id": "C0103",
+        "branches": [
+          "MBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA",
+            "rr_id": "B010302"
+          }
+        ]
+      },
+      {
+        "course": "BBA",
+        "rr_id": "C0108",
+        "branches": [
+          "BBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "BBA",
+            "rr_id": "B010801"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 3
+  }
+}

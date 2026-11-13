@@ -1,0 +1,49 @@
+{
+  "data": {
+    "rr_id": "I01046",
+    "institute_code": "078",
+    "institute_name": "DR. K.N. MODI INSTITUTE OF PHARMACEUTICAL EDUCATION & RESEARCH, GHAZIABAD",
+    "institute_address": "DELHI-MEERUT ROAD, OPPOSITE SBI MAIN BRANCH, MODINAGAR, GHAZIABAD",
+    "institute_mobile": "8791082221",
+    "institute_email": "director@knmiper.ac.in",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "rr_id": "C0104",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmceutical Chemistry"
+        ],
+        "branch_details": [
+          {
+            "branch": "Pharmaceutics",
+            "rr_id": "B010402"
+          },
+          {
+            "branch": "Pharmceutical Chemistry",
+            "rr_id": "B010406"
+          }
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "rr_id": "C0102",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ],
+        "branch_details": [
+          {
+            "branch": "Bachelor of Pharmacy",
+            "rr_id": "B010201"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 2
+  }
+}

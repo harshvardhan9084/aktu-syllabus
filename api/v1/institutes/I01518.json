@@ -1,0 +1,69 @@
+{
+  "data": {
+    "rr_id": "I01518",
+    "institute_code": "465",
+    "institute_name": "HIMALAYAN INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
+    "institute_address": "Lucknow - 227005",
+    "institute_mobile": "7897000465",
+    "institute_email": "hitmlkoedu465@gmail.com",
+    "course_count_declared": 7,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "rr_id": "C0101",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical & Electronics Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Agricultural Engineering"
+        ],
+        "branch_details": [
+          {
+            "branch": "Civil Engineering",
+            "rr_id": "B010114"
+          },
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Electrical & Electronics Engineering",
+            "rr_id": "B010135"
+          },
+          {
+            "branch": "Electronics and Communication Engineering",
+            "rr_id": "B010141"
+          },
+          {
+            "branch": "Mechanical Engineering",
+            "rr_id": "B010153"
+          },
+          {
+            "branch": "Agricultural Engineering",
+            "rr_id": "B010102"
+          }
+        ]
+      },
+      {
+        "course": "Masters of Business Administration",
+        "rr_id": "C0103",
+        "branches": [
+          "MBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA",
+            "rr_id": "B010302"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 2
+  }
+}

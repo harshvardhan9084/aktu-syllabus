@@ -1,0 +1,31 @@
+{
+  "data": {
+    "rr_id": "I01758",
+    "institute_code": "964",
+    "institute_name": "PRATHVIRAJ CHAUHAN INSTITUTE OF MEDICAL SCIENCES , BIJNOR",
+    "institute_address": "CHAKRAJMAL MORADABAD ROAD",
+    "institute_mobile": "9410892836",
+    "institute_email": "pccollofpharmacy@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "rr_id": "C0102",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ],
+        "branch_details": [
+          {
+            "branch": "Bachelor of Pharmacy",
+            "rr_id": "B010201"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "data": {
+    "rr_id": "I01586",
+    "institute_code": "640",
+    "institute_name": "DR. VIRENDRA SWARUP MEMORIAL TRUST GROUP OF INSTITUTIONS,UNNAO",
+    "institute_address": "Ragendra Swarup Knowledge City, Kanpur - Lucknow National Highway-25, Shuklaganj- Badarka bypass, Kader Patari, Hadaha, Unnao-209861",
+    "institute_mobile": "9919904500",
+    "institute_email": "director.vsgoi@gmail.com",
+    "course_count_declared": 4,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "rr_id": "C0101",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electrical Engineering",
+          "Mechanical Engineering"
+        ],
+        "branch_details": [
+          {
+            "branch": "Civil Engineering",
+            "rr_id": "B010114"
+          },
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Electrical Engineering",
+            "rr_id": "B010136"
+          },
+          {
+            "branch": "Mechanical Engineering",
+            "rr_id": "B010153"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

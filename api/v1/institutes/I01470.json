@@ -1,0 +1,59 @@
+{
+  "data": {
+    "rr_id": "I01470",
+    "institute_code": "315",
+    "institute_name": "UNITED INSTITUTE OF PHARMACY, UNITED COLLEGE OF ENGG. & RESEARCH,,ALLAHABAD",
+    "institute_address": "Allahabad",
+    "institute_mobile": "9415456913",
+    "institute_email": "info@united.ac.in",
+    "course_count_declared": 5,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "rr_id": "C0104",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmceutical Chemistry",
+          "Pharmacogonosy",
+          "Pharmacology"
+        ],
+        "branch_details": [
+          {
+            "branch": "Pharmaceutics",
+            "rr_id": "B010402"
+          },
+          {
+            "branch": "Pharmceutical Chemistry",
+            "rr_id": "B010406"
+          },
+          {
+            "branch": "Pharmacogonosy",
+            "rr_id": "B010403"
+          },
+          {
+            "branch": "Pharmacology",
+            "rr_id": "B010404"
+          }
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "rr_id": "C0102",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ],
+        "branch_details": [
+          {
+            "branch": "Bachelor of Pharmacy",
+            "rr_id": "B010201"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 2
+  }
+}

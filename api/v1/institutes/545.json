@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "I01556",
     "institute_code": "545",
     "institute_name": "JAHANGIRABAD EDUCATIONAL TRUST'S GROUP OF INSTITUTIONS, FACULTY OF ENGINEERING,BARABANKI",
     "institute_address": "Jahangirabad Raj Barabanki",
@@ -9,17 +10,32 @@
     "courses": [
       {
         "course": "Bachelor of Technology",
+        "rr_id": "C0101",
         "branches": [
           "Computer Science and Engineering",
           "Electrical Engineering",
           "Artificial Intelligence And Machine Learning"
+        ],
+        "branch_details": [
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Electrical Engineering",
+            "rr_id": "B010136"
+          },
+          {
+            "branch": "Artificial Intelligence And Machine Learning",
+            "rr_id": "B010105"
+          }
         ]
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 1
   }
 }

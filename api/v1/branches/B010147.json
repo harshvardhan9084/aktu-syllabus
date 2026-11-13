@@ -1,0 +1,24 @@
+{
+  "data": {
+    "rr_id": "B010147",
+    "branch": "Industrial Production Engineering",
+    "course": {
+      "course": "Bachelor of Technology",
+      "rr_id": "C0101",
+      "slug": "bachelor-of-technology"
+    },
+    "institute_count": 1,
+    "institutes": [
+      {
+        "rr_id": "I01150",
+        "institute_code": "110",
+        "institute_name": "INSTITUTE OF ENGG. & RURAL TECHNOLOGY,ALLAHABAD"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

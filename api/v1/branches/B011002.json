@@ -1,0 +1,29 @@
+{
+  "data": {
+    "rr_id": "B011002",
+    "branch": "Automobile Servicing",
+    "course": {
+      "course": "B Voc",
+      "rr_id": "C0110",
+      "slug": "b-voc"
+    },
+    "institute_count": 2,
+    "institutes": [
+      {
+        "rr_id": "I01546",
+        "institute_code": "518",
+        "institute_name": "SSLD VARSHNEY ENGINEERING COLLEGE,ALIGARH"
+      },
+      {
+        "rr_id": "I01605",
+        "institute_code": "695",
+        "institute_name": "SRI RAM GROUP OF COLLEGES,MUZAFFARNAGAR"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 2
+  }
+}

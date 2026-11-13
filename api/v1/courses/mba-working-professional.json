@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "C0123",
     "course": "MBA Working Professional",
     "slug": "mba-working-professional",
     "branch_rows": 2,
@@ -7,19 +8,23 @@
     "institutes": [
       {
         "institute_code": "1198",
+        "institute_rr_id": "I01242",
         "institute_name": "VISHVESHWARYA INSTITUTE OF POLYTECHNIC",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B012301"
       },
       {
         "institute_code": "132",
+        "institute_rr_id": "I01367",
         "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY (ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR",
-        "branch": "MBA"
+        "branch": "MBA",
+        "branch_rr_id": "B012301"
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 2
   }
 }

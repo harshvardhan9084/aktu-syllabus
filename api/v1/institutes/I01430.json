@@ -1,0 +1,49 @@
+{
+  "data": {
+    "rr_id": "I01430",
+    "institute_code": "227",
+    "institute_name": "INNOVATIVE COLLEGE OF PHARMACY,GAUTAM BUDDH NAGAR",
+    "institute_address": "Plot No. 6 Knowledge Park-2 Greater Noida- 201308 U.P.",
+    "institute_mobile": "8800200052",
+    "institute_email": "innovativepharmacy01@gmail.com",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "rr_id": "C0104",
+        "branches": [
+          "Pharmaceutics",
+          "Pharmacology"
+        ],
+        "branch_details": [
+          {
+            "branch": "Pharmaceutics",
+            "rr_id": "B010402"
+          },
+          {
+            "branch": "Pharmacology",
+            "rr_id": "B010404"
+          }
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "rr_id": "C0102",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ],
+        "branch_details": [
+          {
+            "branch": "Bachelor of Pharmacy",
+            "rr_id": "B010201"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 2
+  }
+}

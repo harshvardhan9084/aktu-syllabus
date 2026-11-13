@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "I01595",
     "institute_code": "671",
     "institute_name": "BRAHMANAND GROUP OF INSTITUTIONS,BULANDSHAHAR",
     "institute_address": "195, Khurja G.T. Road, Post - Agriculture, District - Bulandshahr (NCR) 203001 Uttar Pradesh INDIA",
@@ -9,15 +10,22 @@
     "courses": [
       {
         "course": "Bachelor of Pharmacy",
+        "rr_id": "C0102",
         "branches": [
           "Bachelor of Pharmacy"
+        ],
+        "branch_details": [
+          {
+            "branch": "Bachelor of Pharmacy",
+            "rr_id": "B010201"
+          }
         ]
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 1
   }
 }

@@ -1,0 +1,29 @@
+{
+  "data": {
+    "rr_id": "B010902",
+    "branch": "Electrical Engineering",
+    "course": {
+      "course": "Bachelor of Technology Working Professional",
+      "rr_id": "C0109",
+      "slug": "bachelor-of-technology-working-professional"
+    },
+    "institute_count": 2,
+    "institutes": [
+      {
+        "rr_id": "I01041",
+        "institute_code": "068",
+        "institute_name": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT"
+      },
+      {
+        "rr_id": "I01367",
+        "institute_code": "132",
+        "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY (ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 2
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "data": {
+    "rr_id": "I01642",
+    "institute_code": "796",
+    "institute_name": "ADHUNIK COLLEGE OF ENGG.,GHAZIABAD",
+    "institute_address": "9th Mile Stone, Delhi Meerut Road, Duhai, GHaziabad, Uttar Pradesh (201206)",
+    "institute_mobile": "9897781076",
+    "institute_email": "adhunikinstitute@yahoo.com",
+    "course_count_declared": 5,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "rr_id": "C0101",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Production Engineering"
+        ],
+        "branch_details": [
+          {
+            "branch": "Civil Engineering",
+            "rr_id": "B010114"
+          },
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Electronics and Communication Engineering",
+            "rr_id": "B010141"
+          },
+          {
+            "branch": "Mechanical Engineering",
+            "rr_id": "B010153"
+          },
+          {
+            "branch": "Production Engineering",
+            "rr_id": "B010157"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

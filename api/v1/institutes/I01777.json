@@ -1,0 +1,31 @@
+{
+  "data": {
+    "rr_id": "I01777",
+    "institute_code": "990",
+    "institute_name": "DR. VIRENDRA SWARUP MEMORIAL TRUST GROUP OF INSTITUIONS , KANPUR NAGAR",
+    "institute_address": "RAGENDRA SWARUP KNOWLEDGE CITY, KANPUR- LUCKNOW HIGHWAY- 27, (NEAR SHUKLAGANJ-BADARKA BYPASS) KADER PATARI, HADAHA, UNNAO",
+    "institute_mobile": "9919904500",
+    "institute_email": "director.vsgoi@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Masters of Business Administration",
+        "rr_id": "C0103",
+        "branches": [
+          "MBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA",
+            "rr_id": "B010302"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

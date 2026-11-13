@@ -1,0 +1,39 @@
+{
+  "data": {
+    "rr_id": "B010137",
+    "branch": "Electronic And Computer Engineering",
+    "course": {
+      "course": "Bachelor of Technology",
+      "rr_id": "C0101",
+      "slug": "bachelor-of-technology"
+    },
+    "institute_count": 4,
+    "institutes": [
+      {
+        "rr_id": "I01328",
+        "institute_code": "1282",
+        "institute_name": "RAM-EESH INSTITUTE OF ENGINEERING & TECHNOLOGY, GAUTAM BUDDHA NAGAR"
+      },
+      {
+        "rr_id": "I01339",
+        "institute_code": "1292",
+        "institute_name": "DTC COLLEGE, GAUTAM BUDDHA NAGAR"
+      },
+      {
+        "rr_id": "I01386",
+        "institute_code": "152",
+        "institute_name": "MANGALMAY INSTITUTE OF MANAGEMENT AND TECHNOLOGY,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01431",
+        "institute_code": "230",
+        "institute_name": "DRONACHARYA GROUP OF INSTITUTIONS,GAUTAM BUDDH NAGAR"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 4
+  }
+}

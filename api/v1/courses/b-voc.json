@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "C0110",
     "course": "B Voc",
     "slug": "b-voc",
     "branch_rows": 14,
@@ -7,79 +8,107 @@
     "institutes": [
       {
         "institute_code": "215",
+        "institute_rr_id": "I01423",
         "institute_name": "SANSKAR COLLEGE OF ENGINEERING & TECHNOLOGY,GHAZIABAD",
-        "branch": "BFSI"
+        "branch": "BFSI",
+        "branch_rr_id": "B011003"
       },
       {
         "institute_code": "485",
+        "institute_rr_id": "I01529",
         "institute_name": "S.R.INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
-        "branch": "Automobile Engineering"
+        "branch": "Automobile Engineering",
+        "branch_rr_id": "B011001"
       },
       {
         "institute_code": "485",
+        "institute_rr_id": "I01529",
         "institute_name": "S.R.INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
-        "branch": "Software Development"
+        "branch": "Software Development",
+        "branch_rr_id": "B011008"
       },
       {
         "institute_code": "518",
+        "institute_rr_id": "I01546",
         "institute_name": "SSLD VARSHNEY ENGINEERING COLLEGE,ALIGARH",
-        "branch": "Automobile Servicing"
+        "branch": "Automobile Servicing",
+        "branch_rr_id": "B011002"
       },
       {
         "institute_code": "518",
+        "institute_rr_id": "I01546",
         "institute_name": "SSLD VARSHNEY ENGINEERING COLLEGE,ALIGARH",
-        "branch": "Production Technology"
+        "branch": "Production Technology",
+        "branch_rr_id": "B011005"
       },
       {
         "institute_code": "518",
+        "institute_rr_id": "I01546",
         "institute_name": "SSLD VARSHNEY ENGINEERING COLLEGE,ALIGARH",
-        "branch": "Software Development"
+        "branch": "Software Development",
+        "branch_rr_id": "B011008"
       },
       {
         "institute_code": "527",
+        "institute_rr_id": "I01552",
         "institute_name": "SUNRISE INSTITUTE OF ENGINEERING TECHNICAL & MANAGEMENT,UNNAO",
-        "branch": "Automobile Engineering"
+        "branch": "Automobile Engineering",
+        "branch_rr_id": "B011001"
       },
       {
         "institute_code": "527",
+        "institute_rr_id": "I01552",
         "institute_name": "SUNRISE INSTITUTE OF ENGINEERING TECHNICAL & MANAGEMENT,UNNAO",
-        "branch": "Refrigeration and Air Conditioning"
+        "branch": "Refrigeration and Air Conditioning",
+        "branch_rr_id": "B011006"
       },
       {
         "institute_code": "527",
+        "institute_rr_id": "I01552",
         "institute_name": "SUNRISE INSTITUTE OF ENGINEERING TECHNICAL & MANAGEMENT,UNNAO",
-        "branch": "Robotics And Automation"
+        "branch": "Robotics And Automation",
+        "branch_rr_id": "B011007"
       },
       {
         "institute_code": "527",
+        "institute_rr_id": "I01552",
         "institute_name": "SUNRISE INSTITUTE OF ENGINEERING TECHNICAL & MANAGEMENT,UNNAO",
-        "branch": "Software Development"
+        "branch": "Software Development",
+        "branch_rr_id": "B011008"
       },
       {
         "institute_code": "666",
+        "institute_rr_id": "I01594",
         "institute_name": "SRM BUSINESS SCHOOL,LUCKNOW",
-        "branch": "BFSI"
+        "branch": "BFSI",
+        "branch_rr_id": "B011003"
       },
       {
         "institute_code": "695",
+        "institute_rr_id": "I01605",
         "institute_name": "SRI RAM GROUP OF COLLEGES,MUZAFFARNAGAR",
-        "branch": "Automobile Servicing"
+        "branch": "Automobile Servicing",
+        "branch_rr_id": "B011002"
       },
       {
         "institute_code": "695",
+        "institute_rr_id": "I01605",
         "institute_name": "SRI RAM GROUP OF COLLEGES,MUZAFFARNAGAR",
-        "branch": "Electronic Manufacturing Servicing"
+        "branch": "Electronic Manufacturing Servicing",
+        "branch_rr_id": "B011004"
       },
       {
         "institute_code": "695",
+        "institute_rr_id": "I01605",
         "institute_name": "SRI RAM GROUP OF COLLEGES,MUZAFFARNAGAR",
-        "branch": "Refrigeration and Air Conditioning"
+        "branch": "Refrigeration and Air Conditioning",
+        "branch_rr_id": "B011006"
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 14
   }
 }

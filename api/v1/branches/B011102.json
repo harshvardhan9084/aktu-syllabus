@@ -1,0 +1,29 @@
+{
+  "data": {
+    "rr_id": "B011102",
+    "branch": "Pharm D Post Baccalaureta",
+    "course": {
+      "course": "PHARM D",
+      "rr_id": "C0111",
+      "slug": "pharm-d"
+    },
+    "institute_count": 2,
+    "institutes": [
+      {
+        "rr_id": "I01416",
+        "institute_code": "202",
+        "institute_name": "HYGIA INSTITUTE OF PHARMACEUTICAL EDUCATION AND RESEARCH, LUCKNOW,LUCKNOW"
+      },
+      {
+        "rr_id": "I01464",
+        "institute_code": "303",
+        "institute_name": "DR. M.C.SAXENA COLLEGE OF PHARMACY,,LUCKNOW"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 2
+  }
+}

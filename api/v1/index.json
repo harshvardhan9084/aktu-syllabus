@@ -1,8 +1,8 @@
 {
   "name": "AKTU Syllabus Data API",
-  "api_version": "1.0.0",
+  "api_version": "1.1.0",
   "description": "Static JSON API for the institutes affiliated to Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow, and the courses/branches each institute offers.",
-  "generated_at": "2026-11-08T18:49:58+05:30",
+  "generated_at": "2026-11-13T14:32:36+05:30",
   "source_repo": "https://github.com/harshvardhan9084/aktu-syllabus",
   "bases": {
     "github_pages": "https://harshvardhan9084.github.io/aktu-syllabus/",
@@ -13,10 +13,25 @@
     "/data/raw/institutes.csv",
     "/data/raw/branches.csv"
   ],
+  "rr_id": {
+    "summary": "Every entity carries a frozen RR-ID identifying it across the API and future datasets (see /docs/rr-id-reference.md).",
+    "prefixes": {
+      "U": "university = U + 2-digit university serial",
+      "C": "course = C + university serial (2 digits) + 2-digit course serial within that university",
+      "B": "branch = B + university (2) + course (2) + 2-digit branch serial within that course; identifies a (course x branch) offering pair",
+      "I": "institute = I + university serial (2 digits) + 3-digit institute serial",
+      "S": "RESERVED for future subjects = S + 4-digit flat serial (subjects are many-to-many with branches, so never hierarchical; relationships will be edge records carrying year/semester)"
+    },
+    "registry": "/api/v1/registry/rr-ids.json",
+    "reference": "/docs/rr-id-reference.md",
+    "subjects": "S prefix is reserved for the future syllabus dataset (flat IDs; subject x branch relationships will be edge records carrying year/semester)."
+  },
   "counts": {
     "institutes": 784,
     "unique_courses": 26,
-    "branch_rows": 2571
+    "branch_rows": 2571,
+    "universities": 1,
+    "branch_pairs": 153
   },
   "endpoints": [
     {
@@ -66,6 +81,64 @@
       "method": "GET",
       "path": "/api/v1/integrity.json",
       "description": "Source-data cross-check report (published verbatim, not fixed)."
+    },
+    {
+      "method": "GET",
+      "path": "/api/v1/universities.json",
+      "count": 1,
+      "description": "Universities (root entities) - currently one: AKTU (U01)."
+    },
+    {
+      "method": "GET",
+      "path": "/api/v1/universities/{rr_id}.json",
+      "count": 1,
+      "example": "/api/v1/universities/U01.json",
+      "description": "One university with its full course catalogue."
+    },
+    {
+      "method": "GET",
+      "path": "/api/v1/courses/{rr_id}.json",
+      "count": 26,
+      "example": "/api/v1/courses/C0101.json",
+      "description": "Same payload as /courses/{slug}.json, addressed by the frozen RR-ID."
+    },
+    {
+      "method": "GET",
+      "path": "/api/v1/branches/{rr_id}.json",
+      "count": 153,
+      "example": "/api/v1/branches/B010101.json",
+      "description": "One (course x branch) pair: every institute offering it."
+    },
+    {
+      "method": "GET",
+      "path": "/api/v1/institutes/{rr_id}.json",
+      "count": 784,
+      "example": "/api/v1/institutes/I01001.json",
+      "description": "Same payload as /institutes/{code}.json, addressed by the frozen RR-ID."
+    },
+    {
+      "method": "GET",
+      "path": "/api/v1/registry/rr-ids.json",
+      "description": "Append-only RR-ID registry: natural key -> id, sequences, prefix grammar."
+    }
+  ],
+  "changelog": [
+    {
+      "version": "1.1.0",
+      "date": "2026-11-13T14:32:36+05:30",
+      "changes": [
+        "added the RR-ID system: frozen identifiers for universities (U), courses (C), course x branch pairs (B), institutes (I); S reserved for subjects",
+        "added /api/v1/registry/rr-ids.json (append-only registry guaranteeing RR-ID stability)",
+        "added universities.json, universities/{rr_id}.json, branches/{rr_id}.json and RR-ID aliases for institute/course detail files",
+        "added rr_id fields to every existing endpoint (strictly additive)"
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "date": "2026-11-08T18:49:58+05:30",
+      "changes": [
+        "initial publication: institutes, courses, branches (nested tree, flat mirrors, per-entity detail files, integrity report)"
+      ]
     }
   ],
   "integrity": {

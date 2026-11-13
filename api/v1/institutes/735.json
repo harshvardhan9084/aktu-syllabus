@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "I01620",
     "institute_code": "735",
     "institute_name": "RAJKIYA ENGINEERING COLLEGE,BIJNOR",
     "institute_address": "Near Eidgah Chandpur Bijnor",
@@ -9,17 +10,32 @@
     "courses": [
       {
         "course": "Bachelor of Technology",
+        "rr_id": "C0101",
         "branches": [
           "Civil Engineering",
           "Information Technology",
           "Electrical Engineering"
+        ],
+        "branch_details": [
+          {
+            "branch": "Civil Engineering",
+            "rr_id": "B010114"
+          },
+          {
+            "branch": "Information Technology",
+            "rr_id": "B010148"
+          },
+          {
+            "branch": "Electrical Engineering",
+            "rr_id": "B010136"
+          }
         ]
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 1
   }
 }

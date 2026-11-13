@@ -1,0 +1,30 @@
+{
+  "data": {
+    "rr_id": "C0121",
+    "course": "M.Design.",
+    "slug": "m-design",
+    "branch_rows": 2,
+    "institute_count": 2,
+    "institutes": [
+      {
+        "institute_code": "1211",
+        "institute_rr_id": "I01255",
+        "institute_name": "UTTAR PRADESH INSTITUTE OF DESIGN & RESEARCH",
+        "branch": "M.Design.",
+        "branch_rr_id": "B012101"
+      },
+      {
+        "institute_code": "857",
+        "institute_rr_id": "I01669",
+        "institute_name": "U.P. INSTITUTE OF DESIGN,NOIDA",
+        "branch": "M.Design.",
+        "branch_rr_id": "B012101"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 2
+  }
+}

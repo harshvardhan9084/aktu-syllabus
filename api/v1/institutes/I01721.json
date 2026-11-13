@@ -1,0 +1,31 @@
+{
+  "data": {
+    "rr_id": "I01721",
+    "institute_code": "924",
+    "institute_name": "BHAGWAN ADARSH PHARMACY COLLEGE , AZAMGARH",
+    "institute_address": "VILLAGE- NAREHATHA, POST- CHAKRAPANPUR (KANAILA)",
+    "institute_mobile": "9450500450",
+    "institute_email": "bapcazm@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "rr_id": "C0102",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ],
+        "branch_details": [
+          {
+            "branch": "Bachelor of Pharmacy",
+            "rr_id": "B010201"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

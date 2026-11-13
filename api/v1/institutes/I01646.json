@@ -1,0 +1,56 @@
+{
+  "data": {
+    "rr_id": "I01646",
+    "institute_code": "810",
+    "institute_name": "GREATER NOIDA COLLEGE",
+    "institute_address": "PLOT NO. 6-B, KNOWLEDGE PARK - II, GREATER NOIDA (U.P) 201 306",
+    "institute_mobile": "7290056707",
+    "institute_email": "gncollege810@gmail.com",
+    "course_count_declared": 6,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "rr_id": "C0101",
+        "branches": [
+          "Computer Science and Engineering",
+          "Computer Science",
+          "Computer Science and Engineering (Artificial Intelligence)",
+          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+          "Computer Science And Engineering(Data Science)",
+          "Computer Science And Design"
+        ],
+        "branch_details": [
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Computer Science",
+            "rr_id": "B010115"
+          },
+          {
+            "branch": "Computer Science and Engineering (Artificial Intelligence)",
+            "rr_id": "B010128"
+          },
+          {
+            "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+            "rr_id": "B010123"
+          },
+          {
+            "branch": "Computer Science And Engineering(Data Science)",
+            "rr_id": "B010124"
+          },
+          {
+            "branch": "Computer Science And Design",
+            "rr_id": "B010121"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

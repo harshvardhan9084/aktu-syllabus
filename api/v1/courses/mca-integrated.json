@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "C0118",
     "course": "MCA(Integrated)",
     "slug": "mca-integrated",
     "branch_rows": 3,
@@ -7,24 +8,30 @@
     "institutes": [
       {
         "institute_code": "005",
+        "institute_rr_id": "I01003",
         "institute_name": "RAJA BALWANT SINGH MANAGEMENT TECHNICAL CAMPUS,AGRA",
-        "branch": "MCA(Integrated)"
+        "branch": "MCA(Integrated)",
+        "branch_rr_id": "B011801"
       },
       {
         "institute_code": "132",
+        "institute_rr_id": "I01367",
         "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY (ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR",
-        "branch": "MCA(Integrated)"
+        "branch": "MCA(Integrated)",
+        "branch_rr_id": "B011801"
       },
       {
         "institute_code": "151",
+        "institute_rr_id": "I01385",
         "institute_name": "GLOBAL INSTITUTE OF INFORMATION TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "MCA(Integrated)"
+        "branch": "MCA(Integrated)",
+        "branch_rr_id": "B011801"
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 3
   }
 }

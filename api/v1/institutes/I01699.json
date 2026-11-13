@@ -1,0 +1,31 @@
+{
+  "data": {
+    "rr_id": "I01699",
+    "institute_code": "898",
+    "institute_name": "YASH RAJ INSTITUTE OF PHARMACY,LUCKNOW",
+    "institute_address": "BAGHAMAU, GOMTI NAGAR VISTAR, SECTOR-6, LUCKNOW",
+    "institute_mobile": "8303700424",
+    "institute_email": "yashrajie@gmail.com",
+    "course_count_declared": 1,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "rr_id": "C0102",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ],
+        "branch_details": [
+          {
+            "branch": "Bachelor of Pharmacy",
+            "rr_id": "B010201"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

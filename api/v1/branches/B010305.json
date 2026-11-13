@@ -1,0 +1,29 @@
+{
+  "data": {
+    "rr_id": "B010305",
+    "branch": "MBA (Health Care and Hospital Management)",
+    "course": {
+      "course": "Masters of Business Administration",
+      "rr_id": "C0103",
+      "slug": "masters-of-business-administration"
+    },
+    "institute_count": 2,
+    "institutes": [
+      {
+        "rr_id": "I01206",
+        "institute_code": "1156",
+        "institute_name": "MODERN COLLEGE JHANSI,JHANSI"
+      },
+      {
+        "rr_id": "I01450",
+        "institute_code": "272",
+        "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY(MBA INSTITUTE),GAUTAM BUDDH NAGAR"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 2
+  }
+}

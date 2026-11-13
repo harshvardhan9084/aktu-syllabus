@@ -1,0 +1,79 @@
+{
+  "data": {
+    "rr_id": "B010115",
+    "branch": "Computer Science",
+    "course": {
+      "course": "Bachelor of Technology",
+      "rr_id": "C0101",
+      "slug": "bachelor-of-technology"
+    },
+    "institute_count": 12,
+    "institutes": [
+      {
+        "rr_id": "I01017",
+        "institute_code": "033",
+        "institute_name": "RAJ KUMAR GOEL INSTT. OF TECHNOLOGY,GHAZIABAD"
+      },
+      {
+        "rr_id": "I01041",
+        "institute_code": "068",
+        "institute_name": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT"
+      },
+      {
+        "rr_id": "I01324",
+        "institute_code": "1279",
+        "institute_name": "INSTITUTE OF PROFESSIONAL STUDIES AND RESEARCH, UNNAO"
+      },
+      {
+        "rr_id": "I01343",
+        "institute_code": "1296",
+        "institute_name": "ACADEMY OF TECHNOLOGY MANAGEMENT AND SCIENCE, HAPUR"
+      },
+      {
+        "rr_id": "I01374",
+        "institute_code": "133",
+        "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01382",
+        "institute_code": "143",
+        "institute_name": "I.M.S. ENGINEERING COLLEGE,GHAZIABAD"
+      },
+      {
+        "rr_id": "I01459",
+        "institute_code": "292",
+        "institute_name": "MEERUT INSTITUTE OF TECHNOLOGY,MEERUT"
+      },
+      {
+        "rr_id": "I01524",
+        "institute_code": "479",
+        "institute_name": "RAJSHREE INSTITUTE OF MANAGEMENT & TECHNOLOGY,BAREILLY"
+      },
+      {
+        "rr_id": "I01542",
+        "institute_code": "511",
+        "institute_name": "G.L.BAJAJ GROUP OF INSTITUTIONS,MATHURA"
+      },
+      {
+        "rr_id": "I01551",
+        "institute_code": "525",
+        "institute_name": "BUDDHA INSTITUTE OF TECHNOLOGY,GORAKHPUR"
+      },
+      {
+        "rr_id": "I01646",
+        "institute_code": "810",
+        "institute_name": "GREATER NOIDA COLLEGE"
+      },
+      {
+        "rr_id": "I01663",
+        "institute_code": "849",
+        "institute_name": "ISABELLA THOBURN COLLEGE (PROFESSIONAL STUDIES),LUCKNOW"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 12
+  }
+}

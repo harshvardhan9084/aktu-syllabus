@@ -1,0 +1,93 @@
+{
+  "data": {
+    "rr_id": "C0112",
+    "course": "MBA(Integrated)",
+    "slug": "mba-integrated",
+    "branch_rows": 11,
+    "institute_count": 11,
+    "institutes": [
+      {
+        "institute_code": "005",
+        "institute_rr_id": "I01003",
+        "institute_name": "RAJA BALWANT SINGH MANAGEMENT TECHNICAL CAMPUS,AGRA",
+        "branch": "MBA(Integrated)",
+        "branch_rr_id": "B011201"
+      },
+      {
+        "institute_code": "011",
+        "institute_rr_id": "I01007",
+        "institute_name": "UNITED INSTITUTE OF MANAGEMENT,ALLAHABAD",
+        "branch": "MBA(Integrated)",
+        "branch_rr_id": "B011201"
+      },
+      {
+        "institute_code": "074",
+        "institute_rr_id": "I01043",
+        "institute_name": "DEWAN INSTITUTE OF MANAGEMENT STUDIES,MEERUT",
+        "branch": "MBA(Integrated)",
+        "branch_rr_id": "B011201"
+      },
+      {
+        "institute_code": "151",
+        "institute_rr_id": "I01385",
+        "institute_name": "GLOBAL INSTITUTE OF INFORMATION TECHNOLOGY,GAUTAM BUDDH NAGAR",
+        "branch": "MBA(Integrated)",
+        "branch_rr_id": "B011201"
+      },
+      {
+        "institute_code": "153",
+        "institute_rr_id": "I01387",
+        "institute_name": "LLOYD INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+        "branch": "MBA(Integrated)",
+        "branch_rr_id": "B011201"
+      },
+      {
+        "institute_code": "173",
+        "institute_rr_id": "I01402",
+        "institute_name": "RAJEEV ACADEMY FOR TECHNOLOGY & MANAGEMENT,MATHURA",
+        "branch": "MBA(Integrated)",
+        "branch_rr_id": "B011201"
+      },
+      {
+        "institute_code": "272",
+        "institute_rr_id": "I01450",
+        "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY(MBA INSTITUTE),GAUTAM BUDDH NAGAR",
+        "branch": "MBA(Integrated)",
+        "branch_rr_id": "B011201"
+      },
+      {
+        "institute_code": "479",
+        "institute_rr_id": "I01524",
+        "institute_name": "RAJSHREE INSTITUTE OF MANAGEMENT & TECHNOLOGY,BAREILLY",
+        "branch": "MBA(Integrated)",
+        "branch_rr_id": "B011201"
+      },
+      {
+        "institute_code": "607",
+        "institute_rr_id": "I01579",
+        "institute_name": "DR VIRENDRA SWAROOP INSTITUTE OF PROFESSIONAL STUDIES,KANPUR",
+        "branch": "MBA(Integrated)",
+        "branch_rr_id": "B011201"
+      },
+      {
+        "institute_code": "666",
+        "institute_rr_id": "I01594",
+        "institute_name": "SRM BUSINESS SCHOOL,LUCKNOW",
+        "branch": "MBA(Integrated)",
+        "branch_rr_id": "B011201"
+      },
+      {
+        "institute_code": "703",
+        "institute_rr_id": "I01607",
+        "institute_name": "SHRI SIDDHI VINAYAK INSTITUTE OF MANAGEMENT,BAREILLY",
+        "branch": "MBA(Integrated)",
+        "branch_rr_id": "B011201"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 11
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "data": {
+    "rr_id": "I01764",
+    "institute_code": "972",
+    "institute_name": "BPS EDUCATIONAL INSTITUTION OF PHARMACY , ETAH",
+    "institute_address": "VIDYA VIHAR, NEAR MANDI SAMITI, ETAH",
+    "institute_mobile": "9412897086",
+    "institute_email": "bpscollegeetah@gmail.com",
+    "course_count_declared": 3,
+    "courses": [
+      {
+        "course": "Bachelor of Pharmacy",
+        "rr_id": "C0102",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ],
+        "branch_details": [
+          {
+            "branch": "Bachelor of Pharmacy",
+            "rr_id": "B010201"
+          }
+        ]
+      },
+      {
+        "course": "BBA",
+        "rr_id": "C0108",
+        "branches": [
+          "BBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "BBA",
+            "rr_id": "B010801"
+          }
+        ]
+      },
+      {
+        "course": "BCA",
+        "rr_id": "C0107",
+        "branches": [
+          "BCA"
+        ],
+        "branch_details": [
+          {
+            "branch": "BCA",
+            "rr_id": "B010701"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 3
+  }
+}

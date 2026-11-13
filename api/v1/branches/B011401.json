@@ -1,0 +1,49 @@
+{
+  "data": {
+    "rr_id": "B011401",
+    "branch": "Architecture",
+    "course": {
+      "course": "Bachelor of Architecture",
+      "rr_id": "C0114",
+      "slug": "bachelor-of-architecture"
+    },
+    "institute_count": 6,
+    "institutes": [
+      {
+        "rr_id": "I01030",
+        "institute_code": "051",
+        "institute_name": "FACULTY OF ARCHITECTURE, AKTU,LUCKNOW"
+      },
+      {
+        "rr_id": "I01052",
+        "institute_code": "088",
+        "institute_name": "APEEJAY INSTITUTE OF TECHNOLOGY SCHOOL OF ARCHITECTURE AND PLANNING,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01596",
+        "institute_code": "672",
+        "institute_name": "ITM SCHOOL OF ARCHITECTURE & TOWN PLANNING,LUCKNOW"
+      },
+      {
+        "rr_id": "I01605",
+        "institute_code": "695",
+        "institute_name": "SRI RAM GROUP OF COLLEGES,MUZAFFARNAGAR"
+      },
+      {
+        "rr_id": "I01613",
+        "institute_code": "721",
+        "institute_name": "AXIS INSTITUTE OF ARCHITECTURE,KANPUR"
+      },
+      {
+        "rr_id": "I01652",
+        "institute_code": "826",
+        "institute_name": "SANSKAR COLLEGE OF ARCHITECTURE & PLANNING,GHAZIABAD"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 6
+  }
+}

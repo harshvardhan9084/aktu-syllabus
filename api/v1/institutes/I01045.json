@@ -1,0 +1,66 @@
+{
+  "data": {
+    "rr_id": "I01045",
+    "institute_code": "077",
+    "institute_name": "DR. K.N. MODI INSTITUTE OF ENGG. & TECHNOLOGY,GHAZIABAD",
+    "institute_address": "DELHI-MEERUT ROAD, OPP. SBI MAIN BRANCH",
+    "institute_mobile": "8791082234",
+    "institute_email": "director@knmiet.edu",
+    "course_count_declared": 8,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "rr_id": "C0101",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Information Technology",
+          "Electrical Engineering",
+          "Electronics and Communication Engineering",
+          "Mechanical Engineering",
+          "Chemical Engineering",
+          "Computer Science and Engineering (Artificial Intelligence)"
+        ],
+        "branch_details": [
+          {
+            "branch": "Civil Engineering",
+            "rr_id": "B010114"
+          },
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Information Technology",
+            "rr_id": "B010148"
+          },
+          {
+            "branch": "Electrical Engineering",
+            "rr_id": "B010136"
+          },
+          {
+            "branch": "Electronics and Communication Engineering",
+            "rr_id": "B010141"
+          },
+          {
+            "branch": "Mechanical Engineering",
+            "rr_id": "B010153"
+          },
+          {
+            "branch": "Chemical Engineering",
+            "rr_id": "B010113"
+          },
+          {
+            "branch": "Computer Science and Engineering (Artificial Intelligence)",
+            "rr_id": "B010128"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

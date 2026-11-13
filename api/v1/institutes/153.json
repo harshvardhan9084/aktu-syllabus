@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "I01387",
     "institute_code": "153",
     "institute_name": "LLOYD INSTITUTE OF ENGINEERING AND TECHNOLOGY",
     "institute_address": "Plot No - 3, Knowledge Park-II, Greater Noida, U.P. 201308",
@@ -9,12 +10,20 @@
     "courses": [
       {
         "course": "Master of Technology",
+        "rr_id": "C0105",
         "branches": [
           "Computer Science and Engineering"
+        ],
+        "branch_details": [
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010509"
+          }
         ]
       },
       {
         "course": "Bachelor of Technology",
+        "rr_id": "C0101",
         "branches": [
           "Computer Science and Engineering",
           "Electronics and Communication Engineering",
@@ -23,31 +32,82 @@
           "Computer Science And Engineering(Data Science)",
           "Computer Science & Engineering (Cyber Security)",
           "Electronics Engineering (VLSI Design and Technology)"
+        ],
+        "branch_details": [
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Electronics and Communication Engineering",
+            "rr_id": "B010141"
+          },
+          {
+            "branch": "Mechanical Engineering",
+            "rr_id": "B010153"
+          },
+          {
+            "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+            "rr_id": "B010123"
+          },
+          {
+            "branch": "Computer Science And Engineering(Data Science)",
+            "rr_id": "B010124"
+          },
+          {
+            "branch": "Computer Science & Engineering (Cyber Security)",
+            "rr_id": "B010116"
+          },
+          {
+            "branch": "Electronics Engineering (VLSI Design and Technology)",
+            "rr_id": "B010139"
+          }
         ]
       },
       {
         "course": "Masters of Business Administration",
+        "rr_id": "C0103",
         "branches": [
           "MBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA",
+            "rr_id": "B010302"
+          }
         ]
       },
       {
         "course": "MBA(Integrated)",
+        "rr_id": "C0112",
         "branches": [
           "MBA(Integrated)"
+        ],
+        "branch_details": [
+          {
+            "branch": "MBA(Integrated)",
+            "rr_id": "B011201"
+          }
         ]
       },
       {
         "course": "Master of Computer Applications",
+        "rr_id": "C0106",
         "branches": [
           "MCA"
+        ],
+        "branch_details": [
+          {
+            "branch": "MCA",
+            "rr_id": "B010601"
+          }
         ]
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 5
   }
 }

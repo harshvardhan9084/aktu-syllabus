@@ -1,0 +1,44 @@
+{
+  "data": {
+    "rr_id": "I01496",
+    "institute_code": "387",
+    "institute_name": "SR GROUP OF INSTITUTIONS (COLLEGE OF PHARMACY),JHANSI",
+    "institute_address": "Jhansi",
+    "institute_mobile": "7007091371",
+    "institute_email": "srgi.groupdirector@gmail.com",
+    "course_count_declared": 2,
+    "courses": [
+      {
+        "course": "Master of Pharmacy",
+        "rr_id": "C0104",
+        "branches": [
+          "Pharmaceutics"
+        ],
+        "branch_details": [
+          {
+            "branch": "Pharmaceutics",
+            "rr_id": "B010402"
+          }
+        ]
+      },
+      {
+        "course": "Bachelor of Pharmacy",
+        "rr_id": "C0102",
+        "branches": [
+          "Bachelor of Pharmacy"
+        ],
+        "branch_details": [
+          {
+            "branch": "Bachelor of Pharmacy",
+            "rr_id": "B010201"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 2
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "data": {
+    "rr_id": "B011602",
+    "branch": "Mechanical Engineering",
+    "course": {
+      "course": "Master of Technology Working Professional",
+      "rr_id": "C0116",
+      "slug": "master-of-technology-working-professional"
+    },
+    "institute_count": 1,
+    "institutes": [
+      {
+        "rr_id": "I01374",
+        "institute_code": "133",
+        "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

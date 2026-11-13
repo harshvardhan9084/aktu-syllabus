@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "I01516",
     "institute_code": "450",
     "institute_name": "SRI RAMMURTI SMARAK COLLEGE OF ENGINEERING TECHNOLOGY & RESEARCH,BAREILLY",
     "institute_address": "Ram Murti Puram, 13th K.M. Bareilly Nainital Road, Prahladpur, Abhaipur, Bhojipura",
@@ -9,35 +10,71 @@
     "courses": [
       {
         "course": "Bachelor of Technology",
+        "rr_id": "C0101",
         "branches": [
           "Computer Science and Engineering",
           "Electronics and Communication Engineering",
           "Computer Science & Engineering (Cyber Security)"
+        ],
+        "branch_details": [
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Electronics and Communication Engineering",
+            "rr_id": "B010141"
+          },
+          {
+            "branch": "Computer Science & Engineering (Cyber Security)",
+            "rr_id": "B010116"
+          }
         ]
       },
       {
         "course": "BHMCT",
+        "rr_id": "C0113",
         "branches": [
           "BHMCT"
+        ],
+        "branch_details": [
+          {
+            "branch": "BHMCT",
+            "rr_id": "B011301"
+          }
         ]
       },
       {
         "course": "BBA",
+        "rr_id": "C0108",
         "branches": [
           "BBA"
+        ],
+        "branch_details": [
+          {
+            "branch": "BBA",
+            "rr_id": "B010801"
+          }
         ]
       },
       {
         "course": "BCA",
+        "rr_id": "C0107",
         "branches": [
           "BCA"
+        ],
+        "branch_details": [
+          {
+            "branch": "BCA",
+            "rr_id": "B010701"
+          }
         ]
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 4
   }
 }

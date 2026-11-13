@@ -1,0 +1,29 @@
+{
+  "data": {
+    "rr_id": "B010401",
+    "branch": "PHARMACEUTICAL QUALITY ASSURANCE",
+    "course": {
+      "course": "Master of Pharmacy",
+      "rr_id": "C0104",
+      "slug": "master-of-pharmacy"
+    },
+    "institute_count": 2,
+    "institutes": [
+      {
+        "rr_id": "I01401",
+        "institute_code": "172",
+        "institute_name": "LLOYD INSTITUTE OF MANAGEMENT & TECHNOLOGY,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01664",
+        "institute_code": "851",
+        "institute_name": "BHAVDIYA INSTITUTE OF PHARMACEUTICAL SCIENCES AND RESEARCH,FAIZABAD"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 2
+  }
+}

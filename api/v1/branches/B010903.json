@@ -1,0 +1,49 @@
+{
+  "data": {
+    "rr_id": "B010903",
+    "branch": "Electronics and Communication Engineering",
+    "course": {
+      "course": "Bachelor of Technology Working Professional",
+      "rr_id": "C0109",
+      "slug": "bachelor-of-technology-working-professional"
+    },
+    "institute_count": 6,
+    "institutes": [
+      {
+        "rr_id": "I01015",
+        "institute_code": "030",
+        "institute_name": "INDERPRASTHA ENGG. COLLEGE,GHAZIABAD"
+      },
+      {
+        "rr_id": "I01016",
+        "institute_code": "032",
+        "institute_name": "ABES ENGG.COLLEGE,GHAZIABAD"
+      },
+      {
+        "rr_id": "I01058",
+        "institute_code": "097",
+        "institute_name": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01367",
+        "institute_code": "132",
+        "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY (ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01374",
+        "institute_code": "133",
+        "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR"
+      },
+      {
+        "rr_id": "I01428",
+        "institute_code": "222",
+        "institute_name": "I.T.S. ENGG.COLLEGE,GAUTAM BUDDH NAGAR"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 6
+  }
+}

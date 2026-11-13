@@ -1,5 +1,6 @@
 {
   "data": {
+    "rr_id": "C0102",
     "course": "Bachelor of Pharmacy",
     "slug": "bachelor-of-pharmacy",
     "branch_rows": 446,
@@ -7,2239 +8,3131 @@
     "institutes": [
       {
         "institute_code": "004",
+        "institute_rr_id": "I01002",
         "institute_name": "RAJA BALWANT SINGH ENGINEERING TECHNICAL CAMPUS,AGRA",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "006",
+        "institute_rr_id": "I01004",
         "institute_name": "AGRA PUBLIC COLLEGE OF HIGHER EDUCATION & RESEARCH CENTRE",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "007",
+        "institute_rr_id": "I01005",
         "institute_name": "SHIVDAN SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALIGARH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "012",
+        "institute_rr_id": "I01008",
         "institute_name": "PHARMCY COLLEGE,AZAMGARH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "013",
+        "institute_rr_id": "I01009",
         "institute_name": "SHRI GOPICHAND COLLEGE OF PHARMACY,BAGPAT",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "014",
+        "institute_rr_id": "I01010",
         "institute_name": "SHRI RAMMURTI SMARAK COLLEGE OF ENGG AND TECHNOLOGY,BAREILLY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "033",
+        "institute_rr_id": "I01017",
         "institute_name": "RAJ KUMAR GOEL INSTT. OF TECHNOLOGY,GHAZIABAD",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "041",
+        "institute_rr_id": "I01023",
         "institute_name": "ACHARYA NARENDRA DEV COLLEGE OF PHARMACY,GONDA",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "056",
+        "institute_rr_id": "I01034",
         "institute_name": "BABU BANARASI DAS NORTHERN INDIA INSTITUTE OF TECHNOLOGY,LUCKNOW",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "066",
+        "institute_rr_id": "I01039",
         "institute_name": "RAJEEV ACADEMY FOR PHARMACY,MATHURA",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "068",
+        "institute_rr_id": "I01041",
         "institute_name": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "078",
+        "institute_rr_id": "I01046",
         "institute_name": "DR. K.N. MODI INSTITUTE OF PHARMACEUTICAL EDUCATION & RESEARCH, GHAZIABAD",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "090",
+        "institute_rr_id": "I01053",
         "institute_name": "I.E.C. COLLEGE OF ENGINEERING & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "093",
+        "institute_rr_id": "I01054",
         "institute_name": "RAM EESH INSTITUTE OF VOCATIONAL AND TECHNICAL EDUCATION,GAUTAM BUDDH NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1000",
+        "institute_rr_id": "I01061",
         "institute_name": "HYGIA COLLEGE OF PHARMACY,LUCKNOW",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1001",
+        "institute_rr_id": "I01062",
         "institute_name": "BABA RAMDAL SURAJDEV PHARMACY COLLEGE , BALLIA",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1002",
+        "institute_rr_id": "I01063",
         "institute_name": "SHRI RAMESHWAR COLLEGE OF PHARMACY , HAPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1003",
+        "institute_rr_id": "I01064",
         "institute_name": "D. R. COLLEGE OF PHARMACY , HAPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1004",
+        "institute_rr_id": "I01065",
         "institute_name": "JIVIKA COLLEGE OF PHARMACY , HARDOI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1006",
+        "institute_rr_id": "I01066",
         "institute_name": "RAM SINGH COLLEGE OF PHARMACY , FIROZABAD",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1008",
+        "institute_rr_id": "I01067",
         "institute_name": "R.G. COLLEGE OF PHARMACY , HATHRAS",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1009",
+        "institute_rr_id": "I01068",
         "institute_name": "R. P. S. COLLEGE OF PHARMACY , BARABANKI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1010",
+        "institute_rr_id": "I01069",
         "institute_name": "GHAUSIA COLLEGE OF PHARMACY , FATEHPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1011",
+        "institute_rr_id": "I01070",
         "institute_name": "BHARTIYA PHARMACY COLLEGE , JYOTIBA PHULE NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1012",
+        "institute_rr_id": "I01071",
         "institute_name": "KRISHNA INSTITUTE OF PHARMACY AND SCIENCES , KANPUR NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1013",
+        "institute_rr_id": "I01072",
         "institute_name": "SIGNA COLLEGE OF PHARMACY , KANPUR NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1014",
+        "institute_rr_id": "I01073",
         "institute_name": "RADHA KRISHNA COLLEGE OF PHARMACY , KANPUR NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1015",
+        "institute_rr_id": "I01074",
         "institute_name": "ADVANCE COLLEGE OF EDUCATION , KANPUR NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1016",
+        "institute_rr_id": "I01075",
         "institute_name": "SHRI VISHNU BHAGWAN COLLEGE OF PHARMACY , KASGANJ",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1017",
+        "institute_rr_id": "I01076",
         "institute_name": "BHAGWAN AADINATH COLLEGE OF PHARMACY , LALITPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1018",
+        "institute_rr_id": "I01077",
         "institute_name": "AMBEKESHWAR INSTITUTE OF PHARMACEUTICAL SCIENCES , LUCKNOW",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1019",
+        "institute_rr_id": "I01078",
         "institute_name": "S. N. COLLEGE OF PHARMACY , JAUNPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1020",
+        "institute_rr_id": "I01079",
         "institute_name": "K. J. COLLEGE OF PHARMACY , VARANASI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1021",
+        "institute_rr_id": "I01080",
         "institute_name": "SEIKO COLLEGE OF PHARMACY , LUCKNOW",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1022",
+        "institute_rr_id": "I01081",
         "institute_name": "ANKERITE COLLEGE OF PHARMACY , LUCKNOW",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1023",
+        "institute_rr_id": "I01082",
         "institute_name": "LUCKNOW MODEL COLLEGE OF PHARMACY , LUCKNOW",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1024",
+        "institute_rr_id": "I01083",
         "institute_name": "GEETA PHARMACY COLLEGE , LUCKNOW",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1025",
+        "institute_rr_id": "I01084",
         "institute_name": "BABU YUGRAJ SINGH PHARMACY COLLEGE , LUCKNOW",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1026",
+        "institute_rr_id": "I01085",
         "institute_name": "SHRI RAM COLLEGE OF PHARMACY , MUZAFFARNAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1027",
+        "institute_rr_id": "I01086",
         "institute_name": "HARSHA INSTITUTE OF PHARMACY , LUCKNOW",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1029",
+        "institute_rr_id": "I01087",
         "institute_name": "K D C COLLEGE OF PHARMACY , MATHURA",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1031",
+        "institute_rr_id": "I01088",
         "institute_name": "SHRI BABULAL COLLEGE OF PHARMACY , MATHURA",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1032",
+        "institute_rr_id": "I01089",
         "institute_name": "MAA LILAWATI SUDESHWARI INSTITUTE OF PHARMACY , MAU",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1033",
+        "institute_rr_id": "I01090",
         "institute_name": "R.A.S. INSTITUTE OF PHARMACY , MAU",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1035",
+        "institute_rr_id": "I01091",
         "institute_name": "UMALOK COLLEGE OF PHARMACY , MEERUT",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1036",
+        "institute_rr_id": "I01092",
         "institute_name": "ABSS INSTITUTE OF TECHNOLOGY , MEERUT",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1037",
+        "institute_rr_id": "I01093",
         "institute_name": "SHARDA COLLEGE OF PHARMACY , MEERUT",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1038",
+        "institute_rr_id": "I01094",
         "institute_name": "SAVITA DEVI INSTITUTE OF PHARMACY , MEERUT",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1039",
+        "institute_rr_id": "I01095",
         "institute_name": "RUDRA COLLEGE OF PHARMACY , MEERUT",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1041",
+        "institute_rr_id": "I01097",
         "institute_name": "SAMARTH INSTITUTE FOR EDUCATION AND TECHNOLOGY , MEERUT",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1042",
+        "institute_rr_id": "I01098",
         "institute_name": "NGI COLLEGE OF PHARMACY , MEERUT",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1043",
+        "institute_rr_id": "I01099",
         "institute_name": "KATYAYANI COLLEGE OF EDUCATION , MEERUT",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1044",
+        "institute_rr_id": "I01100",
         "institute_name": "OM SAI VINDHYA COLLEGE OF PHARMACY , MIRZAPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1045",
+        "institute_rr_id": "I01101",
         "institute_name": "KRISHAK COLLEGE OF PHARMACY , MIRZAPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1047",
+        "institute_rr_id": "I01102",
         "institute_name": "R.N.COLLEGE OF PHARMACY , MORADABAD",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1048",
+        "institute_rr_id": "I01103",
         "institute_name": "SHREE JI INSTITUTE OF PHARMACEUTICAL EDUCATION AND RESEARCH , MORADABAD",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1049",
+        "institute_rr_id": "I01104",
         "institute_name": "RADHA GOVIND COLLEGE OF PHARMACY , MORADABAD",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1050",
+        "institute_rr_id": "I01105",
         "institute_name": "R.S.D. ACADEMY (COLLEGE OF PHARMACY) , MORADABAD",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1051",
+        "institute_rr_id": "I01106",
         "institute_name": "RIDDHI SIDDHI INSTITUTE OF PHARMACY , LUCKNOW",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1052",
+        "institute_rr_id": "I01107",
         "institute_name": "ADESH COLLEGE OF PHARMACY , PILIBHIT",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1053",
+        "institute_rr_id": "I01108",
         "institute_name": "JYOTIRADITYA INSTITUTE OF PHARMACY , PRATAPGARH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1054",
+        "institute_rr_id": "I01109",
         "institute_name": "DEV BHOOMI COLLEGE OF PHARMACY , SAHARANPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1055",
+        "institute_rr_id": "I01110",
         "institute_name": "HARI COLLEGE OF PHARMACY , SAHARANPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1056",
+        "institute_rr_id": "I01111",
         "institute_name": "KINETIC INSTITUTE, DEPARTMENT OF PHARMACY , SHAHJAHANPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1057",
+        "institute_rr_id": "I01112",
         "institute_name": "DR R M L INSTITUTE OF PHARMACY , SHAHJAHANPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1058",
+        "institute_rr_id": "I01113",
         "institute_name": "J D S R INSTITUTE OF PHARMACY , SHAHJAHANPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1059",
+        "institute_rr_id": "I01114",
         "institute_name": "SHRI SANTAN PAL SINGH PHARMACY COLLEGE , SHAHJAHANPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1060",
+        "institute_rr_id": "I01116",
         "institute_name": "R A INSTITUTE OF PHARMACY , SIDDHARTHNAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1061",
+        "institute_rr_id": "I01117",
         "institute_name": "SHREE KRISHNA COLLEGE OF PHARMACY , SITAPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1062",
+        "institute_rr_id": "I01118",
         "institute_name": "K. P. SINGH MEMORIAL INSTITUTE OF PHARMACY , SITAPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1063",
+        "institute_rr_id": "I01119",
         "institute_name": "J.S.SINGH INSTITUTE OF PHARMACY , SITAPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1064",
+        "institute_rr_id": "I01120",
         "institute_name": "JAHANGIRABAD INSTITUTE OF TECHNOLOGY FACULTY OF PHARMACY , BARABANKI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1065",
+        "institute_rr_id": "I01121",
         "institute_name": "PHARMA DEPT SR FOUNDATION JEE COLLEGE OF EDUCATION AND TRAINING , UNNAO",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1066",
+        "institute_rr_id": "I01122",
         "institute_name": "DR H R BACHHAN COLLEGE OF PHARMACY , UNNAO",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1067",
+        "institute_rr_id": "I01123",
         "institute_name": "MISSION COLLEGE OF PHARMACY , VARANASI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1068",
+        "institute_rr_id": "I01124",
         "institute_name": "GURU TEG BAHADUR PARA MEDICAL INSTITUTE , SHAHJAHANPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1070",
+        "institute_rr_id": "I01127",
         "institute_name": "DEV KUMAR RAJARAM PHARMACY SHIKSHAN SANSTHAN , SITAPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1071",
+        "institute_rr_id": "I01128",
         "institute_name": "SARDAR PATEL COLLEGE OF PHARMACY , GORAKHPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1072",
+        "institute_rr_id": "I01129",
         "institute_name": "MASCOT COLLEGE OF PHARMACY , BAREILLY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1073",
+        "institute_rr_id": "I01130",
         "institute_name": "DISHA INSTITUTE OF PHARMACY , BIJNOR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1074",
+        "institute_rr_id": "I01131",
         "institute_name": "SETH BADRI PRASAD SMARITI MAHAVIDHALAYA DEPARTMENT OF PHARMACY , JALAUN",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1075",
+        "institute_rr_id": "I01132",
         "institute_name": "DSSOP PHARMACY COLLEGE , SIDDHARTHNAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1076",
+        "institute_rr_id": "I01133",
         "institute_name": "SRI RAM GOPAL COLLEGE OF PHARMACY , AGRA",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1077",
+        "institute_rr_id": "I01134",
         "institute_name": "LAKHMI CHAND PATWARI COLLEGE OF PHARMACY , BAGHPAT",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1079",
+        "institute_rr_id": "I01135",
         "institute_name": "SRAM COLLEGE OF PHARMACY , FIROZABAD",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1080",
+        "institute_rr_id": "I01137",
         "institute_name": "SARASWATHI COLLEGE OF PHARMACY , GHAZIABAD",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1082",
+        "institute_rr_id": "I01138",
         "institute_name": "VENKATESHWARA COLLEGE OF PHARMACY , MEERUT",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1083",
+        "institute_rr_id": "I01139",
         "institute_name": "SHREE SATYA COLLEGE OF HIGHER EDUCATION , MORADABAD",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1084",
+        "institute_rr_id": "I01140",
         "institute_name": "ARYAKUL COLLEGE OF PHARMACY & RESEARCH RAEBARELI , RAE BARELI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1085",
+        "institute_rr_id": "I01141",
         "institute_name": "ARYAKUL COLLEGE OF PHARMACY & RESEARCH SITAPUR , SITAPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1086",
+        "institute_rr_id": "I01142",
         "institute_name": "AVADH COLLEGE OF PHARMACY , BARABANKI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1088",
+        "institute_rr_id": "I01143",
         "institute_name": "RISHI RAM NARESH COLLEGE OF PHARMACY,MAU",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1089",
+        "institute_rr_id": "I01144",
         "institute_name": "HIMALAYAN INSTITUTE OF PHARMACY AND RESEARCH ,LUCKNOW",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1090",
+        "institute_rr_id": "I01146",
         "institute_name": "SCPM COLLEGE OF PHARMACY,GONDA",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1091",
+        "institute_rr_id": "I01147",
         "institute_name": "ARK COLLEGE OF PHARMACY,KAUSHAMBI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1092",
+        "institute_rr_id": "I01148",
         "institute_name": "GALGOTIAS COLLEGE OF PHARMACY,GAUTAM BUDDHA NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1099",
+        "institute_rr_id": "I01149",
         "institute_name": "JAI MAA VAISHNO PHARMACY COLLEGE,PRATAPGARH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1100",
+        "institute_rr_id": "I01151",
         "institute_name": "SPECTRUM HI PHARMACY COLLEGE,SULTANPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1102",
+        "institute_rr_id": "I01152",
         "institute_name": "DR. V. P. MADNAWAT COLLEGE OF EDUCATIONAL AND PROFESSIONAL COURSES,HATHRAS",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1105",
+        "institute_rr_id": "I01153",
         "institute_name": "DEV INDRAWATI COLLEGE OF PHARMACY,AMBEDKAR NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1106",
+        "institute_rr_id": "I01154",
         "institute_name": "MDALSHA COLLEGE OF PHARMACY,PRATAPGARH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1107",
+        "institute_rr_id": "I01155",
         "institute_name": "GAUTAM BUDDHA COLLEGE OF PHARMACY,LUCKNOW",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1108",
+        "institute_rr_id": "I01156",
         "institute_name": "R. G. S. COLLEGE OF PHARMACY,LUCKNOW",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1109",
+        "institute_rr_id": "I01157",
         "institute_name": "DDM COLLEGE OF PHARMACY,KAUSHAMBI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1110",
+        "institute_rr_id": "I01158",
         "institute_name": "SAKSHI COLLEGE OF PHARMACY,KANPUR NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1111",
+        "institute_rr_id": "I01159",
         "institute_name": "BABU SUNDER SINGH COLLEGE OF PHARMACY,LUCKNOW",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1112",
+        "institute_rr_id": "I01160",
         "institute_name": "MAHARANA PRATAP SCHOOL OF PHARMACY,LUCKNOW",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1113",
+        "institute_rr_id": "I01161",
         "institute_name": "SRI SURESH CHANDRA EDUCATIONAL INSTITUTE, BHITI, HANDIA, ALLAHABAD,PRAYAGRAJ",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1114",
+        "institute_rr_id": "I01162",
         "institute_name": "DR. MITHILESH MANI TRIPATHI COLLEGE OF PHARMACY,SIDDHARTHNAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1115",
+        "institute_rr_id": "I01163",
         "institute_name": "USHA COLLEGE OF PHARMACY AND MEDICAL SCIENCES,AMBEDKAR NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1116",
+        "institute_rr_id": "I01164",
         "institute_name": "B. M. S. COLLEGE OF PHARMACY,AMETHI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1117",
+        "institute_rr_id": "I01165",
         "institute_name": "SAINIK PHARMACY COLLEGE,PRAYAGRAJ",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1118",
+        "institute_rr_id": "I01166",
         "institute_name": "VANDANA INSTITUTE OF PHARMACY,GHAZIPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1119",
+        "institute_rr_id": "I01167",
         "institute_name": "CHAUDHARY COLLEGE OF PHARMACY,AMBEDKAR NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1120",
+        "institute_rr_id": "I01169",
         "institute_name": "K.P.SINGH COLLEGE OF PHARMACY,PRATAPGARH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1121",
+        "institute_rr_id": "I01170",
         "institute_name": "GMS COLLEGE OF PHARMCY,JYOTIBA PHULE NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1122",
+        "institute_rr_id": "I01171",
         "institute_name": "SAMARPAN COLLEGE OF PHARMACY,LUCKNOW",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1123",
+        "institute_rr_id": "I01172",
         "institute_name": "SHRI SAI COLLEGE OF PHARMACY,PRAYAGRAJ",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1124",
+        "institute_rr_id": "I01173",
         "institute_name": "DR MAHENDRA KUMAR CHHOTELAL BIND COLLEGE OF PHARMACY,PRAYAGRAJ",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1125",
+        "institute_rr_id": "I01174",
         "institute_name": "DHARAM SAMAJ COLLEGE OF PHARMACY,ALIGARH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1126",
+        "institute_rr_id": "I01175",
         "institute_name": "ABHISHEK PHARMACY COLLEGE,CHANDAULI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1127",
+        "institute_rr_id": "I01176",
         "institute_name": "NAND KISHORE COLLEGE OF PHARMACY,PRAYAGRAJ",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1128",
+        "institute_rr_id": "I01177",
         "institute_name": "SHRI RAM LAKHAN SINGH SHIKSHAN SANSTHAN,JAUNPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1129",
+        "institute_rr_id": "I01178",
         "institute_name": "ANJUMAN A ASHRAF PHARMACY COLLEGE,JYOTIBA PHULE NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1130",
+        "institute_rr_id": "I01180",
         "institute_name": "VIDUSHI COLLEGE OF PHARMACY,AMBEDKAR NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1132",
+        "institute_rr_id": "I01182",
         "institute_name": "SAINATH COLLEGE OF PHARMACY,SONBHADRA",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1133",
+        "institute_rr_id": "I01183",
         "institute_name": "SWAMI VIVEKANAND COLLEGE OF PHARMACY,BASTI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1135",
+        "institute_rr_id": "I01185",
         "institute_name": "S. J. INSTITUTE OF PHARMACY,KANPUR NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1136",
+        "institute_rr_id": "I01186",
         "institute_name": "CHAUDHARY INSTITUTE OF PHARMACEUTICAL SCIENCE,KHERI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1137",
+        "institute_rr_id": "I01187",
         "institute_name": "AXIS INSTITUTE OF PHARMACY,KANPUR NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1138",
+        "institute_rr_id": "I01188",
         "institute_name": "SHRI VISHWANATH COLLEGE OF PHARMACY,SULTANPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1139",
+        "institute_rr_id": "I01189",
         "institute_name": "VIDYA BHAVAN COLLEGE OF PHARMACY,KANPUR NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1140",
+        "institute_rr_id": "I01191",
         "institute_name": "YASHRAJ COLLEGE OF PROFESSIONAL STUDIES,KANPUR NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1141",
+        "institute_rr_id": "I01192",
         "institute_name": "HARISH CHAND PHARMACY COLLEGE,JAUNPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1142",
+        "institute_rr_id": "I01193",
         "institute_name": "VANSHA DEVI MAHAVIDYALAYA,JAUNPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1143",
+        "institute_rr_id": "I01194",
         "institute_name": "ASHOK SINGH PHARMACY COLLEGE,JAUNPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1144",
+        "institute_rr_id": "I01195",
         "institute_name": "KUNWAR AJEET COLLEGE OF PHARMACY,JAUNPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1145",
+        "institute_rr_id": "I01196",
         "institute_name": "SRAJAN INSTITUTE OF PHARMACY,KHERI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1146",
+        "institute_rr_id": "I01197",
         "institute_name": "NIRMALA DEVI PHARMACY COLLEGE,JAUNPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1147",
+        "institute_rr_id": "I01198",
         "institute_name": "VIJAY PHARMACY COLLEGE,JAUNPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1148",
+        "institute_rr_id": "I01199",
         "institute_name": "I. E. T. COLLEGE OF PHARMACY,JAUNPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1149",
+        "institute_rr_id": "I01200",
         "institute_name": "DOODHNATH COLLEGE OF PHARMACY SAKRAR JHANSI,JHANSI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1150",
+        "institute_rr_id": "I01201",
         "institute_name": "DR SARVESH SHUKLA INSTITUTE OF PHARMACY,BAHRAICH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1151",
+        "institute_rr_id": "I01202",
         "institute_name": "NOVA COLLEGE OF PHARMACY,LUCKNOW",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1152",
+        "institute_rr_id": "I01203",
         "institute_name": "MODERN COLLEGE OF PHARMACY,JHANSI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1154",
+        "institute_rr_id": "I01204",
         "institute_name": "SHRI RATAN SINGH COLLEGE OF PHARMACY,SHAHJAHANPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1157",
+        "institute_rr_id": "I01207",
         "institute_name": "PAHALWAN GURUDEEN COLLEGE OF SCIENCE AND TECHNOLOGY,LALITPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1158",
+        "institute_rr_id": "I01208",
         "institute_name": "DIXIT COLLEGE OF PHARMACY AND RESEARCH,RAMPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1159",
+        "institute_rr_id": "I01209",
         "institute_name": "ZEE COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1162",
+        "institute_rr_id": "I01211",
         "institute_name": "J B S INSTITUTE OF PHARMACY MALINPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1166",
+        "institute_rr_id": "I01212",
         "institute_name": "J P PHARMACY COLLEGE",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1167",
+        "institute_rr_id": "I01213",
         "institute_name": "SANT BHEEKHADAS NAKCHHED TIWARI PHARMACY COLLEGE",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1168",
+        "institute_rr_id": "I01214",
         "institute_name": "VIIT PHARMACY COLLEGE",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1169",
+        "institute_rr_id": "I01215",
         "institute_name": "R V INSTITUTE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1170",
+        "institute_rr_id": "I01217",
         "institute_name": "SD COLLEGE OF SDCIENCE (PHARMACY)",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1171",
+        "institute_rr_id": "I01218",
         "institute_name": "SRI SAI R R INSTITUTE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1172",
+        "institute_rr_id": "I01219",
         "institute_name": "SHRI BADRINATH COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1173",
+        "institute_rr_id": "I01220",
         "institute_name": "ONE BEAT COLLEGE OF MEDICAL SCIENCES",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1174",
+        "institute_rr_id": "I01221",
         "institute_name": "SUN PHARMACY COLLEGE",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1175",
+        "institute_rr_id": "I01222",
         "institute_name": "NK COLLEGE",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1178",
+        "institute_rr_id": "I01224",
         "institute_name": "PMT COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1179",
+        "institute_rr_id": "I01225",
         "institute_name": "BABA VISHWANATH COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "118",
+        "institute_rr_id": "I01226",
         "institute_name": "NANDINI NAGAR MAHAVIDAYALA,GONDA",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1180",
+        "institute_rr_id": "I01227",
         "institute_name": "TULSA DEVI INSTITUTE OF PHARMACY AND SCIENCES",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1181",
+        "institute_rr_id": "I01228",
         "institute_name": "MAA VAISHNAVI PHARMACY COLLEGE",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1182",
+        "institute_rr_id": "I01229",
         "institute_name": "BSA COLLEGE OF ENGINEERING & TECHNOLOGY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1183",
+        "institute_rr_id": "I01230",
         "institute_name": "JAGANNATH COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1184",
+        "institute_rr_id": "I01231",
         "institute_name": "DILIP KISHORE MEHROTRA INSTITUTE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1185",
+        "institute_rr_id": "I01232",
         "institute_name": "RBS MAHAVIDYALAYA",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "120",
+        "institute_rr_id": "I01243",
         "institute_name": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,GORAKHPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1201",
+        "institute_rr_id": "I01245",
         "institute_name": "Faculty of Pharmacy AKTU",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1202",
+        "institute_rr_id": "I01246",
         "institute_name": "VIDYAWATI DEVI COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1203",
+        "institute_rr_id": "I01247",
         "institute_name": "BABU RAM CHANDRA SINGH COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1204",
+        "institute_rr_id": "I01248",
         "institute_name": "INDIRA GANDHI COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1205",
+        "institute_rr_id": "I01249",
         "institute_name": "SAI COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1206",
+        "institute_rr_id": "I01250",
         "institute_name": "R P MISHRA COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1207",
+        "institute_rr_id": "I01251",
         "institute_name": "AZAD COLLEGE OF EDUCATION",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1208",
+        "institute_rr_id": "I01252",
         "institute_name": "ITM COLLEGE OF PHARMACY AND RESEARCH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1210",
+        "institute_rr_id": "I01254",
         "institute_name": "PSIT-PRANVEER SINGH INSTITUTE OF TECHNOLOGY(PHARMACY)",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1225",
+        "institute_rr_id": "I01268",
         "institute_name": "GURUDEV INNOVATIVE COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1226",
+        "institute_rr_id": "I01269",
         "institute_name": "SHRI GULAB SINGH COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1227",
+        "institute_rr_id": "I01270",
         "institute_name": "JEEVAN GOPI INSTITUTE OF PHARMACY AND TECHNOLOGY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1228",
+        "institute_rr_id": "I01271",
         "institute_name": "VIDYAWATI NIGAM MEMORIAL COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1229",
+        "institute_rr_id": "I01272",
         "institute_name": "LATE POORAN RAM PRAKASH DIXIT COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "123",
+        "institute_rr_id": "I01273",
         "institute_name": "SAROJ INSTITUTE OF TECH. & MANAGEMENT,LUCKNOW",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1230",
+        "institute_rr_id": "I01274",
         "institute_name": "VAIDH BHOOP SINGH INSTITUTE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1231",
+        "institute_rr_id": "I01275",
         "institute_name": "P P S PHARMACY COLLEGE BHATAURA SATHIAON AZAMGARH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1232",
+        "institute_rr_id": "I01276",
         "institute_name": "LIFE LINE EDUCATIONAL INSTITUTE",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1233",
+        "institute_rr_id": "I01277",
         "institute_name": "SAI CARE COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1234",
+        "institute_rr_id": "I01278",
         "institute_name": "NARPAT SINGH COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1235",
+        "institute_rr_id": "I01279",
         "institute_name": "UDAY PRATAP PHARMACY COLLEGE",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1236",
+        "institute_rr_id": "I01280",
         "institute_name": "SAI BABA COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1237",
+        "institute_rr_id": "I01281",
         "institute_name": "SAINIK COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1238",
+        "institute_rr_id": "I01282",
         "institute_name": "SHRI KAPILDEV MEMORIAL COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1239",
+        "institute_rr_id": "I01283",
         "institute_name": "S.V.M. PHARMACY COLLEGE",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1240",
+        "institute_rr_id": "I01285",
         "institute_name": "S V M PHARMACY COLLEGE",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1241",
+        "institute_rr_id": "I01286",
         "institute_name": "RUMA INSTITUTE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1242",
+        "institute_rr_id": "I01287",
         "institute_name": "UMA COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1243",
+        "institute_rr_id": "I01288",
         "institute_name": "RENU MAHESH PHARMACY COLLEGE",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1244",
+        "institute_rr_id": "I01289",
         "institute_name": "RAMESHWARAM PHARMACY COLLEGE",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1245",
+        "institute_rr_id": "I01290",
         "institute_name": "SRI VIMAL NATH PHARMACY INSTITUTE",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1246",
+        "institute_rr_id": "I01291",
         "institute_name": "SULTANPUR INSTITUTE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1247",
+        "institute_rr_id": "I01292",
         "institute_name": "PT. RAM CHARITRA MISHRA MAHAVIDYALAYA",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1248",
+        "institute_rr_id": "I01293",
         "institute_name": "KAILASH INSTITUTE OF PHARMACY & MEDICAL SCIENCES",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1249",
+        "institute_rr_id": "I01294",
         "institute_name": "PLATINUM INSTITUTE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1250",
+        "institute_rr_id": "I01295",
         "institute_name": "SHARDA DEVI MAHAVIDYALAYA",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1251",
+        "institute_rr_id": "I01296",
         "institute_name": "AWADH PARAMEDICAL COLLEGE AND INSTITUTE",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1252",
+        "institute_rr_id": "I01297",
         "institute_name": "MAA KAUSHALYA COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1253",
+        "institute_rr_id": "I01298",
         "institute_name": "RADHA VALLABH COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1254",
+        "institute_rr_id": "I01299",
         "institute_name": "GHANSHYAM COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1255",
+        "institute_rr_id": "I01300",
         "institute_name": "RAS COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1256",
+        "institute_rr_id": "I01301",
         "institute_name": "SHREE CHANDRABHAN SINGH DEGREE COLLEGE FACULTY OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1257",
+        "institute_rr_id": "I01302",
         "institute_name": "TMS PHARMACY COLLEGE",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1259",
+        "institute_rr_id": "I01303",
         "institute_name": "PRABHAT COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1260",
+        "institute_rr_id": "I01304",
         "institute_name": "ANANTRAJ INSTITUTE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1261",
+        "institute_rr_id": "I01305",
         "institute_name": "SHRI RAM COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1262",
+        "institute_rr_id": "I01306",
         "institute_name": "MADHU VACHASPATI INSTITUTE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1263",
+        "institute_rr_id": "I01307",
         "institute_name": "MAHRISHI COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1264",
+        "institute_rr_id": "I01308",
         "institute_name": "RAJ KALI DEVI PHARMACY COLLEGE",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1265",
+        "institute_rr_id": "I01309",
         "institute_name": "Panchsheel College of Pharmacy",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1266",
+        "institute_rr_id": "I01310",
         "institute_name": "APEX COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1267",
+        "institute_rr_id": "I01311",
         "institute_name": "SAHARA DEGREE COLLEGE",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1268",
+        "institute_rr_id": "I01312",
         "institute_name": "DREAMS COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1269",
+        "institute_rr_id": "I01313",
         "institute_name": "Jamia College Of Pharmacy",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1270",
+        "institute_rr_id": "I01315",
         "institute_name": "R.S. PHARMACY COLLEGE",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1271",
+        "institute_rr_id": "I01316",
         "institute_name": "VIMLA INSTITUTE OF PHARMACY, KANPUR NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1272",
+        "institute_rr_id": "I01317",
         "institute_name": "KRISHNA INSTITUTE OF PHARMACY, Mirzapur",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1273",
+        "institute_rr_id": "I01318",
         "institute_name": "PANDIT DEV NARAYAN SHUKLA COLLEGE OF PHARMACY FATEHPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1274",
+        "institute_rr_id": "I01319",
         "institute_name": "INDRAPRASTHA INSTITUTE OF MANAGEMENT AND TECHNOLOGY SAHARANPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1275",
+        "institute_rr_id": "I01320",
         "institute_name": "SMT CHAMPA DEVI SHIKSHA PRAKSHISHAN COLLEGE, GORAKHPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1276",
+        "institute_rr_id": "I01321",
         "institute_name": "CROSS BELLY INSTITUTE OF PHARMACY AZAMGARH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1277",
+        "institute_rr_id": "I01322",
         "institute_name": "BADULI PHARMACY COLLEGE SAHARANPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "128",
+        "institute_rr_id": "I01325",
         "institute_name": "BHARAT INSTITUTE OF TECHNOLOGY,MEERUT",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1297",
+        "institute_rr_id": "I01344",
         "institute_name": "BHAGWATI PRASAD MEMORIAL PHARMACY COLLEGE, MAHARAJGANJ",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1298",
+        "institute_rr_id": "I01345",
         "institute_name": "NARVADESHWAR PHARMACY COLLEGE",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1299",
+        "institute_rr_id": "I01346",
         "institute_name": "MANGLA DEVI SMARAK POLYTECHNIC COLLEGE",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1300",
+        "institute_rr_id": "I01347",
         "institute_name": "UNITED COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1301",
+        "institute_rr_id": "I01348",
         "institute_name": "BBS COLLEGE OF PHARMACY AND POLYTECHNIC",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1302",
+        "institute_rr_id": "I01349",
         "institute_name": "INTEGRATED ACADEMY OF MANAGEMENT AND TECHNOLOGY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1303",
+        "institute_rr_id": "I01350",
         "institute_name": "Shri Ramswaroop Memorial College of Engineering and Management (Pharmacy)",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1304",
+        "institute_rr_id": "I01351",
         "institute_name": "SHRI NATH BABA COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1305",
+        "institute_rr_id": "I01352",
         "institute_name": "SCM College of Pharmacy",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1306",
+        "institute_rr_id": "I01353",
         "institute_name": "DR. K. L. PATEL COLLEGE OF PROFESSIONAL STUDIES",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1307",
+        "institute_rr_id": "I01354",
         "institute_name": "A B COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1308",
+        "institute_rr_id": "I01355",
         "institute_name": "NIIT COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1309",
+        "institute_rr_id": "I01356",
         "institute_name": "Ishan Institute of Pharmacy",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1310",
+        "institute_rr_id": "I01357",
         "institute_name": "GREATER NOIDA INSTITUTE OF PHARMACEUTICAL EDUCATION AND RESEARCH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1311",
+        "institute_rr_id": "I01358",
         "institute_name": "RAJSHREE COLLEGE OF PHARMACY BAREILLY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1312",
+        "institute_rr_id": "I01359",
         "institute_name": "MAHALWAR INSTITUTE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1313",
+        "institute_rr_id": "I01360",
         "institute_name": "INSTITUTE OF MEDICAL SCIENCES",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1314",
+        "institute_rr_id": "I01361",
         "institute_name": "RAJNARAYAN PHARMACY COLLEGE",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1315",
+        "institute_rr_id": "I01362",
         "institute_name": "DR PRAFULLA CHANDRA RAY SUBHARTI COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1316",
+        "institute_rr_id": "I01363",
         "institute_name": "PRINCE INSTITUTE OF INNOVATIVE TECHNOLOGY GREATER NOIDA",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1317",
+        "institute_rr_id": "I01364",
         "institute_name": "RUKMANI COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1318",
+        "institute_rr_id": "I01365",
         "institute_name": "ADHUNIK INSTITUTE OF EDUCATION AND RESEARCH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1319",
+        "institute_rr_id": "I01366",
         "institute_name": "DIVYA COLLEGE OF PHARMACY MAHARAJGANJ",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1320",
+        "institute_rr_id": "I01368",
         "institute_name": "VIMLA VIKRAM DEGREE MAHAVIDYALAYA COLLEGE",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1321",
+        "institute_rr_id": "I01369",
         "institute_name": "DEV INDRAWATI COLLEGE OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1322",
+        "institute_rr_id": "I01370",
         "institute_name": "Santushti College of Medical and Higher Studies",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1323",
+        "institute_rr_id": "I01371",
         "institute_name": "R L Institute of Pharmacy",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1324",
+        "institute_rr_id": "I01372",
         "institute_name": "Subhadra Devi Mularam Pharmacy College",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "1325",
+        "institute_rr_id": "I01373",
         "institute_name": "J.P. Pharmacy College",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "136",
+        "institute_rr_id": "I01377",
         "institute_name": "S.D.COLLEGE OF PHARMACY AND VOCATIONAL STUDIES,MUZAFFARNAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "144",
+        "institute_rr_id": "I01383",
         "institute_name": "PRASAD INSTITUTE OF TECHNOLOGY,JAUNPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "167",
+        "institute_rr_id": "I01396",
         "institute_name": "RAJARSHI RANANJAY SINGH COLLEGE OF PHARMACY,SULTANPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "168",
+        "institute_rr_id": "I01397",
         "institute_name": "SMT. VIDYAWATI COLELGE OF PHARMACY,JHANSI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "169",
+        "institute_rr_id": "I01398",
         "institute_name": "RAKSHAPAL BAHADUR COLLEGE OF PHARMACY,BAREILLY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "170",
+        "institute_rr_id": "I01399",
         "institute_name": "I.T.S. COLLEGE OF PHARMACY,GHAZIABAD",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "171",
+        "institute_rr_id": "I01400",
         "institute_name": "SRI.R.L.T. INSTITUTE OF PHARMECUTICAL SCIENCE & TECHNOLOGY,ETAWAH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "172",
+        "institute_rr_id": "I01401",
         "institute_name": "LLOYD INSTITUTE OF MANAGEMENT & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "182",
+        "institute_rr_id": "I01406",
         "institute_name": "KALKA INSTITUTE FOR RESEARCH & ADVANCED STUDIES,MEERUT",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "186",
+        "institute_rr_id": "I01407",
         "institute_name": "KAMLA NEHRU INSTITUTE OF MANAGEMENT & TECHNOLOGY,SULTANPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "188",
+        "institute_rr_id": "I01409",
         "institute_name": "ADVANCED INSTITUTE OF BIO-TECH & PARAMEDICAL SCIENCES,KANPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "197",
+        "institute_rr_id": "I01413",
         "institute_name": "AZAD INSTITUTE OF PHARMACY & RESEARCH,LUCKNOW",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "200",
+        "institute_rr_id": "I01414",
         "institute_name": "MAHARANA PRATAP COLLEGE OF PHARMACY,KANPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "201",
+        "institute_rr_id": "I01415",
         "institute_name": "NKBR COLLEGE OF PHARMACY & RESEARCH CENTER,MEERUT",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "202",
+        "institute_rr_id": "I01416",
         "institute_name": "HYGIA INSTITUTE OF PHARMACEUTICAL EDUCATION AND RESEARCH, LUCKNOW,LUCKNOW",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "203",
+        "institute_rr_id": "I01417",
         "institute_name": "RAMESHWARAM INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "204",
+        "institute_rr_id": "I01418",
         "institute_name": "R.V.NORTHLAND INSTITUTE,GAUTAM BUDDH NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "205",
+        "institute_rr_id": "I01419",
         "institute_name": "SHRI HARISH CHANDRA POST GRADUATE COLLEGE, INSTITUTE OF PHARMACY,VARANASI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "206",
+        "institute_rr_id": "I01420",
         "institute_name": "TRANSLAM INSTITUTE OF PHARMACEUTICAL EDUCATION & RESEARCH,MEERUT",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "214",
+        "institute_rr_id": "I01422",
         "institute_name": "HIMT COLLEGE OF PHARMACY,GAUTAM BUDDH NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "219",
+        "institute_rr_id": "I01425",
         "institute_name": "BHAGAWANT INSTITUTE OF PHARMACY,MUZAFFARNAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "227",
+        "institute_rr_id": "I01430",
         "institute_name": "INNOVATIVE COLLEGE OF PHARMACY,GAUTAM BUDDH NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "233",
+        "institute_rr_id": "I01433",
         "institute_name": "R.K.PHARMACY COLLEGE,AZAMGARH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "234",
+        "institute_rr_id": "I01434",
         "institute_name": "ALIGARH COLLEGE OF PHARMACY,ALIGARH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "235",
+        "institute_rr_id": "I01435",
         "institute_name": "RAJEEV GANDHI COLLEGE OF PHARMACY,MAHARAJGANJ",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "236",
+        "institute_rr_id": "I01436",
         "institute_name": "SIR MADAN LAL INSTITUTE OF PHARMACY,ETAWAH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "241",
+        "institute_rr_id": "I01438",
         "institute_name": "SHAMBHU NATH INSTITUTE OF PHARMACY,ALLAHABAD",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "243",
+        "institute_rr_id": "I01439",
         "institute_name": "COLLEGE OF PHARMACY,AGRA",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "246",
+        "institute_rr_id": "I01440",
         "institute_name": "DAYANAND DEENANATH COLLEGE, INSTITUTE OF PHARMACY,KANPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "247",
+        "institute_rr_id": "I01441",
         "institute_name": "IIMT COLLEGE OF PHARMACY,GAUTAM BUDDH NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "258",
+        "institute_rr_id": "I01444",
         "institute_name": "INSTITUTE OF PHARMACY,SITAPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "260",
+        "institute_rr_id": "I01445",
         "institute_name": "IBNE SEENA PHARMACY COLLEGE,HARDOI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "261",
+        "institute_rr_id": "I01446",
         "institute_name": "SHAKTI COLLEGE OF PHARMACY,BALRAMPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "262",
+        "institute_rr_id": "I01447",
         "institute_name": "INSTITUTE OF PHARMACEUTICAL SCIENCE & RESEARCH,UNNAO",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "266",
+        "institute_rr_id": "I01449",
         "institute_name": "LTR INSTITUTE OF TECHNOLOGY , MEERUT",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "292",
+        "institute_rr_id": "I01459",
         "institute_name": "MEERUT INSTITUTE OF TECHNOLOGY,MEERUT",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "295",
+        "institute_rr_id": "I01460",
         "institute_name": "B.B.S. INSTITUTE OF PHARMECUTICAL & ALLIED SCIENCE,,GAUTAM BUDDH NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "299",
+        "institute_rr_id": "I01461",
         "institute_name": "DOON COLLEGE OF EDUCATION,,SAHARANPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "300",
+        "institute_rr_id": "I01462",
         "institute_name": "SARSWATI HIGHIER EDUCATION & TECHNICAL COLLEGE OF PHARMACY,,VARANASI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "301",
+        "institute_rr_id": "I01463",
         "institute_name": "SAGAR INSTITUTE OF TECHNOLOGY & MANAGEMENT, DEPTT OF PHARMACY,,BARABANKI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "303",
+        "institute_rr_id": "I01464",
         "institute_name": "DR. M.C.SAXENA COLLEGE OF PHARMACY,,LUCKNOW",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "315",
+        "institute_rr_id": "I01470",
         "institute_name": "UNITED INSTITUTE OF PHARMACY, UNITED COLLEGE OF ENGG. & RESEARCH,,ALLAHABAD",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "316",
+        "institute_rr_id": "I01471",
         "institute_name": "ARYAKUL COLLEGE OF PHARMACY & RESEARCH ,,LUCKNOW",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "323",
+        "institute_rr_id": "I01474",
         "institute_name": "SPECTRUM INSTITUTE OF PHARMACEUTICAL SCIENCE & RESEARCH,GAUTAM BUDDH NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "324",
+        "institute_rr_id": "I01475",
         "institute_name": "ANJALI COLLEGE OF PHARMACY & SCIENCE,AGRA",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "387",
+        "institute_rr_id": "I01496",
         "institute_name": "SR GROUP OF INSTITUTIONS (COLLEGE OF PHARMACY),JHANSI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "389",
+        "institute_rr_id": "I01497",
         "institute_name": "OXFORD COLLEGE OF PHARMACY,GHAZIABAD",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "390",
+        "institute_rr_id": "I01498",
         "institute_name": "K.R.S. COLLEGE OF PHARMACY,GONDA",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "391",
+        "institute_rr_id": "I01499",
         "institute_name": "MAHATMA GANDHI INSTITUTE OF PHARMACY,LUCKNOW",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "392",
+        "institute_rr_id": "I01500",
         "institute_name": "GOEL INSTITUTE OF PHARMACY & SCIENCES,LUCKNOW",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "393",
+        "institute_rr_id": "I01501",
         "institute_name": "VARANASI COLLEGE OF PHARMACY,VARANASI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "453",
+        "institute_rr_id": "I01517",
         "institute_name": "KUNWAR HARIBANSH SINGH COLLEGE OF PHARMACY,JAUNPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "516",
+        "institute_rr_id": "I01544",
         "institute_name": "KAILASH INSTITUTE OF PHARMACY & MANAGEMENT,GORAKHPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "550",
+        "institute_rr_id": "I01559",
         "institute_name": "KANPUR INSTITUTE OF TECHNOLOGY AND PHARMACY,KANPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "551",
+        "institute_rr_id": "I01560",
         "institute_name": "KASHI INSTITUTE OF PHARMACY,VARANASI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "552",
+        "institute_rr_id": "I01561",
         "institute_name": "CHANDRA SHEKHAR SINGH COLLEGE OF PHARMACY,KAUSHAMBI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "554",
+        "institute_rr_id": "I01562",
         "institute_name": "NARAINA VIDYA PEETH \" GROUP OF INSTITUTIONS\" FACULTY OF PHARMACY,KANPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "571",
+        "institute_rr_id": "I01565",
         "institute_name": "DR. B.R.AMBEDKAR POOJA COLLEGE OF PHARMACY,GORAKHPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "575",
+        "institute_rr_id": "I01566",
         "institute_name": "MALTI MEMORIAL TRUSTS CSM \"GROUP OF INSTITUTIONS\" FACULTY OF B.PHARMACY,ALLAHABAD",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "598",
+        "institute_rr_id": "I01576",
         "institute_name": "MORADABD EDUCATIONAL TRUST(MET) \"GROUP OF INSTITUTIONS\" FACULTY OF PHARMACY,MORADABAD",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "641",
+        "institute_rr_id": "I01587",
         "institute_name": "ASHOKA INSTITUTE OF TECHNOLOGY & MANAGEMENT,VARANASI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "657",
+        "institute_rr_id": "I01592",
         "institute_name": "KRISHNAPIT INSTITUTE OF PHARMACY,ALLAHABAD",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "671",
+        "institute_rr_id": "I01595",
         "institute_name": "BRAHMANAND GROUP OF INSTITUTIONS,BULANDSHAHAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "697",
+        "institute_rr_id": "I01606",
         "institute_name": "AGRA PUBLIC COLLEGE OF TECHNOLOGY & MANAGEMENT,AGRA",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "705",
+        "institute_rr_id": "I01608",
         "institute_name": "JMS GROUP OF INSTITUTIONS,GHAZIABAD",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "741",
+        "institute_rr_id": "I01624",
         "institute_name": "J.K.INSTITUTE OF PHARMACY & MANAGEMENT,BULANDSHAHAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "764",
+        "institute_rr_id": "I01633",
         "institute_name": "SMT. FULEHRA SMARAK COLLEGE OF PHARMACY,BALLIA",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "844",
+        "institute_rr_id": "I01660",
         "institute_name": "JANTA COLLEGE OF PHARMACY, BIJNOR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "845",
+        "institute_rr_id": "I01661",
         "institute_name": "KRISHNA PHARMACY COLLEGE, BIJNOR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "846",
+        "institute_rr_id": "I01662",
         "institute_name": "SANSKAR COLLEGE OF PHARMACY & RESEARCH, GHAZIABAD",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "851",
+        "institute_rr_id": "I01664",
         "institute_name": "BHAVDIYA INSTITUTE OF PHARMACEUTICAL SCIENCES AND RESEARCH,FAIZABAD",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "852",
+        "institute_rr_id": "I01665",
         "institute_name": "METRO COLLEGE OF HEALTH SCIENCES & RESEARCH,GAUTAM BUDDH NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "854",
+        "institute_rr_id": "I01666",
         "institute_name": "SAHARANPUR PHARMACY COLLEGE,SAHARANPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "855",
+        "institute_rr_id": "I01667",
         "institute_name": "SHRI RAWATPURA SARKAR INSTITUTE OF PHARMACY,JHANSI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "856",
+        "institute_rr_id": "I01668",
         "institute_name": "VEER VIJAY PHARMACY COLLEGE,SAHARANPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "860",
+        "institute_rr_id": "I01671",
         "institute_name": "RAHUL SANKRITYAYAN COLLEGE OF PHARMACY,AZAMGARH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "861",
+        "institute_rr_id": "I01672",
         "institute_name": "SARAS COLLEGE OF PHARMACY,BAGHPAT",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "862",
+        "institute_rr_id": "I01673",
         "institute_name": "SETH VISHAMBHAR NATH INSTITUTE OF PHARMACEUTICAL SCIENCES,BARABANKI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "863",
+        "institute_rr_id": "I01674",
         "institute_name": "SETH VISHAMBHAR NATH INSTITUTE OF PHARMACY,BARABANKI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "864",
+        "institute_rr_id": "I01675",
         "institute_name": "TRC MAHAVIDYALAYA, DEPARTMENT OF PHARMACY,BARABANKI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "866",
+        "institute_rr_id": "I01676",
         "institute_name": "A.N.A INSTITUTE OF PHARMACEUTICAL SCIENCES & RESEARCH,BAREILLY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "867",
+        "institute_rr_id": "I01677",
         "institute_name": "S.R. INSTITUTE OF PHARMACY,BAREILLY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "868",
+        "institute_rr_id": "I01678",
         "institute_name": "STELLER INSTITUTE OF PHARMACY,BAREILLY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "869",
+        "institute_rr_id": "I01679",
         "institute_name": "KRISHNA INSTITUTE,BIJNOR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "871",
+        "institute_rr_id": "I01680",
         "institute_name": "HILLWOOD MEDICAL SCHOOL,BULANDSHAHR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "872",
+        "institute_rr_id": "I01681",
         "institute_name": "DR. OM PRAKASH SCHOOL OF PHARMACY,FARRUKHABAD",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "873",
+        "institute_rr_id": "I01682",
         "institute_name": "SHIV BALI SINGH GROUP OF EDUCATIONAL AND TRAINING INSTITUTE COLLEGE OF PHARMACY,FATEHPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "875",
+        "institute_rr_id": "I01683",
         "institute_name": "LLOYD SCHOOL OF PHARMACY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "877",
+        "institute_rr_id": "I01684",
         "institute_name": "BBDIT COLLEGE OF PHARMACY,GHAZIABAD",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "878",
+        "institute_rr_id": "I01685",
         "institute_name": "D. J. COLLEGE OF PHARMACY,GHAZIABAD",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "879",
+        "institute_rr_id": "I01686",
         "institute_name": "DR. RAM MANOHAR LOHIA COLLEGE OF PHARMACY,GHAZIABAD",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "880",
+        "institute_rr_id": "I01687",
         "institute_name": "LUTAWAN INSTITUTE OF PHARMACY,GHAZIPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "881",
+        "institute_rr_id": "I01688",
         "institute_name": "SATYADEO COLLEGE OF PHARMACY,GHAZIPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "882",
+        "institute_rr_id": "I01689",
         "institute_name": "TAHIRA INSTITUTE OF MEDICAL SCIENCES,GORAKHPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "883",
+        "institute_rr_id": "I01690",
         "institute_name": "R.D.S COLLEGE OF PHARMACY,JAUNPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "886",
+        "institute_rr_id": "I01691",
         "institute_name": "YOGENDRA NATH SAXENA COLLEGE OF PHARMACY & RESEARCH,JYOTIBA PHULE NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "888",
+        "institute_rr_id": "I01692",
         "institute_name": "SANSKRITI COLLEGE OF HIGHER EDUCATION AND STUDIES,KANPUR DEHAT",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "889",
+        "institute_rr_id": "I01693",
         "institute_name": "MAHARANA PRATAP COLLEGE OF PHARMACEUTICAL SCIENCES,KANPUR NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "890",
+        "institute_rr_id": "I01694",
         "institute_name": "LATE RAVINDRANAND BARONIA COLLEGE OF PHARMACY MAHRONI,LALITPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "893",
+        "institute_rr_id": "I01695",
         "institute_name": "GCRG COLLEGE OF PHARMACY,LUCKNOW",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "894",
+        "institute_rr_id": "I01696",
         "institute_name": "GSRM MEMORIAL COLLEGE OF PHARMACY,LUCKNOW",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "895",
+        "institute_rr_id": "I01697",
         "institute_name": "HYGIA INSTITUTE OF PHARMACY,LUCKNOW",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "896",
+        "institute_rr_id": "I01698",
         "institute_name": "J. P. COLLEGE OF PHARMACY,LUCKNOW",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "898",
+        "institute_rr_id": "I01699",
         "institute_name": "YASH RAJ INSTITUTE OF PHARMACY,LUCKNOW",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "900",
+        "institute_rr_id": "I01701",
         "institute_name": "ITM COLLEGE OF PHARMACY,MAHARAJGANJ",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "901",
+        "institute_rr_id": "I01702",
         "institute_name": "DIVYA COLLEGE OF PHARMACY,MATHURA",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "904",
+        "institute_rr_id": "I01703",
         "institute_name": "APEX INSTITUTE OF PHARMACY,MIRZAPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "905",
+        "institute_rr_id": "I01704",
         "institute_name": "VINDHYA GURUKUL COLLEGE OF PHARMACY,MIRZAPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "906",
+        "institute_rr_id": "I01705",
         "institute_name": "R. K. COLLEGE OF PHARMACY,MORADABAD",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "907",
+        "institute_rr_id": "I01706",
         "institute_name": "SUYASH INSTITUTE OF PHARMACY,GORAKHPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "908",
+        "institute_rr_id": "I01707",
         "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY(PHARMACY INSTITUTE),GAUTAM BUDDH NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "909",
+        "institute_rr_id": "I01708",
         "institute_name": "MAA BHAGWATI COLLEGE OF PHARMACY , LUCKNOW",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "910",
+        "institute_rr_id": "I01709",
         "institute_name": "SAI MEER COLLEGE OF PHARMACY , KANNAUJ",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "912",
+        "institute_rr_id": "I01710",
         "institute_name": "SHRI SIDDHI VINAYAK COLLEGE OF PHARMACY , AGRA",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "914",
+        "institute_rr_id": "I01711",
         "institute_name": "RJ COLLEGE OF PHARMACY , ALIGARH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "915",
+        "institute_rr_id": "I01712",
         "institute_name": "MAA GAYATRI COLLEGE OF PHARMACY , ALLAHABAD",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "916",
+        "institute_rr_id": "I01713",
         "institute_name": "MAYA INSTITUTE OF PHARMACY , HATHRAS",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "917",
+        "institute_rr_id": "I01714",
         "institute_name": "R.K. COLLEGE OF PHARMACY , ALLAHABAD",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "918",
+        "institute_rr_id": "I01715",
         "institute_name": "M.G.B. RAJAT COLLEGE OF PHARMACY AND MANAGEMENT , AMBEDKAR NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "919",
+        "institute_rr_id": "I01716",
         "institute_name": "B N COLLEGE OF PHARMACY , LUCKNOW",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "920",
+        "institute_rr_id": "I01717",
         "institute_name": "RAMDENI SINGH JAGDISH SINGH MEMORIAL SAMITI , AZAMGARH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "921",
+        "institute_rr_id": "I01718",
         "institute_name": "SWAMI SAHAJANAND COLLEGE OF PHARMACY , AZAMGARH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "922",
+        "institute_rr_id": "I01719",
         "institute_name": "S.S.S. COLLEGE OF PHARMACY , AZAMGARH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "923",
+        "institute_rr_id": "I01720",
         "institute_name": "S. K. MISHRA COLLEGE OF PHARMACY , AZAMGARH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "924",
+        "institute_rr_id": "I01721",
         "institute_name": "BHAGWAN ADARSH PHARMACY COLLEGE , AZAMGARH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "925",
+        "institute_rr_id": "I01722",
         "institute_name": "BABU SATIRAM JAIKARAN SMARAK PHARMACY COLLEGE , AZAMGARH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "926",
+        "institute_rr_id": "I01723",
         "institute_name": "MATA DULARI DEVI PHARMACY COLLEGE , AZAMGARH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "927",
+        "institute_rr_id": "I01724",
         "institute_name": "B. N. PHARMACY COLLEGE , AZAMGARH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "929",
+        "institute_rr_id": "I01725",
         "institute_name": "SHRI KASHI CHANDRADEV YADAV PHARMCY COLLEGE , AZAMGARH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "930",
+        "institute_rr_id": "I01726",
         "institute_name": "JAINATH MEMORIAL PHARMACY COLLEGE , AZAMGARH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "931",
+        "institute_rr_id": "I01727",
         "institute_name": "VINAYAK PHARMACY COLLEGE , AZAMGARH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "932",
+        "institute_rr_id": "I01728",
         "institute_name": "BUDDHA INSTITUTE OF PHARMACY , GORAKHPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "933",
+        "institute_rr_id": "I01729",
         "institute_name": "PRABHAKAR COLLEGE OF PHARMACY , AZAMGARH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "934",
+        "institute_rr_id": "I01730",
         "institute_name": "PT. NAGINA COLLEGE OF PHARMACY , AZAMGARH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "936",
+        "institute_rr_id": "I01731",
         "institute_name": "BHAGWATI COLLEGE OF PHARMACY , BAGHPAT",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "937",
+        "institute_rr_id": "I01732",
         "institute_name": "GOVERNMENT PHARMACY COLLEGE, BRD MEDICAL COLLEGE CAMPUS, GORAKHPUR , GORAKHPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "938",
+        "institute_rr_id": "I01733",
         "institute_name": "MAA MATURNI DEVI MAHAVIDYALAY , BALLIA",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "939",
+        "institute_rr_id": "I01734",
         "institute_name": "CITY COLLEGE OF PHARMACY , BARABANKI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "940",
+        "institute_rr_id": "I01735",
         "institute_name": "RAM NAGINA PHARMACY COLLEGE , SONBHADRA",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "941",
+        "institute_rr_id": "I01736",
         "institute_name": "SAGAR COLLEGE OF PHARMACY , BARABANKI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "942",
+        "institute_rr_id": "I01737",
         "institute_name": "CITY SCHOOL OF PHARMACY , BARABANKI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "944",
+        "institute_rr_id": "I01738",
         "institute_name": "NANDLAL PRABHU DEVI PROFESSIONAL INSTITUTE , BARABANKI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "945",
+        "institute_rr_id": "I01739",
         "institute_name": "S.N.A. INSTITUTE OF PHARMACY , BARABANKI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "946",
+        "institute_rr_id": "I01740",
         "institute_name": "JAGMEET MEMORIAL COLLEGE OF PHARMACY , BIJNOR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "947",
+        "institute_rr_id": "I01741",
         "institute_name": "DR. RAJENDRA PRASAD SIKSHAN SANSTHAN GANGCHAULI , BARABANKI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "948",
+        "institute_rr_id": "I01742",
         "institute_name": "POINEER INSTITUTE OF PHARMACY , BAREILLY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "949",
+        "institute_rr_id": "I01743",
         "institute_name": "UNIVERSAL INSTITUTE OF PHARMACY , BAREILLY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "951",
+        "institute_rr_id": "I01745",
         "institute_name": "INDU PRAKASH PHARMACY COLLEGE , MAU",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "952",
+        "institute_rr_id": "I01746",
         "institute_name": "ACME INSTITUTE OF PHARMACY , BAREILLY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "953",
+        "institute_rr_id": "I01747",
         "institute_name": "PT RAJENDRA PRASAD SMARAK COLLEGE OF PHARMACY , BAREILLY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "954",
+        "institute_rr_id": "I01748",
         "institute_name": "SAMAHI COLLEGE OF PHARMACY , AURAIYA",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "955",
+        "institute_rr_id": "I01749",
         "institute_name": "KRITIKA PHARMACY COLLEGE , BAREILLY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "956",
+        "institute_rr_id": "I01750",
         "institute_name": "ARYA COLLEGE OF PHARMACY , BAREILLY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "957",
+        "institute_rr_id": "I01751",
         "institute_name": "LOTUS INSTITUTE OF PHARMACY , BAREILLY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "958",
+        "institute_rr_id": "I01752",
         "institute_name": "R. C. C. COLLEGE OF PHARMACY , BASTI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "959",
+        "institute_rr_id": "I01753",
         "institute_name": "PRADUMAN SINGH SHIKSHAN PRASHIKSHAN SANSTHAN PHARMACY COLLEGE , BASTI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "960",
+        "institute_rr_id": "I01754",
         "institute_name": "GOEL INSTITUTE OF PHARMACEUTICAL SCIENCES , LUCKNOW",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "961",
+        "institute_rr_id": "I01755",
         "institute_name": "LAKSHYA COLLEGE OF MANAGEMENT AND TECHNOLOGY , BIJNOR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "962",
+        "institute_rr_id": "I01756",
         "institute_name": "VEER KUNWAR COLLEGE OF PHARMACY , BIJNOR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "963",
+        "institute_rr_id": "I01757",
         "institute_name": "R. K. INSTITUTE OF PHARMACY , BAREILLY",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "964",
+        "institute_rr_id": "I01758",
         "institute_name": "PRATHVIRAJ CHAUHAN INSTITUTE OF MEDICAL SCIENCES , BIJNOR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "965",
+        "institute_rr_id": "I01759",
         "institute_name": "LBSS DEGREE COLLEGE , BIJNOR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "967",
+        "institute_rr_id": "I01760",
         "institute_name": "ROOTS INSTITUTE OF PROFESSIONAL EDUCATION , BIJNOR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "969",
+        "institute_rr_id": "I01761",
         "institute_name": "SHIKHAR INSTITUTE OF PHARMACY , BUDAUN",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "970",
+        "institute_rr_id": "I01762",
         "institute_name": "L.N.PHARMACY COLLEGE , DEORIA",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "971",
+        "institute_rr_id": "I01763",
         "institute_name": "LPM COLLEGE OF PHARMACY , DEORIA",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "972",
+        "institute_rr_id": "I01764",
         "institute_name": "BPS EDUCATIONAL INSTITUTION OF PHARMACY , ETAH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "974",
+        "institute_rr_id": "I01765",
         "institute_name": "CH. SUGHAR SINGH PHARMACY COLLEGE , ETAWAH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "975",
+        "institute_rr_id": "I01766",
         "institute_name": "URMILA COLLEGE OF PHARMACY , FAIZABAD",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "976",
+        "institute_rr_id": "I01767",
         "institute_name": "MAA SHARDA PHARMACY COLLEGE , FAIZABAD",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "977",
+        "institute_rr_id": "I01768",
         "institute_name": "SHAKUNTALA DEVI COLLEGE OF PHARMACY , FARRUKHABAD",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "980",
+        "institute_rr_id": "I01769",
         "institute_name": "PARMARTH COLLEGE OF PHARMACY , GHAZIABAD",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "981",
+        "institute_rr_id": "I01770",
         "institute_name": "AMARDEEP COLLEGE OF PHARMACY , FIROZABAD",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "983",
+        "institute_rr_id": "I01772",
         "institute_name": "ASHA PHARMACY COLLEGE , VARANASI",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "984",
+        "institute_rr_id": "I01773",
         "institute_name": "ORLEAN COLLEGE OF PHARMACY , GAUTAM BUDDHA NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "985",
+        "institute_rr_id": "I01774",
         "institute_name": "GNIT COLLEGE OF PHARMACY , GAUTAM BUDDHA NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "986",
+        "institute_rr_id": "I01775",
         "institute_name": "ACCURATE COLLEGE OF PHARMACY , GAUTAM BUDDHA NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "989",
+        "institute_rr_id": "I01776",
         "institute_name": "UNITED COLLEGE OF ENGINEERING AND RESEARCH(PHARMACY), GREATER NOIDA , GAUTAM BUDDHA NAGAR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "991",
+        "institute_rr_id": "I01778",
         "institute_name": "MAA SARASWATI PARAMEDICAL INSTITUTE , GHAZIPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "992",
+        "institute_rr_id": "I01779",
         "institute_name": "VISHWANATH INSTITUTE OF PHARMACY , GHAZIPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "993",
+        "institute_rr_id": "I01780",
         "institute_name": "S.G.M. INSTITUTE OF PHARMACY , GHAZIPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "995",
+        "institute_rr_id": "I01781",
         "institute_name": "I. D. MEMORIAL COLLEGE OF PHARMACY , GHAZIPUR",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "997",
+        "institute_rr_id": "I01783",
         "institute_name": "HAKIKULLAH CHAUDHARY COLLEGE OF PHARMACY , GONDA",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       },
       {
         "institute_code": "998",
+        "institute_rr_id": "I01784",
         "institute_name": "CROSS BELLY COLLEGE OF PHARMACY , AZAMGARH",
-        "branch": "Bachelor of Pharmacy"
+        "branch": "Bachelor of Pharmacy",
+        "branch_rr_id": "B010201"
       }
     ]
   },
   "meta": {
-    "api_version": "1.0.0",
-    "generated_at": "2026-11-08T18:49:58+05:30",
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
     "count": 446
   }
 }

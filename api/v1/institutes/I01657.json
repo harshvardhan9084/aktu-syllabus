@@ -1,0 +1,51 @@
+{
+  "data": {
+    "rr_id": "I01657",
+    "institute_code": "840",
+    "institute_name": "LOKMATA DEVI AHILYA BAI HOLKAR RAJKIYA ENGINEERING COLLEGE MAINPURI",
+    "institute_address": "Rajkiya Engineering College, Agra Road Kharra Mainpuri, Uttar Pradesh - 205119",
+    "institute_mobile": "7081066665",
+    "institute_email": "director.gecm@gmail.com",
+    "course_count_declared": 5,
+    "courses": [
+      {
+        "course": "Bachelor of Technology",
+        "rr_id": "C0101",
+        "branches": [
+          "Civil Engineering",
+          "Computer Science and Engineering",
+          "Information Technology",
+          "Electrical Engineering",
+          "Mechanical Engineering"
+        ],
+        "branch_details": [
+          {
+            "branch": "Civil Engineering",
+            "rr_id": "B010114"
+          },
+          {
+            "branch": "Computer Science and Engineering",
+            "rr_id": "B010127"
+          },
+          {
+            "branch": "Information Technology",
+            "rr_id": "B010148"
+          },
+          {
+            "branch": "Electrical Engineering",
+            "rr_id": "B010136"
+          },
+          {
+            "branch": "Mechanical Engineering",
+            "rr_id": "B010153"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}

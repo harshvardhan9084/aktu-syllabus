@@ -1,0 +1,24 @@
+{
+  "data": {
+    "rr_id": "B010308",
+    "branch": "MBA(Logistics and supply chain management)",
+    "course": {
+      "course": "Masters of Business Administration",
+      "rr_id": "C0103",
+      "slug": "masters-of-business-administration"
+    },
+    "institute_count": 1,
+    "institutes": [
+      {
+        "rr_id": "I01058",
+        "institute_code": "097",
+        "institute_name": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR"
+      }
+    ]
+  },
+  "meta": {
+    "api_version": "1.1.0",
+    "generated_at": "2026-11-13T14:32:36+05:30",
+    "count": 1
+  }
+}
