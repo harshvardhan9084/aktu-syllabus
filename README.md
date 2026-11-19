@@ -62,11 +62,11 @@ course and branch: **[`docs/rr-id-reference.md`](docs/rr-id-reference.md)**.
 
 The repo root ships a dependency-free single-page explorer over the API.
 
-- **GitHub Pages (the app's home):** `https://harshvardhan9084.github.io/aktu-syllabus/`
-  — enable once in *Settings → Pages → Deploy from a branch → `main` / `(root)`*.
+- **GitHub Pages (the app's home, live):** `https://harshvardhan9084.github.io/aktu-syllabus/`
+  — deployed from `main` / root.
   CDN security policies (jsDelivr, statically) force `.html` to `text/plain`, so those
   CDNs serve the JSON endpoints perfectly but **cannot render this app**.
-- **Until Pages is enabled:** any static server of this folder works, e.g.
+- **Local/static hosting:** any static server of this folder works too, e.g.
   `python3 -m http.server` → `http://localhost:8000/`. (raw.githack renders it
   behind a click-through notice page.)
 
