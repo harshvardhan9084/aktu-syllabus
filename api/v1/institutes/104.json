@@ -9,7 +9,7 @@
     "course_count_declared": 17,
     "courses": [
       {
-        "course": "M.Tech (Part Time)",
+        "course": "Master of Technology (Part Time)",
         "rr_id": "C0115",
         "branches": [
           "Civil Engineering",
@@ -47,7 +47,7 @@
         "branches": [
           "Computer Science and Engineering",
           "Thermal Engineering",
-          "Power Electronics And Drives",
+          "Power Electronics and Drives",
           "Communication Engineering",
           "Geotechnical & Geoenvironmental Engineering"
         ],
@@ -61,7 +61,7 @@
             "rr_id": "B010537"
           },
           {
-            "branch": "Power Electronics And Drives",
+            "branch": "Power Electronics and Drives",
             "rr_id": "B010529"
           },
           {
@@ -116,11 +116,11 @@
         "course": "Master of Computer Applications",
         "rr_id": "C0106",
         "branches": [
-          "MCA"
+          "Master of Computer Applications"
         ],
         "branch_details": [
           {
-            "branch": "MCA",
+            "branch": "Master of Computer Applications",
             "rr_id": "B010601"
           }
         ]
@@ -128,8 +128,8 @@
     ]
   },
   "meta": {
-    "api_version": "1.1.0",
-    "generated_at": "2026-11-13T14:32:36+05:30",
+    "api_version": "1.2.0",
+    "generated_at": "2026-11-19T21:37:06+05:30",
     "count": 4
   }
 }

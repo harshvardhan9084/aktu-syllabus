@@ -1,11 +1,12 @@
 {
   "data": {
     "rr_id": "B010801",
-    "branch": "BBA",
+    "branch": "Bachelor of Business Administration",
     "course": {
-      "course": "BBA",
+      "course": "Bachelor of Business Administration",
+      "short": "BBA",
       "rr_id": "C0108",
-      "slug": "bba"
+      "slug": "bachelor-of-business-administration"
     },
     "institute_count": 49,
     "institutes": [
@@ -257,8 +258,8 @@
     ]
   },
   "meta": {
-    "api_version": "1.1.0",
-    "generated_at": "2026-11-13T14:32:36+05:30",
+    "api_version": "1.2.0",
+    "generated_at": "2026-11-19T21:37:06+05:30",
     "count": 49
   }
 }

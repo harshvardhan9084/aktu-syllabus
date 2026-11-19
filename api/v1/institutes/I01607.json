@@ -9,7 +9,7 @@
     "course_count_declared": 4,
     "courses": [
       {
-        "course": "Masters of Business Administration",
+        "course": "Master of Business Administration",
         "rr_id": "C0103",
         "branches": [
           "MBA"
@@ -22,40 +22,40 @@
         ]
       },
       {
-        "course": "MBA(Integrated)",
+        "course": "Master of Business Administration (Integrated)",
         "rr_id": "C0112",
         "branches": [
-          "MBA(Integrated)"
+          "Master of Business Administration (Integrated)"
         ],
         "branch_details": [
           {
-            "branch": "MBA(Integrated)",
+            "branch": "Master of Business Administration (Integrated)",
             "rr_id": "B011201"
           }
         ]
       },
       {
-        "course": "BBA",
+        "course": "Bachelor of Business Administration",
         "rr_id": "C0108",
         "branches": [
-          "BBA"
+          "Bachelor of Business Administration"
         ],
         "branch_details": [
           {
-            "branch": "BBA",
+            "branch": "Bachelor of Business Administration",
             "rr_id": "B010801"
           }
         ]
       },
       {
-        "course": "BCA",
+        "course": "Bachelor of Computer Applications",
         "rr_id": "C0107",
         "branches": [
-          "BCA"
+          "Bachelor of Computer Applications"
         ],
         "branch_details": [
           {
-            "branch": "BCA",
+            "branch": "Bachelor of Computer Applications",
             "rr_id": "B010701"
           }
         ]
@@ -63,8 +63,8 @@
     ]
   },
   "meta": {
-    "api_version": "1.1.0",
-    "generated_at": "2026-11-13T14:32:36+05:30",
+    "api_version": "1.2.0",
+    "generated_at": "2026-11-19T21:37:06+05:30",
     "count": 4
   }
 }

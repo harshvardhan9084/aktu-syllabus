@@ -1,8 +1,9 @@
 {
   "data": {
     "rr_id": "C0115",
-    "course": "M.Tech (Part Time)",
-    "slug": "m-tech-part-time",
+    "course": "Master of Technology (Part Time)",
+    "short": "M.Tech (Part Time)",
+    "slug": "master-of-technology-part-time",
     "branch_rows": 5,
     "institute_count": 1,
     "institutes": [
@@ -44,8 +45,8 @@
     ]
   },
   "meta": {
-    "api_version": "1.1.0",
-    "generated_at": "2026-11-13T14:32:36+05:30",
+    "api_version": "1.2.0",
+    "generated_at": "2026-11-19T21:37:06+05:30",
     "count": 5
   }
 }

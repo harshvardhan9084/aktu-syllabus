@@ -9,14 +9,14 @@
     "course_count_declared": 1,
     "courses": [
       {
-        "course": "BHMCT",
+        "course": "Bachelor of Hotel Management and Catering Technology",
         "rr_id": "C0113",
         "branches": [
-          "BHMCT"
+          "Bachelor of Hotel Management and Catering Technology"
         ],
         "branch_details": [
           {
-            "branch": "BHMCT",
+            "branch": "Bachelor of Hotel Management and Catering Technology",
             "rr_id": "B011301"
           }
         ]
@@ -24,8 +24,8 @@
     ]
   },
   "meta": {
-    "api_version": "1.1.0",
-    "generated_at": "2026-11-13T14:32:36+05:30",
+    "api_version": "1.2.0",
+    "generated_at": "2026-11-19T21:37:06+05:30",
     "count": 1
   }
 }

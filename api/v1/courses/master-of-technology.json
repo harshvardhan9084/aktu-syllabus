@@ -2,6 +2,7 @@
   "data": {
     "rr_id": "C0105",
     "course": "Master of Technology",
+    "short": "M.Tech",
     "slug": "master-of-technology",
     "branch_rows": 185,
     "institute_count": 70,
@@ -94,7 +95,7 @@
         "institute_code": "010",
         "institute_rr_id": "I01006",
         "institute_name": "UNITED COLLEGE OF ENGINEERING & RESEARCH,ALLAHABAD",
-        "branch": "Power Electronics And Drives",
+        "branch": "Power Electronics and Drives",
         "branch_rr_id": "B010529"
       },
       {
@@ -199,14 +200,14 @@
         "institute_code": "043",
         "institute_rr_id": "I01024",
         "institute_name": "BUNDELKHAND INSTITUTE OF ENGINEERING & TECHNOLOGY,JHANSI",
-        "branch": "Bio Medical Engineering",
+        "branch": "Biomedical Engineering",
         "branch_rr_id": "B010503"
       },
       {
         "institute_code": "043",
         "institute_rr_id": "I01024",
         "institute_name": "BUNDELKHAND INSTITUTE OF ENGINEERING & TECHNOLOGY,JHANSI",
-        "branch": "Construction Technology & MGT",
+        "branch": "Construction Technology & Management",
         "branch_rr_id": "B010511"
       },
       {
@@ -262,7 +263,7 @@
         "institute_code": "052",
         "institute_rr_id": "I01031",
         "institute_name": "INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
-        "branch": "Artificial Inelligence (AI) And Data Science",
+        "branch": "Artificial Intelligence (AI) and Data Science",
         "branch_rr_id": "B010501"
       },
       {
@@ -374,15 +375,15 @@
         "institute_code": "068",
         "institute_rr_id": "I01041",
         "institute_name": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010508"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "068",
         "institute_rr_id": "I01041",
         "institute_name": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010509"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010508"
       },
       {
         "institute_code": "068",
@@ -507,7 +508,7 @@
         "institute_code": "104",
         "institute_rr_id": "I01096",
         "institute_name": "KAMLA NEHRU INSTITUTE OF TECHNOLOGY,SULTANPUR",
-        "branch": "Power Electronics And Drives",
+        "branch": "Power Electronics and Drives",
         "branch_rr_id": "B010529"
       },
       {
@@ -682,15 +683,15 @@
         "institute_code": "141",
         "institute_rr_id": "I01380",
         "institute_name": "SAGAR INSTITUTE OF TECHNOLOGY & MANAGEMENT,BARABANKI",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010508"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "141",
         "institute_rr_id": "I01380",
         "institute_name": "SAGAR INSTITUTE OF TECHNOLOGY & MANAGEMENT,BARABANKI",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010509"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010508"
       },
       {
         "institute_code": "141",
@@ -1053,15 +1054,15 @@
         "institute_code": "479",
         "institute_rr_id": "I01524",
         "institute_name": "RAJSHREE INSTITUTE OF MANAGEMENT & TECHNOLOGY,BAREILLY",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010508"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010509"
       },
       {
         "institute_code": "479",
         "institute_rr_id": "I01524",
         "institute_name": "RAJSHREE INSTITUTE OF MANAGEMENT & TECHNOLOGY,BAREILLY",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010509"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010508"
       },
       {
         "institute_code": "479",
@@ -1228,7 +1229,7 @@
         "institute_code": "719",
         "institute_rr_id": "I01611",
         "institute_name": "AXIS INSTITUTE OF TECHNOLOGY & MANAGEMENT,KANPUR",
-        "branch": "Artificial Inelligence (AI) And Data Science",
+        "branch": "Artificial Intelligence (AI) and Data Science",
         "branch_rr_id": "B010501"
       },
       {
@@ -1270,7 +1271,7 @@
         "institute_code": "858",
         "institute_rr_id": "I01670",
         "institute_name": "CENTRE FOR ADVANCED STUDIES,LUCKNOW",
-        "branch": "Computer science and engineering with specialization in cyber security/ ICT",
+        "branch": "Computer Science and Engineering with specialization in Cyber Security/ICT",
         "branch_rr_id": "B010510"
       },
       {
@@ -1298,14 +1299,14 @@
         "institute_code": "858",
         "institute_rr_id": "I01670",
         "institute_name": "CENTRE FOR ADVANCED STUDIES,LUCKNOW",
-        "branch": "Nano Technology",
+        "branch": "Nanotechnology",
         "branch_rr_id": "B010527"
       }
     ]
   },
   "meta": {
-    "api_version": "1.1.0",
-    "generated_at": "2026-11-13T14:32:36+05:30",
+    "api_version": "1.2.0",
+    "generated_at": "2026-11-19T21:37:06+05:30",
     "count": 185
   }
 }

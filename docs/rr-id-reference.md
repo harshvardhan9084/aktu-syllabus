@@ -5,7 +5,7 @@ only — *"which thing is this?"* — and never changes once published. Where a 
 *lives* (which institute offers which course, which branch teaches which subject)
 is relationship data carried **alongside** the ID, never baked into it.
 
-Generated 13 Nov 2026, 14:32 IST · currently 1 universities · 26 courses · 153 branch pairs · 784 institutes · subjects reserved.
+Generated 19 Nov 2026, 21:37 IST · currently 1 universities · 26 courses · 153 branch pairs · 784 institutes · subjects reserved.
 
 ## Anatomy
 
@@ -33,7 +33,9 @@ Worked examples from the live data: `U01` = Dr. A.P.J. Abdul Kalam Technical Uni
    (course name, `course||branch` pair, institute code, …) to its RR-ID. The
    generator loads it first and only *appends* unseen keys with the next free
    serial in scope. Deleting rows from the source CSVs removes them from views —
-   the ID assignment itself is never rolled back.
+   the ID assignment itself is never rolled back. Since v1.2.0 the natural keys
+   for courses and branch pairs are the **canonical display names**; the original
+   raw spellings are preserved in the registry's `legacy_names` audit map.
 3. **Caps, asserted at build time.** ≤ 99 universities · ≤ 99 courses per
    university · ≤ 99 branch pairs per course · ≤ 999 institutes per university ·
    ≤ 9999 subjects. A breach aborts the build loudly instead of colliding silently.
@@ -57,8 +59,10 @@ GET /api/v1/branches/B010101.json
 GET /api/v1/institutes/I01001.json
 ```
 
-All list endpoints also embed `rr_id` fields (per row), and `branches.json`
-carries `institute_rr_id` / `course_rr_id` / `branch_rr_id` per offering row.
+All list endpoints also embed `rr_id` fields (per row). `branches.json` is
+organized course-first — university → courses → branch pairs — because a
+branch comes under a course and a course under the university; institutes are
+offering locations, enumerated in each branch/course/institute detail file.
 
 ## The registry
 
@@ -87,30 +91,30 @@ know are coming. Do **not** hand-edit it — regenerate instead.
 | --- | --- | --- | --- | --- | --- |
 | C0101 | Bachelor of Technology | bachelor-of-technology | 191 | 60 | `/api/v1/courses/bachelor-of-technology.json` |
 | C0102 | Bachelor of Pharmacy | bachelor-of-pharmacy | 446 | 1 | `/api/v1/courses/bachelor-of-pharmacy.json` |
-| C0103 | Masters of Business Administration | masters-of-business-administration | 256 | 8 | `/api/v1/courses/masters-of-business-administration.json` |
+| C0103 | Master of Business Administration | master-of-business-administration | 256 | 8 | `/api/v1/courses/master-of-business-administration.json` |
 | C0104 | Master of Pharmacy | master-of-pharmacy | 103 | 6 | `/api/v1/courses/master-of-pharmacy.json` |
 | C0105 | Master of Technology | master-of-technology | 70 | 38 | `/api/v1/courses/master-of-technology.json` |
 | C0106 | Master of Computer Applications | master-of-computer-applications | 108 | 1 | `/api/v1/courses/master-of-computer-applications.json` |
-| C0107 | BCA | bca | 53 | 1 | `/api/v1/courses/bca.json` |
-| C0108 | BBA | bba | 49 | 1 | `/api/v1/courses/bba.json` |
-| C0109 | Bachelor of Technology Working Professional | bachelor-of-technology-working-professional | 8 | 4 | `/api/v1/courses/bachelor-of-technology-working-professional.json` |
-| C0110 | B Voc | b-voc | 6 | 8 | `/api/v1/courses/b-voc.json` |
-| C0111 | PHARM D | pharm-d | 12 | 2 | `/api/v1/courses/pharm-d.json` |
-| C0112 | MBA(Integrated) | mba-integrated | 11 | 1 | `/api/v1/courses/mba-integrated.json` |
-| C0113 | BHMCT | bhmct | 7 | 1 | `/api/v1/courses/bhmct.json` |
+| C0107 | Bachelor of Computer Applications | bachelor-of-computer-applications | 53 | 1 | `/api/v1/courses/bachelor-of-computer-applications.json` |
+| C0108 | Bachelor of Business Administration | bachelor-of-business-administration | 49 | 1 | `/api/v1/courses/bachelor-of-business-administration.json` |
+| C0109 | Bachelor of Technology (Working Professional) | bachelor-of-technology-working-professional | 8 | 4 | `/api/v1/courses/bachelor-of-technology-working-professional.json` |
+| C0110 | Bachelor of Vocation | bachelor-of-vocation | 6 | 8 | `/api/v1/courses/bachelor-of-vocation.json` |
+| C0111 | Doctor of Pharmacy | doctor-of-pharmacy | 12 | 2 | `/api/v1/courses/doctor-of-pharmacy.json` |
+| C0112 | Master of Business Administration (Integrated) | master-of-business-administration-integrated | 11 | 1 | `/api/v1/courses/master-of-business-administration-integrated.json` |
+| C0113 | Bachelor of Hotel Management and Catering Technology | bachelor-of-hotel-management-and-catering-technology | 7 | 1 | `/api/v1/courses/bachelor-of-hotel-management-and-catering-technology.json` |
 | C0114 | Bachelor of Architecture | bachelor-of-architecture | 6 | 1 | `/api/v1/courses/bachelor-of-architecture.json` |
-| C0115 | M.Tech (Part Time) | m-tech-part-time | 1 | 5 | `/api/v1/courses/m-tech-part-time.json` |
-| C0116 | Master of Technology Working Professional | master-of-technology-working-professional | 3 | 2 | `/api/v1/courses/master-of-technology-working-professional.json` |
+| C0115 | Master of Technology (Part Time) | master-of-technology-part-time | 1 | 5 | `/api/v1/courses/master-of-technology-part-time.json` |
+| C0116 | Master of Technology (Working Professional) | master-of-technology-working-professional | 3 | 2 | `/api/v1/courses/master-of-technology-working-professional.json` |
 | C0117 | Master of Architecture | master-of-architecture | 1 | 3 | `/api/v1/courses/master-of-architecture.json` |
-| C0118 | MCA(Integrated) | mca-integrated | 3 | 1 | `/api/v1/courses/mca-integrated.json` |
+| C0118 | Master of Computer Applications (Integrated) | master-of-computer-applications-integrated | 3 | 1 | `/api/v1/courses/master-of-computer-applications-integrated.json` |
 | C0119 | Bachelor of Design | bachelor-of-design | 2 | 1 | `/api/v1/courses/bachelor-of-design.json` |
-| C0120 | BFAD | bfad | 2 | 1 | `/api/v1/courses/bfad.json` |
-| C0121 | M.Design. | m-design | 2 | 1 | `/api/v1/courses/m-design.json` |
+| C0120 | Bachelor of Fashion and Apparel Design | bachelor-of-fashion-and-apparel-design | 2 | 1 | `/api/v1/courses/bachelor-of-fashion-and-apparel-design.json` |
+| C0123 | Master of Business Administration (Working Professional) | master-of-business-administration-working-professional | 2 | 1 | `/api/v1/courses/master-of-business-administration-working-professional.json` |
+| C0121 | Master of Design | master-of-design | 2 | 1 | `/api/v1/courses/master-of-design.json` |
 | C0122 | Master of Planning | master-of-planning | 1 | 2 | `/api/v1/courses/master-of-planning.json` |
-| C0123 | MBA Working Professional | mba-working-professional | 2 | 1 | `/api/v1/courses/mba-working-professional.json` |
-| C0124 | Bachelor of Fine Art(BFA) | bachelor-of-fine-art-bfa | 1 | 1 | `/api/v1/courses/bachelor-of-fine-art-bfa.json` |
-| C0125 | Master Of Integrated Technology | master-of-integrated-technology | 1 | 1 | `/api/v1/courses/master-of-integrated-technology.json` |
-| C0126 | MCA Working Professional | mca-working-professional | 1 | 1 | `/api/v1/courses/mca-working-professional.json` |
+| C0124 | Bachelor of Fine Arts | bachelor-of-fine-arts | 1 | 1 | `/api/v1/courses/bachelor-of-fine-arts.json` |
+| C0126 | Master of Computer Applications (Working Professional) | master-of-computer-applications-working-professional | 1 | 1 | `/api/v1/courses/master-of-computer-applications-working-professional.json` |
+| C0125 | Master of Integrated Technology | master-of-integrated-technology | 1 | 1 | `/api/v1/courses/master-of-integrated-technology.json` |
 
 ## Reference: branch pairs (course × branch)
 
@@ -122,15 +126,14 @@ M.Tech); those are distinct entities with distinct RR-IDs.
 | --- | --- | --- | --- |
 | B010101 | C0101 · Bachelor of Technology | Aeronautical Engineering | 1 |
 | B010102 | C0101 · Bachelor of Technology | Agricultural Engineering | 12 |
-| B010103 | C0101 · Bachelor of Technology | Artificial Inelligence (AI) And Data Science | 12 |
 | B010104 | C0101 · Bachelor of Technology | Artificial Intelligence | 1 |
-| B010105 | C0101 · Bachelor of Technology | Artificial Intelligence And Machine Learning | 18 |
+| B010103 | C0101 · Bachelor of Technology | Artificial Intelligence (AI) and Data Science | 12 |
+| B010105 | C0101 · Bachelor of Technology | Artificial Intelligence and Machine Learning | 18 |
 | B010106 | C0101 · Bachelor of Technology | Automation and Robotics | 1 |
 | B010107 | C0101 · Bachelor of Technology | Automobile Engineering | 2 |
-| B010108 | C0101 · Bachelor of Technology | Bio Medical Engineering | 1 |
 | B010109 | C0101 · Bachelor of Technology | Bioinformatics | 1 |
+| B010108 | C0101 · Bachelor of Technology | Biomedical Engineering | 1 |
 | B010110 | C0101 · Bachelor of Technology | Biotechnology | 24 |
-| B010111 | C0101 · Bachelor of Technology | CYBER SECURITY | 1 |
 | B010112 | C0101 · Bachelor of Technology | Carpet & Textile Technology | 1 |
 | B010113 | C0101 · Bachelor of Technology | Chemical Engineering | 5 |
 | B010114 | C0101 · Bachelor of Technology | Civil Engineering | 126 |
@@ -139,38 +142,39 @@ M.Tech); those are distinct entities with distinct RR-IDs.
 | B010117 | C0101 · Bachelor of Technology | Computer Science & Technology | 1 |
 | B010118 | C0101 · Bachelor of Technology | Computer Science (Data Science) | 1 |
 | B010119 | C0101 · Bachelor of Technology | Computer Science (Hindi) | 1 |
-| B010120 | C0101 · Bachelor of Technology | Computer Science And Business System | 1 |
-| B010121 | C0101 · Bachelor of Technology | Computer Science And Design | 3 |
-| B010122 | C0101 · Bachelor of Technology | Computer Science And Engineering(AIML) (Collaboration & Twining Program) | 1 |
-| B010123 | C0101 · Bachelor of Technology | Computer Science And Engineering(Artificial Intelligence & Machine Learning) | 89 |
-| B010124 | C0101 · Bachelor of Technology | Computer Science And Engineering(Data Science) | 57 |
-| B010125 | C0101 · Bachelor of Technology | Computer Science And Engineering(Internet Of Things) | 3 |
 | B010126 | C0101 · Bachelor of Technology | Computer Science Information Technology | 3 |
+| B010120 | C0101 · Bachelor of Technology | Computer Science and Business System | 1 |
+| B010121 | C0101 · Bachelor of Technology | Computer Science and Design | 3 |
 | B010127 | C0101 · Bachelor of Technology | Computer Science and Engineering | 182 |
+| B010122 | C0101 · Bachelor of Technology | Computer Science and Engineering (AIML) (Collaboration & Twinning Program) | 1 |
+| B010123 | C0101 · Bachelor of Technology | Computer Science and Engineering (Artificial Intelligence & Machine Learning) | 89 |
 | B010128 | C0101 · Bachelor of Technology | Computer Science and Engineering (Artificial Intelligence) | 34 |
-| B010129 | C0101 · Bachelor of Technology | Computer Science and Engineering (Artificial Intelligence) (Collaboration & Twining Program) | 1 |
-| B010130 | C0101 · Bachelor of Technology | Computer Science and Engineering (Collaboration & Twining Program) | 1 |
+| B010129 | C0101 · Bachelor of Technology | Computer Science and Engineering (Artificial Intelligence) (Collaboration & Twinning Program) | 1 |
+| B010130 | C0101 · Bachelor of Technology | Computer Science and Engineering (Collaboration & Twinning Program) | 1 |
+| B010124 | C0101 · Bachelor of Technology | Computer Science and Engineering (Data Science) | 57 |
 | B010131 | C0101 · Bachelor of Technology | Computer Science and Engineering (Hindi) | 3 |
+| B010125 | C0101 · Bachelor of Technology | Computer Science and Engineering (Internet of Things) | 3 |
 | B010132 | C0101 · Bachelor of Technology | Computer Science and Information Technology | 1 |
-| B010133 | C0101 · Bachelor of Technology | DATA SCIENCE | 1 |
-| B010134 | C0101 · Bachelor of Technology | Electrical & Computer Engg. | 3 |
+| B010111 | C0101 · Bachelor of Technology | Cyber Security | 1 |
+| B010133 | C0101 · Bachelor of Technology | Data Science | 1 |
+| B010134 | C0101 · Bachelor of Technology | Electrical & Computer Engineering | 3 |
 | B010135 | C0101 · Bachelor of Technology | Electrical & Electronics Engineering | 49 |
 | B010136 | C0101 · Bachelor of Technology | Electrical Engineering | 81 |
-| B010137 | C0101 · Bachelor of Technology | Electronic And Computer Engineering | 4 |
+| B010137 | C0101 · Bachelor of Technology | Electronic and Computer Engineering | 4 |
 | B010138 | C0101 · Bachelor of Technology | Electronics Engineering | 9 |
 | B010139 | C0101 · Bachelor of Technology | Electronics Engineering (VLSI Design and Technology) | 8 |
 | B010140 | C0101 · Bachelor of Technology | Electronics and Communication (Advanced Communication Technology) | 2 |
 | B010141 | C0101 · Bachelor of Technology | Electronics and Communication Engineering | 123 |
+| B010143 | C0101 · Bachelor of Technology | Electronics and Communication Engineering (VLSI Design and Technology) | 1 |
 | B010142 | C0101 · Bachelor of Technology | Electronics and Telecommunication Engineering | 2 |
-| B010143 | C0101 · Bachelor of Technology | Electronics and communication Engineering (VLSI Design and Technology) | 1 |
 | B010144 | C0101 · Bachelor of Technology | Environmental Engineering | 1 |
 | B010145 | C0101 · Bachelor of Technology | Food Technology | 1 |
 | B010146 | C0101 · Bachelor of Technology | Handloom & Textile Technology | 1 |
 | B010147 | C0101 · Bachelor of Technology | Industrial Production Engineering | 1 |
 | B010148 | C0101 · Bachelor of Technology | Information Technology | 67 |
-| B010149 | C0101 · Bachelor of Technology | Information Technology (Collaboration & Twining Program) | 1 |
+| B010149 | C0101 · Bachelor of Technology | Information Technology (Collaboration & Twinning Program) | 1 |
 | B010150 | C0101 · Bachelor of Technology | Instrumentation and Control Engineering | 1 |
-| B010151 | C0101 · Bachelor of Technology | Man Made Fibre Technology | 1 |
+| B010151 | C0101 · Bachelor of Technology | Man-Made Fibre Technology | 1 |
 | B010152 | C0101 · Bachelor of Technology | Manufacturing Technology | 1 |
 | B010153 | C0101 · Bachelor of Technology | Mechanical Engineering | 150 |
 | B010154 | C0101 · Bachelor of Technology | Mechanical and Mechatronics Engineering(Additive Manufacturing) | 1 |
@@ -181,31 +185,31 @@ M.Tech); those are distinct entities with distinct RR-IDs.
 | B010159 | C0101 · Bachelor of Technology | Textile Engineering | 1 |
 | B010160 | C0101 · Bachelor of Technology | Textile Technology | 2 |
 | B010201 | C0102 · Bachelor of Pharmacy | Bachelor of Pharmacy | 446 |
-| B010301 | C0103 · Masters of Business Administration | Innovation Entrepreneurship and Venture Devlopement | 2 |
-| B010302 | C0103 · Masters of Business Administration | MBA | 256 |
-| B010303 | C0103 · Masters of Business Administration | MBA (AGRIBUSINESS MANAGEMENT) | 1 |
-| B010304 | C0103 · Masters of Business Administration | MBA (Banking and Finance Service) | 2 |
-| B010305 | C0103 · Masters of Business Administration | MBA (Health Care and Hospital Management) | 2 |
-| B010306 | C0103 · Masters of Business Administration | MBA (Marketing and Finance) | 1 |
-| B010307 | C0103 · Masters of Business Administration | MBA(Business Analytics) | 6 |
-| B010308 | C0103 · Masters of Business Administration | MBA(Logistics and supply chain management) | 1 |
-| B010401 | C0104 · Master of Pharmacy | PHARMACEUTICAL QUALITY ASSURANCE | 2 |
+| B010301 | C0103 · Master of Business Administration | Innovation Entrepreneurship and Venture Development | 2 |
+| B010302 | C0103 · Master of Business Administration | MBA | 256 |
+| B010303 | C0103 · Master of Business Administration | MBA (Agribusiness Management) | 1 |
+| B010304 | C0103 · Master of Business Administration | MBA (Banking and Finance Service) | 2 |
+| B010307 | C0103 · Master of Business Administration | MBA (Business Analytics) | 6 |
+| B010305 | C0103 · Master of Business Administration | MBA (Health Care and Hospital Management) | 2 |
+| B010308 | C0103 · Master of Business Administration | MBA (Logistics and Supply Chain Management) | 1 |
+| B010306 | C0103 · Master of Business Administration | MBA (Marketing and Finance) | 1 |
+| B010406 | C0104 · Master of Pharmacy | Pharmaceutical Chemistry | 55 |
+| B010401 | C0104 · Master of Pharmacy | Pharmaceutical Quality Assurance | 2 |
 | B010402 | C0104 · Master of Pharmacy | Pharmaceutics | 93 |
-| B010403 | C0104 · Master of Pharmacy | Pharmacogonosy | 22 |
+| B010403 | C0104 · Master of Pharmacy | Pharmacognosy | 22 |
 | B010404 | C0104 · Master of Pharmacy | Pharmacology | 60 |
 | B010405 | C0104 · Master of Pharmacy | Pharmacy Practice | 1 |
-| B010406 | C0104 · Master of Pharmacy | Pharmceutical Chemistry | 55 |
-| B010501 | C0105 · Master of Technology | Artificial Inelligence (AI) And Data Science | 2 |
 | B010502 | C0105 · Master of Technology | Artificial Intelligence | 1 |
-| B010503 | C0105 · Master of Technology | Bio Medical Engineering | 1 |
+| B010501 | C0105 · Master of Technology | Artificial Intelligence (AI) and Data Science | 2 |
+| B010503 | C0105 · Master of Technology | Biomedical Engineering | 1 |
 | B010504 | C0105 · Master of Technology | Biotechnology | 6 |
 | B010505 | C0105 · Master of Technology | Civil Engineering | 8 |
 | B010506 | C0105 · Master of Technology | Communication Engineering | 1 |
 | B010507 | C0105 · Master of Technology | Computer Aided Design & Manufacturing | 4 |
-| B010508 | C0105 · Master of Technology | Computer Science And Engineering(Artificial Intelligence & Machine Learning) | 3 |
 | B010509 | C0105 · Master of Technology | Computer Science and Engineering | 57 |
-| B010510 | C0105 · Master of Technology | Computer science and engineering with specialization in cyber security/ ICT | 1 |
-| B010511 | C0105 · Master of Technology | Construction Technology & MGT | 1 |
+| B010508 | C0105 · Master of Technology | Computer Science and Engineering (Artificial Intelligence & Machine Learning) | 3 |
+| B010510 | C0105 · Master of Technology | Computer Science and Engineering with specialization in Cyber Security/ICT | 1 |
+| B010511 | C0105 · Master of Technology | Construction Technology & Management | 1 |
 | B010512 | C0105 · Master of Technology | Digital Communications | 1 |
 | B010513 | C0105 · Master of Technology | Electrical & Electronics Engineering | 2 |
 | B010514 | C0105 · Master of Technology | Electrical Drive and Control | 1 |
@@ -221,9 +225,9 @@ M.Tech); those are distinct entities with distinct RR-IDs.
 | B010524 | C0105 · Master of Technology | Mechanical Engineering | 19 |
 | B010525 | C0105 · Master of Technology | Mechatronics | 1 |
 | B010526 | C0105 · Master of Technology | Micro Electronic Engineering | 1 |
-| B010527 | C0105 · Master of Technology | Nano Technology | 1 |
+| B010527 | C0105 · Master of Technology | Nanotechnology | 1 |
 | B010528 | C0105 · Master of Technology | Plastic Engineering | 1 |
-| B010529 | C0105 · Master of Technology | Power Electronics And Drives | 2 |
+| B010529 | C0105 · Master of Technology | Power Electronics and Drives | 2 |
 | B010530 | C0105 · Master of Technology | Power Systems | 2 |
 | B010531 | C0105 · Master of Technology | Power and Energy System | 1 |
 | B010532 | C0105 · Master of Technology | Production Engineering | 7 |
@@ -233,46 +237,46 @@ M.Tech); those are distinct entities with distinct RR-IDs.
 | B010536 | C0105 · Master of Technology | Textile Technology | 1 |
 | B010537 | C0105 · Master of Technology | Thermal Engineering | 4 |
 | B010538 | C0105 · Master of Technology | VLSI Design | 5 |
-| B010601 | C0106 · Master of Computer Applications | MCA | 108 |
-| B010701 | C0107 · BCA | BCA | 53 |
-| B010801 | C0108 · BBA | BBA | 49 |
-| B010901 | C0109 · Bachelor of Technology Working Professional | Computer Science and Engineering | 5 |
-| B010902 | C0109 · Bachelor of Technology Working Professional | Electrical Engineering | 2 |
-| B010903 | C0109 · Bachelor of Technology Working Professional | Electronics and Communication Engineering | 6 |
-| B010904 | C0109 · Bachelor of Technology Working Professional | Mechanical Engineering | 5 |
-| B011001 | C0110 · B Voc | Automobile Engineering | 2 |
-| B011002 | C0110 · B Voc | Automobile Servicing | 2 |
-| B011003 | C0110 · B Voc | BFSI | 2 |
-| B011004 | C0110 · B Voc | Electronic Manufacturing Servicing | 1 |
-| B011005 | C0110 · B Voc | Production Technology | 1 |
-| B011006 | C0110 · B Voc | Refrigeration and Air Conditioning | 2 |
-| B011007 | C0110 · B Voc | Robotics And Automation | 1 |
-| B011008 | C0110 · B Voc | Software Development | 3 |
-| B011101 | C0111 · PHARM D | Pharm D | 12 |
-| B011102 | C0111 · PHARM D | Pharm D Post Baccalaureta | 2 |
-| B011201 | C0112 · MBA(Integrated) | MBA(Integrated) | 11 |
-| B011301 | C0113 · BHMCT | BHMCT | 7 |
+| B010601 | C0106 · Master of Computer Applications | Master of Computer Applications | 108 |
+| B010701 | C0107 · Bachelor of Computer Applications | Bachelor of Computer Applications | 53 |
+| B010801 | C0108 · Bachelor of Business Administration | Bachelor of Business Administration | 49 |
+| B010901 | C0109 · Bachelor of Technology (Working Professional) | Computer Science and Engineering | 5 |
+| B010902 | C0109 · Bachelor of Technology (Working Professional) | Electrical Engineering | 2 |
+| B010903 | C0109 · Bachelor of Technology (Working Professional) | Electronics and Communication Engineering | 6 |
+| B010904 | C0109 · Bachelor of Technology (Working Professional) | Mechanical Engineering | 5 |
+| B011001 | C0110 · Bachelor of Vocation | Automobile Engineering | 2 |
+| B011002 | C0110 · Bachelor of Vocation | Automobile Servicing | 2 |
+| B011003 | C0110 · Bachelor of Vocation | BFSI | 2 |
+| B011004 | C0110 · Bachelor of Vocation | Electronic Manufacturing Servicing | 1 |
+| B011005 | C0110 · Bachelor of Vocation | Production Technology | 1 |
+| B011006 | C0110 · Bachelor of Vocation | Refrigeration and Air Conditioning | 2 |
+| B011007 | C0110 · Bachelor of Vocation | Robotics and Automation | 1 |
+| B011008 | C0110 · Bachelor of Vocation | Software Development | 3 |
+| B011101 | C0111 · Doctor of Pharmacy | Pharm.D | 12 |
+| B011102 | C0111 · Doctor of Pharmacy | Pharm.D (Post Baccalaureate) | 2 |
+| B011201 | C0112 · Master of Business Administration (Integrated) | Master of Business Administration (Integrated) | 11 |
+| B011301 | C0113 · Bachelor of Hotel Management and Catering Technology | Bachelor of Hotel Management and Catering Technology | 7 |
 | B011401 | C0114 · Bachelor of Architecture | Architecture | 6 |
-| B011501 | C0115 · M.Tech (Part Time) | Civil Engineering | 1 |
-| B011502 | C0115 · M.Tech (Part Time) | Computer Science and Engineering | 1 |
-| B011503 | C0115 · M.Tech (Part Time) | Electrical Engineering | 1 |
-| B011504 | C0115 · M.Tech (Part Time) | Electronics Engineering | 1 |
-| B011505 | C0115 · M.Tech (Part Time) | Mechanical Engineering | 1 |
-| B011601 | C0116 · Master of Technology Working Professional | Computer Science and Engineering | 3 |
-| B011602 | C0116 · Master of Technology Working Professional | Mechanical Engineering | 1 |
+| B011501 | C0115 · Master of Technology (Part Time) | Civil Engineering | 1 |
+| B011502 | C0115 · Master of Technology (Part Time) | Computer Science and Engineering | 1 |
+| B011503 | C0115 · Master of Technology (Part Time) | Electrical Engineering | 1 |
+| B011504 | C0115 · Master of Technology (Part Time) | Electronics Engineering | 1 |
+| B011505 | C0115 · Master of Technology (Part Time) | Mechanical Engineering | 1 |
+| B011601 | C0116 · Master of Technology (Working Professional) | Computer Science and Engineering | 3 |
+| B011602 | C0116 · Master of Technology (Working Professional) | Mechanical Engineering | 1 |
 | B011701 | C0117 · Master of Architecture | Environmental Design | 1 |
 | B011702 | C0117 · Master of Architecture | Interior Design | 1 |
 | B011703 | C0117 · Master of Architecture | Master of Architecture | 1 |
-| B011801 | C0118 · MCA(Integrated) | MCA(Integrated) | 3 |
+| B011801 | C0118 · Master of Computer Applications (Integrated) | Master of Computer Applications (Integrated) | 3 |
 | B011901 | C0119 · Bachelor of Design | Bachelor of Design | 2 |
-| B012001 | C0120 · BFAD | BFAD | 2 |
-| B012101 | C0121 · M.Design. | M.Design. | 2 |
+| B012001 | C0120 · Bachelor of Fashion and Apparel Design | Bachelor of Fashion and Apparel Design | 2 |
+| B012301 | C0123 · Master of Business Administration (Working Professional) | Master of Business Administration (Working Professional) | 2 |
+| B012101 | C0121 · Master of Design | Master of Design | 2 |
 | B012201 | C0122 · Master of Planning | Infrastructure Planning and Management | 1 |
 | B012202 | C0122 · Master of Planning | Urban and Regional Planning | 1 |
-| B012301 | C0123 · MBA Working Professional | MBA | 2 |
-| B012401 | C0124 · Bachelor of Fine Art(BFA) | Bachelor of Fine Art(BFA) | 1 |
-| B012501 | C0125 · Master Of Integrated Technology | Computer Science and Engineering | 1 |
-| B012601 | C0126 · MCA Working Professional | MCA | 1 |
+| B012401 | C0124 · Bachelor of Fine Arts | Bachelor of Fine Arts | 1 |
+| B012601 | C0126 · Master of Computer Applications (Working Professional) | Master of Computer Applications (Working Professional) | 1 |
+| B012501 | C0125 · Master of Integrated Technology | Computer Science and Engineering | 1 |
 
 ## Institutes
 
@@ -300,4 +304,4 @@ everything taught in year 1, search by historic code) is a join over these edges
 
 ---
 
-_Generated by `scripts/build_api_tree.py` on 2026-11-13T14:32:36+05:30 — do not hand-edit; regenerate._
+_Generated by `scripts/build_api_tree.py` on 2026-11-19T21:37:06+05:30 — do not hand-edit; regenerate._

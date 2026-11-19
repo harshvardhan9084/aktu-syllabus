@@ -20,9 +20,9 @@
           "Electronics and Communication Engineering",
           "Mechanical Engineering",
           "Computer Science and Engineering (Artificial Intelligence)",
-          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-          "Computer Science And Engineering(Data Science)",
-          "Artificial Intelligence And Machine Learning",
+          "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+          "Computer Science and Engineering (Data Science)",
+          "Artificial Intelligence and Machine Learning",
           "Computer Science and Engineering (Hindi)",
           "Electronics Engineering (VLSI Design and Technology)",
           "Electronics and Communication (Advanced Communication Technology)"
@@ -61,15 +61,15 @@
             "rr_id": "B010128"
           },
           {
-            "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+            "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
             "rr_id": "B010123"
           },
           {
-            "branch": "Computer Science And Engineering(Data Science)",
+            "branch": "Computer Science and Engineering (Data Science)",
             "rr_id": "B010124"
           },
           {
-            "branch": "Artificial Intelligence And Machine Learning",
+            "branch": "Artificial Intelligence and Machine Learning",
             "rr_id": "B010105"
           },
           {
@@ -87,11 +87,11 @@
         ]
       },
       {
-        "course": "Masters of Business Administration",
+        "course": "Master of Business Administration",
         "rr_id": "C0103",
         "branches": [
           "MBA",
-          "MBA(Logistics and supply chain management)"
+          "MBA (Logistics and Supply Chain Management)"
         ],
         "branch_details": [
           {
@@ -99,7 +99,7 @@
             "rr_id": "B010302"
           },
           {
-            "branch": "MBA(Logistics and supply chain management)",
+            "branch": "MBA (Logistics and Supply Chain Management)",
             "rr_id": "B010308"
           }
         ]
@@ -108,17 +108,17 @@
         "course": "Master of Computer Applications",
         "rr_id": "C0106",
         "branches": [
-          "MCA"
+          "Master of Computer Applications"
         ],
         "branch_details": [
           {
-            "branch": "MCA",
+            "branch": "Master of Computer Applications",
             "rr_id": "B010601"
           }
         ]
       },
       {
-        "course": "Bachelor of Technology Working Professional",
+        "course": "Bachelor of Technology (Working Professional)",
         "rr_id": "C0109",
         "branches": [
           "Computer Science and Engineering",
@@ -143,8 +143,8 @@
     ]
   },
   "meta": {
-    "api_version": "1.1.0",
-    "generated_at": "2026-11-13T14:32:36+05:30",
+    "api_version": "1.2.0",
+    "generated_at": "2026-11-19T21:37:06+05:30",
     "count": 4
   }
 }

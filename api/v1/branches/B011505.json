@@ -3,9 +3,10 @@
     "rr_id": "B011505",
     "branch": "Mechanical Engineering",
     "course": {
-      "course": "M.Tech (Part Time)",
+      "course": "Master of Technology (Part Time)",
+      "short": "M.Tech (Part Time)",
       "rr_id": "C0115",
-      "slug": "m-tech-part-time"
+      "slug": "master-of-technology-part-time"
     },
     "institute_count": 1,
     "institutes": [
@@ -17,8 +18,8 @@
     ]
   },
   "meta": {
-    "api_version": "1.1.0",
-    "generated_at": "2026-11-13T14:32:36+05:30",
+    "api_version": "1.2.0",
+    "generated_at": "2026-11-19T21:37:06+05:30",
     "count": 1
   }
 }

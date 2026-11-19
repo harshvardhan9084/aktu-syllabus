@@ -2,6 +2,7 @@
   "data": {
     "rr_id": "C0102",
     "course": "Bachelor of Pharmacy",
+    "short": "B.Pharm",
     "slug": "bachelor-of-pharmacy",
     "branch_rows": 446,
     "institute_count": 446,
@@ -3131,8 +3132,8 @@
     ]
   },
   "meta": {
-    "api_version": "1.1.0",
-    "generated_at": "2026-11-13T14:32:36+05:30",
+    "api_version": "1.2.0",
+    "generated_at": "2026-11-19T21:37:06+05:30",
     "count": 446
   }
 }

@@ -9,11 +9,11 @@
     "course_count_declared": 4,
     "courses": [
       {
-        "course": "Masters of Business Administration",
+        "course": "Master of Business Administration",
         "rr_id": "C0103",
         "branches": [
           "MBA",
-          "MBA(Business Analytics)",
+          "MBA (Business Analytics)",
           "MBA (Health Care and Hospital Management)"
         ],
         "branch_details": [
@@ -22,7 +22,7 @@
             "rr_id": "B010302"
           },
           {
-            "branch": "MBA(Business Analytics)",
+            "branch": "MBA (Business Analytics)",
             "rr_id": "B010307"
           },
           {
@@ -32,14 +32,14 @@
         ]
       },
       {
-        "course": "MBA(Integrated)",
+        "course": "Master of Business Administration (Integrated)",
         "rr_id": "C0112",
         "branches": [
-          "MBA(Integrated)"
+          "Master of Business Administration (Integrated)"
         ],
         "branch_details": [
           {
-            "branch": "MBA(Integrated)",
+            "branch": "Master of Business Administration (Integrated)",
             "rr_id": "B011201"
           }
         ]
@@ -47,8 +47,8 @@
     ]
   },
   "meta": {
-    "api_version": "1.1.0",
-    "generated_at": "2026-11-13T14:32:36+05:30",
+    "api_version": "1.2.0",
+    "generated_at": "2026-11-19T21:37:06+05:30",
     "count": 2
   }
 }

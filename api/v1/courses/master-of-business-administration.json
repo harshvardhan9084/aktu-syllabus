@@ -1,8 +1,9 @@
 {
   "data": {
     "rr_id": "C0103",
-    "course": "Masters of Business Administration",
-    "slug": "masters-of-business-administration",
+    "course": "Master of Business Administration",
+    "short": "MBA",
+    "slug": "master-of-business-administration",
     "branch_rows": 271,
     "institute_count": 256,
     "institutes": [
@@ -290,7 +291,7 @@
         "institute_code": "097",
         "institute_rr_id": "I01058",
         "institute_name": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "MBA(Logistics and supply chain management)",
+        "branch": "MBA (Logistics and Supply Chain Management)",
         "branch_rr_id": "B010308"
       },
       {
@@ -395,14 +396,14 @@
         "institute_code": "116",
         "institute_rr_id": "I01210",
         "institute_name": "JAIPURIA INSTITUTE OF MANAGEMENT,GHAZIABAD",
-        "branch": "MBA(Business Analytics)",
+        "branch": "MBA (Business Analytics)",
         "branch_rr_id": "B010307"
       },
       {
         "institute_code": "1177",
         "institute_rr_id": "I01223",
         "institute_name": "IED HOTEL MANAGEMENT",
-        "branch": "Innovation Entrepreneurship and Venture Devlopement",
+        "branch": "Innovation Entrepreneurship and Venture Development",
         "branch_rr_id": "B010301"
       },
       {
@@ -668,7 +669,7 @@
         "institute_code": "133",
         "institute_rr_id": "I01374",
         "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Innovation Entrepreneurship and Venture Devlopement",
+        "branch": "Innovation Entrepreneurship and Venture Development",
         "branch_rr_id": "B010301"
       },
       {
@@ -857,7 +858,7 @@
         "institute_code": "192",
         "institute_rr_id": "I01411",
         "institute_name": "G.L. BAJAJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR",
-        "branch": "MBA(Business Analytics)",
+        "branch": "MBA (Business Analytics)",
         "branch_rr_id": "B010307"
       },
       {
@@ -892,7 +893,7 @@
         "institute_code": "216",
         "institute_rr_id": "I01424",
         "institute_name": "IIMT COLLEGE OF ENGINEERING,GAUTAM BUDDH NAGAR",
-        "branch": "MBA(Business Analytics)",
+        "branch": "MBA (Business Analytics)",
         "branch_rr_id": "B010307"
       },
       {
@@ -969,15 +970,15 @@
         "institute_code": "272",
         "institute_rr_id": "I01450",
         "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY(MBA INSTITUTE),GAUTAM BUDDH NAGAR",
-        "branch": "MBA (Health Care and Hospital Management)",
-        "branch_rr_id": "B010305"
+        "branch": "MBA (Business Analytics)",
+        "branch_rr_id": "B010307"
       },
       {
         "institute_code": "272",
         "institute_rr_id": "I01450",
         "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY(MBA INSTITUTE),GAUTAM BUDDH NAGAR",
-        "branch": "MBA(Business Analytics)",
-        "branch_rr_id": "B010307"
+        "branch": "MBA (Health Care and Hospital Management)",
+        "branch_rr_id": "B010305"
       },
       {
         "institute_code": "274",
@@ -1249,7 +1250,7 @@
         "institute_code": "423",
         "institute_rr_id": "I01509",
         "institute_name": "SCHOOL OF MANAGEMENT SCIENCES,LUCKNOW",
-        "branch": "MBA(Business Analytics)",
+        "branch": "MBA (Business Analytics)",
         "branch_rr_id": "B010307"
       },
       {
@@ -1606,7 +1607,7 @@
         "institute_code": "695",
         "institute_rr_id": "I01605",
         "institute_name": "SRI RAM GROUP OF COLLEGES,MUZAFFARNAGAR",
-        "branch": "MBA (AGRIBUSINESS MANAGEMENT)",
+        "branch": "MBA (Agribusiness Management)",
         "branch_rr_id": "B010303"
       },
       {
@@ -1620,7 +1621,7 @@
         "institute_code": "695",
         "institute_rr_id": "I01605",
         "institute_name": "SRI RAM GROUP OF COLLEGES,MUZAFFARNAGAR",
-        "branch": "MBA(Business Analytics)",
+        "branch": "MBA (Business Analytics)",
         "branch_rr_id": "B010307"
       },
       {
@@ -1906,8 +1907,8 @@
     ]
   },
   "meta": {
-    "api_version": "1.1.0",
-    "generated_at": "2026-11-13T14:32:36+05:30",
+    "api_version": "1.2.0",
+    "generated_at": "2026-11-19T21:37:06+05:30",
     "count": 271
   }
 }

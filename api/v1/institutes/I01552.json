@@ -37,13 +37,13 @@
         ]
       },
       {
-        "course": "B Voc",
+        "course": "Bachelor of Vocation",
         "rr_id": "C0110",
         "branches": [
           "Automobile Engineering",
           "Refrigeration and Air Conditioning",
           "Software Development",
-          "Robotics And Automation"
+          "Robotics and Automation"
         ],
         "branch_details": [
           {
@@ -59,7 +59,7 @@
             "rr_id": "B011008"
           },
           {
-            "branch": "Robotics And Automation",
+            "branch": "Robotics and Automation",
             "rr_id": "B011007"
           }
         ]
@@ -67,8 +67,8 @@
     ]
   },
   "meta": {
-    "api_version": "1.1.0",
-    "generated_at": "2026-11-13T14:32:36+05:30",
+    "api_version": "1.2.0",
+    "generated_at": "2026-11-19T21:37:06+05:30",
     "count": 2
   }
 }

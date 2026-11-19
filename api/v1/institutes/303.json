@@ -12,12 +12,12 @@
         "course": "Master of Pharmacy",
         "rr_id": "C0104",
         "branches": [
-          "Pharmceutical Chemistry",
+          "Pharmaceutical Chemistry",
           "Pharmacology"
         ],
         "branch_details": [
           {
-            "branch": "Pharmceutical Chemistry",
+            "branch": "Pharmaceutical Chemistry",
             "rr_id": "B010406"
           },
           {
@@ -40,19 +40,19 @@
         ]
       },
       {
-        "course": "PHARM D",
+        "course": "Doctor of Pharmacy",
         "rr_id": "C0111",
         "branches": [
-          "Pharm D",
-          "Pharm D Post Baccalaureta"
+          "Pharm.D",
+          "Pharm.D (Post Baccalaureate)"
         ],
         "branch_details": [
           {
-            "branch": "Pharm D",
+            "branch": "Pharm.D",
             "rr_id": "B011101"
           },
           {
-            "branch": "Pharm D Post Baccalaureta",
+            "branch": "Pharm.D (Post Baccalaureate)",
             "rr_id": "B011102"
           }
         ]
@@ -60,8 +60,8 @@
     ]
   },
   "meta": {
-    "api_version": "1.1.0",
-    "generated_at": "2026-11-13T14:32:36+05:30",
+    "api_version": "1.2.0",
+    "generated_at": "2026-11-19T21:37:06+05:30",
     "count": 3
   }
 }

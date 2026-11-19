@@ -5,8 +5,8 @@ Technical University (AKTU), Lucknow** and the courses / branches each one
 offers. Every endpoint is a plain JSON file — no server, no database — so any
 HTTP client works.
 
-Generated 13 Nov 2026, 14:32 IST · **784** institutes · **26** courses ·
-**2571** branch offerings · `api_version` **1.1.0** (RR-ID enabled).
+Generated 19 Nov 2026, 21:37 IST · **784** institutes · **26** courses ·
+**2571** branch offerings · `api_version` **1.2.0** (canonical names + RR-IDs).
 
 ## Bases
 
@@ -25,7 +25,7 @@ Generated 13 Nov 2026, 14:32 IST · **784** institutes · **26** courses ·
 | `/api/v1/institutes.json` | all institutes, summary fields + detail links |
 | `/api/v1/institutes/{institute_code}.json` | one institute, nested courses → branches — e.g. [`002.json`](https://harshvardhan9084.github.io/aktu-syllabus/api/v1/institutes/002.json) |
 | `/api/v1/institutes/{rr_id}.json` | same payload by frozen RR-ID — e.g. [`I01001.json`](https://harshvardhan9084.github.io/aktu-syllabus/api/v1/institutes/I01001.json) |
-| `/api/v1/branches.json` | flat mirror of branches.csv (institute name + RR-IDs joined) |
+| `/api/v1/branches.json` | course-first hierarchy: university → courses → branch pairs (+ per-branch institute counts; offering rows in the detail files) |
 | `/api/v1/branches/{rr_id}.json` | one (course × branch) pair: every institute offering it — e.g. [`B010101.json`](https://harshvardhan9084.github.io/aktu-syllabus/api/v1/branches/B010101.json) |
 | `/api/v1/courses.json` | course taxonomy with slugs + RR-IDs + counts |
 | `/api/v1/courses/{slug}.json` | one course, every institute offering it — e.g. [`bachelor-of-technology.json`](https://harshvardhan9084.github.io/aktu-syllabus/api/v1/courses/bachelor-of-technology.json) |
@@ -95,7 +95,7 @@ data-source addition, not a rewrite.
 Every endpoint except `index.json` returns:
 
 ```json
-{ "data": { ... }, "meta": { "api_version": "1.1.0", "generated_at": "...", "count": 123 } }
+{ "data": { ... }, "meta": { "api_version": "1.2.0", "generated_at": "...", "count": 123 } }
 ```
 
 ## Quick start
@@ -104,7 +104,7 @@ Every endpoint except `index.json` returns:
 curl -s https://harshvardhan9084.github.io/aktu-syllabus/api/v1/universities/U01.json
 curl -s https://harshvardhan9084.github.io/aktu-syllabus/api/v1/institutes/002.json
 curl -s https://harshvardhan9084.github.io/aktu-syllabus/api/v1/branches/B010101.json
-curl -s https://harshvardhan9084.github.io/aktu-syllabus/api/v1/courses/masters-of-business-administration.json
+curl -s https://harshvardhan9084.github.io/aktu-syllabus/api/v1/courses/master-of-business-administration.json
 curl -s https://harshvardhan9084.github.io/aktu-syllabus/api/v1/tree.json | head -c 400
 ```
 
@@ -120,8 +120,13 @@ curl -s https://harshvardhan9084.github.io/aktu-syllabus/api/v1/tree.json | head
 
 - Published **verbatim** from `data/raw/institutes.csv` and `data/raw/branches.csv`
   (byte-identical copies are kept in this repo).
-- Source spellings are preserved as-is — this dataset is intentionally not hand-corrected.
-- Only normalization applied: headers snake_cased, surrounding whitespace trimmed.
+- Since **v1.2.0** the API emits **canonical display names** (owner-directed
+  formal normalization): degree names carry their official short form
+  (`B.Tech`, `MBA`, `Pharm.D`, …), branch spellings are corrected and cased
+  consistently. `data/raw` stays verbatim; the explicit raw → canonical map is
+  `scripts/gen_name_map.py`, auditable in `registry.legacy_names`; **RR-IDs
+  are unaffected**.
+- Only other normalization: headers snake_cased, surrounding whitespace trimmed.
 - Cross-checks (unknown institute codes, declared-vs-listed course counts, duplicates,
   missing values, RR-ID caps) are reported in `/api/v1/integrity.json` instead of
   being silently fixed.

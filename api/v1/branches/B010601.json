@@ -1,9 +1,10 @@
 {
   "data": {
     "rr_id": "B010601",
-    "branch": "MCA",
+    "branch": "Master of Computer Applications",
     "course": {
       "course": "Master of Computer Applications",
+      "short": "MCA",
       "rr_id": "C0106",
       "slug": "master-of-computer-applications"
     },
@@ -552,8 +553,8 @@
     ]
   },
   "meta": {
-    "api_version": "1.1.0",
-    "generated_at": "2026-11-13T14:32:36+05:30",
+    "api_version": "1.2.0",
+    "generated_at": "2026-11-19T21:37:06+05:30",
     "count": 108
   }
 }

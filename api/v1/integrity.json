@@ -1,7 +1,7 @@
 {
   "data": {
-    "generated_at": "2026-11-13T14:32:36+05:30",
-    "policy": "Verbatim publication of data/raw CSVs. No source values were altered (only header snake_casing + surrounding-whitespace trim). Issues are reported here, not fixed.",
+    "generated_at": "2026-11-19T21:37:06+05:30",
+    "policy": "data/raw CSVs are published verbatim (no source value altered there). Since v1.2.0 the API layer emits canonical display names (owner-directed formal normalization); the explicit raw->canonical map is scripts/gen_name_map.py + the registry legacy_names audit. Issues are reported here, not fixed.",
     "record_counts": {
       "institutes_csv_rows": 784,
       "branches_csv_rows": 2571,
@@ -68,6 +68,15 @@
         "examples": []
       },
       {
+        "id": "display_normalization",
+        "status": "info",
+        "branch_rows_renamed": 855,
+        "course_names_changed": 17,
+        "branch_pair_keys_changed": 69,
+        "note": "owner-directed formal normalization of degree/branch display names (typos fixed, ALL-CAPS de-shouted, consistent casing/spacing, official short forms added). data/raw stays verbatim; RR-IDs unchanged; old registry keys kept in registry.legacy_names.",
+        "map": "scripts/gen_name_map.py"
+      },
+      {
         "id": "rr_id_assignment",
         "status": "pass",
         "universities": 1,
@@ -87,7 +96,7 @@
     ]
   },
   "meta": {
-    "api_version": "1.1.0",
-    "generated_at": "2026-11-13T14:32:36+05:30"
+    "api_version": "1.2.0",
+    "generated_at": "2026-11-19T21:37:06+05:30"
   }
 }

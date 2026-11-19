@@ -4,6 +4,7 @@
     "branch": "Electronics Engineering",
     "course": {
       "course": "Bachelor of Technology",
+      "short": "B.Tech",
       "rr_id": "C0101",
       "slug": "bachelor-of-technology"
     },
@@ -57,8 +58,8 @@
     ]
   },
   "meta": {
-    "api_version": "1.1.0",
-    "generated_at": "2026-11-13T14:32:36+05:30",
+    "api_version": "1.2.0",
+    "generated_at": "2026-11-19T21:37:06+05:30",
     "count": 9
   }
 }

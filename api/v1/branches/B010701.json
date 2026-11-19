@@ -1,11 +1,12 @@
 {
   "data": {
     "rr_id": "B010701",
-    "branch": "BCA",
+    "branch": "Bachelor of Computer Applications",
     "course": {
-      "course": "BCA",
+      "course": "Bachelor of Computer Applications",
+      "short": "BCA",
       "rr_id": "C0107",
-      "slug": "bca"
+      "slug": "bachelor-of-computer-applications"
     },
     "institute_count": 53,
     "institutes": [
@@ -277,8 +278,8 @@
     ]
   },
   "meta": {
-    "api_version": "1.1.0",
-    "generated_at": "2026-11-13T14:32:36+05:30",
+    "api_version": "1.2.0",
+    "generated_at": "2026-11-19T21:37:06+05:30",
     "count": 53
   }
 }

@@ -1,9 +1,10 @@
 {
   "data": {
     "rr_id": "B010508",
-    "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+    "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
     "course": {
       "course": "Master of Technology",
+      "short": "M.Tech",
       "rr_id": "C0105",
       "slug": "master-of-technology"
     },
@@ -27,8 +28,8 @@
     ]
   },
   "meta": {
-    "api_version": "1.1.0",
-    "generated_at": "2026-11-13T14:32:36+05:30",
+    "api_version": "1.2.0",
+    "generated_at": "2026-11-19T21:37:06+05:30",
     "count": 3
   }
 }

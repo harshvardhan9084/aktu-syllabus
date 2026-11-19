@@ -1,8 +1,8 @@
 {
   "name": "AKTU Syllabus Data API",
-  "api_version": "1.1.0",
+  "api_version": "1.2.0",
   "description": "Static JSON API for the institutes affiliated to Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow, and the courses/branches each institute offers.",
-  "generated_at": "2026-11-13T14:32:36+05:30",
+  "generated_at": "2026-11-19T21:37:06+05:30",
   "source_repo": "https://github.com/harshvardhan9084/aktu-syllabus",
   "bases": {
     "github_pages": "https://harshvardhan9084.github.io/aktu-syllabus/",
@@ -61,14 +61,14 @@
     {
       "method": "GET",
       "path": "/api/v1/branches.json",
-      "count": 2571,
-      "description": "Flat list of every (institute, course, branch) offering."
+      "count": 26,
+      "description": "Course-first hierarchy: university -> courses -> branch pairs (with per-branch offering-institute counts; per-institute offering rows live in the detail files)."
     },
     {
       "method": "GET",
       "path": "/api/v1/courses.json",
       "count": 26,
-      "description": "Course taxonomy with slugs and counts."
+      "description": "Course taxonomy: canonical names + official short forms, slugs, RR-IDs, counts."
     },
     {
       "method": "GET",
@@ -123,6 +123,16 @@
     }
   ],
   "changelog": [
+    {
+      "version": "1.2.0",
+      "date": "2026-11-19T21:37:06+05:30",
+      "changes": [
+        "display normalization (owner-directed): canonical degree + branch names across every endpoint — typos fixed (Inelligence, Devlopement, Pharmacogonosy, Pharmceutical, Baccalaureta, Twining), ALL-CAPS rows de-shouted, consistent casing/spacing, 'Masters of Business Administration' corrected to 'Master of Business Administration'",
+        "every course payload now carries the official short form: B.Tech, M.Tech, B.Pharm, MBA, MCA, BCA, Pharm.D, B.Arch, M.Des, ...",
+        "branches.json restructured course-first: university -> course -> branch pairs (was an institute-keyed flat offering mirror; per-institute rows remain in courses/*.json, branches/*.json, tree.json)",
+        "registry assignment keys migrated raw -> canonical with every RR-ID preserved; old keys kept in registry.legacy_names"
+      ]
+    },
     {
       "version": "1.1.0",
       "date": "2026-11-13T14:32:36+05:30",

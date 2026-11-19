@@ -52,16 +52,16 @@
           "Mechanical Engineering",
           "Biotechnology",
           "Computer Science and Engineering (Artificial Intelligence)",
-          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-          "Computer Science And Engineering(Data Science)",
-          "Computer Science And Engineering(Internet Of Things)",
-          "Computer Science And Business System",
+          "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+          "Computer Science and Engineering (Data Science)",
+          "Computer Science and Engineering (Internet of Things)",
+          "Computer Science and Business System",
           "Computer Science & Engineering (Cyber Security)",
           "Electronics Engineering (VLSI Design and Technology)",
-          "Computer Science and Engineering (Collaboration & Twining Program)",
-          "Computer Science and Engineering (Artificial Intelligence) (Collaboration & Twining Program)",
-          "Computer Science And Engineering(AIML) (Collaboration & Twining Program)",
-          "Information Technology (Collaboration & Twining Program)"
+          "Computer Science and Engineering (Collaboration & Twinning Program)",
+          "Computer Science and Engineering (Artificial Intelligence) (Collaboration & Twinning Program)",
+          "Computer Science and Engineering (AIML) (Collaboration & Twinning Program)",
+          "Information Technology (Collaboration & Twinning Program)"
         ],
         "branch_details": [
           {
@@ -93,19 +93,19 @@
             "rr_id": "B010128"
           },
           {
-            "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+            "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
             "rr_id": "B010123"
           },
           {
-            "branch": "Computer Science And Engineering(Data Science)",
+            "branch": "Computer Science and Engineering (Data Science)",
             "rr_id": "B010124"
           },
           {
-            "branch": "Computer Science And Engineering(Internet Of Things)",
+            "branch": "Computer Science and Engineering (Internet of Things)",
             "rr_id": "B010125"
           },
           {
-            "branch": "Computer Science And Business System",
+            "branch": "Computer Science and Business System",
             "rr_id": "B010120"
           },
           {
@@ -117,29 +117,29 @@
             "rr_id": "B010139"
           },
           {
-            "branch": "Computer Science and Engineering (Collaboration & Twining Program)",
+            "branch": "Computer Science and Engineering (Collaboration & Twinning Program)",
             "rr_id": "B010130"
           },
           {
-            "branch": "Computer Science and Engineering (Artificial Intelligence) (Collaboration & Twining Program)",
+            "branch": "Computer Science and Engineering (Artificial Intelligence) (Collaboration & Twinning Program)",
             "rr_id": "B010129"
           },
           {
-            "branch": "Computer Science And Engineering(AIML) (Collaboration & Twining Program)",
+            "branch": "Computer Science and Engineering (AIML) (Collaboration & Twinning Program)",
             "rr_id": "B010122"
           },
           {
-            "branch": "Information Technology (Collaboration & Twining Program)",
+            "branch": "Information Technology (Collaboration & Twinning Program)",
             "rr_id": "B010149"
           }
         ]
       },
       {
-        "course": "Masters of Business Administration",
+        "course": "Master of Business Administration",
         "rr_id": "C0103",
         "branches": [
           "MBA",
-          "Innovation Entrepreneurship and Venture Devlopement",
+          "Innovation Entrepreneurship and Venture Development",
           "MBA (Marketing and Finance)"
         ],
         "branch_details": [
@@ -148,7 +148,7 @@
             "rr_id": "B010302"
           },
           {
-            "branch": "Innovation Entrepreneurship and Venture Devlopement",
+            "branch": "Innovation Entrepreneurship and Venture Development",
             "rr_id": "B010301"
           },
           {
@@ -158,7 +158,7 @@
         ]
       },
       {
-        "course": "Master Of Integrated Technology",
+        "course": "Master of Integrated Technology",
         "rr_id": "C0125",
         "branches": [
           "Computer Science and Engineering"
@@ -174,43 +174,43 @@
         "course": "Master of Computer Applications",
         "rr_id": "C0106",
         "branches": [
-          "MCA"
+          "Master of Computer Applications"
         ],
         "branch_details": [
           {
-            "branch": "MCA",
+            "branch": "Master of Computer Applications",
             "rr_id": "B010601"
           }
         ]
       },
       {
-        "course": "BBA",
+        "course": "Bachelor of Business Administration",
         "rr_id": "C0108",
         "branches": [
-          "BBA"
+          "Bachelor of Business Administration"
         ],
         "branch_details": [
           {
-            "branch": "BBA",
+            "branch": "Bachelor of Business Administration",
             "rr_id": "B010801"
           }
         ]
       },
       {
-        "course": "BCA",
+        "course": "Bachelor of Computer Applications",
         "rr_id": "C0107",
         "branches": [
-          "BCA"
+          "Bachelor of Computer Applications"
         ],
         "branch_details": [
           {
-            "branch": "BCA",
+            "branch": "Bachelor of Computer Applications",
             "rr_id": "B010701"
           }
         ]
       },
       {
-        "course": "Bachelor of Technology Working Professional",
+        "course": "Bachelor of Technology (Working Professional)",
         "rr_id": "C0109",
         "branches": [
           "Computer Science and Engineering",
@@ -233,7 +233,7 @@
         ]
       },
       {
-        "course": "Master of Technology Working Professional",
+        "course": "Master of Technology (Working Professional)",
         "rr_id": "C0116",
         "branches": [
           "Computer Science and Engineering",
@@ -253,8 +253,8 @@
     ]
   },
   "meta": {
-    "api_version": "1.1.0",
-    "generated_at": "2026-11-13T14:32:36+05:30",
+    "api_version": "1.2.0",
+    "generated_at": "2026-11-19T21:37:06+05:30",
     "count": 9
   }
 }

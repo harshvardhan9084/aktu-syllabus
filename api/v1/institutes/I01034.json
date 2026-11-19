@@ -26,7 +26,7 @@
         "rr_id": "C0104",
         "branches": [
           "Pharmaceutics",
-          "Pharmceutical Chemistry",
+          "Pharmaceutical Chemistry",
           "Pharmacology"
         ],
         "branch_details": [
@@ -35,7 +35,7 @@
             "rr_id": "B010402"
           },
           {
-            "branch": "Pharmceutical Chemistry",
+            "branch": "Pharmaceutical Chemistry",
             "rr_id": "B010406"
           },
           {
@@ -55,7 +55,7 @@
           "Electronics and Communication Engineering",
           "Mechanical Engineering",
           "Computer Science and Engineering (Artificial Intelligence)",
-          "Computer Science And Engineering(Artificial Intelligence & Machine Learning)"
+          "Computer Science and Engineering (Artificial Intelligence & Machine Learning)"
         ],
         "branch_details": [
           {
@@ -87,7 +87,7 @@
             "rr_id": "B010128"
           },
           {
-            "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+            "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
             "rr_id": "B010123"
           }
         ]
@@ -106,7 +106,7 @@
         ]
       },
       {
-        "course": "Masters of Business Administration",
+        "course": "Master of Business Administration",
         "rr_id": "C0103",
         "branches": [
           "MBA"
@@ -121,8 +121,8 @@
     ]
   },
   "meta": {
-    "api_version": "1.1.0",
-    "generated_at": "2026-11-13T14:32:36+05:30",
+    "api_version": "1.2.0",
+    "generated_at": "2026-11-19T21:37:06+05:30",
     "count": 5
   }
 }

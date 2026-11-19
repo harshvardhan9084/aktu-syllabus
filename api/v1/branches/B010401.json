@@ -1,9 +1,10 @@
 {
   "data": {
     "rr_id": "B010401",
-    "branch": "PHARMACEUTICAL QUALITY ASSURANCE",
+    "branch": "Pharmaceutical Quality Assurance",
     "course": {
       "course": "Master of Pharmacy",
+      "short": "M.Pharm",
       "rr_id": "C0104",
       "slug": "master-of-pharmacy"
     },
@@ -22,8 +23,8 @@
     ]
   },
   "meta": {
-    "api_version": "1.1.0",
-    "generated_at": "2026-11-13T14:32:36+05:30",
+    "api_version": "1.2.0",
+    "generated_at": "2026-11-19T21:37:06+05:30",
     "count": 2
   }
 }

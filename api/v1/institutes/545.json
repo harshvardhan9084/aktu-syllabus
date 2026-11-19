@@ -14,7 +14,7 @@
         "branches": [
           "Computer Science and Engineering",
           "Electrical Engineering",
-          "Artificial Intelligence And Machine Learning"
+          "Artificial Intelligence and Machine Learning"
         ],
         "branch_details": [
           {
@@ -26,7 +26,7 @@
             "rr_id": "B010136"
           },
           {
-            "branch": "Artificial Intelligence And Machine Learning",
+            "branch": "Artificial Intelligence and Machine Learning",
             "rr_id": "B010105"
           }
         ]
@@ -34,8 +34,8 @@
     ]
   },
   "meta": {
-    "api_version": "1.1.0",
-    "generated_at": "2026-11-13T14:32:36+05:30",
+    "api_version": "1.2.0",
+    "generated_at": "2026-11-19T21:37:06+05:30",
     "count": 1
   }
 }

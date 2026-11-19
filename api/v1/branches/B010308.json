@@ -1,11 +1,12 @@
 {
   "data": {
     "rr_id": "B010308",
-    "branch": "MBA(Logistics and supply chain management)",
+    "branch": "MBA (Logistics and Supply Chain Management)",
     "course": {
-      "course": "Masters of Business Administration",
+      "course": "Master of Business Administration",
+      "short": "MBA",
       "rr_id": "C0103",
-      "slug": "masters-of-business-administration"
+      "slug": "master-of-business-administration"
     },
     "institute_count": 1,
     "institutes": [
@@ -17,8 +18,8 @@
     ]
   },
   "meta": {
-    "api_version": "1.1.0",
-    "generated_at": "2026-11-13T14:32:36+05:30",
+    "api_version": "1.2.0",
+    "generated_at": "2026-11-19T21:37:06+05:30",
     "count": 1
   }
 }

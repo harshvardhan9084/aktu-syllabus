@@ -2,6 +2,7 @@
   "data": {
     "rr_id": "C0101",
     "course": "Bachelor of Technology",
+    "short": "B.Tech",
     "slug": "bachelor-of-technology",
     "branch_rows": 1128,
     "institute_count": 191,
@@ -10,14 +11,14 @@
         "institute_code": "002",
         "institute_rr_id": "I01001",
         "institute_name": "FACULTY OF ENGG, AGRA COLLEGE,AGRA",
-        "branch": "Artificial Inelligence (AI) And Data Science",
+        "branch": "Artificial Intelligence (AI) and Data Science",
         "branch_rr_id": "B010103"
       },
       {
         "institute_code": "002",
         "institute_rr_id": "I01001",
         "institute_name": "FACULTY OF ENGG, AGRA COLLEGE,AGRA",
-        "branch": "Artificial Intelligence And Machine Learning",
+        "branch": "Artificial Intelligence and Machine Learning",
         "branch_rr_id": "B010105"
       },
       {
@@ -143,20 +144,6 @@
         "institute_code": "007",
         "institute_rr_id": "I01005",
         "institute_name": "SHIVDAN SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALIGARH",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
-      },
-      {
-        "institute_code": "007",
-        "institute_rr_id": "I01005",
-        "institute_name": "SHIVDAN SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALIGARH",
-        "branch": "Computer Science And Engineering(Data Science)",
-        "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "007",
-        "institute_rr_id": "I01005",
-        "institute_name": "SHIVDAN SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALIGARH",
         "branch": "Computer Science and Engineering",
         "branch_rr_id": "B010127"
       },
@@ -164,8 +151,22 @@
         "institute_code": "007",
         "institute_rr_id": "I01005",
         "institute_name": "SHIVDAN SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALIGARH",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
+      },
+      {
+        "institute_code": "007",
+        "institute_rr_id": "I01005",
+        "institute_name": "SHIVDAN SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALIGARH",
         "branch": "Computer Science and Engineering (Artificial Intelligence)",
         "branch_rr_id": "B010128"
+      },
+      {
+        "institute_code": "007",
+        "institute_rr_id": "I01005",
+        "institute_name": "SHIVDAN SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALIGARH",
+        "branch": "Computer Science and Engineering (Data Science)",
+        "branch_rr_id": "B010124"
       },
       {
         "institute_code": "007",
@@ -213,15 +214,15 @@
         "institute_code": "010",
         "institute_rr_id": "I01006",
         "institute_name": "UNITED COLLEGE OF ENGINEERING & RESEARCH,ALLAHABAD",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "010",
         "institute_rr_id": "I01006",
         "institute_name": "UNITED COLLEGE OF ENGINEERING & RESEARCH,ALLAHABAD",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "010",
@@ -248,22 +249,22 @@
         "institute_code": "014",
         "institute_rr_id": "I01010",
         "institute_name": "SHRI RAMMURTI SMARAK COLLEGE OF ENGG AND TECHNOLOGY,BAREILLY",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
+      },
+      {
+        "institute_code": "014",
+        "institute_rr_id": "I01010",
+        "institute_name": "SHRI RAMMURTI SMARAK COLLEGE OF ENGG AND TECHNOLOGY,BAREILLY",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
         "branch_rr_id": "B010123"
       },
       {
         "institute_code": "014",
         "institute_rr_id": "I01010",
         "institute_name": "SHRI RAMMURTI SMARAK COLLEGE OF ENGG AND TECHNOLOGY,BAREILLY",
-        "branch": "Computer Science And Engineering(Data Science)",
+        "branch": "Computer Science and Engineering (Data Science)",
         "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "014",
-        "institute_rr_id": "I01010",
-        "institute_name": "SHRI RAMMURTI SMARAK COLLEGE OF ENGG AND TECHNOLOGY,BAREILLY",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "014",
@@ -381,22 +382,22 @@
         "institute_code": "027",
         "institute_rr_id": "I01014",
         "institute_name": "AJAY KUMAR GARG ENGG. COLLEGE,GHAZIABAD",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
+      },
+      {
+        "institute_code": "027",
+        "institute_rr_id": "I01014",
+        "institute_name": "AJAY KUMAR GARG ENGG. COLLEGE,GHAZIABAD",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
         "branch_rr_id": "B010123"
       },
       {
         "institute_code": "027",
         "institute_rr_id": "I01014",
         "institute_name": "AJAY KUMAR GARG ENGG. COLLEGE,GHAZIABAD",
-        "branch": "Computer Science And Engineering(Data Science)",
+        "branch": "Computer Science and Engineering (Data Science)",
         "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "027",
-        "institute_rr_id": "I01014",
-        "institute_name": "AJAY KUMAR GARG ENGG. COLLEGE,GHAZIABAD",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "027",
@@ -437,20 +438,6 @@
         "institute_code": "030",
         "institute_rr_id": "I01015",
         "institute_name": "INDERPRASTHA ENGG. COLLEGE,GHAZIABAD",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
-      },
-      {
-        "institute_code": "030",
-        "institute_rr_id": "I01015",
-        "institute_name": "INDERPRASTHA ENGG. COLLEGE,GHAZIABAD",
-        "branch": "Computer Science And Engineering(Data Science)",
-        "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "030",
-        "institute_rr_id": "I01015",
-        "institute_name": "INDERPRASTHA ENGG. COLLEGE,GHAZIABAD",
         "branch": "Computer Science and Engineering",
         "branch_rr_id": "B010127"
       },
@@ -458,8 +445,22 @@
         "institute_code": "030",
         "institute_rr_id": "I01015",
         "institute_name": "INDERPRASTHA ENGG. COLLEGE,GHAZIABAD",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
+      },
+      {
+        "institute_code": "030",
+        "institute_rr_id": "I01015",
+        "institute_name": "INDERPRASTHA ENGG. COLLEGE,GHAZIABAD",
         "branch": "Computer Science and Engineering (Artificial Intelligence)",
         "branch_rr_id": "B010128"
+      },
+      {
+        "institute_code": "030",
+        "institute_rr_id": "I01015",
+        "institute_name": "INDERPRASTHA ENGG. COLLEGE,GHAZIABAD",
+        "branch": "Computer Science and Engineering (Data Science)",
+        "branch_rr_id": "B010124"
       },
       {
         "institute_code": "030",
@@ -486,20 +487,6 @@
         "institute_code": "032",
         "institute_rr_id": "I01016",
         "institute_name": "ABES ENGG.COLLEGE,GHAZIABAD",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
-      },
-      {
-        "institute_code": "032",
-        "institute_rr_id": "I01016",
-        "institute_name": "ABES ENGG.COLLEGE,GHAZIABAD",
-        "branch": "Computer Science And Engineering(Data Science)",
-        "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "032",
-        "institute_rr_id": "I01016",
-        "institute_name": "ABES ENGG.COLLEGE,GHAZIABAD",
         "branch": "Computer Science and Engineering",
         "branch_rr_id": "B010127"
       },
@@ -507,7 +494,21 @@
         "institute_code": "032",
         "institute_rr_id": "I01016",
         "institute_name": "ABES ENGG.COLLEGE,GHAZIABAD",
-        "branch": "Electrical & Computer Engg.",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
+      },
+      {
+        "institute_code": "032",
+        "institute_rr_id": "I01016",
+        "institute_name": "ABES ENGG.COLLEGE,GHAZIABAD",
+        "branch": "Computer Science and Engineering (Data Science)",
+        "branch_rr_id": "B010124"
+      },
+      {
+        "institute_code": "032",
+        "institute_rr_id": "I01016",
+        "institute_name": "ABES ENGG.COLLEGE,GHAZIABAD",
+        "branch": "Electrical & Computer Engineering",
         "branch_rr_id": "B010134"
       },
       {
@@ -528,7 +529,7 @@
         "institute_code": "033",
         "institute_rr_id": "I01017",
         "institute_name": "RAJ KUMAR GOEL INSTT. OF TECHNOLOGY,GHAZIABAD",
-        "branch": "Artificial Intelligence And Machine Learning",
+        "branch": "Artificial Intelligence and Machine Learning",
         "branch_rr_id": "B010105"
       },
       {
@@ -549,22 +550,22 @@
         "institute_code": "033",
         "institute_rr_id": "I01017",
         "institute_name": "RAJ KUMAR GOEL INSTT. OF TECHNOLOGY,GHAZIABAD",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
+      },
+      {
+        "institute_code": "033",
+        "institute_rr_id": "I01017",
+        "institute_name": "RAJ KUMAR GOEL INSTT. OF TECHNOLOGY,GHAZIABAD",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
         "branch_rr_id": "B010123"
       },
       {
         "institute_code": "033",
         "institute_rr_id": "I01017",
         "institute_name": "RAJ KUMAR GOEL INSTT. OF TECHNOLOGY,GHAZIABAD",
-        "branch": "Computer Science And Engineering(Data Science)",
+        "branch": "Computer Science and Engineering (Data Science)",
         "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "033",
-        "institute_rr_id": "I01017",
-        "institute_name": "RAJ KUMAR GOEL INSTT. OF TECHNOLOGY,GHAZIABAD",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "033",
@@ -598,22 +599,22 @@
         "institute_code": "035",
         "institute_rr_id": "I01018",
         "institute_name": "BABU BANARSI DAS INSTITUTE OF TECH.,GHAZIABAD",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
+      },
+      {
+        "institute_code": "035",
+        "institute_rr_id": "I01018",
+        "institute_name": "BABU BANARSI DAS INSTITUTE OF TECH.,GHAZIABAD",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
         "branch_rr_id": "B010123"
       },
       {
         "institute_code": "035",
         "institute_rr_id": "I01018",
         "institute_name": "BABU BANARSI DAS INSTITUTE OF TECH.,GHAZIABAD",
-        "branch": "Computer Science And Engineering(Data Science)",
+        "branch": "Computer Science and Engineering (Data Science)",
         "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "035",
-        "institute_rr_id": "I01018",
-        "institute_name": "BABU BANARSI DAS INSTITUTE OF TECH.,GHAZIABAD",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "035",
@@ -640,14 +641,14 @@
         "institute_code": "043",
         "institute_rr_id": "I01024",
         "institute_name": "BUNDELKHAND INSTITUTE OF ENGINEERING & TECHNOLOGY,JHANSI",
-        "branch": "Artificial Inelligence (AI) And Data Science",
+        "branch": "Artificial Intelligence (AI) and Data Science",
         "branch_rr_id": "B010103"
       },
       {
         "institute_code": "043",
         "institute_rr_id": "I01024",
         "institute_name": "BUNDELKHAND INSTITUTE OF ENGINEERING & TECHNOLOGY,JHANSI",
-        "branch": "Artificial Intelligence And Machine Learning",
+        "branch": "Artificial Intelligence and Machine Learning",
         "branch_rr_id": "B010105"
       },
       {
@@ -710,7 +711,7 @@
         "institute_code": "044",
         "institute_rr_id": "I01025",
         "institute_name": "UTTAR PRADESH TEXTILE TECHNOLOGY INSTITUTE,KANPUR",
-        "branch": "Man Made Fibre Technology",
+        "branch": "Man-Made Fibre Technology",
         "branch_rr_id": "B010151"
       },
       {
@@ -738,20 +739,6 @@
         "institute_code": "046",
         "institute_rr_id": "I01026",
         "institute_name": "MAHARANA PRATAP ENGINEERING COLLEGE,KANPUR",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
-      },
-      {
-        "institute_code": "046",
-        "institute_rr_id": "I01026",
-        "institute_name": "MAHARANA PRATAP ENGINEERING COLLEGE,KANPUR",
-        "branch": "Computer Science And Engineering(Data Science)",
-        "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "046",
-        "institute_rr_id": "I01026",
-        "institute_name": "MAHARANA PRATAP ENGINEERING COLLEGE,KANPUR",
         "branch": "Computer Science and Engineering",
         "branch_rr_id": "B010127"
       },
@@ -759,8 +746,22 @@
         "institute_code": "046",
         "institute_rr_id": "I01026",
         "institute_name": "MAHARANA PRATAP ENGINEERING COLLEGE,KANPUR",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
+      },
+      {
+        "institute_code": "046",
+        "institute_rr_id": "I01026",
+        "institute_name": "MAHARANA PRATAP ENGINEERING COLLEGE,KANPUR",
         "branch": "Computer Science and Engineering (Artificial Intelligence)",
         "branch_rr_id": "B010128"
+      },
+      {
+        "institute_code": "046",
+        "institute_rr_id": "I01026",
+        "institute_name": "MAHARANA PRATAP ENGINEERING COLLEGE,KANPUR",
+        "branch": "Computer Science and Engineering (Data Science)",
+        "branch_rr_id": "B010124"
       },
       {
         "institute_code": "052",
@@ -871,20 +872,6 @@
         "institute_code": "054",
         "institute_rr_id": "I01033",
         "institute_name": "BABU BANARASI DAS INSTITUTE OF TECHNOLOGY AND MANAGEMENT, LUCKNOW",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
-      },
-      {
-        "institute_code": "054",
-        "institute_rr_id": "I01033",
-        "institute_name": "BABU BANARASI DAS INSTITUTE OF TECHNOLOGY AND MANAGEMENT, LUCKNOW",
-        "branch": "Computer Science And Engineering(Data Science)",
-        "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "054",
-        "institute_rr_id": "I01033",
-        "institute_name": "BABU BANARASI DAS INSTITUTE OF TECHNOLOGY AND MANAGEMENT, LUCKNOW",
         "branch": "Computer Science and Engineering",
         "branch_rr_id": "B010127"
       },
@@ -892,8 +879,22 @@
         "institute_code": "054",
         "institute_rr_id": "I01033",
         "institute_name": "BABU BANARASI DAS INSTITUTE OF TECHNOLOGY AND MANAGEMENT, LUCKNOW",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
+      },
+      {
+        "institute_code": "054",
+        "institute_rr_id": "I01033",
+        "institute_name": "BABU BANARASI DAS INSTITUTE OF TECHNOLOGY AND MANAGEMENT, LUCKNOW",
         "branch": "Computer Science and Engineering (Artificial Intelligence)",
         "branch_rr_id": "B010128"
+      },
+      {
+        "institute_code": "054",
+        "institute_rr_id": "I01033",
+        "institute_name": "BABU BANARASI DAS INSTITUTE OF TECHNOLOGY AND MANAGEMENT, LUCKNOW",
+        "branch": "Computer Science and Engineering (Data Science)",
+        "branch_rr_id": "B010124"
       },
       {
         "institute_code": "054",
@@ -934,15 +935,15 @@
         "institute_code": "056",
         "institute_rr_id": "I01034",
         "institute_name": "BABU BANARASI DAS NORTHERN INDIA INSTITUTE OF TECHNOLOGY,LUCKNOW",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "056",
         "institute_rr_id": "I01034",
         "institute_name": "BABU BANARASI DAS NORTHERN INDIA INSTITUTE OF TECHNOLOGY,LUCKNOW",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "056",
@@ -990,22 +991,22 @@
         "institute_code": "064",
         "institute_rr_id": "I01037",
         "institute_name": "HINDUSTAN COLLEGE OF SCIENCE & TECHNOLOGY,MATHURA",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
+      },
+      {
+        "institute_code": "064",
+        "institute_rr_id": "I01037",
+        "institute_name": "HINDUSTAN COLLEGE OF SCIENCE & TECHNOLOGY,MATHURA",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
         "branch_rr_id": "B010123"
       },
       {
         "institute_code": "064",
         "institute_rr_id": "I01037",
         "institute_name": "HINDUSTAN COLLEGE OF SCIENCE & TECHNOLOGY,MATHURA",
-        "branch": "Computer Science And Engineering(Data Science)",
+        "branch": "Computer Science and Engineering (Data Science)",
         "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "064",
-        "institute_rr_id": "I01037",
-        "institute_name": "HINDUSTAN COLLEGE OF SCIENCE & TECHNOLOGY,MATHURA",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "064",
@@ -1046,15 +1047,15 @@
         "institute_code": "065",
         "institute_rr_id": "I01038",
         "institute_name": "B.S.A. COLLEGE OF ENGINEERING & TECHNOLOGY,MATHURA",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "065",
         "institute_rr_id": "I01038",
         "institute_name": "B.S.A. COLLEGE OF ENGINEERING & TECHNOLOGY,MATHURA",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "065",
@@ -1102,20 +1103,6 @@
         "institute_code": "068",
         "institute_rr_id": "I01041",
         "institute_name": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
-      },
-      {
-        "institute_code": "068",
-        "institute_rr_id": "I01041",
-        "institute_name": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
-        "branch": "Computer Science And Engineering(Data Science)",
-        "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "068",
-        "institute_rr_id": "I01041",
-        "institute_name": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
         "branch": "Computer Science and Engineering",
         "branch_rr_id": "B010127"
       },
@@ -1123,8 +1110,22 @@
         "institute_code": "068",
         "institute_rr_id": "I01041",
         "institute_name": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
+      },
+      {
+        "institute_code": "068",
+        "institute_rr_id": "I01041",
+        "institute_name": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
         "branch": "Computer Science and Engineering (Artificial Intelligence)",
         "branch_rr_id": "B010128"
+      },
+      {
+        "institute_code": "068",
+        "institute_rr_id": "I01041",
+        "institute_name": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
+        "branch": "Computer Science and Engineering (Data Science)",
+        "branch_rr_id": "B010124"
       },
       {
         "institute_code": "068",
@@ -1144,7 +1145,7 @@
         "institute_code": "068",
         "institute_rr_id": "I01041",
         "institute_name": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
-        "branch": "Electronics and communication Engineering (VLSI Design and Technology)",
+        "branch": "Electronics and Communication Engineering (VLSI Design and Technology)",
         "branch_rr_id": "B010143"
       },
       {
@@ -1256,22 +1257,22 @@
         "institute_code": "082",
         "institute_rr_id": "I01048",
         "institute_name": "MORADABAD INSTITUTE OF TECHNOLOGY,MORADABAD",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
+      },
+      {
+        "institute_code": "082",
+        "institute_rr_id": "I01048",
+        "institute_name": "MORADABAD INSTITUTE OF TECHNOLOGY,MORADABAD",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
         "branch_rr_id": "B010123"
       },
       {
         "institute_code": "082",
         "institute_rr_id": "I01048",
         "institute_name": "MORADABAD INSTITUTE OF TECHNOLOGY,MORADABAD",
-        "branch": "Computer Science And Engineering(Data Science)",
+        "branch": "Computer Science and Engineering (Data Science)",
         "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "082",
-        "institute_rr_id": "I01048",
-        "institute_name": "MORADABAD INSTITUTE OF TECHNOLOGY,MORADABAD",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "082",
@@ -1305,13 +1306,6 @@
         "institute_code": "083",
         "institute_rr_id": "I01049",
         "institute_name": "S.D.COLLEGE OF ENGINEERING & TECHNOLOGY,MUZAFFARNAGAR",
-        "branch": "Computer Science And Engineering(Data Science)",
-        "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "083",
-        "institute_rr_id": "I01049",
-        "institute_name": "S.D.COLLEGE OF ENGINEERING & TECHNOLOGY,MUZAFFARNAGAR",
         "branch": "Computer Science and Engineering",
         "branch_rr_id": "B010127"
       },
@@ -1321,6 +1315,13 @@
         "institute_name": "S.D.COLLEGE OF ENGINEERING & TECHNOLOGY,MUZAFFARNAGAR",
         "branch": "Computer Science and Engineering (Artificial Intelligence)",
         "branch_rr_id": "B010128"
+      },
+      {
+        "institute_code": "083",
+        "institute_rr_id": "I01049",
+        "institute_name": "S.D.COLLEGE OF ENGINEERING & TECHNOLOGY,MUZAFFARNAGAR",
+        "branch": "Computer Science and Engineering (Data Science)",
+        "branch_rr_id": "B010124"
       },
       {
         "institute_code": "083",
@@ -1354,15 +1355,15 @@
         "institute_code": "084",
         "institute_rr_id": "I01050",
         "institute_name": "BHAGWANT INSTITUTE OF TECHNOLOGY,MUZAFFARNAGAR",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "084",
         "institute_rr_id": "I01050",
         "institute_name": "BHAGWANT INSTITUTE OF TECHNOLOGY,MUZAFFARNAGAR",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "084",
@@ -1389,20 +1390,6 @@
         "institute_code": "090",
         "institute_rr_id": "I01053",
         "institute_name": "I.E.C. COLLEGE OF ENGINEERING & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
-      },
-      {
-        "institute_code": "090",
-        "institute_rr_id": "I01053",
-        "institute_name": "I.E.C. COLLEGE OF ENGINEERING & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science And Engineering(Data Science)",
-        "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "090",
-        "institute_rr_id": "I01053",
-        "institute_name": "I.E.C. COLLEGE OF ENGINEERING & TECHNOLOGY,GAUTAM BUDDH NAGAR",
         "branch": "Computer Science and Engineering",
         "branch_rr_id": "B010127"
       },
@@ -1410,8 +1397,22 @@
         "institute_code": "090",
         "institute_rr_id": "I01053",
         "institute_name": "I.E.C. COLLEGE OF ENGINEERING & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
+      },
+      {
+        "institute_code": "090",
+        "institute_rr_id": "I01053",
+        "institute_name": "I.E.C. COLLEGE OF ENGINEERING & TECHNOLOGY,GAUTAM BUDDH NAGAR",
         "branch": "Computer Science and Engineering (Artificial Intelligence)",
         "branch_rr_id": "B010128"
+      },
+      {
+        "institute_code": "090",
+        "institute_rr_id": "I01053",
+        "institute_name": "I.E.C. COLLEGE OF ENGINEERING & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+        "branch": "Computer Science and Engineering (Data Science)",
+        "branch_rr_id": "B010124"
       },
       {
         "institute_code": "090",
@@ -1459,22 +1460,22 @@
         "institute_code": "095",
         "institute_rr_id": "I01056",
         "institute_name": "MAHATAMA GANDHI MISSION COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
+      },
+      {
+        "institute_code": "095",
+        "institute_rr_id": "I01056",
+        "institute_name": "MAHATAMA GANDHI MISSION COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
         "branch_rr_id": "B010123"
       },
       {
         "institute_code": "095",
         "institute_rr_id": "I01056",
         "institute_name": "MAHATAMA GANDHI MISSION COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science And Engineering(Data Science)",
+        "branch": "Computer Science and Engineering (Data Science)",
         "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "095",
-        "institute_rr_id": "I01056",
-        "institute_name": "MAHATAMA GANDHI MISSION COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "095",
@@ -1508,22 +1509,22 @@
         "institute_code": "096",
         "institute_rr_id": "I01057",
         "institute_name": "VISHVESHWARYA GROUP OF INSTITUTIONS,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
+      },
+      {
+        "institute_code": "096",
+        "institute_rr_id": "I01057",
+        "institute_name": "VISHVESHWARYA GROUP OF INSTITUTIONS,GAUTAM BUDDH NAGAR",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
         "branch_rr_id": "B010123"
       },
       {
         "institute_code": "096",
         "institute_rr_id": "I01057",
         "institute_name": "VISHVESHWARYA GROUP OF INSTITUTIONS,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science And Engineering(Data Science)",
+        "branch": "Computer Science and Engineering (Data Science)",
         "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "096",
-        "institute_rr_id": "I01057",
-        "institute_name": "VISHVESHWARYA GROUP OF INSTITUTIONS,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "096",
@@ -1550,7 +1551,7 @@
         "institute_code": "097",
         "institute_rr_id": "I01058",
         "institute_name": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Artificial Intelligence And Machine Learning",
+        "branch": "Artificial Intelligence and Machine Learning",
         "branch_rr_id": "B010105"
       },
       {
@@ -1564,20 +1565,6 @@
         "institute_code": "097",
         "institute_rr_id": "I01058",
         "institute_name": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
-      },
-      {
-        "institute_code": "097",
-        "institute_rr_id": "I01058",
-        "institute_name": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science And Engineering(Data Science)",
-        "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "097",
-        "institute_rr_id": "I01058",
-        "institute_name": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
         "branch": "Computer Science and Engineering",
         "branch_rr_id": "B010127"
       },
@@ -1585,8 +1572,22 @@
         "institute_code": "097",
         "institute_rr_id": "I01058",
         "institute_name": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
+      },
+      {
+        "institute_code": "097",
+        "institute_rr_id": "I01058",
+        "institute_name": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
         "branch": "Computer Science and Engineering (Artificial Intelligence)",
         "branch_rr_id": "B010128"
+      },
+      {
+        "institute_code": "097",
+        "institute_rr_id": "I01058",
+        "institute_name": "GALGOTIA'S COLLEGE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+        "branch": "Computer Science and Engineering (Data Science)",
+        "branch_rr_id": "B010124"
       },
       {
         "institute_code": "097",
@@ -1802,22 +1803,22 @@
         "institute_code": "1186",
         "institute_rr_id": "I01233",
         "institute_name": "MAYA INSTITUTE OF PHARMACY",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
+      },
+      {
+        "institute_code": "1186",
+        "institute_rr_id": "I01233",
+        "institute_name": "MAYA INSTITUTE OF PHARMACY",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
         "branch_rr_id": "B010123"
       },
       {
         "institute_code": "1186",
         "institute_rr_id": "I01233",
         "institute_name": "MAYA INSTITUTE OF PHARMACY",
-        "branch": "Computer Science And Engineering(Data Science)",
+        "branch": "Computer Science and Engineering (Data Science)",
         "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "1186",
-        "institute_rr_id": "I01233",
-        "institute_name": "MAYA INSTITUTE OF PHARMACY",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "1186",
@@ -1844,22 +1845,22 @@
         "institute_code": "120",
         "institute_rr_id": "I01243",
         "institute_name": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,GORAKHPUR",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
+      },
+      {
+        "institute_code": "120",
+        "institute_rr_id": "I01243",
+        "institute_name": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,GORAKHPUR",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
         "branch_rr_id": "B010123"
       },
       {
         "institute_code": "120",
         "institute_rr_id": "I01243",
         "institute_name": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,GORAKHPUR",
-        "branch": "Computer Science And Engineering(Data Science)",
+        "branch": "Computer Science and Engineering (Data Science)",
         "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "120",
-        "institute_rr_id": "I01243",
-        "institute_name": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,GORAKHPUR",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "120",
@@ -2005,15 +2006,8 @@
         "institute_code": "1217",
         "institute_rr_id": "I01261",
         "institute_name": "MAHARANA PRATAP INSTITUE OF TECHNOLOGY, GORAKHPUR",
-        "branch": "Artificial Intelligence And Machine Learning",
+        "branch": "Artificial Intelligence and Machine Learning",
         "branch_rr_id": "B010105"
-      },
-      {
-        "institute_code": "1217",
-        "institute_rr_id": "I01261",
-        "institute_name": "MAHARANA PRATAP INSTITUE OF TECHNOLOGY, GORAKHPUR",
-        "branch": "CYBER SECURITY",
-        "branch_rr_id": "B010111"
       },
       {
         "institute_code": "1217",
@@ -2026,7 +2020,14 @@
         "institute_code": "1217",
         "institute_rr_id": "I01261",
         "institute_name": "MAHARANA PRATAP INSTITUE OF TECHNOLOGY, GORAKHPUR",
-        "branch": "DATA SCIENCE",
+        "branch": "Cyber Security",
+        "branch_rr_id": "B010111"
+      },
+      {
+        "institute_code": "1217",
+        "institute_rr_id": "I01261",
+        "institute_name": "MAHARANA PRATAP INSTITUE OF TECHNOLOGY, GORAKHPUR",
+        "branch": "Data Science",
         "branch_rr_id": "B010133"
       },
       {
@@ -2047,15 +2048,8 @@
         "institute_code": "1218",
         "institute_rr_id": "I01262",
         "institute_name": "MODERN COLLEGE, JHANSI",
-        "branch": "Artificial Intelligence And Machine Learning",
+        "branch": "Artificial Intelligence and Machine Learning",
         "branch_rr_id": "B010105"
-      },
-      {
-        "institute_code": "1218",
-        "institute_rr_id": "I01262",
-        "institute_name": "MODERN COLLEGE, JHANSI",
-        "branch": "Computer Science And Engineering(Data Science)",
-        "branch_rr_id": "B010124"
       },
       {
         "institute_code": "1218",
@@ -2063,6 +2057,13 @@
         "institute_name": "MODERN COLLEGE, JHANSI",
         "branch": "Computer Science and Engineering",
         "branch_rr_id": "B010127"
+      },
+      {
+        "institute_code": "1218",
+        "institute_rr_id": "I01262",
+        "institute_name": "MODERN COLLEGE, JHANSI",
+        "branch": "Computer Science and Engineering (Data Science)",
+        "branch_rr_id": "B010124"
       },
       {
         "institute_code": "1218",
@@ -2096,29 +2097,29 @@
         "institute_code": "122",
         "institute_rr_id": "I01264",
         "institute_name": "SHRI RAM SWAROOP MEMORIAL COLLEGE OF ENGG. & MANAGEMENT,LUCKNOW",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
+      },
+      {
+        "institute_code": "122",
+        "institute_rr_id": "I01264",
+        "institute_name": "SHRI RAM SWAROOP MEMORIAL COLLEGE OF ENGG. & MANAGEMENT,LUCKNOW",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
         "branch_rr_id": "B010123"
       },
       {
         "institute_code": "122",
         "institute_rr_id": "I01264",
         "institute_name": "SHRI RAM SWAROOP MEMORIAL COLLEGE OF ENGG. & MANAGEMENT,LUCKNOW",
-        "branch": "Computer Science And Engineering(Data Science)",
+        "branch": "Computer Science and Engineering (Data Science)",
         "branch_rr_id": "B010124"
       },
       {
         "institute_code": "122",
         "institute_rr_id": "I01264",
         "institute_name": "SHRI RAM SWAROOP MEMORIAL COLLEGE OF ENGG. & MANAGEMENT,LUCKNOW",
-        "branch": "Computer Science And Engineering(Internet Of Things)",
+        "branch": "Computer Science and Engineering (Internet of Things)",
         "branch_rr_id": "B010125"
-      },
-      {
-        "institute_code": "122",
-        "institute_rr_id": "I01264",
-        "institute_name": "SHRI RAM SWAROOP MEMORIAL COLLEGE OF ENGG. & MANAGEMENT,LUCKNOW",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "122",
@@ -2159,7 +2160,7 @@
         "institute_code": "123",
         "institute_rr_id": "I01273",
         "institute_name": "SAROJ INSTITUTE OF TECH. & MANAGEMENT,LUCKNOW",
-        "branch": "Bio Medical Engineering",
+        "branch": "Biomedical Engineering",
         "branch_rr_id": "B010108"
       },
       {
@@ -2187,20 +2188,6 @@
         "institute_code": "123",
         "institute_rr_id": "I01273",
         "institute_name": "SAROJ INSTITUTE OF TECH. & MANAGEMENT,LUCKNOW",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
-      },
-      {
-        "institute_code": "123",
-        "institute_rr_id": "I01273",
-        "institute_name": "SAROJ INSTITUTE OF TECH. & MANAGEMENT,LUCKNOW",
-        "branch": "Computer Science And Engineering(Data Science)",
-        "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "123",
-        "institute_rr_id": "I01273",
-        "institute_name": "SAROJ INSTITUTE OF TECH. & MANAGEMENT,LUCKNOW",
         "branch": "Computer Science and Engineering",
         "branch_rr_id": "B010127"
       },
@@ -2208,8 +2195,22 @@
         "institute_code": "123",
         "institute_rr_id": "I01273",
         "institute_name": "SAROJ INSTITUTE OF TECH. & MANAGEMENT,LUCKNOW",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
+      },
+      {
+        "institute_code": "123",
+        "institute_rr_id": "I01273",
+        "institute_name": "SAROJ INSTITUTE OF TECH. & MANAGEMENT,LUCKNOW",
         "branch": "Computer Science and Engineering (Artificial Intelligence)",
         "branch_rr_id": "B010128"
+      },
+      {
+        "institute_code": "123",
+        "institute_rr_id": "I01273",
+        "institute_name": "SAROJ INSTITUTE OF TECH. & MANAGEMENT,LUCKNOW",
+        "branch": "Computer Science and Engineering (Data Science)",
+        "branch_rr_id": "B010124"
       },
       {
         "institute_code": "123",
@@ -2257,7 +2258,7 @@
         "institute_code": "127",
         "institute_rr_id": "I01314",
         "institute_name": "I.I.M.T. ENGG. COLLEGE,MEERUT",
-        "branch": "Artificial Inelligence (AI) And Data Science",
+        "branch": "Artificial Intelligence (AI) and Data Science",
         "branch_rr_id": "B010103"
       },
       {
@@ -2306,15 +2307,15 @@
         "institute_code": "1278",
         "institute_rr_id": "I01323",
         "institute_name": "LUCKNOW PUBLIC COLLEGE OF PROFESSIONAL STUDIES, Lucknow",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "1278",
         "institute_rr_id": "I01323",
         "institute_name": "LUCKNOW PUBLIC COLLEGE OF PROFESSIONAL STUDIES, Lucknow",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "1278",
@@ -2334,7 +2335,7 @@
         "institute_code": "1279",
         "institute_rr_id": "I01324",
         "institute_name": "INSTITUTE OF PROFESSIONAL STUDIES AND RESEARCH, UNNAO",
-        "branch": "Artificial Intelligence And Machine Learning",
+        "branch": "Artificial Intelligence and Machine Learning",
         "branch_rr_id": "B010105"
       },
       {
@@ -2369,20 +2370,6 @@
         "institute_code": "128",
         "institute_rr_id": "I01325",
         "institute_name": "BHARAT INSTITUTE OF TECHNOLOGY,MEERUT",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
-      },
-      {
-        "institute_code": "128",
-        "institute_rr_id": "I01325",
-        "institute_name": "BHARAT INSTITUTE OF TECHNOLOGY,MEERUT",
-        "branch": "Computer Science And Engineering(Data Science)",
-        "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "128",
-        "institute_rr_id": "I01325",
-        "institute_name": "BHARAT INSTITUTE OF TECHNOLOGY,MEERUT",
         "branch": "Computer Science and Engineering",
         "branch_rr_id": "B010127"
       },
@@ -2390,8 +2377,22 @@
         "institute_code": "128",
         "institute_rr_id": "I01325",
         "institute_name": "BHARAT INSTITUTE OF TECHNOLOGY,MEERUT",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
+      },
+      {
+        "institute_code": "128",
+        "institute_rr_id": "I01325",
+        "institute_name": "BHARAT INSTITUTE OF TECHNOLOGY,MEERUT",
         "branch": "Computer Science and Engineering (Artificial Intelligence)",
         "branch_rr_id": "B010128"
+      },
+      {
+        "institute_code": "128",
+        "institute_rr_id": "I01325",
+        "institute_name": "BHARAT INSTITUTE OF TECHNOLOGY,MEERUT",
+        "branch": "Computer Science and Engineering (Data Science)",
+        "branch_rr_id": "B010124"
       },
       {
         "institute_code": "128",
@@ -2425,7 +2426,7 @@
         "institute_code": "1280",
         "institute_rr_id": "I01326",
         "institute_name": "SHRI VISHWANATH COLLEGE OF TECHNOLOGY, SULTANPUR",
-        "branch": "Artificial Inelligence (AI) And Data Science",
+        "branch": "Artificial Intelligence (AI) and Data Science",
         "branch_rr_id": "B010103"
       },
       {
@@ -2460,14 +2461,14 @@
         "institute_code": "1282",
         "institute_rr_id": "I01328",
         "institute_name": "RAM-EESH INSTITUTE OF ENGINEERING & TECHNOLOGY, GAUTAM BUDDHA NAGAR",
-        "branch": "Artificial Inelligence (AI) And Data Science",
+        "branch": "Artificial Intelligence (AI) and Data Science",
         "branch_rr_id": "B010103"
       },
       {
         "institute_code": "1282",
         "institute_rr_id": "I01328",
         "institute_name": "RAM-EESH INSTITUTE OF ENGINEERING & TECHNOLOGY, GAUTAM BUDDHA NAGAR",
-        "branch": "Electronic And Computer Engineering",
+        "branch": "Electronic and Computer Engineering",
         "branch_rr_id": "B010137"
       },
       {
@@ -2509,15 +2510,15 @@
         "institute_code": "1288",
         "institute_rr_id": "I01334",
         "institute_name": "Trinity Institute of Innovations in Professional Studies, GAUTAM BUDDHA NAGAR",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "1288",
         "institute_rr_id": "I01334",
         "institute_name": "Trinity Institute of Innovations in Professional Studies, GAUTAM BUDDHA NAGAR",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "1288",
@@ -2537,13 +2538,6 @@
         "institute_code": "1292",
         "institute_rr_id": "I01339",
         "institute_name": "DTC COLLEGE, GAUTAM BUDDHA NAGAR",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
-      },
-      {
-        "institute_code": "1292",
-        "institute_rr_id": "I01339",
-        "institute_name": "DTC COLLEGE, GAUTAM BUDDHA NAGAR",
         "branch": "Computer Science and Engineering",
         "branch_rr_id": "B010127"
       },
@@ -2551,7 +2545,14 @@
         "institute_code": "1292",
         "institute_rr_id": "I01339",
         "institute_name": "DTC COLLEGE, GAUTAM BUDDHA NAGAR",
-        "branch": "Electronic And Computer Engineering",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
+      },
+      {
+        "institute_code": "1292",
+        "institute_rr_id": "I01339",
+        "institute_name": "DTC COLLEGE, GAUTAM BUDDHA NAGAR",
+        "branch": "Electronic and Computer Engineering",
         "branch_rr_id": "B010137"
       },
       {
@@ -2572,15 +2573,15 @@
         "institute_code": "1296",
         "institute_rr_id": "I01343",
         "institute_name": "ACADEMY OF TECHNOLOGY MANAGEMENT AND SCIENCE, HAPUR",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "1296",
         "institute_rr_id": "I01343",
         "institute_name": "ACADEMY OF TECHNOLOGY MANAGEMENT AND SCIENCE, HAPUR",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "1296",
@@ -2614,20 +2615,6 @@
         "institute_code": "132",
         "institute_rr_id": "I01367",
         "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY (ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
-      },
-      {
-        "institute_code": "132",
-        "institute_rr_id": "I01367",
-        "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY (ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science And Engineering(Data Science)",
-        "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "132",
-        "institute_rr_id": "I01367",
-        "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY (ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR",
         "branch": "Computer Science and Engineering",
         "branch_rr_id": "B010127"
       },
@@ -2635,8 +2622,22 @@
         "institute_code": "132",
         "institute_rr_id": "I01367",
         "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY (ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
+      },
+      {
+        "institute_code": "132",
+        "institute_rr_id": "I01367",
+        "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY (ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR",
         "branch": "Computer Science and Engineering (Artificial Intelligence)",
         "branch_rr_id": "B010128"
+      },
+      {
+        "institute_code": "132",
+        "institute_rr_id": "I01367",
+        "institute_name": "GREATER NOIDA INSTITUTE OF TECHNOLOGY (ENGINEERING INSTITUTE),GAUTAM BUDDH NAGAR",
+        "branch": "Computer Science and Engineering (Data Science)",
+        "branch_rr_id": "B010124"
       },
       {
         "institute_code": "132",
@@ -2691,36 +2692,8 @@
         "institute_code": "133",
         "institute_rr_id": "I01374",
         "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science And Business System",
+        "branch": "Computer Science and Business System",
         "branch_rr_id": "B010120"
-      },
-      {
-        "institute_code": "133",
-        "institute_rr_id": "I01374",
-        "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science And Engineering(AIML) (Collaboration & Twining Program)",
-        "branch_rr_id": "B010122"
-      },
-      {
-        "institute_code": "133",
-        "institute_rr_id": "I01374",
-        "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
-      },
-      {
-        "institute_code": "133",
-        "institute_rr_id": "I01374",
-        "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science And Engineering(Data Science)",
-        "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "133",
-        "institute_rr_id": "I01374",
-        "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science And Engineering(Internet Of Things)",
-        "branch_rr_id": "B010125"
       },
       {
         "institute_code": "133",
@@ -2733,6 +2706,20 @@
         "institute_code": "133",
         "institute_rr_id": "I01374",
         "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+        "branch": "Computer Science and Engineering (AIML) (Collaboration & Twinning Program)",
+        "branch_rr_id": "B010122"
+      },
+      {
+        "institute_code": "133",
+        "institute_rr_id": "I01374",
+        "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
+      },
+      {
+        "institute_code": "133",
+        "institute_rr_id": "I01374",
+        "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
         "branch": "Computer Science and Engineering (Artificial Intelligence)",
         "branch_rr_id": "B010128"
       },
@@ -2740,15 +2727,29 @@
         "institute_code": "133",
         "institute_rr_id": "I01374",
         "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science and Engineering (Artificial Intelligence) (Collaboration & Twining Program)",
+        "branch": "Computer Science and Engineering (Artificial Intelligence) (Collaboration & Twinning Program)",
         "branch_rr_id": "B010129"
       },
       {
         "institute_code": "133",
         "institute_rr_id": "I01374",
         "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science and Engineering (Collaboration & Twining Program)",
+        "branch": "Computer Science and Engineering (Collaboration & Twinning Program)",
         "branch_rr_id": "B010130"
+      },
+      {
+        "institute_code": "133",
+        "institute_rr_id": "I01374",
+        "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+        "branch": "Computer Science and Engineering (Data Science)",
+        "branch_rr_id": "B010124"
+      },
+      {
+        "institute_code": "133",
+        "institute_rr_id": "I01374",
+        "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+        "branch": "Computer Science and Engineering (Internet of Things)",
+        "branch_rr_id": "B010125"
       },
       {
         "institute_code": "133",
@@ -2775,7 +2776,7 @@
         "institute_code": "133",
         "institute_rr_id": "I01374",
         "institute_name": "NOIDA INSTITUTE OF ENGG. & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Information Technology (Collaboration & Twining Program)",
+        "branch": "Information Technology (Collaboration & Twinning Program)",
         "branch_rr_id": "B010149"
       },
       {
@@ -2796,15 +2797,15 @@
         "institute_code": "138",
         "institute_rr_id": "I01378",
         "institute_name": "B.B.S.COLLEGE OF ENGINEERING AND TECHNOLOGY,ALLAHABAD",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "138",
         "institute_rr_id": "I01378",
         "institute_name": "B.B.S.COLLEGE OF ENGINEERING AND TECHNOLOGY,ALLAHABAD",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "138",
@@ -2845,22 +2846,22 @@
         "institute_code": "139",
         "institute_rr_id": "I01379",
         "institute_name": "KALICHARAN NIGAM INSTITUTE OF TECHNOLOGY,BANDA",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
+      },
+      {
+        "institute_code": "139",
+        "institute_rr_id": "I01379",
+        "institute_name": "KALICHARAN NIGAM INSTITUTE OF TECHNOLOGY,BANDA",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
         "branch_rr_id": "B010123"
       },
       {
         "institute_code": "139",
         "institute_rr_id": "I01379",
         "institute_name": "KALICHARAN NIGAM INSTITUTE OF TECHNOLOGY,BANDA",
-        "branch": "Computer Science And Engineering(Data Science)",
+        "branch": "Computer Science and Engineering (Data Science)",
         "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "139",
-        "institute_rr_id": "I01379",
-        "institute_name": "KALICHARAN NIGAM INSTITUTE OF TECHNOLOGY,BANDA",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "139",
@@ -2887,15 +2888,15 @@
         "institute_code": "141",
         "institute_rr_id": "I01380",
         "institute_name": "SAGAR INSTITUTE OF TECHNOLOGY & MANAGEMENT,BARABANKI",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "141",
         "institute_rr_id": "I01380",
         "institute_name": "SAGAR INSTITUTE OF TECHNOLOGY & MANAGEMENT,BARABANKI",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "141",
@@ -2943,15 +2944,15 @@
         "institute_code": "143",
         "institute_rr_id": "I01382",
         "institute_name": "I.M.S. ENGINEERING COLLEGE,GHAZIABAD",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "143",
         "institute_rr_id": "I01382",
         "institute_name": "I.M.S. ENGINEERING COLLEGE,GHAZIABAD",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "143",
@@ -2992,7 +2993,7 @@
         "institute_code": "145",
         "institute_rr_id": "I01384",
         "institute_name": "S R GROUP OF INSTITUTIONS (COLLEGE OF SCIENCE AND ENGINEERING),JHANSI",
-        "branch": "Artificial Intelligence And Machine Learning",
+        "branch": "Artificial Intelligence and Machine Learning",
         "branch_rr_id": "B010105"
       },
       {
@@ -3020,22 +3021,22 @@
         "institute_code": "145",
         "institute_rr_id": "I01384",
         "institute_name": "S R GROUP OF INSTITUTIONS (COLLEGE OF SCIENCE AND ENGINEERING),JHANSI",
-        "branch": "Computer Science And Engineering(Data Science)",
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
+      },
+      {
+        "institute_code": "145",
+        "institute_rr_id": "I01384",
+        "institute_name": "S R GROUP OF INSTITUTIONS (COLLEGE OF SCIENCE AND ENGINEERING),JHANSI",
+        "branch": "Computer Science and Engineering (Data Science)",
         "branch_rr_id": "B010124"
       },
       {
         "institute_code": "145",
         "institute_rr_id": "I01384",
         "institute_name": "S R GROUP OF INSTITUTIONS (COLLEGE OF SCIENCE AND ENGINEERING),JHANSI",
-        "branch": "Computer Science And Engineering(Internet Of Things)",
+        "branch": "Computer Science and Engineering (Internet of Things)",
         "branch_rr_id": "B010125"
-      },
-      {
-        "institute_code": "145",
-        "institute_rr_id": "I01384",
-        "institute_name": "S R GROUP OF INSTITUTIONS (COLLEGE OF SCIENCE AND ENGINEERING),JHANSI",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "145",
@@ -3055,15 +3056,15 @@
         "institute_code": "151",
         "institute_rr_id": "I01385",
         "institute_name": "GLOBAL INSTITUTE OF INFORMATION TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "151",
         "institute_rr_id": "I01385",
         "institute_name": "GLOBAL INSTITUTE OF INFORMATION TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "151",
@@ -3097,7 +3098,7 @@
         "institute_code": "152",
         "institute_rr_id": "I01386",
         "institute_name": "MANGALMAY INSTITUTE OF MANAGEMENT AND TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Electronic And Computer Engineering",
+        "branch": "Electronic and Computer Engineering",
         "branch_rr_id": "B010137"
       },
       {
@@ -3118,22 +3119,22 @@
         "institute_code": "153",
         "institute_rr_id": "I01387",
         "institute_name": "LLOYD INSTITUTE OF ENGINEERING AND TECHNOLOGY",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
+      },
+      {
+        "institute_code": "153",
+        "institute_rr_id": "I01387",
+        "institute_name": "LLOYD INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
         "branch_rr_id": "B010123"
       },
       {
         "institute_code": "153",
         "institute_rr_id": "I01387",
         "institute_name": "LLOYD INSTITUTE OF ENGINEERING AND TECHNOLOGY",
-        "branch": "Computer Science And Engineering(Data Science)",
+        "branch": "Computer Science and Engineering (Data Science)",
         "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "153",
-        "institute_rr_id": "I01387",
-        "institute_name": "LLOYD INSTITUTE OF ENGINEERING AND TECHNOLOGY",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "153",
@@ -3167,15 +3168,15 @@
         "institute_code": "162",
         "institute_rr_id": "I01391",
         "institute_name": "SHAMBHU NATH INSTITUTE OF ENGG. & TECHNOLOGY,ALLAHABAD",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "162",
         "institute_rr_id": "I01391",
         "institute_name": "SHAMBHU NATH INSTITUTE OF ENGG. & TECHNOLOGY,ALLAHABAD",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "162",
@@ -3209,15 +3210,15 @@
         "institute_code": "163",
         "institute_rr_id": "I01392",
         "institute_name": "DR.M.C.SAXENA COLLEGE OF ENGG. & TECHNOLOGY,LUCKNOW",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "163",
         "institute_rr_id": "I01392",
         "institute_name": "DR.M.C.SAXENA COLLEGE OF ENGG. & TECHNOLOGY,LUCKNOW",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "163",
@@ -3244,20 +3245,6 @@
         "institute_code": "164",
         "institute_rr_id": "I01393",
         "institute_name": "PRANVEER SINGH INSTITUTE OF TECHNOLOGY,KANPUR",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
-      },
-      {
-        "institute_code": "164",
-        "institute_rr_id": "I01393",
-        "institute_name": "PRANVEER SINGH INSTITUTE OF TECHNOLOGY,KANPUR",
-        "branch": "Computer Science And Engineering(Data Science)",
-        "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "164",
-        "institute_rr_id": "I01393",
-        "institute_name": "PRANVEER SINGH INSTITUTE OF TECHNOLOGY,KANPUR",
         "branch": "Computer Science and Engineering",
         "branch_rr_id": "B010127"
       },
@@ -3265,8 +3252,22 @@
         "institute_code": "164",
         "institute_rr_id": "I01393",
         "institute_name": "PRANVEER SINGH INSTITUTE OF TECHNOLOGY,KANPUR",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
+      },
+      {
+        "institute_code": "164",
+        "institute_rr_id": "I01393",
+        "institute_name": "PRANVEER SINGH INSTITUTE OF TECHNOLOGY,KANPUR",
         "branch": "Computer Science and Engineering (Artificial Intelligence)",
         "branch_rr_id": "B010128"
+      },
+      {
+        "institute_code": "164",
+        "institute_rr_id": "I01393",
+        "institute_name": "PRANVEER SINGH INSTITUTE OF TECHNOLOGY,KANPUR",
+        "branch": "Computer Science and Engineering (Data Science)",
+        "branch_rr_id": "B010124"
       },
       {
         "institute_code": "164",
@@ -3293,20 +3294,6 @@
         "institute_code": "165",
         "institute_rr_id": "I01394",
         "institute_name": "KANPUR INSTITUTE OF TECHNOLOGY,KANPUR",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
-      },
-      {
-        "institute_code": "165",
-        "institute_rr_id": "I01394",
-        "institute_name": "KANPUR INSTITUTE OF TECHNOLOGY,KANPUR",
-        "branch": "Computer Science And Engineering(Data Science)",
-        "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "165",
-        "institute_rr_id": "I01394",
-        "institute_name": "KANPUR INSTITUTE OF TECHNOLOGY,KANPUR",
         "branch": "Computer Science and Engineering",
         "branch_rr_id": "B010127"
       },
@@ -3314,8 +3301,22 @@
         "institute_code": "165",
         "institute_rr_id": "I01394",
         "institute_name": "KANPUR INSTITUTE OF TECHNOLOGY,KANPUR",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
+      },
+      {
+        "institute_code": "165",
+        "institute_rr_id": "I01394",
+        "institute_name": "KANPUR INSTITUTE OF TECHNOLOGY,KANPUR",
         "branch": "Computer Science and Engineering (Artificial Intelligence)",
         "branch_rr_id": "B010128"
+      },
+      {
+        "institute_code": "165",
+        "institute_rr_id": "I01394",
+        "institute_name": "KANPUR INSTITUTE OF TECHNOLOGY,KANPUR",
+        "branch": "Computer Science and Engineering (Data Science)",
+        "branch_rr_id": "B010124"
       },
       {
         "institute_code": "165",
@@ -3363,15 +3364,15 @@
         "institute_code": "166",
         "institute_rr_id": "I01395",
         "institute_name": "DR.AMBEDKAR INSTITUTE OF TECHNOLOGY FOR DIVYANGJAN, U.P., KANPUR",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "166",
         "institute_rr_id": "I01395",
         "institute_name": "DR.AMBEDKAR INSTITUTE OF TECHNOLOGY FOR DIVYANGJAN, U.P., KANPUR",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "166",
@@ -3391,22 +3392,22 @@
         "institute_code": "172",
         "institute_rr_id": "I01401",
         "institute_name": "LLOYD INSTITUTE OF MANAGEMENT & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
+      },
+      {
+        "institute_code": "172",
+        "institute_rr_id": "I01401",
+        "institute_name": "LLOYD INSTITUTE OF MANAGEMENT & TECHNOLOGY,GAUTAM BUDDH NAGAR",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
         "branch_rr_id": "B010123"
       },
       {
         "institute_code": "172",
         "institute_rr_id": "I01401",
         "institute_name": "LLOYD INSTITUTE OF MANAGEMENT & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science And Engineering(Data Science)",
+        "branch": "Computer Science and Engineering (Data Science)",
         "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "172",
-        "institute_rr_id": "I01401",
-        "institute_name": "LLOYD INSTITUTE OF MANAGEMENT & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "172",
@@ -3433,15 +3434,15 @@
         "institute_code": "187",
         "institute_rr_id": "I01408",
         "institute_name": "FEROZE GANDHI INSTITUTE OF ENGG AND TECHNOLOGY, RAIBAREILLY",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "187",
         "institute_rr_id": "I01408",
         "institute_name": "FEROZE GANDHI INSTITUTE OF ENGG AND TECHNOLOGY, RAIBAREILLY",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "187",
@@ -3475,20 +3476,6 @@
         "institute_code": "192",
         "institute_rr_id": "I01411",
         "institute_name": "G.L. BAJAJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
-      },
-      {
-        "institute_code": "192",
-        "institute_rr_id": "I01411",
-        "institute_name": "G.L. BAJAJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science And Engineering(Data Science)",
-        "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "192",
-        "institute_rr_id": "I01411",
-        "institute_name": "G.L. BAJAJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR",
         "branch": "Computer Science Information Technology",
         "branch_rr_id": "B010126"
       },
@@ -3503,8 +3490,22 @@
         "institute_code": "192",
         "institute_rr_id": "I01411",
         "institute_name": "G.L. BAJAJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
+      },
+      {
+        "institute_code": "192",
+        "institute_rr_id": "I01411",
+        "institute_name": "G.L. BAJAJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR",
         "branch": "Computer Science and Engineering (Artificial Intelligence)",
         "branch_rr_id": "B010128"
+      },
+      {
+        "institute_code": "192",
+        "institute_rr_id": "I01411",
+        "institute_name": "G.L. BAJAJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR",
+        "branch": "Computer Science and Engineering (Data Science)",
+        "branch_rr_id": "B010124"
       },
       {
         "institute_code": "192",
@@ -3517,7 +3518,7 @@
         "institute_code": "192",
         "institute_rr_id": "I01411",
         "institute_name": "G.L. BAJAJ INSTITUTE OF TECHNOLOGY & MANAGEMENT,GAUTAM BUDDH NAGAR",
-        "branch": "Electrical & Computer Engg.",
+        "branch": "Electrical & Computer Engineering",
         "branch_rr_id": "B010134"
       },
       {
@@ -3552,15 +3553,15 @@
         "institute_code": "193",
         "institute_rr_id": "I01412",
         "institute_name": "UNITED COLLEGE OF ENGINEERING & RESEARCH,GREATER NOIDA,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "193",
         "institute_rr_id": "I01412",
         "institute_name": "UNITED COLLEGE OF ENGINEERING & RESEARCH,GREATER NOIDA,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "193",
@@ -3601,22 +3602,22 @@
         "institute_code": "215",
         "institute_rr_id": "I01423",
         "institute_name": "SANSKAR COLLEGE OF ENGINEERING & TECHNOLOGY,GHAZIABAD",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
+      },
+      {
+        "institute_code": "215",
+        "institute_rr_id": "I01423",
+        "institute_name": "SANSKAR COLLEGE OF ENGINEERING & TECHNOLOGY,GHAZIABAD",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
         "branch_rr_id": "B010123"
       },
       {
         "institute_code": "215",
         "institute_rr_id": "I01423",
         "institute_name": "SANSKAR COLLEGE OF ENGINEERING & TECHNOLOGY,GHAZIABAD",
-        "branch": "Computer Science And Engineering(Data Science)",
+        "branch": "Computer Science and Engineering (Data Science)",
         "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "215",
-        "institute_rr_id": "I01423",
-        "institute_name": "SANSKAR COLLEGE OF ENGINEERING & TECHNOLOGY,GHAZIABAD",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "215",
@@ -3629,14 +3630,14 @@
         "institute_code": "216",
         "institute_rr_id": "I01424",
         "institute_name": "IIMT COLLEGE OF ENGINEERING,GAUTAM BUDDH NAGAR",
-        "branch": "Artificial Inelligence (AI) And Data Science",
+        "branch": "Artificial Intelligence (AI) and Data Science",
         "branch_rr_id": "B010103"
       },
       {
         "institute_code": "216",
         "institute_rr_id": "I01424",
         "institute_name": "IIMT COLLEGE OF ENGINEERING,GAUTAM BUDDH NAGAR",
-        "branch": "Artificial Intelligence And Machine Learning",
+        "branch": "Artificial Intelligence and Machine Learning",
         "branch_rr_id": "B010105"
       },
       {
@@ -3678,15 +3679,15 @@
         "institute_code": "220",
         "institute_rr_id": "I01426",
         "institute_name": "HI-TECH. INSTITUTE OF ENGINEERING &TECHNOLOGY,GHAZIABAD",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "220",
         "institute_rr_id": "I01426",
         "institute_name": "HI-TECH. INSTITUTE OF ENGINEERING &TECHNOLOGY,GHAZIABAD",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "220",
@@ -3713,7 +3714,7 @@
         "institute_code": "221",
         "institute_rr_id": "I01427",
         "institute_name": "INSTITUTE OF ENGINEERING & TECHNOLOGY,SITAPUR",
-        "branch": "Artificial Intelligence And Machine Learning",
+        "branch": "Artificial Intelligence and Machine Learning",
         "branch_rr_id": "B010105"
       },
       {
@@ -3762,20 +3763,6 @@
         "institute_code": "222",
         "institute_rr_id": "I01428",
         "institute_name": "I.T.S. ENGG.COLLEGE,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
-      },
-      {
-        "institute_code": "222",
-        "institute_rr_id": "I01428",
-        "institute_name": "I.T.S. ENGG.COLLEGE,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science And Engineering(Data Science)",
-        "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "222",
-        "institute_rr_id": "I01428",
-        "institute_name": "I.T.S. ENGG.COLLEGE,GAUTAM BUDDH NAGAR",
         "branch": "Computer Science and Engineering",
         "branch_rr_id": "B010127"
       },
@@ -3783,7 +3770,21 @@
         "institute_code": "222",
         "institute_rr_id": "I01428",
         "institute_name": "I.T.S. ENGG.COLLEGE,GAUTAM BUDDH NAGAR",
-        "branch": "Electrical & Computer Engg.",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
+      },
+      {
+        "institute_code": "222",
+        "institute_rr_id": "I01428",
+        "institute_name": "I.T.S. ENGG.COLLEGE,GAUTAM BUDDH NAGAR",
+        "branch": "Computer Science and Engineering (Data Science)",
+        "branch_rr_id": "B010124"
+      },
+      {
+        "institute_code": "222",
+        "institute_rr_id": "I01428",
+        "institute_name": "I.T.S. ENGG.COLLEGE,GAUTAM BUDDH NAGAR",
+        "branch": "Electrical & Computer Engineering",
         "branch_rr_id": "B010134"
       },
       {
@@ -3804,15 +3805,15 @@
         "institute_code": "225",
         "institute_rr_id": "I01429",
         "institute_name": "ACCURATE INSTITUTE OF MANAGEMENT & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "225",
         "institute_rr_id": "I01429",
         "institute_name": "ACCURATE INSTITUTE OF MANAGEMENT & TECHNOLOGY,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "225",
@@ -3832,13 +3833,6 @@
         "institute_code": "230",
         "institute_rr_id": "I01431",
         "institute_name": "DRONACHARYA GROUP OF INSTITUTIONS,GAUTAM BUDDH NAGAR",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
-      },
-      {
-        "institute_code": "230",
-        "institute_rr_id": "I01431",
-        "institute_name": "DRONACHARYA GROUP OF INSTITUTIONS,GAUTAM BUDDH NAGAR",
         "branch": "Computer Science Information Technology",
         "branch_rr_id": "B010126"
       },
@@ -3853,6 +3847,13 @@
         "institute_code": "230",
         "institute_rr_id": "I01431",
         "institute_name": "DRONACHARYA GROUP OF INSTITUTIONS,GAUTAM BUDDH NAGAR",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
+      },
+      {
+        "institute_code": "230",
+        "institute_rr_id": "I01431",
+        "institute_name": "DRONACHARYA GROUP OF INSTITUTIONS,GAUTAM BUDDH NAGAR",
         "branch": "Electrical & Electronics Engineering",
         "branch_rr_id": "B010135"
       },
@@ -3860,7 +3861,7 @@
         "institute_code": "230",
         "institute_rr_id": "I01431",
         "institute_name": "DRONACHARYA GROUP OF INSTITUTIONS,GAUTAM BUDDH NAGAR",
-        "branch": "Electronic And Computer Engineering",
+        "branch": "Electronic and Computer Engineering",
         "branch_rr_id": "B010137"
       },
       {
@@ -3895,20 +3896,6 @@
         "institute_code": "231",
         "institute_rr_id": "I01432",
         "institute_name": "R.D.ENGINEERING COLLEGE,GHAZIABAD",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
-      },
-      {
-        "institute_code": "231",
-        "institute_rr_id": "I01432",
-        "institute_name": "R.D.ENGINEERING COLLEGE,GHAZIABAD",
-        "branch": "Computer Science And Engineering(Data Science)",
-        "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "231",
-        "institute_rr_id": "I01432",
-        "institute_name": "R.D.ENGINEERING COLLEGE,GHAZIABAD",
         "branch": "Computer Science and Engineering",
         "branch_rr_id": "B010127"
       },
@@ -3916,8 +3903,22 @@
         "institute_code": "231",
         "institute_rr_id": "I01432",
         "institute_name": "R.D.ENGINEERING COLLEGE,GHAZIABAD",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
+      },
+      {
+        "institute_code": "231",
+        "institute_rr_id": "I01432",
+        "institute_name": "R.D.ENGINEERING COLLEGE,GHAZIABAD",
         "branch": "Computer Science and Engineering (Artificial Intelligence)",
         "branch_rr_id": "B010128"
+      },
+      {
+        "institute_code": "231",
+        "institute_rr_id": "I01432",
+        "institute_name": "R.D.ENGINEERING COLLEGE,GHAZIABAD",
+        "branch": "Computer Science and Engineering (Data Science)",
+        "branch_rr_id": "B010124"
       },
       {
         "institute_code": "231",
@@ -4049,15 +4050,15 @@
         "institute_code": "283",
         "institute_rr_id": "I01455",
         "institute_name": "LDC INSTITUTE OF TECHNICAL STUDIES,ALLAHABAD",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "283",
         "institute_rr_id": "I01455",
         "institute_name": "LDC INSTITUTE OF TECHNICAL STUDIES,ALLAHABAD",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "283",
@@ -4084,22 +4085,22 @@
         "institute_code": "284",
         "institute_rr_id": "I01456",
         "institute_name": "UNITED INSTITUTE OF TECHNOLOGY,ALLAHABAD",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
+      },
+      {
+        "institute_code": "284",
+        "institute_rr_id": "I01456",
+        "institute_name": "UNITED INSTITUTE OF TECHNOLOGY,ALLAHABAD",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
         "branch_rr_id": "B010123"
       },
       {
         "institute_code": "284",
         "institute_rr_id": "I01456",
         "institute_name": "UNITED INSTITUTE OF TECHNOLOGY,ALLAHABAD",
-        "branch": "Computer Science And Engineering(Data Science)",
+        "branch": "Computer Science and Engineering (Data Science)",
         "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "284",
-        "institute_rr_id": "I01456",
-        "institute_name": "UNITED INSTITUTE OF TECHNOLOGY,ALLAHABAD",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "284",
@@ -4140,20 +4141,6 @@
         "institute_code": "287",
         "institute_rr_id": "I01457",
         "institute_name": "NARAINA COLLEGE OF ENGINEERING & TECHNOLOGY,KANPUR",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
-      },
-      {
-        "institute_code": "287",
-        "institute_rr_id": "I01457",
-        "institute_name": "NARAINA COLLEGE OF ENGINEERING & TECHNOLOGY,KANPUR",
-        "branch": "Computer Science And Engineering(Data Science)",
-        "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "287",
-        "institute_rr_id": "I01457",
-        "institute_name": "NARAINA COLLEGE OF ENGINEERING & TECHNOLOGY,KANPUR",
         "branch": "Computer Science and Engineering",
         "branch_rr_id": "B010127"
       },
@@ -4161,8 +4148,22 @@
         "institute_code": "287",
         "institute_rr_id": "I01457",
         "institute_name": "NARAINA COLLEGE OF ENGINEERING & TECHNOLOGY,KANPUR",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
+      },
+      {
+        "institute_code": "287",
+        "institute_rr_id": "I01457",
+        "institute_name": "NARAINA COLLEGE OF ENGINEERING & TECHNOLOGY,KANPUR",
         "branch": "Computer Science and Engineering (Artificial Intelligence)",
         "branch_rr_id": "B010128"
+      },
+      {
+        "institute_code": "287",
+        "institute_rr_id": "I01457",
+        "institute_name": "NARAINA COLLEGE OF ENGINEERING & TECHNOLOGY,KANPUR",
+        "branch": "Computer Science and Engineering (Data Science)",
+        "branch_rr_id": "B010124"
       },
       {
         "institute_code": "287",
@@ -4182,13 +4183,6 @@
         "institute_code": "290",
         "institute_rr_id": "I01458",
         "institute_name": "ABES INSTITUTE OF TECHNOLOGY,GHAZIABAD",
-        "branch": "Computer Science And Engineering(Data Science)",
-        "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "290",
-        "institute_rr_id": "I01458",
-        "institute_name": "ABES INSTITUTE OF TECHNOLOGY,GHAZIABAD",
         "branch": "Computer Science and Engineering",
         "branch_rr_id": "B010127"
       },
@@ -4198,6 +4192,13 @@
         "institute_name": "ABES INSTITUTE OF TECHNOLOGY,GHAZIABAD",
         "branch": "Computer Science and Engineering (Artificial Intelligence)",
         "branch_rr_id": "B010128"
+      },
+      {
+        "institute_code": "290",
+        "institute_rr_id": "I01458",
+        "institute_name": "ABES INSTITUTE OF TECHNOLOGY,GHAZIABAD",
+        "branch": "Computer Science and Engineering (Data Science)",
+        "branch_rr_id": "B010124"
       },
       {
         "institute_code": "292",
@@ -4210,15 +4211,15 @@
         "institute_code": "292",
         "institute_rr_id": "I01459",
         "institute_name": "MEERUT INSTITUTE OF TECHNOLOGY,MEERUT",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "292",
         "institute_rr_id": "I01459",
         "institute_name": "MEERUT INSTITUTE OF TECHNOLOGY,MEERUT",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "292",
@@ -4266,14 +4267,14 @@
         "institute_code": "311",
         "institute_rr_id": "I01468",
         "institute_name": "DEEWAN V.S. INSTITUTE OF ENGINEERING & TECHNOLOGY, MEERUT,MEERUT",
-        "branch": "Artificial Inelligence (AI) And Data Science",
+        "branch": "Artificial Intelligence (AI) and Data Science",
         "branch_rr_id": "B010103"
       },
       {
         "institute_code": "311",
         "institute_rr_id": "I01468",
         "institute_name": "DEEWAN V.S. INSTITUTE OF ENGINEERING & TECHNOLOGY, MEERUT,MEERUT",
-        "branch": "Artificial Intelligence And Machine Learning",
+        "branch": "Artificial Intelligence and Machine Learning",
         "branch_rr_id": "B010105"
       },
       {
@@ -4329,7 +4330,7 @@
         "institute_code": "319",
         "institute_rr_id": "I01472",
         "institute_name": "RAKSHPAL BAHADUR COLLEGE OF ENGINEERING & TECHNOLOGY,BAREILLY",
-        "branch": "Artificial Inelligence (AI) And Data Science",
+        "branch": "Artificial Intelligence (AI) and Data Science",
         "branch_rr_id": "B010103"
       },
       {
@@ -4364,15 +4365,15 @@
         "institute_code": "333",
         "institute_rr_id": "I01476",
         "institute_name": "RAJ KUMAR GOEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,GHAZIABAD",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "333",
         "institute_rr_id": "I01476",
         "institute_name": "RAJ KUMAR GOEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,GHAZIABAD",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "333",
@@ -4518,7 +4519,7 @@
         "institute_code": "345",
         "institute_rr_id": "I01480",
         "institute_name": "SETH VISHAMBHAR NATH INSTITUTE OF ENGG. & TECHNOLOGY,BARABANKI",
-        "branch": "Artificial Inelligence (AI) And Data Science",
+        "branch": "Artificial Intelligence (AI) and Data Science",
         "branch_rr_id": "B010103"
       },
       {
@@ -4539,15 +4540,15 @@
         "institute_code": "345",
         "institute_rr_id": "I01480",
         "institute_name": "SETH VISHAMBHAR NATH INSTITUTE OF ENGG. & TECHNOLOGY,BARABANKI",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "345",
         "institute_rr_id": "I01480",
         "institute_name": "SETH VISHAMBHAR NATH INSTITUTE OF ENGG. & TECHNOLOGY,BARABANKI",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "345",
@@ -4574,22 +4575,22 @@
         "institute_code": "349",
         "institute_rr_id": "I01481",
         "institute_name": "MAHARANA INSTITUTE OF PROFESSIONAL STUDIES,KANPUR",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
+      },
+      {
+        "institute_code": "349",
+        "institute_rr_id": "I01481",
+        "institute_name": "MAHARANA INSTITUTE OF PROFESSIONAL STUDIES,KANPUR",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
         "branch_rr_id": "B010123"
       },
       {
         "institute_code": "349",
         "institute_rr_id": "I01481",
         "institute_name": "MAHARANA INSTITUTE OF PROFESSIONAL STUDIES,KANPUR",
-        "branch": "Computer Science And Engineering(Data Science)",
+        "branch": "Computer Science and Engineering (Data Science)",
         "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "349",
-        "institute_rr_id": "I01481",
-        "institute_name": "MAHARANA INSTITUTE OF PROFESSIONAL STUDIES,KANPUR",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "349",
@@ -4616,22 +4617,22 @@
         "institute_code": "351",
         "institute_rr_id": "I01482",
         "institute_name": "KRISHNA INSTITUTE OF TECHNOLOGY,KANPUR",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
+      },
+      {
+        "institute_code": "351",
+        "institute_rr_id": "I01482",
+        "institute_name": "KRISHNA INSTITUTE OF TECHNOLOGY,KANPUR",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
         "branch_rr_id": "B010123"
       },
       {
         "institute_code": "351",
         "institute_rr_id": "I01482",
         "institute_name": "KRISHNA INSTITUTE OF TECHNOLOGY,KANPUR",
-        "branch": "Computer Science And Engineering(Data Science)",
+        "branch": "Computer Science and Engineering (Data Science)",
         "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "351",
-        "institute_rr_id": "I01482",
-        "institute_name": "KRISHNA INSTITUTE OF TECHNOLOGY,KANPUR",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "351",
@@ -4651,15 +4652,15 @@
         "institute_code": "353",
         "institute_rr_id": "I01483",
         "institute_name": "APOLLO INSTITUTE OF TECHNOLOGY,KANPUR",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "353",
         "institute_rr_id": "I01483",
         "institute_name": "APOLLO INSTITUTE OF TECHNOLOGY,KANPUR",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "353",
@@ -4742,22 +4743,22 @@
         "institute_code": "360",
         "institute_rr_id": "I01485",
         "institute_name": "GOEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
+      },
+      {
+        "institute_code": "360",
+        "institute_rr_id": "I01485",
+        "institute_name": "GOEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
         "branch_rr_id": "B010123"
       },
       {
         "institute_code": "360",
         "institute_rr_id": "I01485",
         "institute_name": "GOEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
-        "branch": "Computer Science And Engineering(Data Science)",
+        "branch": "Computer Science and Engineering (Data Science)",
         "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "360",
-        "institute_rr_id": "I01485",
-        "institute_name": "GOEL INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "360",
@@ -4805,22 +4806,22 @@
         "institute_code": "361",
         "institute_rr_id": "I01486",
         "institute_name": "R.R.INSTITUTE OF MODERN TECHNOLOGY,LUCKNOW",
-        "branch": "Computer Science And Design",
+        "branch": "Computer Science and Design",
         "branch_rr_id": "B010121"
       },
       {
         "institute_code": "361",
         "institute_rr_id": "I01486",
         "institute_name": "R.R.INSTITUTE OF MODERN TECHNOLOGY,LUCKNOW",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "361",
         "institute_rr_id": "I01486",
         "institute_name": "R.R.INSTITUTE OF MODERN TECHNOLOGY,LUCKNOW",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "361",
@@ -4903,22 +4904,22 @@
         "institute_code": "363",
         "institute_rr_id": "I01488",
         "institute_name": "AMBALIKA INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
+      },
+      {
+        "institute_code": "363",
+        "institute_rr_id": "I01488",
+        "institute_name": "AMBALIKA INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
         "branch_rr_id": "B010123"
       },
       {
         "institute_code": "363",
         "institute_rr_id": "I01488",
         "institute_name": "AMBALIKA INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
-        "branch": "Computer Science And Engineering(Data Science)",
+        "branch": "Computer Science and Engineering (Data Science)",
         "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "363",
-        "institute_rr_id": "I01488",
-        "institute_name": "AMBALIKA INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "363",
@@ -4959,7 +4960,7 @@
         "institute_code": "373",
         "institute_rr_id": "I01490",
         "institute_name": "NEELKANTH INSTITUTE OF TECHNOLOGY,MEERUT",
-        "branch": "Artificial Inelligence (AI) And Data Science",
+        "branch": "Artificial Intelligence (AI) and Data Science",
         "branch_rr_id": "B010103"
       },
       {
@@ -4973,15 +4974,15 @@
         "institute_code": "373",
         "institute_rr_id": "I01490",
         "institute_name": "NEELKANTH INSTITUTE OF TECHNOLOGY,MEERUT",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "373",
         "institute_rr_id": "I01490",
         "institute_name": "NEELKANTH INSTITUTE OF TECHNOLOGY,MEERUT",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "373",
@@ -5127,27 +5128,27 @@
         "institute_code": "384",
         "institute_rr_id": "I01495",
         "institute_name": "SARASWATI HIGHER EDUCATION & TECHNICAL COLLEGE OF ENGINEERING,VARANASI",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
+      },
+      {
+        "institute_code": "384",
+        "institute_rr_id": "I01495",
+        "institute_name": "SARASWATI HIGHER EDUCATION & TECHNICAL COLLEGE OF ENGINEERING,VARANASI",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
         "branch_rr_id": "B010123"
       },
       {
         "institute_code": "384",
         "institute_rr_id": "I01495",
         "institute_name": "SARASWATI HIGHER EDUCATION & TECHNICAL COLLEGE OF ENGINEERING,VARANASI",
-        "branch": "Computer Science And Engineering(Data Science)",
+        "branch": "Computer Science and Engineering (Data Science)",
         "branch_rr_id": "B010124"
       },
       {
         "institute_code": "384",
         "institute_rr_id": "I01495",
         "institute_name": "SARASWATI HIGHER EDUCATION & TECHNICAL COLLEGE OF ENGINEERING,VARANASI",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
-      },
-      {
-        "institute_code": "384",
-        "institute_rr_id": "I01495",
-        "institute_name": "SARASWATI HIGHER EDUCATION & TECHNICAL COLLEGE OF ENGINEERING,VARANASI",
         "branch": "Electrical & Electronics Engineering",
         "branch_rr_id": "B010135"
       },
@@ -5197,15 +5198,15 @@
         "institute_code": "414",
         "institute_rr_id": "I01506",
         "institute_name": "JMS INSTITUTE OF TECHNOLOGY, GHAZIABAD",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "414",
         "institute_rr_id": "I01506",
         "institute_name": "JMS INSTITUTE OF TECHNOLOGY, GHAZIABAD",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "414",
@@ -5267,15 +5268,15 @@
         "institute_code": "422",
         "institute_rr_id": "I01508",
         "institute_name": "BANSAL INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "422",
         "institute_rr_id": "I01508",
         "institute_name": "BANSAL INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "422",
@@ -5316,7 +5317,7 @@
         "institute_code": "423",
         "institute_rr_id": "I01509",
         "institute_name": "SCHOOL OF MANAGEMENT SCIENCES,LUCKNOW",
-        "branch": "Artificial Inelligence (AI) And Data Science",
+        "branch": "Artificial Intelligence (AI) and Data Science",
         "branch_rr_id": "B010103"
       },
       {
@@ -5330,15 +5331,15 @@
         "institute_code": "423",
         "institute_rr_id": "I01509",
         "institute_name": "SCHOOL OF MANAGEMENT SCIENCES,LUCKNOW",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "423",
         "institute_rr_id": "I01509",
         "institute_name": "SCHOOL OF MANAGEMENT SCIENCES,LUCKNOW",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "423",
@@ -5393,15 +5394,15 @@
         "institute_code": "428",
         "institute_rr_id": "I01511",
         "institute_name": "KASHI INSTITUTE OF TECHNOLOGY,VARANASI",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "428",
         "institute_rr_id": "I01511",
         "institute_name": "KASHI INSTITUTE OF TECHNOLOGY,VARANASI",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "428",
@@ -5421,13 +5422,6 @@
         "institute_code": "430",
         "institute_rr_id": "I01512",
         "institute_name": "MAHARANA INSTITUTE OF TECH. & SCIENCES,LUCKNOW",
-        "branch": "Computer Science And Engineering(Data Science)",
-        "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "430",
-        "institute_rr_id": "I01512",
-        "institute_name": "MAHARANA INSTITUTE OF TECH. & SCIENCES,LUCKNOW",
         "branch": "Computer Science and Engineering",
         "branch_rr_id": "B010127"
       },
@@ -5437,6 +5431,13 @@
         "institute_name": "MAHARANA INSTITUTE OF TECH. & SCIENCES,LUCKNOW",
         "branch": "Computer Science and Engineering (Artificial Intelligence)",
         "branch_rr_id": "B010128"
+      },
+      {
+        "institute_code": "430",
+        "institute_rr_id": "I01512",
+        "institute_name": "MAHARANA INSTITUTE OF TECH. & SCIENCES,LUCKNOW",
+        "branch": "Computer Science and Engineering (Data Science)",
+        "branch_rr_id": "B010124"
       },
       {
         "institute_code": "447",
@@ -5554,7 +5555,7 @@
         "institute_code": "467",
         "institute_rr_id": "I01519",
         "institute_name": "MADHU VACHASPATI INSTITUTE OF ENGINEERING & TECHNOLOGY,KAUSHAMBI",
-        "branch": "Artificial Intelligence And Machine Learning",
+        "branch": "Artificial Intelligence and Machine Learning",
         "branch_rr_id": "B010105"
       },
       {
@@ -5631,20 +5632,6 @@
         "institute_code": "472",
         "institute_rr_id": "I01521",
         "institute_name": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,MAHARAJGANJ",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
-      },
-      {
-        "institute_code": "472",
-        "institute_rr_id": "I01521",
-        "institute_name": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,MAHARAJGANJ",
-        "branch": "Computer Science And Engineering(Data Science)",
-        "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "472",
-        "institute_rr_id": "I01521",
-        "institute_name": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,MAHARAJGANJ",
         "branch": "Computer Science and Engineering",
         "branch_rr_id": "B010127"
       },
@@ -5652,8 +5639,22 @@
         "institute_code": "472",
         "institute_rr_id": "I01521",
         "institute_name": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,MAHARAJGANJ",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
+      },
+      {
+        "institute_code": "472",
+        "institute_rr_id": "I01521",
+        "institute_name": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,MAHARAJGANJ",
         "branch": "Computer Science and Engineering (Artificial Intelligence)",
         "branch_rr_id": "B010128"
+      },
+      {
+        "institute_code": "472",
+        "institute_rr_id": "I01521",
+        "institute_name": "INSTITUTE OF TECHNOLOGY & MANAGEMENT,MAHARAJGANJ",
+        "branch": "Computer Science and Engineering (Data Science)",
+        "branch_rr_id": "B010124"
       },
       {
         "institute_code": "472",
@@ -5673,7 +5674,7 @@
         "institute_code": "473",
         "institute_rr_id": "I01522",
         "institute_name": "G.C.R.G. MEMORIAL TRUST'S GROUP OF INSTITUTIONS, FACULTY OF ENGINEERING,LUCKNOW",
-        "branch": "Artificial Intelligence And Machine Learning",
+        "branch": "Artificial Intelligence and Machine Learning",
         "branch_rr_id": "B010105"
       },
       {
@@ -5701,15 +5702,15 @@
         "institute_code": "473",
         "institute_rr_id": "I01522",
         "institute_name": "G.C.R.G. MEMORIAL TRUST'S GROUP OF INSTITUTIONS, FACULTY OF ENGINEERING,LUCKNOW",
-        "branch": "Computer Science And Engineering(Data Science)",
-        "branch_rr_id": "B010124"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "473",
         "institute_rr_id": "I01522",
         "institute_name": "G.C.R.G. MEMORIAL TRUST'S GROUP OF INSTITUTIONS, FACULTY OF ENGINEERING,LUCKNOW",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Data Science)",
+        "branch_rr_id": "B010124"
       },
       {
         "institute_code": "473",
@@ -5743,13 +5744,6 @@
         "institute_code": "474",
         "institute_rr_id": "I01523",
         "institute_name": "SHRI SIDHI VINAYAK INSTITUTE OF TECHNOLOGY,BAREILLY",
-        "branch": "Computer Science And Engineering(Data Science)",
-        "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "474",
-        "institute_rr_id": "I01523",
-        "institute_name": "SHRI SIDHI VINAYAK INSTITUTE OF TECHNOLOGY,BAREILLY",
         "branch": "Computer Science and Engineering",
         "branch_rr_id": "B010127"
       },
@@ -5759,6 +5753,13 @@
         "institute_name": "SHRI SIDHI VINAYAK INSTITUTE OF TECHNOLOGY,BAREILLY",
         "branch": "Computer Science and Engineering (Artificial Intelligence)",
         "branch_rr_id": "B010128"
+      },
+      {
+        "institute_code": "474",
+        "institute_rr_id": "I01523",
+        "institute_name": "SHRI SIDHI VINAYAK INSTITUTE OF TECHNOLOGY,BAREILLY",
+        "branch": "Computer Science and Engineering (Data Science)",
+        "branch_rr_id": "B010124"
       },
       {
         "institute_code": "474",
@@ -6037,20 +6038,6 @@
         "institute_code": "485",
         "institute_rr_id": "I01529",
         "institute_name": "S.R.INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
-      },
-      {
-        "institute_code": "485",
-        "institute_rr_id": "I01529",
-        "institute_name": "S.R.INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
-        "branch": "Computer Science And Engineering(Data Science)",
-        "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "485",
-        "institute_rr_id": "I01529",
-        "institute_name": "S.R.INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
         "branch": "Computer Science and Engineering",
         "branch_rr_id": "B010127"
       },
@@ -6058,8 +6045,22 @@
         "institute_code": "485",
         "institute_rr_id": "I01529",
         "institute_name": "S.R.INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
+      },
+      {
+        "institute_code": "485",
+        "institute_rr_id": "I01529",
+        "institute_name": "S.R.INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
         "branch": "Computer Science and Engineering (Artificial Intelligence)",
         "branch_rr_id": "B010128"
+      },
+      {
+        "institute_code": "485",
+        "institute_rr_id": "I01529",
+        "institute_name": "S.R.INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
+        "branch": "Computer Science and Engineering (Data Science)",
+        "branch_rr_id": "B010124"
       },
       {
         "institute_code": "485",
@@ -6240,7 +6241,7 @@
         "institute_code": "492",
         "institute_rr_id": "I01534",
         "institute_name": "KCC Institute of Technology & Management,Gautam Buddh Nagar",
-        "branch": "Artificial Intelligence And Machine Learning",
+        "branch": "Artificial Intelligence and Machine Learning",
         "branch_rr_id": "B010105"
       },
       {
@@ -6254,22 +6255,8 @@
         "institute_code": "492",
         "institute_rr_id": "I01534",
         "institute_name": "KCC Institute of Technology & Management,Gautam Buddh Nagar",
-        "branch": "Computer Science And Design",
+        "branch": "Computer Science and Design",
         "branch_rr_id": "B010121"
-      },
-      {
-        "institute_code": "492",
-        "institute_rr_id": "I01534",
-        "institute_name": "KCC Institute of Technology & Management,Gautam Buddh Nagar",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
-      },
-      {
-        "institute_code": "492",
-        "institute_rr_id": "I01534",
-        "institute_name": "KCC Institute of Technology & Management,Gautam Buddh Nagar",
-        "branch": "Computer Science And Engineering(Data Science)",
-        "branch_rr_id": "B010124"
       },
       {
         "institute_code": "492",
@@ -6282,8 +6269,22 @@
         "institute_code": "492",
         "institute_rr_id": "I01534",
         "institute_name": "KCC Institute of Technology & Management,Gautam Buddh Nagar",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
+      },
+      {
+        "institute_code": "492",
+        "institute_rr_id": "I01534",
+        "institute_name": "KCC Institute of Technology & Management,Gautam Buddh Nagar",
         "branch": "Computer Science and Engineering (Artificial Intelligence)",
         "branch_rr_id": "B010128"
+      },
+      {
+        "institute_code": "492",
+        "institute_rr_id": "I01534",
+        "institute_name": "KCC Institute of Technology & Management,Gautam Buddh Nagar",
+        "branch": "Computer Science and Engineering (Data Science)",
+        "branch_rr_id": "B010124"
       },
       {
         "institute_code": "492",
@@ -6443,7 +6444,7 @@
         "institute_code": "501",
         "institute_rr_id": "I01539",
         "institute_name": "R.V.INSTITUTE OF TECHNOLOGY,BIJNAUR",
-        "branch": "Artificial Intelligence And Machine Learning",
+        "branch": "Artificial Intelligence and Machine Learning",
         "branch_rr_id": "B010105"
       },
       {
@@ -6520,15 +6521,15 @@
         "institute_code": "505",
         "institute_rr_id": "I01541",
         "institute_name": "ALLENHOUSE INSTITUTE OF TECHNOLOGY,KANPUR",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "505",
         "institute_rr_id": "I01541",
         "institute_name": "ALLENHOUSE INSTITUTE OF TECHNOLOGY,KANPUR",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "505",
@@ -6555,15 +6556,15 @@
         "institute_code": "511",
         "institute_rr_id": "I01542",
         "institute_name": "G.L.BAJAJ GROUP OF INSTITUTIONS,MATHURA",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "511",
         "institute_rr_id": "I01542",
         "institute_name": "G.L.BAJAJ GROUP OF INSTITUTIONS,MATHURA",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "514",
@@ -6597,15 +6598,15 @@
         "institute_code": "518",
         "institute_rr_id": "I01546",
         "institute_name": "SSLD VARSHNEY ENGINEERING COLLEGE,ALIGARH",
-        "branch": "Computer Science And Engineering(Data Science)",
-        "branch_rr_id": "B010124"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "518",
         "institute_rr_id": "I01546",
         "institute_name": "SSLD VARSHNEY ENGINEERING COLLEGE,ALIGARH",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Data Science)",
+        "branch_rr_id": "B010124"
       },
       {
         "institute_code": "518",
@@ -6632,15 +6633,15 @@
         "institute_code": "520",
         "institute_rr_id": "I01547",
         "institute_name": "INDRAPRASTHA INSTITUTE OF MANAGEMENT & TECHNOLOGY,SAHARANPUR",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "520",
         "institute_rr_id": "I01547",
         "institute_name": "INDRAPRASTHA INSTITUTE OF MANAGEMENT & TECHNOLOGY,SAHARANPUR",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "520",
@@ -6723,22 +6724,22 @@
         "institute_code": "523",
         "institute_rr_id": "I01549",
         "institute_name": "VISION INSTITUTE OF TECHNOLOGY,KANPUR",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
+      },
+      {
+        "institute_code": "523",
+        "institute_rr_id": "I01549",
+        "institute_name": "VISION INSTITUTE OF TECHNOLOGY,KANPUR",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
         "branch_rr_id": "B010123"
       },
       {
         "institute_code": "523",
         "institute_rr_id": "I01549",
         "institute_name": "VISION INSTITUTE OF TECHNOLOGY,KANPUR",
-        "branch": "Computer Science And Engineering(Data Science)",
+        "branch": "Computer Science and Engineering (Data Science)",
         "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "523",
-        "institute_rr_id": "I01549",
-        "institute_name": "VISION INSTITUTE OF TECHNOLOGY,KANPUR",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "523",
@@ -6772,22 +6773,22 @@
         "institute_code": "524",
         "institute_rr_id": "I01550",
         "institute_name": "VISION INSTITUTE OF TECHNOLOGY,ALIGARH",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
+      },
+      {
+        "institute_code": "524",
+        "institute_rr_id": "I01550",
+        "institute_name": "VISION INSTITUTE OF TECHNOLOGY,ALIGARH",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
         "branch_rr_id": "B010123"
       },
       {
         "institute_code": "524",
         "institute_rr_id": "I01550",
         "institute_name": "VISION INSTITUTE OF TECHNOLOGY,ALIGARH",
-        "branch": "Computer Science And Engineering(Data Science)",
+        "branch": "Computer Science and Engineering (Data Science)",
         "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "524",
-        "institute_rr_id": "I01550",
-        "institute_name": "VISION INSTITUTE OF TECHNOLOGY,ALIGARH",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "524",
@@ -6828,22 +6829,22 @@
         "institute_code": "525",
         "institute_rr_id": "I01551",
         "institute_name": "BUDDHA INSTITUTE OF TECHNOLOGY,GORAKHPUR",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
+      },
+      {
+        "institute_code": "525",
+        "institute_rr_id": "I01551",
+        "institute_name": "BUDDHA INSTITUTE OF TECHNOLOGY,GORAKHPUR",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
         "branch_rr_id": "B010123"
       },
       {
         "institute_code": "525",
         "institute_rr_id": "I01551",
         "institute_name": "BUDDHA INSTITUTE OF TECHNOLOGY,GORAKHPUR",
-        "branch": "Computer Science And Engineering(Data Science)",
+        "branch": "Computer Science and Engineering (Data Science)",
         "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "525",
-        "institute_rr_id": "I01551",
-        "institute_name": "BUDDHA INSTITUTE OF TECHNOLOGY,GORAKHPUR",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "525",
@@ -6905,7 +6906,7 @@
         "institute_code": "545",
         "institute_rr_id": "I01556",
         "institute_name": "JAHANGIRABAD EDUCATIONAL TRUST'S GROUP OF INSTITUTIONS, FACULTY OF ENGINEERING,BARABANKI",
-        "branch": "Artificial Intelligence And Machine Learning",
+        "branch": "Artificial Intelligence and Machine Learning",
         "branch_rr_id": "B010105"
       },
       {
@@ -6961,15 +6962,15 @@
         "institute_code": "579",
         "institute_rr_id": "I01568",
         "institute_name": "HLM COLLEGE,GHAZIABAD",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "579",
         "institute_rr_id": "I01568",
         "institute_name": "HLM COLLEGE,GHAZIABAD",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "579",
@@ -7031,22 +7032,22 @@
         "institute_code": "641",
         "institute_rr_id": "I01587",
         "institute_name": "ASHOKA INSTITUTE OF TECHNOLOGY & MANAGEMENT,VARANASI",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
+      },
+      {
+        "institute_code": "641",
+        "institute_rr_id": "I01587",
+        "institute_name": "ASHOKA INSTITUTE OF TECHNOLOGY & MANAGEMENT,VARANASI",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
         "branch_rr_id": "B010123"
       },
       {
         "institute_code": "641",
         "institute_rr_id": "I01587",
         "institute_name": "ASHOKA INSTITUTE OF TECHNOLOGY & MANAGEMENT,VARANASI",
-        "branch": "Computer Science And Engineering(Data Science)",
+        "branch": "Computer Science and Engineering (Data Science)",
         "branch_rr_id": "B010124"
-      },
-      {
-        "institute_code": "641",
-        "institute_rr_id": "I01587",
-        "institute_name": "ASHOKA INSTITUTE OF TECHNOLOGY & MANAGEMENT,VARANASI",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "641",
@@ -7115,7 +7116,7 @@
         "institute_code": "648",
         "institute_rr_id": "I01590",
         "institute_name": "BABU SUNDER SINGH INSTITUTE OF TECHNOLOGY & MANAGEMENT,LUCKNOW",
-        "branch": "Artificial Intelligence And Machine Learning",
+        "branch": "Artificial Intelligence and Machine Learning",
         "branch_rr_id": "B010105"
       },
       {
@@ -7178,15 +7179,15 @@
         "institute_code": "649",
         "institute_rr_id": "I01591",
         "institute_name": "MG INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "649",
         "institute_rr_id": "I01591",
         "institute_name": "MG INSTITUTE OF MANAGEMENT & TECHNOLOGY,LUCKNOW",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "649",
@@ -7206,7 +7207,7 @@
         "institute_code": "695",
         "institute_rr_id": "I01605",
         "institute_name": "SRI RAM GROUP OF COLLEGES,MUZAFFARNAGAR",
-        "branch": "Artificial Intelligence And Machine Learning",
+        "branch": "Artificial Intelligence and Machine Learning",
         "branch_rr_id": "B010105"
       },
       {
@@ -7220,15 +7221,15 @@
         "institute_code": "695",
         "institute_rr_id": "I01605",
         "institute_name": "SRI RAM GROUP OF COLLEGES,MUZAFFARNAGAR",
-        "branch": "Computer Science And Engineering(Data Science)",
-        "branch_rr_id": "B010124"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "695",
         "institute_rr_id": "I01605",
         "institute_name": "SRI RAM GROUP OF COLLEGES,MUZAFFARNAGAR",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Data Science)",
+        "branch_rr_id": "B010124"
       },
       {
         "institute_code": "695",
@@ -7297,27 +7298,27 @@
         "institute_code": "719",
         "institute_rr_id": "I01611",
         "institute_name": "AXIS INSTITUTE OF TECHNOLOGY & MANAGEMENT,KANPUR",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
+      },
+      {
+        "institute_code": "719",
+        "institute_rr_id": "I01611",
+        "institute_name": "AXIS INSTITUTE OF TECHNOLOGY & MANAGEMENT,KANPUR",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
         "branch_rr_id": "B010123"
       },
       {
         "institute_code": "719",
         "institute_rr_id": "I01611",
         "institute_name": "AXIS INSTITUTE OF TECHNOLOGY & MANAGEMENT,KANPUR",
-        "branch": "Computer Science And Engineering(Data Science)",
+        "branch": "Computer Science and Engineering (Data Science)",
         "branch_rr_id": "B010124"
       },
       {
         "institute_code": "719",
         "institute_rr_id": "I01611",
         "institute_name": "AXIS INSTITUTE OF TECHNOLOGY & MANAGEMENT,KANPUR",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
-      },
-      {
-        "institute_code": "719",
-        "institute_rr_id": "I01611",
-        "institute_name": "AXIS INSTITUTE OF TECHNOLOGY & MANAGEMENT,KANPUR",
         "branch": "Electrical Engineering",
         "branch_rr_id": "B010136"
       },
@@ -7437,15 +7438,15 @@
         "institute_code": "740",
         "institute_rr_id": "I01623",
         "institute_name": "PRAYAG INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALLAHABAD",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "740",
         "institute_rr_id": "I01623",
         "institute_name": "PRAYAG INSTITUTE OF TECHNOLOGY & MANAGEMENT,ALLAHABAD",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "740",
@@ -7479,15 +7480,15 @@
         "institute_code": "751",
         "institute_rr_id": "I01628",
         "institute_name": "KIPM COLLEGE OF ENGG. & TECHNOLOGY,GORAKHPUR",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "751",
         "institute_rr_id": "I01628",
         "institute_name": "KIPM COLLEGE OF ENGG. & TECHNOLOGY,GORAKHPUR",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "751",
@@ -7514,15 +7515,15 @@
         "institute_code": "760",
         "institute_rr_id": "I01631",
         "institute_name": "LOTUS INSTITUTE OF MANAGEMENT,BAREILLY",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "760",
         "institute_rr_id": "I01631",
         "institute_name": "LOTUS INSTITUTE OF MANAGEMENT,BAREILLY",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "780",
@@ -7661,15 +7662,15 @@
         "institute_code": "802",
         "institute_rr_id": "I01644",
         "institute_name": "NITRA TECHNICAL CAMPUS,GHAZIABAD",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "802",
         "institute_rr_id": "I01644",
         "institute_name": "NITRA TECHNICAL CAMPUS,GHAZIABAD",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "802",
@@ -7689,22 +7690,8 @@
         "institute_code": "810",
         "institute_rr_id": "I01646",
         "institute_name": "GREATER NOIDA COLLEGE",
-        "branch": "Computer Science And Design",
+        "branch": "Computer Science and Design",
         "branch_rr_id": "B010121"
-      },
-      {
-        "institute_code": "810",
-        "institute_rr_id": "I01646",
-        "institute_name": "GREATER NOIDA COLLEGE",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
-      },
-      {
-        "institute_code": "810",
-        "institute_rr_id": "I01646",
-        "institute_name": "GREATER NOIDA COLLEGE",
-        "branch": "Computer Science And Engineering(Data Science)",
-        "branch_rr_id": "B010124"
       },
       {
         "institute_code": "810",
@@ -7717,8 +7704,22 @@
         "institute_code": "810",
         "institute_rr_id": "I01646",
         "institute_name": "GREATER NOIDA COLLEGE",
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
+      },
+      {
+        "institute_code": "810",
+        "institute_rr_id": "I01646",
+        "institute_name": "GREATER NOIDA COLLEGE",
         "branch": "Computer Science and Engineering (Artificial Intelligence)",
         "branch_rr_id": "B010128"
+      },
+      {
+        "institute_code": "810",
+        "institute_rr_id": "I01646",
+        "institute_name": "GREATER NOIDA COLLEGE",
+        "branch": "Computer Science and Engineering (Data Science)",
+        "branch_rr_id": "B010124"
       },
       {
         "institute_code": "815",
@@ -7850,7 +7851,7 @@
         "institute_code": "849",
         "institute_rr_id": "I01663",
         "institute_name": "ISABELLA THOBURN COLLEGE (PROFESSIONAL STUDIES),LUCKNOW",
-        "branch": "Artificial Inelligence (AI) And Data Science",
+        "branch": "Artificial Intelligence (AI) and Data Science",
         "branch_rr_id": "B010103"
       },
       {
@@ -7878,15 +7879,15 @@
         "institute_code": "858",
         "institute_rr_id": "I01670",
         "institute_name": "CENTRE FOR ADVANCED STUDIES,LUCKNOW",
-        "branch": "Computer Science And Engineering(Artificial Intelligence & Machine Learning)",
-        "branch_rr_id": "B010123"
+        "branch": "Computer Science and Engineering",
+        "branch_rr_id": "B010127"
       },
       {
         "institute_code": "858",
         "institute_rr_id": "I01670",
         "institute_name": "CENTRE FOR ADVANCED STUDIES,LUCKNOW",
-        "branch": "Computer Science and Engineering",
-        "branch_rr_id": "B010127"
+        "branch": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+        "branch_rr_id": "B010123"
       },
       {
         "institute_code": "858",
@@ -7905,8 +7906,8 @@
     ]
   },
   "meta": {
-    "api_version": "1.1.0",
-    "generated_at": "2026-11-13T14:32:36+05:30",
+    "api_version": "1.2.0",
+    "generated_at": "2026-11-19T21:37:06+05:30",
     "count": 1128
   }
 }
